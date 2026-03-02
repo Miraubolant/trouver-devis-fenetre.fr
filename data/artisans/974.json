@@ -1,0 +1,835 @@
+{
+  "entre-deux": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cilaos": {
+    "artisans": [
+      {
+        "id": "703334762804912044",
+        "nom": "Fenêtre des Makes",
+        "slug": "fenetre-des-makes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D 20, Saint-Louis 97450, La Réunion",
+        "note": 4.8,
+        "avis": 1400,
+        "type": "Point de vue"
+      }
+    ]
+  },
+  "l-etang-sale": {
+    "artisans": [
+      {
+        "id": "14399853871587341945",
+        "nom": "S M F",
+        "slug": "s-m-f",
+        "telephone": "+262 262 26 30 32",
+        "site_web": "http://www.smf.re/",
+        "adresse": "L'ETANG SALE, 115 All. de Montaignac, L'Étang-Salé 97427, La Réunion",
+        "note": 4,
+        "avis": 4,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11431280228032395300",
+        "nom": "Confortoit",
+        "slug": "confortoit",
+        "telephone": "+262 692 94 20 95",
+        "site_web": "https://confortoit.re/",
+        "adresse": "21C Rue de la Quietude, Saint-Pierre 97410, La Réunion",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6969989952737752258",
+        "nom": "ALUMIN HOME",
+        "slug": "alumin-home",
+        "telephone": "+262 692 59 10 91",
+        "site_web": "http://www.aluminhome.re/",
+        "adresse": "dom tom, Atelier N3, Saint-Louis 97450, La Réunion",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur d'aluminium"
+      },
+      {
+        "id": "1092507673689780084",
+        "nom": "SIGNATURE ALU",
+        "slug": "signature-alu",
+        "telephone": "+262 262 42 39 24",
+        "site_web": "https://www.signature-alu.com/",
+        "adresse": "115 All. de Montaignac, L'Étang-Salé 97427, La Réunion",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7452314130552260088",
+        "nom": "LE FIL DU BOIS",
+        "slug": "le-fil-du-bois",
+        "telephone": "02 62 25 11 82",
+        "site_web": null,
+        "adresse": "6 Imp. Henri Madore, L'Étang-Salé 97427, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3663183111595018561",
+        "nom": "APDR - Fabricant volet roulant",
+        "slug": "apdr-fabricant-volet-roulant",
+        "telephone": "+262 262 57 73 31",
+        "site_web": "https://apdr.fr/",
+        "adresse": "10e Rue Guy Theodule Grondin, L'ETANG SALE 97427, La Réunion",
+        "note": 4.4,
+        "avis": 20,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "petite-ile": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-joseph": {
+    "artisans": [
+      {
+        "id": "17007988229393554964",
+        "nom": "TOITURE CGR",
+        "slug": "toiture-cgr",
+        "telephone": "+262 692 70 33 64",
+        "site_web": "https://www.toiture-cgr.re/",
+        "adresse": "10 bis Chem. Du Club, Saint-Joseph 97480, La Réunion",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8960315432341871514",
+        "nom": "Menuiserie Vitry",
+        "slug": "menuiserie-vitry",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Chem. Edmond Hoareau, Saint-Joseph 97480, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-avirons": {
+    "artisans": [
+      {
+        "id": "11431280228032395300",
+        "nom": "Confortoit",
+        "slug": "confortoit",
+        "telephone": "+262 692 94 20 95",
+        "site_web": "https://confortoit.re/",
+        "adresse": "21C Rue de la Quietude, Saint-Pierre 97410, La Réunion",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8710958462988750989",
+        "nom": "Soretole",
+        "slug": "soretole",
+        "telephone": "+262 262 35 70 00",
+        "site_web": "http://www.soretole.re/49-Contacts.html",
+        "adresse": "Rue Benoite Boulard, Saint Pierre 97410, La Réunion",
+        "note": 3.3,
+        "avis": 54,
+        "type": null
+      },
+      {
+        "id": "3155889225546712239",
+        "nom": "Les Compagnons 974",
+        "slug": "les-compagnons-974",
+        "telephone": "+262 693 42 35 22",
+        "site_web": "https://lescompagnons974.re/",
+        "adresse": "45 Rue Alexis de Villeneuve, Saint-Denis 97400, La Réunion",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13713855437484811442",
+        "nom": "BFM FERMETURES",
+        "slug": "bfm-fermetures",
+        "telephone": "+262 692 45 52 20",
+        "site_web": "https://www.bfm-fermetures.com/",
+        "adresse": "32 Chem. des Brumes, Saint-Denis 97400, La Réunion",
+        "note": 5,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8210454690035949474",
+        "nom": "STORE AUSTRAL REUNION",
+        "slug": "store-austral-reunion",
+        "telephone": "+262 692 47 74 02",
+        "site_web": "http://www.storeaustral.com/",
+        "adresse": "116 B Chem. Lory Lebreton, Saint-Denis 97490, La Réunion",
+        "note": 5,
+        "avis": 21,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "10528610665314121842",
+        "nom": "Rénovation Toiture Réunion",
+        "slug": "renovation-toiture-reunion",
+        "telephone": "+262 692 11 61 98",
+        "site_web": "https://www.renovationtoiturereunion.re/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-plaine-des-palmistes": {
+    "artisans": [
+      {
+        "id": "3135563261090500784",
+        "nom": "ILOBOIS",
+        "slug": "ilobois",
+        "telephone": "+262 692 66 00 41",
+        "site_web": "https://ilobois.jimdofree.com/",
+        "adresse": "15 Rue St Ange Velia, La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bras-panon": {
+    "artisans": [
+      {
+        "id": "13352414425937688597",
+        "nom": "center alu +",
+        "slug": "center-alu",
+        "telephone": "+262 262 56 87 11",
+        "site_web": "http://www.centeraluplus.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "3 Rue des Lilas, Bras-Panon 97412, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "saint-leu": {
+    "artisans": [
+      {
+        "id": "3508125380520768256",
+        "nom": "Sinerpur",
+        "slug": "sinerpur",
+        "telephone": "01 39 95 45 37",
+        "site_web": "http://www.sinerpur.fr/",
+        "adresse": "55 Rue de Paris, 95320 Saint-Leu-la-Forêt",
+        "note": 5,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "le-port": {
+    "artisans": [
+      {
+        "id": "5419735286649483709",
+        "nom": "BMSA Industrie",
+        "slug": "bmsa-industrie",
+        "telephone": "+262 262 28 84 78",
+        "site_web": "http://www.bmsa.fr/?utm_source=gmb",
+        "adresse": "4 rue Paul Verlaine, Industrie, PORT, LE 97420, La Réunion",
+        "note": 2.1,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13190775874464697891",
+        "nom": "Reunion Menuiserie PVC Aluminium",
+        "slug": "reunion-menuiserie-pvc-aluminium",
+        "telephone": "+262 692 46 48 85",
+        "site_web": null,
+        "adresse": "Z.A, 6 bis Rue Raymond Venerosy, Le Port 97420, La Réunion",
+        "note": 4,
+        "avis": 1,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7216422600297891422",
+        "nom": "ATELIER DU STORE",
+        "slug": "atelier-du-store",
+        "telephone": "+262 262 45 25 26",
+        "site_web": "https://atelierdustore.com/",
+        "adresse": "2 Avenue Piton Bâtard, Zone de Cambaie, Saint-Paul 97460, La Réunion",
+        "note": 4.2,
+        "avis": 30,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-andre": {
+    "artisans": [
+      {
+        "id": "2567320225008877321",
+        "nom": "Alu Engineering",
+        "slug": "alu-engineering",
+        "telephone": "+262 693 40 25 60",
+        "site_web": "http://alu-engineering.re/",
+        "adresse": "Ravine Creuse - Chemin Badamier, 67 Rle Servant, Saint-André 97440, La Réunion",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9081572084189709207",
+        "nom": "Menuiserie Aluminium BMSA-",
+        "slug": "menuiserie-aluminium-bmsa",
+        "telephone": "+262 262 28 84 78",
+        "site_web": "https://www.bmsa.fr/",
+        "adresse": "95 Rue de la Gare, Saint-André 97440, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-louis": {
+    "artisans": [
+      {
+        "id": "7732911016227360450",
+        "nom": "Alumax Menuiserie Aluminium - 974",
+        "slug": "alumax-menuiserie-aluminium-974",
+        "telephone": "+262 262 26 01 14",
+        "site_web": "https://alumax-reunion.com/",
+        "adresse": "19 b Rue du Preau, Saint-Louis 97421, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "703334762804912044",
+        "nom": "Fenêtre des Makes",
+        "slug": "fenetre-des-makes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D 20, Saint-Louis 97450, La Réunion",
+        "note": 4.8,
+        "avis": 1400,
+        "type": "Point de vue"
+      },
+      {
+        "id": "3018576014496785140",
+        "nom": "B Alu Menuiseries",
+        "slug": "b-alu-menuiseries",
+        "telephone": "+262 693 31 25 48",
+        "site_web": "http://www.b-alu.re/",
+        "adresse": "76 A Rue Auguste Larre, Saint-Louis 97450, La Réunion",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-possession": {
+    "artisans": [
+      {
+        "id": "4757701191754437999",
+        "nom": "ATMA BOIS",
+        "slug": "atma-bois",
+        "telephone": "+262 692 08 50 10",
+        "site_web": "http://atmabois.fr/",
+        "adresse": "25 Rue Gervais Barret, La Possession 97419, La Réunion",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-benoit": {
+    "artisans": [
+      {
+        "id": "7530320143390708956",
+        "nom": "SARL Toiture K",
+        "slug": "sarl-toiture-k",
+        "telephone": "+262 692 42 50 31",
+        "site_web": "https://www.toiturek.com/",
+        "adresse": "66 Chem. de la Confiance, Saint-Benoît 97470, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction de charpente métallique"
+      },
+      {
+        "id": "1166101539517238501",
+        "nom": "MENUISERIE MDT Saint benoît",
+        "slug": "menuiserie-mdt-saint-benoit",
+        "telephone": "+262 692 33 94 93",
+        "site_web": null,
+        "adresse": "112 Rue des Cryptomerias, Saint-Benoît 97470, La Réunion",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17395754055949430744",
+        "nom": "Batiprod Travaux Généraux La Reunion",
+        "slug": "batiprod-travaux-generaux-la-reunion",
+        "telephone": "+262 262 21 62 89",
+        "site_web": null,
+        "adresse": "Atelier 05, 86 Rue des Cryptomerias, Saint-Benoît 97470, La Réunion",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-denis": {
+    "artisans": [
+      {
+        "id": "17942260338806629709",
+        "nom": "Métal Rideaux Fermetures SAS",
+        "slug": "metal-rideaux-fermetures-sas",
+        "telephone": "+262 692 66 04 09",
+        "site_web": "https://www.facebook.com/MetalRideauxFermetureReunion/",
+        "adresse": "1 Rue Sainte-Marguerite, Saint-Denis 97490, La Réunion",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Fabricant et fournisseur de rideaux"
+      },
+      {
+        "id": "733469308585628460",
+        "nom": "Toiture Reunion - Couvreur - étanchéité et rénovation toiture",
+        "slug": "toiture-reunion-couvreur-etancheite-et-renovation-toiture",
+        "telephone": "+262 693 45 82 87",
+        "site_web": "https://www.toiture-974.re/",
+        "adresse": "1 Route du Moufia, Le Chaudron, La Réunion",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16474327715052182907",
+        "nom": "Toitures Services Réunion",
+        "slug": "toitures-services-reunion",
+        "telephone": "+262 262 20 13 35",
+        "site_web": "https://www.tsr.re/",
+        "adresse": "Ilot 6 Atelier 35, PAE de la Mare, Sainte-Marie 97438, La Réunion",
+        "note": 4.6,
+        "avis": 150,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10447212246409084864",
+        "nom": "Avenir Rénovations La Réunion",
+        "slug": "avenir-renovations-la-reunion",
+        "telephone": "02 21 83 11 73",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-974-saint-denis/",
+        "adresse": "12 Chemin Des écoliers, Saint-Denis 97411, La Réunion",
+        "note": 5,
+        "avis": 36,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "11701102558263429829",
+        "nom": "Menuiserie Aluminium - Alexandre Couraud",
+        "slug": "menuiserie-aluminium-alexandre-couraud",
+        "telephone": "+262 692 37 53 57",
+        "site_web": "https://couraudalexandre.wixsite.com/website",
+        "adresse": "21 Allèe des Hèliotropes, Saint-Denis 97417, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10447212246409084864",
+        "nom": "Avenir Rénovations La Réunion",
+        "slug": "avenir-renovations-la-reunion",
+        "telephone": "02 21 83 11 73",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-974-saint-denis/",
+        "adresse": "12 Chemin Des écoliers, Saint-Denis 97411, La Réunion",
+        "note": 5,
+        "avis": 36,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "sainte-marie": {
+    "artisans": [
+      {
+        "id": "14068220941120510347",
+        "nom": "B&M Structure",
+        "slug": "bm-structure",
+        "telephone": "+262 262 56 44 27",
+        "site_web": "http://www.bms.re/",
+        "adresse": "PAE de la Mare, Ilot 6 Atelier 35, Sainte-Marie 97438, La Réunion",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6549352047280064568",
+        "nom": "MONDIALU | Menuiserie Aluminium Réunion",
+        "slug": "mondialu-menuiserie-aluminium-reunion",
+        "telephone": "+262 262 37 55 84",
+        "site_web": "http://mondialu.re/",
+        "adresse": "Ilot n°1 - Atelier 4 P.A.E de la Mare, Sainte-Marie 97438, La Réunion",
+        "note": 4.7,
+        "avis": 101,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14892424913553064624",
+        "nom": "ALU Service S.A.R.L",
+        "slug": "alu-service-sarl",
+        "telephone": "+262 262 53 12 28",
+        "site_web": null,
+        "adresse": "Îlot 7 n•43 PAE, Sainte_Marie 97438, La Réunion",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Siège social"
+      },
+      {
+        "id": "8200650631517992048",
+        "nom": "Millet Océan Indien",
+        "slug": "millet-ocean-indien",
+        "telephone": "+262 262 92 55 00",
+        "site_web": "https://millet-oi.com/",
+        "adresse": "200 Rue Louis Lagourgue, Sainte-Marie 97438, La Réunion",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Siège social"
+      },
+      {
+        "id": "2472367895810670305",
+        "nom": "PIERRE ET BOIS",
+        "slug": "pierre-et-bois",
+        "telephone": "+262 262 72 07 00",
+        "site_web": null,
+        "adresse": "ATELIER 22 - ILOT 3 -PAE, Sainte-Marie 97438, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-pierre": {
+    "artisans": [
+      {
+        "id": "13005718170856017700",
+        "nom": "Bourbon Alu Services",
+        "slug": "bourbon-alu-services",
+        "telephone": "+262 693 13 07 61",
+        "site_web": "https://urlr.me/RpaPxU",
+        "adresse": "274 A Voie Cannière, Saint-Pierre 97410, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16495300352641125483",
+        "nom": "Espace Aluminium",
+        "slug": "espace-aluminium",
+        "telephone": "+262 262 25 48 18",
+        "site_web": "http://www.espace-aluminium.com/",
+        "adresse": "2 All. du Pavillon, Saint-Pierre 97410, La Réunion",
+        "note": 3.3,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17669671007180169284",
+        "nom": "SOFAAL INDUSTRIE - Fabrication et pose de menuiserie en aluminium à la Réunion - Standard et sur mesure",
+        "slug": "sofaal-industrie-fabrication-et-pose-de-menuiserie-en-aluminium-a-la-reunion-standard-et-sur-mesure",
+        "telephone": "+262 262 55 26 16",
+        "site_web": "https://sofaal-industrie.re/",
+        "adresse": "16 rue Montaigne ZA, Le Tampon 97430, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'aluminium"
+      },
+      {
+        "id": "8437769435064055794",
+        "nom": "Hop Alu - Menuiserie Aluminium",
+        "slug": "hop-alu-menuiserie-aluminium",
+        "telephone": "+262 692 42 78 24",
+        "site_web": "https://hopalu.re/",
+        "adresse": "ZA, 16 Rue des liannes d'or, Le Tampon 97430, La Réunion",
+        "note": 4.9,
+        "avis": 84,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10021048895987039816",
+        "nom": "LYV'ALU (pose de menuiseries aluminium Réunion 974)",
+        "slug": "lyvalu-pose-de-menuiseries-aluminium-reunion-974",
+        "telephone": "+262 692 87 24 33",
+        "site_web": null,
+        "adresse": "21 Chem. Leroy, Le Tampon 97430, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8079216665628686474",
+        "nom": "ESPACE ALUMINIUM STANDARD",
+        "slug": "espace-aluminium-standard",
+        "telephone": "+262 262 35 45 45",
+        "site_web": null,
+        "adresse": "149 Chemin Badamier, Saint Pierre 97410, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-paul": {
+    "artisans": [
+      {
+        "id": "11519359536950816328",
+        "nom": "Aludéco",
+        "slug": "aludeco",
+        "telephone": "+262 262 22 53 15",
+        "site_web": "http://www.aludeco.fr/",
+        "adresse": "ZI de Cambaie, 28 Av. Grand Piton, Saint-Paul 97460, La Réunion",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      },
+      {
+        "id": "13925289456604957328",
+        "nom": "M.A.R.O.I Meyer Aluminium Réunis O.I",
+        "slug": "maroi-meyer-aluminium-reunis-oi",
+        "telephone": "+262 262 45 11 45",
+        "site_web": "http://www.maroi-aluminium.fr/?utm_source=gmb",
+        "adresse": "76 Rte de Cambaie, Saint-Paul 97460, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16602401836539983914",
+        "nom": "SAV Réunion",
+        "slug": "sav-reunion",
+        "telephone": "+262 262 43 29 31",
+        "site_web": null,
+        "adresse": "21 Rue Bass. Massoute, Saint-Paul 97435, La Réunion",
+        "note": 4.1,
+        "avis": 12,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "sainte-suzanne": {
+    "artisans": [
+      {
+        "id": "13389901083082968382",
+        "nom": "ALU - DAL",
+        "slug": "alu-dal",
+        "telephone": "+262 692 53 31 87",
+        "site_web": "https://www.menuiseriealuminiumreunion-974.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "80 T CHE, Chem. du Bras Pistolet, Sainte-Suzanne 97441, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11271140558253852177",
+        "nom": "ALU EST",
+        "slug": "alu-est",
+        "telephone": "+262 262 46 24 48",
+        "site_web": "https://www.aluest.re/",
+        "adresse": "4 Rue du Commerce, Sainte-Suzanne 97441, La Réunion",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Fournisseur de cadres en aluminium"
+      },
+      {
+        "id": "4660399125450808898",
+        "nom": "JS Électricité",
+        "slug": "js-electricite",
+        "telephone": "+262 692 96 07 04",
+        "site_web": "https://www.facebook.com/profile.php?id=61556160980505&utm_source=gmb",
+        "adresse": "105 Chem. Commune Ango, Sainte-Suzanne 97441, La Réunion",
+        "note": 5,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "11022082354812522972",
+        "nom": "Macoest",
+        "slug": "macoest",
+        "telephone": "+262 262 58 23 45",
+        "site_web": null,
+        "adresse": "Sainte-Suzanne 97441, La Réunion",
+        "note": 4.5,
+        "avis": 29,
+        "type": "Quincaillerie"
+      }
+    ]
+  },
+  "saint-philippe": {
+    "artisans": [
+      {
+        "id": "11431280228032395300",
+        "nom": "Confortoit",
+        "slug": "confortoit",
+        "telephone": "+262 692 94 20 95",
+        "site_web": "https://confortoit.re/",
+        "adresse": "21C Rue de la Quietude, Saint-Pierre 97410, La Réunion",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-tampon": {
+    "artisans": [
+      {
+        "id": "16890122644553845938",
+        "nom": "Flash Alu | Fabrication sur mesure de Menuiserie Aluminium",
+        "slug": "flash-alu-fabrication-sur-mesure-de-menuiserie-aluminium",
+        "telephone": "+262 262 49 49 90",
+        "site_web": "https://flashalu.com/",
+        "adresse": "10 rue montaigne, ZA, Le Tampon 97430, La Réunion",
+        "note": 4.6,
+        "avis": 26,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3889582959535080635",
+        "nom": "Novo Concept Industrie EURL",
+        "slug": "novo-concept-industrie-eurl",
+        "telephone": "+262 262 57 83 86",
+        "site_web": "http://www.menuiserie-reunion.fr/",
+        "adresse": "144 Rue Georges Pompidou, Le Tampon 97430, La Réunion",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6637266556492543196",
+        "nom": "FIX ALU Fabrication et Pose De Menuiserie Aluminium à la Reunion 974",
+        "slug": "fix-alu-fabrication-et-pose-de-menuiserie-aluminium-a-la-reunion-974",
+        "telephone": "+262 262 86 19 20",
+        "site_web": null,
+        "adresse": "48 Rue Montaigne, Le Tampon 97430, La Réunion",
+        "note": 2.6,
+        "avis": 11,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10848004169067534906",
+        "nom": "La Kaz'Alu",
+        "slug": "la-kazalu",
+        "telephone": "+262 262 85 10 01",
+        "site_web": "https://la-kaz-alu.com/",
+        "adresse": "48 Rue Montaigne, ZA, 48 Rue Montagne ZA, Le Tampon 97430, La Réunion",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6477853224583290222",
+        "nom": "DESIGN'ALU",
+        "slug": "designalu",
+        "telephone": "+262 693 92 24 99",
+        "site_web": "https://www.designalu.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "9 Rue des Poinsetias, Le Tampon 97430, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "18126515270254290548",
+        "nom": "SOFAAL - Fabrication de Menuiserie Aluminium à la Réunion - Pose des portes-fenêtres-volets battants-jalousies",
+        "slug": "sofaal-fabrication-de-menuiserie-aluminium-a-la-reunion-pose-des-portes-fenetres-volets-battants-jalousies",
+        "telephone": "+262 262 55 26 16",
+        "site_web": "http://www.sofaal.fr/",
+        "adresse": "Zone d Activité du Trois Mares, 42 Rue Montaigne, Le Tampon 97430, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "salazie": {
+    "artisans": [
+      {
+        "id": "5972599414987977791",
+        "nom": "La Fenêtre",
+        "slug": "la-fenetre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Salazie 97433, La Réunion",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Col de montagne"
+      },
+      {
+        "id": "12973081685691467580",
+        "nom": "Belvédère de la Fenêtre",
+        "slug": "belvedere-de-la-fenetre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chem. de la Fenetre, La Possession 97419, La Réunion",
+        "note": 4.7,
+        "avis": 13,
+        "type": null
+      }
+    ]
+  },
+  "sainte-rose": {
+    "artisans": [
+      {
+        "id": "11431280228032395300",
+        "nom": "Confortoit",
+        "slug": "confortoit",
+        "telephone": "+262 692 94 20 95",
+        "site_web": "https://confortoit.re/",
+        "adresse": "21C Rue de la Quietude, Saint-Pierre 97410, La Réunion",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "les-trois-bassins": {
+    "artisans": [
+      {
+        "id": "9793145706356219692",
+        "nom": "Opticien Les Trois Bassins - Atol Mon Opticien",
+        "slug": "opticien-les-trois-bassins-atol-mon-opticien",
+        "telephone": "+262 262 70 45 52",
+        "site_web": "https://magasins.atol.fr/la-reunion/cible-les-trois-bassins-923?utm_medium=gbp&utm_source=partoo",
+        "adresse": "178 RN 1a, Les Trois-Bassins 97426, La Réunion",
+        "note": 5,
+        "avis": 18,
+        "type": "Opticien"
+      }
+    ]
+  }
+}

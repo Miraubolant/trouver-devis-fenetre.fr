@@ -1,0 +1,430 @@
+{
+  "macouria": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "mana": {
+    "artisans": [
+      {
+        "id": "4249568956382639689",
+        "nom": "Mana",
+        "slug": "mana",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "97360, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "8245579666119940423",
+        "nom": "Mana",
+        "slug": "mana",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Mana 97360, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "papaichton": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "iracoubo": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "regina": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "remire-montjoly": {
+    "artisans": [
+      {
+        "id": "6798998231360354151",
+        "nom": "ACM",
+        "slug": "acm",
+        "telephone": "+594 594 37 61 91",
+        "site_web": "https://agencementconstructionmenuiserie.fr/",
+        "adresse": "lot 5 - PK, 16 Route de Dégrad des Cannes, Remire-Montjoly 97354, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cayenne": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "kourou": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "matoury": {
+    "artisans": [
+      {
+        "id": "4319662727229709994",
+        "nom": "pose dépannage alu Guyane",
+        "slug": "pose-depannage-alu-guyane",
+        "telephone": "+594 694 21 44 62",
+        "site_web": null,
+        "adresse": "1405 rue de champs de canne, Matoury 97351, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Bâtiment patrimonial"
+      },
+      {
+        "id": "1397238121334631717",
+        "nom": "MG ALUMINIUM GUYANE",
+        "slug": "mg-aluminium-guyane",
+        "telephone": "+594 594 37 79 58",
+        "site_web": "https://mg-aluminium.com/",
+        "adresse": "24 rue de MORPHOS Zone Industrielle Collery 4 est CAYENNE, 97300, Guyane française",
+        "note": 3.4,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1156307115798528802",
+        "nom": "Alustock Guyane",
+        "slug": "alustock-guyane",
+        "telephone": "05 94 25 18 98",
+        "site_web": null,
+        "adresse": "26 Rue Yayamadou Parc Activité Cogneau Larivot, Matoury, 97351",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de métallurgie"
+      },
+      {
+        "id": "4539107341945582667",
+        "nom": "Glass Alu",
+        "slug": "glass-alu",
+        "telephone": "+594 594 35 20 02",
+        "site_web": "http://www.glass-alu-matoury.fr/?utm_source=gmb",
+        "adresse": "20 Rue Chawari Cogneau Larivot Matoury, 97351, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11661316254291204068",
+        "nom": "Batica Menuiseries",
+        "slug": "batica-menuiseries",
+        "telephone": "+594 594 25 66 20",
+        "site_web": null,
+        "adresse": "Matoury 97351, Guyane française",
+        "note": 4.5,
+        "avis": 28,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "roura": {
+    "artisans": [
+      {
+        "id": "340431275999821025",
+        "nom": "ALUVER Guyane",
+        "slug": "aluver-guyane",
+        "telephone": "+594 594 31 20 50",
+        "site_web": "http://www.aluver-guyane.fr/",
+        "adresse": "8 Rue des Morphos Z.I. Collery 3 Cayenne, 97329, Guyane française",
+        "note": 3.5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16211014716381180989",
+        "nom": "Protec Toit",
+        "slug": "protec-toit",
+        "telephone": "+594 694 22 29 10",
+        "site_web": "https://protectoitguyane.com/",
+        "adresse": "1er étage, Protec Toit, FAIC, Route de Montabo, 1 Avenue Gustave Charlery Immeuble, Cayenne 97300, Guyane française",
+        "note": 4.4,
+        "avis": 42,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14974894823422524332",
+        "nom": "Guyane Alu Roll",
+        "slug": "guyane-alu-roll",
+        "telephone": "+594 594 31 76 20",
+        "site_web": "http://www.guyanealuroll.fr/",
+        "adresse": "6 impasse Watampana Les Portes de Soula, Macouria 97355, Guyane française",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3050815445743490479",
+        "nom": "Sapro Guyane",
+        "slug": "sapro-guyane",
+        "telephone": "+594 594 35 22 26",
+        "site_web": "http://www.sapro.fr/sapro-guyane/",
+        "adresse": "8 Rue Raoul Tanon de Pelissier, Collery, Cayenne 97300, Guyane française",
+        "note": 4.1,
+        "avis": 35,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-laurent-du-maroni": {
+    "artisans": [
+      {
+        "id": "3115657679433145684",
+        "nom": "ENTREPRISE BJ",
+        "slug": "entreprise-bj",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17 Rue Albert Camus Saint-Laurent-Du-Maroni, 97320, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8802249197914104223",
+        "nom": "Aluminium Menuiserie Guyane",
+        "slug": "aluminium-menuiserie-guyane",
+        "telephone": "+594 694 21 31 90",
+        "site_web": "https://www.aluminium-guyane.fr/",
+        "adresse": "1 Rue Thiers, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3431679050190001228",
+        "nom": "VILLERONCE TRAVAUX PUBLICS",
+        "slug": "villeronce-travaux-publics",
+        "telephone": "+594 594 34 15 20",
+        "site_web": "https://villeronce.business.site/",
+        "adresse": "14, route des Chutes Voltaire Saint-Laurent du Maroni, 97320, Guyane française",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "8710835604419180088",
+        "nom": "BATIX SAS",
+        "slug": "batix-sas",
+        "telephone": "+594 694 00 64 99",
+        "site_web": "http://www.facebook.com/BATIX-103550224391922/",
+        "adresse": "11 Bd du Maroni, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de génie civil"
+      },
+      {
+        "id": "7544047079801619432",
+        "nom": "Fidérim Saint-Laurent",
+        "slug": "fiderim-saint-laurent",
+        "telephone": "+594 594 34 09 98",
+        "site_web": "https://www.fiderim.fr/",
+        "adresse": "14 Rue Victor Hugo Saint-Laurent-du-Maroni, 97320, Guyane française",
+        "note": 4.8,
+        "avis": 128,
+        "type": "Agence d'intérim"
+      },
+      {
+        "id": "17817013287476660452",
+        "nom": "MITHIEUX Guyane",
+        "slug": "mithieux-guyane",
+        "telephone": "+594 594 23 47 15",
+        "site_web": null,
+        "adresse": "28, 97320 Rue Leon Gontrand Damas, Saint-Laurent-du-Maroni, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "340431275999821025",
+        "nom": "ALUVER Guyane",
+        "slug": "aluver-guyane",
+        "telephone": "+594 594 31 20 50",
+        "site_web": "http://www.aluver-guyane.fr/",
+        "adresse": "8 Rue des Morphos Z.I. Collery 3 Cayenne, 97329, Guyane française",
+        "note": 3.5,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "grand-santi": {
+    "artisans": [
+      {
+        "id": "7819964799575318396",
+        "nom": "Gendarmerie Nationale",
+        "slug": "gendarmerie-nationale",
+        "telephone": "+594 594 37 42 02",
+        "site_web": "https://www.gendarmerie.interieur.gouv.fr/",
+        "adresse": "595 promenade Lawa Liba, Grand-Santi 97340, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Police d'État"
+      }
+    ]
+  },
+  "sinnamary": {
+    "artisans": [
+      {
+        "id": "11143706551053337028",
+        "nom": "Capitaloc",
+        "slug": "capitaloc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sinnamary, 97315, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Quincaillerie"
+      }
+    ]
+  },
+  "apatou": {
+    "artisans": [
+      {
+        "id": "11740457864255724570",
+        "nom": "Mairie d'Apatou 97317",
+        "slug": "mairie-dapatou-97317",
+        "telephone": "+594 694 99 67 18",
+        "site_web": null,
+        "adresse": "71 Apatou, 97317, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Mairie de village"
+      }
+    ]
+  },
+  "maripasoula": {
+    "artisans": [
+      {
+        "id": "14974894823422524332",
+        "nom": "Guyane Alu Roll",
+        "slug": "guyane-alu-roll",
+        "telephone": "+594 594 31 76 20",
+        "site_web": "http://www.guyanealuroll.fr/",
+        "adresse": "6 impasse Watampana Les Portes de Soula, Macouria 97355, Guyane française",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "montsinery-tonnegrande": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "awala-yalimapo": {
+    "artisans": [
+      {
+        "id": "14974894823422524332",
+        "nom": "Guyane Alu Roll",
+        "slug": "guyane-alu-roll",
+        "telephone": "+594 594 31 76 20",
+        "site_web": "http://www.guyanealuroll.fr/",
+        "adresse": "6 impasse Watampana Les Portes de Soula, Macouria 97355, Guyane française",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "camopi": {
+    "artisans": [
+      {
+        "id": "16211014716381180989",
+        "nom": "Protec Toit",
+        "slug": "protec-toit",
+        "telephone": "+594 694 22 29 10",
+        "site_web": "https://protectoitguyane.com/",
+        "adresse": "1er étage, Protec Toit, FAIC, Route de Montabo, 1 Avenue Gustave Charlery Immeuble, Cayenne 97300, Guyane française",
+        "note": 4.4,
+        "avis": 42,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

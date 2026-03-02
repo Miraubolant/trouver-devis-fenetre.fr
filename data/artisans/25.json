@@ -1,0 +1,3024 @@
+{
+  "chatillon-le-duc": {
+    "artisans": [
+      {
+        "id": "6965265113317986309",
+        "nom": "Serplaste Besançon",
+        "slug": "serplaste-besancon",
+        "telephone": "03 81 52 37 27",
+        "site_web": "https://serplaste.fr/agence-besancon/",
+        "adresse": "Chem. Des Maurapan, 25870 Châtillon-le-Duc",
+        "note": 4.4,
+        "avis": 47,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "boussieres": {
+    "artisans": [
+      {
+        "id": "12877537968084282580",
+        "nom": "Fermetures Isolation 25 SARL",
+        "slug": "fermetures-isolation-25-sarl",
+        "telephone": "07 81 23 19 84",
+        "site_web": "http://fermetures-isolation25.com/",
+        "adresse": "44 Rue de Besançon, 25720 Beure",
+        "note": 4.9,
+        "avis": 128,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12275608919821411269",
+        "nom": "VELUX Technology Centre",
+        "slug": "velux-technology-centre",
+        "telephone": "03 84 31 95 50",
+        "site_web": "https://www.velux.com/",
+        "adresse": "8 Rue Claude Girard, 25770 Chemaudin et Vaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2095833375834734926",
+        "nom": "Profen – Fenêtres, Portes et Volets – Granges-Narboz",
+        "slug": "profen-fenetres-portes-et-volets-granges-narboz",
+        "telephone": "03 81 69 20 04",
+        "site_web": "http://www.profen.fr/",
+        "adresse": "5 Rue Bernard Palissy, 25300 Granges-Narboz",
+        "note": 4.4,
+        "avis": 67,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "13895246798810507354",
+        "nom": "BADET Fenêtre de Toit Sàrl",
+        "slug": "badet-fenetre-de-toit-sarl",
+        "telephone": "+41 848 801 802",
+        "site_web": "http://www.badet.ch/",
+        "adresse": "Chem. des Charbonnières 4, 1376 Goumoens-la-Ville, Suisse",
+        "note": 4.9,
+        "avis": 31,
+        "type": "Vitrier"
+      },
+      {
+        "id": "9552480497959381392",
+        "nom": "Ideabois Menuiserie",
+        "slug": "ideabois-menuiserie",
+        "telephone": "03 81 58 89 26",
+        "site_web": "https://www.ideabois.com/",
+        "adresse": "4 Rue Armand Peugeot, 70190 Boulot",
+        "note": 4.8,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6965265113317986309",
+        "nom": "Serplaste Besançon",
+        "slug": "serplaste-besancon",
+        "telephone": "03 81 52 37 27",
+        "site_web": "https://serplaste.fr/agence-besancon/",
+        "adresse": "Chem. Des Maurapan, 25870 Châtillon-le-Duc",
+        "note": 4.4,
+        "avis": 47,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "713091728172245496",
+        "nom": "Fenêtres Fermetures du Doubs",
+        "slug": "fenetres-fermetures-du-doubs",
+        "telephone": "03 81 84 64 04",
+        "site_web": "https://www.fenetresdudoubs.com/",
+        "adresse": "Zone Artisanale de la Combe, Parnette 25440, 25440 Lavans-Quingey",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chalezeule": {
+    "artisans": [
+      {
+        "id": "17147574915468414192",
+        "nom": "Menuiserie Vuillemin",
+        "slug": "menuiserie-vuillemin",
+        "telephone": "03 81 50 33 01",
+        "site_web": "http://www.menuiserievuillemin.com/",
+        "adresse": "9 Rue des Bruyères, 25220 Chalezeule",
+        "note": 3.7,
+        "avis": 21,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11546562767952794597",
+        "nom": "Mister Menuiserie Chalezeule (Besançon)",
+        "slug": "mister-menuiserie-chalezeule-besancon",
+        "telephone": "03 81 51 45 59",
+        "site_web": "https://www.mistermenuiserie.com/shop/mistermenuiserie-chalezeule.html?utm_source=GMB&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "Za les Vallières, Chem. du Rond Buisson, 25220 Chalezeule",
+        "note": 4.8,
+        "avis": 470,
+        "type": "Magasin"
+      },
+      {
+        "id": "5034170562913210816",
+        "nom": "DNS Fenêtres",
+        "slug": "dns-fenetres",
+        "telephone": "03 81 62 55 37",
+        "site_web": "https://www.fermetures-dns-thise.fr/",
+        "adresse": "46 Rue de Besançon, 25220 Thise",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4565781236730129742",
+        "nom": "PACOTTE & MIGNOTTE - Fenêtres et ouvertures",
+        "slug": "pacotte-mignotte-fenetres-et-ouvertures",
+        "telephone": "03 80 71 32 32",
+        "site_web": "https://www.pacotte-mignotte.fr/?utm_source=google&utm_medium=seo&utm_campaign=gmb_besancon",
+        "adresse": "Chem. de la Voie des Agasses, 25220 Chalezeule",
+        "note": 3.7,
+        "avis": 19,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chaffois": {
+    "artisans": [
+      {
+        "id": "2095833375834734926",
+        "nom": "Profen – Fenêtres, Portes et Volets – Granges-Narboz",
+        "slug": "profen-fenetres-portes-et-volets-granges-narboz",
+        "telephone": "03 81 69 20 04",
+        "site_web": "http://www.profen.fr/",
+        "adresse": "5 Rue Bernard Palissy, 25300 Granges-Narboz",
+        "note": 4.4,
+        "avis": 67,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "l-isle-sur-le-doubs": {
+    "artisans": [
+      {
+        "id": "855006601547079980",
+        "nom": "Fournier Menuiserie PVC",
+        "slug": "fournier-menuiserie-pvc",
+        "telephone": "03 81 92 74 66",
+        "site_web": "https://www.menuiserie-fournier.fr/",
+        "adresse": "ZA la Combe Rosiers, 1 Rue des Ranchot, 25250 L'Isle-sur-le-Doubs",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "charquemont": {
+    "artisans": [
+      {
+        "id": "15306867146869346335",
+        "nom": "MENUISERIE LOUVET CHARQUEMONT",
+        "slug": "menuiserie-louvet-charquemont",
+        "telephone": "03 81 44 08 18",
+        "site_web": "https://www.menuiserie-louvet.com/",
+        "adresse": "1 Rue Pierre Mendès France, 25140 Charquemont",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chemaudin-et-vaux": {
+    "artisans": [
+      {
+        "id": "12275608919821411269",
+        "nom": "VELUX Technology Centre",
+        "slug": "velux-technology-centre",
+        "telephone": "03 84 31 95 50",
+        "site_web": "https://www.velux.com/",
+        "adresse": "8 Rue Claude Girard, 25770 Chemaudin et Vaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "bouclans": {
+    "artisans": [
+      {
+        "id": "713091728172245496",
+        "nom": "Fenêtres Fermetures du Doubs",
+        "slug": "fenetres-fermetures-du-doubs",
+        "telephone": "03 81 84 64 04",
+        "site_web": "https://www.fenetresdudoubs.com/",
+        "adresse": "Zone Artisanale de la Combe, Parnette 25440, 25440 Lavans-Quingey",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pays-de-clerval": {
+    "artisans": [
+      {
+        "id": "1417666604290851715",
+        "nom": "GLAUSER TOITURE",
+        "slug": "glauser-toiture",
+        "telephone": "06 47 64 54 43",
+        "site_web": "http://www.glauser-raphael-toiture-charpente-couvreur-25.fr/",
+        "adresse": "4 Rue de Crosey, 25340 Pays-de-Clerval",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7230076496692713381",
+        "nom": "Matériaux du VAL - Tout Faire",
+        "slug": "materiaux-du-val-tout-faire",
+        "telephone": "03 81 97 80 43",
+        "site_web": "https://www.toutfaire.fr/materiaux-du-val-clerval.html",
+        "adresse": "44 Av. Gaston Renaud, 25340 Pays-de-Clerval",
+        "note": 4.6,
+        "avis": 55,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "12332061504686528840",
+        "nom": "Concepteur de fermetures PVC - Profialis",
+        "slug": "concepteur-de-fermetures-pvc-profialis",
+        "telephone": "03 81 99 18 18",
+        "site_web": "https://www.profialis.com/",
+        "adresse": "298 grande voie, 25340 Pays-de-Clerval",
+        "note": 4,
+        "avis": 15,
+        "type": "Entreprise de fabrication de plastique"
+      }
+    ]
+  },
+  "la-cluse-et-mijoux": {
+    "artisans": [
+      {
+        "id": "954626806384419772",
+        "nom": "La Cluse-et-Mijoux",
+        "slug": "la-cluse-et-mijoux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "25300 La Cluse-et-Mijoux",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "1914774183024755461",
+        "nom": "HOMKiA Pontarlier",
+        "slug": "homkia-pontarlier",
+        "telephone": "03 81 39 03 78",
+        "site_web": "https://www.homkia.fr/nos-points-conseils/menuiserie-pontartlier-doubs/",
+        "adresse": "11 Rue Arthur Bourdin, 25300 Pontarlier",
+        "note": 4.3,
+        "avis": 146,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10491910691901901611",
+        "nom": "Menuiserie Tissot",
+        "slug": "menuiserie-tissot",
+        "telephone": "03 81 45 15 13",
+        "site_web": "https://www.menuiserie-tissot.fr/",
+        "adresse": "Z.I, Rue des Meraillis, 25300 Les Fourgs",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "colombier-fontaine": {
+    "artisans": [
+      {
+        "id": "17603379485160522701",
+        "nom": "MS COUVERTURE - MONTBELIARD BELFORT",
+        "slug": "ms-couverture-montbeliard-belfort",
+        "telephone": "03 81 93 75 13",
+        "site_web": "http://www.ms-couverture.fr/",
+        "adresse": "Rue de Saint-Maurice, 25260 Colombier-Fontaine",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15780866401099473138",
+        "nom": "Entreprise rénov'habitat Colombier-fontaine",
+        "slug": "entreprise-renovhabitat-colombier-fontaine",
+        "telephone": "07 59 64 50 80",
+        "site_web": null,
+        "adresse": "Rue de la Chaiserie, 25260 Colombier-Fontaine",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11364331756472577814",
+        "nom": "PETREQUIN",
+        "slug": "petrequin",
+        "telephone": "03 81 96 26 58",
+        "site_web": null,
+        "adresse": "28 Rue de la Chaiserie, 25260 Colombier-Fontaine",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "courcelles-les-montbeliard": {
+    "artisans": [
+      {
+        "id": "14493089527311957469",
+        "nom": "AS Couverture",
+        "slug": "as-couverture",
+        "telephone": "06 59 54 73 11",
+        "site_web": "https://www.ascouverture-25.fr/",
+        "adresse": "1 Pl. Jean Jaurès, 25200 Montbéliard",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13855456042663534404",
+        "nom": "Michel rénovation toiture",
+        "slug": "michel-renovation-toiture",
+        "telephone": "07 43 60 67 17",
+        "site_web": "https://www.michel-toiture.fr/",
+        "adresse": "1 Pl. Jean Jaurès, 25200 Montbéliard",
+        "note": 4.9,
+        "avis": 47,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13351087381129118510",
+        "nom": "Idéal fermeture",
+        "slug": "ideal-fermeture",
+        "telephone": "03 81 92 53 09",
+        "site_web": "http://www.fermeture-ideal.fr/?utm_source=gmb",
+        "adresse": "6 Imp. des Champs Millot, 25400 Taillecourt",
+        "note": 5,
+        "avis": 103,
+        "type": "Vitrier"
+      },
+      {
+        "id": "5361032498085883435",
+        "nom": "Jouffroy Frères",
+        "slug": "jouffroy-freres",
+        "telephone": "03 81 90 32 28",
+        "site_web": "https://www.menuiserie-jouffroy.fr/",
+        "adresse": "16 Rue des Écoles, 25420 Bart",
+        "note": 4.4,
+        "avis": 38,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "14174951732058670291",
+        "nom": "GALLIZIA Comptoirs du Verre",
+        "slug": "gallizia-comptoirs-du-verre",
+        "telephone": "03 81 91 22 44",
+        "site_web": "http://www.gallizia25.fr/",
+        "adresse": "Extension Technoland 4 Allée du Pont Romain, 25600 Brognard",
+        "note": 4.5,
+        "avis": 46,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "17115884164408321428",
+        "nom": "Denard Alain",
+        "slug": "denard-alain",
+        "telephone": "06 07 89 11 81",
+        "site_web": null,
+        "adresse": "38 Rue de Voujeaucourt, 25420 Courcelles-lès-Montbéliard",
+        "note": 3,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "14083681155064183227",
+        "nom": "ALU FACTORY",
+        "slug": "alu-factory",
+        "telephone": "03 81 99 60 30",
+        "site_web": "http://alu-factory.fr/",
+        "adresse": "18 Rue Louis Jeanperrin, 25200 Montbéliard",
+        "note": 4.1,
+        "avis": 27,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "dampierre-les-bois": {
+    "artisans": [
+      {
+        "id": "7149344980896476822",
+        "nom": "SAS Druet usine",
+        "slug": "sas-druet-usine",
+        "telephone": "09 63 64 28 39",
+        "site_web": "http://www.druet.fr/",
+        "adresse": "Zone Artisanale Côte Renverse, 70180 Dampierre-sur-Salon",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4213908417477475545",
+        "nom": "Segura courvoisier",
+        "slug": "segura-courvoisier",
+        "telephone": "06 60 84 20 86",
+        "site_web": "https://www.segura-courvoisier.fr/",
+        "adresse": "1 Rue des Émaux, 25490 Dampierre-les-Bois",
+        "note": 5,
+        "avis": 5,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "cussey-sur-l-ognon": {
+    "artisans": [
+      {
+        "id": "13570139359870332542",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 81 41 05 15",
+        "site_web": "https://magasins.lapeyre.fr/bourgogne-franche-comte/doubs/lapeyre-besancon-66",
+        "adresse": "4 Rue François Villon, 25000 Besançon",
+        "note": 4.1,
+        "avis": 409,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "damprichard": {
+    "artisans": [
+      {
+        "id": "7259577227664095342",
+        "nom": "Fleury Menuiserie Agencement Charpente",
+        "slug": "fleury-menuiserie-agencement-charpente",
+        "telephone": "06 07 42 13 88",
+        "site_web": "https://www.fmac-fleury.fr/",
+        "adresse": "4 Rue du Maréchal Leclerc, 25450 Damprichard",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2977589664441494248",
+        "nom": "EURL Aurélien CUENOT",
+        "slug": "eurl-aurelien-cuenot",
+        "telephone": "07 89 24 18 46",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/l-expert-fenetre-damprichard-aurelien-cuenot/",
+        "adresse": "31 Rue des Tilleuls, 25450 Damprichard",
+        "note": 5,
+        "avis": 18,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "dannemarie-sur-crete": {
+    "artisans": [
+      {
+        "id": "7839371587292511630",
+        "nom": "FG Toiture - Applicateur Tuilex",
+        "slug": "fg-toiture-applicateur-tuilex",
+        "telephone": "03 81 63 53 37",
+        "site_web": "https://tuilex.fr/applicateurs/fg-toiture-25/",
+        "adresse": "7 Rue Pythagore, 25410 Dannemarie-sur-Crète",
+        "note": 4.5,
+        "avis": 58,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3262734175055195266",
+        "nom": "Menuiserie Petetin",
+        "slug": "menuiserie-petetin",
+        "telephone": "03 81 63 84 15",
+        "site_web": "http://menuiserie-petetin.fr/",
+        "adresse": "ZA au Sorbier, 5 Rue Thalès, 25410 Dannemarie-sur-Crète",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10060100982857319784",
+        "nom": "Profen – Fenêtres, Portes et Volets – Besançon",
+        "slug": "profen-fenetres-portes-et-volets-besancon",
+        "telephone": "03 81 63 84 15",
+        "site_web": "http://www.profen-besancon.fr/",
+        "adresse": "5 Rue Thalès, 25410 Dannemarie-sur-Crète",
+        "note": 3.7,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "dasle": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "etalans": {
+    "artisans": [
+      {
+        "id": "6551354119337426783",
+        "nom": "VERANDA REVE",
+        "slug": "veranda-reve",
+        "telephone": "03 81 65 79 29",
+        "site_web": "http://www.verandareve.com/",
+        "adresse": "ZA LA CROIX DE PIERRE, 9 Rue des Ruchottes, 25580 Étalans",
+        "note": 4.3,
+        "avis": 75,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5336053356157702216",
+        "nom": "Vieille Matériaux",
+        "slug": "vieille-materiaux",
+        "telephone": "03 81 59 23 65",
+        "site_web": "http://www.vieille-materiaux.com/",
+        "adresse": "ZA La Croix de Pierre, 1 Rue des Planches, 25580 Étalans",
+        "note": 4.3,
+        "avis": 97,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "ecole-valentin": {
+    "artisans": [
+      {
+        "id": "7522075201927494326",
+        "nom": "SAINT-GOBAIN VITRAGE BÂTIMENT Besançon",
+        "slug": "saint-gobain-vitrage-batiment-besancon",
+        "telephone": "03 81 50 50 90",
+        "site_web": "http://www.saint-gobain-vitrage.fr/",
+        "adresse": "28 Rue du Vallon, 25480 École-Valentin",
+        "note": 5,
+        "avis": 21,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "12829789115760663745",
+        "nom": "Franche Comte Fermetures",
+        "slug": "franche-comte-fermetures",
+        "telephone": "03 81 52 45 98",
+        "site_web": "https://www.franche-comte-fermetures.fr/?utm_source=gmb",
+        "adresse": "4 Rue de la Poste, 25480 École-Valentin",
+        "note": 4.9,
+        "avis": 83,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "devecey": {
+    "artisans": [
+      {
+        "id": "16147451635798095953",
+        "nom": "Nova-Toit",
+        "slug": "nova-toit",
+        "telephone": "07 84 31 27 32",
+        "site_web": "https://www.nova-toit.fr/",
+        "adresse": "10 Rte de Geneuille, 25870 Devecey",
+        "note": 5,
+        "avis": 35,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "exincourt": {
+    "artisans": [
+      {
+        "id": "665027786502555982",
+        "nom": "Renov'Est",
+        "slug": "renovest",
+        "telephone": "03 81 95 22 17",
+        "site_web": "http://www.renovest.fr/",
+        "adresse": "16 Rue de la Croisée, 25400 Taillecourt",
+        "note": 4.6,
+        "avis": 85,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "doubs": {
+    "artisans": [
+      {
+        "id": "13553760304463735902",
+        "nom": "KparK Besançon",
+        "slug": "kpark-besancon",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/173-kpark-besancon?utm_source=gmb",
+        "adresse": "27 Rue de Châtillon, 25480 École-Valentin",
+        "note": 2.7,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "les-fins": {
+    "artisans": [
+      {
+        "id": "7348051151527625945",
+        "nom": "Menuiserie Bôle",
+        "slug": "menuiserie-bole",
+        "telephone": "06 71 90 64 75",
+        "site_web": "https://www.menuiserie-bole.fr/",
+        "adresse": "14 Rue des Artisans, 25500 Les Fins",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1530196555129203317",
+        "nom": "L'Allie Fermetures",
+        "slug": "lallie-fermetures",
+        "telephone": "03 81 67 55 86",
+        "site_web": "http://www.lalliefermetures.fr/",
+        "adresse": "Zone artisanale du bas de la Chaux La Chaux, 25500 Le Bélieu",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1612243899718270172",
+        "nom": "L.J Toiture",
+        "slug": "lj-toiture",
+        "telephone": "03 81 67 11 71",
+        "site_web": "http://www.ljtoiture.fr/",
+        "adresse": "10 Rue de la Tuilerie, 25500 Montlebon",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9010511053615257649",
+        "nom": "FINN-EST Maisons bois",
+        "slug": "finn-est-maisons-bois",
+        "telephone": "03 81 67 90 30",
+        "site_web": "https://www.finn-est.com/",
+        "adresse": "ZA Le Bas de La Chaux, 7 Rue des Dolines 6, 25500 Le Bélieu",
+        "note": 4,
+        "avis": 25,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "11428590475568324455",
+        "nom": "Faivre Cuenot",
+        "slug": "faivre-cuenot",
+        "telephone": "03 81 43 32 10",
+        "site_web": "https://www.charpente-couverture-faivrecuenot.fr/",
+        "adresse": "14 Rue des Artisans, 25500 Les Fins",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11793771502463475045",
+        "nom": "ID CARRELAGE - sur rendez-vous uniquement",
+        "slug": "id-carrelage-sur-rendez-vous-uniquement",
+        "telephone": "03 81 44 19 94",
+        "site_web": "https://www.id-carrelage.com/",
+        "adresse": "23 Rue des Prés Mouchets, 25500 Les Fins",
+        "note": 4.3,
+        "avis": 28,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "4610776108955674592",
+        "nom": "Franche Comté Agencement",
+        "slug": "franche-comte-agencement",
+        "telephone": "03 81 67 64 82",
+        "site_web": "https://www.franche-comte-agencement.fr/",
+        "adresse": "2 Rte des Genevriers, 25500 Les Fins",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "12912563455262806243",
+        "nom": "BigMat Les Matériaux du Haut Doubs",
+        "slug": "bigmat-les-materiaux-du-haut-doubs",
+        "telephone": "03 81 67 45 10",
+        "site_web": "https://www.bigmat.fr/materiaux-haut-doubs/les-fins/",
+        "adresse": "Entree 2, 11 Rte de Besançon, 25500 Les Fins",
+        "note": 4.3,
+        "avis": 64,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "etupes": {
+    "artisans": [
+      {
+        "id": "5928997740463478068",
+        "nom": "JDNE Sarl",
+        "slug": "jdne-sarl",
+        "telephone": "03 81 31 83 10",
+        "site_web": "https://www.jdne.fr/",
+        "adresse": "25 Rue du Breuil, 25460 Étupes",
+        "note": 4.1,
+        "avis": 42,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "fesches-le-chatel": {
+    "artisans": [
+      {
+        "id": "8533691812597343552",
+        "nom": "Pose 25",
+        "slug": "pose-25",
+        "telephone": "06 10 50 11 47",
+        "site_web": "https://www.pose25.fr/",
+        "adresse": "7 Rue Neuve, 25490 Fesches-le-Châtel",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "les-fourgs": {
+    "artisans": [
+      {
+        "id": "704535373990100177",
+        "nom": "Eurofen Production",
+        "slug": "eurofen-production",
+        "telephone": null,
+        "site_web": "http://www.eurofen.fr/",
+        "adresse": "Rue des Meraillis, 25300 Les Fourgs",
+        "note": 0,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "frasne": {
+    "artisans": [
+      {
+        "id": "11717787319068849466",
+        "nom": "Menuiserie Brischoux",
+        "slug": "menuiserie-brischoux",
+        "telephone": "03 81 89 88 24",
+        "site_web": null,
+        "adresse": "1 Rue des Seignes, 25560 Frasne",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11203552795357158635",
+        "nom": "Miroiterie Des Sapins",
+        "slug": "miroiterie-des-sapins",
+        "telephone": "06 79 66 75 19",
+        "site_web": "https://frasne.ouvertures.com/",
+        "adresse": "14 B, Rue du Lhotaud, 25560 Frasne",
+        "note": 5,
+        "avis": 4,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "geneuille": {
+    "artisans": [
+      {
+        "id": "16147451635798095953",
+        "nom": "Nova-Toit",
+        "slug": "nova-toit",
+        "telephone": "07 84 31 27 32",
+        "site_web": "https://www.nova-toit.fr/",
+        "adresse": "10 Rte de Geneuille, 25870 Devecey",
+        "note": 5,
+        "avis": 35,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10882955156198133004",
+        "nom": "Facades 25",
+        "slug": "facades-25",
+        "telephone": "03 81 58 87 06",
+        "site_web": "https://www.facades-25-besancon.eu/",
+        "adresse": "zone artisanale les Brevettes, 25870 Geneuille",
+        "note": 4.1,
+        "avis": 40,
+        "type": "Façadier"
+      },
+      {
+        "id": "11015518822288913536",
+        "nom": "Avenir Rénovations Besançon (25)",
+        "slug": "avenir-renovations-besancon-25",
+        "telephone": "03 53 64 05 82",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-25-besancon/",
+        "adresse": "14 Rue la Fayette, 25000 Besançon",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "grand-combe-chateleu": {
+    "artisans": [
+      {
+        "id": "1530196555129203317",
+        "nom": "L'Allie Fermetures",
+        "slug": "lallie-fermetures",
+        "telephone": "03 81 67 55 86",
+        "site_web": "http://www.lalliefermetures.fr/",
+        "adresse": "Zone artisanale du bas de la Chaux La Chaux, 25500 Le Bélieu",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "blamont": {
+    "artisans": [
+      {
+        "id": "15638831802688861112",
+        "nom": "La Menuiserie Comtoise",
+        "slug": "la-menuiserie-comtoise",
+        "telephone": "06 73 45 83 53",
+        "site_web": "https://www.la-menuiserie-comtoise.fr/",
+        "adresse": "5 Rue des Oiches, 25310 Roches-lès-Blamont",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "franois": {
+    "artisans": [
+      {
+        "id": "929203944763686473",
+        "nom": "Boillon Fermetures",
+        "slug": "boillon-fermetures",
+        "telephone": "03 81 59 99 75",
+        "site_web": "https://www.boillon-fermetures.fr/?utm_source=gmb",
+        "adresse": "1 A Rue de la Gare, 25770 Franois",
+        "note": 4.2,
+        "avis": 56,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "gilley": {
+    "artisans": [
+      {
+        "id": "5803777316761441567",
+        "nom": "A.V. Concept Bois",
+        "slug": "av-concept-bois",
+        "telephone": "06 83 30 95 11",
+        "site_web": "http://av-conceptbois.fr/?utm_source=gmb",
+        "adresse": "14 Les Caves, 25650 Gilley",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11260366415724281553",
+        "nom": "Marini Michel",
+        "slug": "marini-michel",
+        "telephone": "03 81 43 31 60",
+        "site_web": null,
+        "adresse": "4 Rue des Hirondelles, 25650 Gilley",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "grand-charmont": {
+    "artisans": [
+      {
+        "id": "228539121523309718",
+        "nom": "GROUPE CK (TILKEO RENOVATION MONTBELIARD / CKHABITAT FERMETURES)",
+        "slug": "groupe-ck-tilkeo-renovation-montbeliard-ckhabitat-fermetures",
+        "telephone": "03 81 34 29 35",
+        "site_web": "http://www.ckhabitat.fr/",
+        "adresse": "Rue de Montbéliard, 25200 Bethoncourt",
+        "note": 5,
+        "avis": 75,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1351850662818572595",
+        "nom": "Fermetures Charmontaises",
+        "slug": "fermetures-charmontaises",
+        "telephone": "03 81 94 25 27",
+        "site_web": "https://www.fermetures-charmontaises.fr/",
+        "adresse": "17 Rue du Manège, 25600 Vieux-Charmont",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "198310095282001742",
+        "nom": "Komilfo Courvoisier Stores et Fermetures à Montbéliard - Pergolas,Stores,Menuiseries",
+        "slug": "komilfo-courvoisier-stores-et-fermetures-a-montbeliard-pergolasstoresmenuiseries",
+        "telephone": "03 81 31 29 60",
+        "site_web": "https://www.komilfo.fr/magasins/courvoisier-stores-fermetures-montbeliard-25?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "Zone artisanale de l'Allan, Rue de l'Allan, 25600 Vieux-Charmont",
+        "note": 4.2,
+        "avis": 363,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10344792088736757652",
+        "nom": "Rt couvreur",
+        "slug": "rt-couvreur",
+        "telephone": "06 86 20 10 25",
+        "site_web": "https://www.rtcouvreur.fr/",
+        "adresse": "44 Rue de Gascogne, 25200 Grand-Charmont",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "grandfontaine": {
+    "artisans": [
+      {
+        "id": "13779604816396347006",
+        "nom": "Isol'Est 25",
+        "slug": "isolest-25",
+        "telephone": "03 81 88 88 81",
+        "site_web": "https://www.facebook.com/isolest25?utm_source=gmb",
+        "adresse": "1 ZA, 25320 Grandfontaine",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "herimoncourt": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "granges-narboz": {
+    "artisans": [
+      {
+        "id": "2095833375834734926",
+        "nom": "Profen – Fenêtres, Portes et Volets – Granges-Narboz",
+        "slug": "profen-fenetres-portes-et-volets-granges-narboz",
+        "telephone": "03 81 69 20 04",
+        "site_web": "http://www.profen.fr/",
+        "adresse": "5 Rue Bernard Palissy, 25300 Granges-Narboz",
+        "note": 4.4,
+        "avis": 67,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "abbevillers": {
+    "artisans": [
+      {
+        "id": "665027786502555982",
+        "nom": "Renov'Est",
+        "slug": "renovest",
+        "telephone": "03 81 95 22 17",
+        "site_web": "http://www.renovest.fr/",
+        "adresse": "16 Rue de la Croisée, 25400 Taillecourt",
+        "note": 4.6,
+        "avis": 85,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "arcey": {
+    "artisans": [
+      {
+        "id": "4465688734753377977",
+        "nom": "Straube Ets",
+        "slug": "straube-ets",
+        "telephone": "03 81 93 41 58",
+        "site_web": "https://www.straube.fr/",
+        "adresse": "1 bis Rue de Desandans, 25113 Sainte-Marie",
+        "note": 4.1,
+        "avis": 40,
+        "type": "Couvreur"
+      },
+      {
+        "id": "478344966002307971",
+        "nom": "Toiture Berger",
+        "slug": "toiture-berger",
+        "telephone": "06 32 84 00 09",
+        "site_web": "http://www.toitureberger.com/?utm_source=gmb",
+        "adresse": "9 Imp. de la Chevru, 25750 Arcey",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7271870817607862221",
+        "nom": "ULTRA'VITRES I Nettoyage vitres - Bardages - Panneaux solaires",
+        "slug": "ultravitres-i-nettoyage-vitres-bardages-panneaux-solaires",
+        "telephone": "07 60 07 74 09",
+        "site_web": "http://ultravitres.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 61,
+        "type": "Entreprise de nettoyage de vitres"
+      }
+    ]
+  },
+  "arc-et-senans": {
+    "artisans": [
+      {
+        "id": "3001025774113301093",
+        "nom": "PEVESCAL SA",
+        "slug": "pevescal-sa",
+        "telephone": "03 81 57 41 01",
+        "site_web": "http://www.pevescal.com/",
+        "adresse": "3 Roche sur Loue, 25610 Arc-et-Senans",
+        "note": 3.7,
+        "avis": 46,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "audincourt": {
+    "artisans": [
+      {
+        "id": "6651155857107481696",
+        "nom": "ANL PVC | Fenêtres & Portes",
+        "slug": "anl-pvc-fenetres-portes",
+        "telephone": "06 65 65 98 36",
+        "site_web": "https://www.anlpvc.fr/?utm_source=Google&utm_medium=My%20Business&utm_campaign=Local",
+        "adresse": "1 Grande Rue, 25700 Valentigney",
+        "note": 3.1,
+        "avis": 26,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "11917824776386320619",
+        "nom": "TRYBA Montbéliard (Audincourt)",
+        "slug": "tryba-montbeliard-audincourt",
+        "telephone": "03 53 64 13 42",
+        "site_web": "https://www.tryba.com/espace-conseil/25/tryba-audincourt/?utm_campaign=Tryba_Audincourt&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "43 Av. Aristide Briand, 25400 Audincourt",
+        "note": 4.9,
+        "avis": 83,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "houtaud": {
+    "artisans": [
+      {
+        "id": "12282114071086124248",
+        "nom": "Profen – Fenêtres, Portes et Volets – Pontarlier",
+        "slug": "profen-fenetres-portes-et-volets-pontarlier",
+        "telephone": "03 81 69 20 04",
+        "site_web": "https://profen.fr/",
+        "adresse": "Zone Les Gravilliers, 9 Rue Charles Marie Lagier, 25300 Pontarlier",
+        "note": 4.3,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2242676389827908510",
+        "nom": "Energy Fermetures / Sarl Descourvières",
+        "slug": "energy-fermetures-sarl-descourvieres",
+        "telephone": "03 81 89 53 21",
+        "site_web": "https://www.energyfermetures.fr/",
+        "adresse": "10 Rue de la Champagne, 25300 Houtaud",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Magasin"
+      },
+      {
+        "id": "9000709695093997633",
+        "nom": "TRYBA Pontarlier",
+        "slug": "tryba-pontarlier",
+        "telephone": "03 81 39 16 40",
+        "site_web": "https://www.tryba.com/espace-conseil/25/tryba-pontarlier/?utm_campaign=Tryba_Pontarlier&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "33 Rue de la Libération, 25300 Pontarlier",
+        "note": 3.8,
+        "avis": 36,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bart": {
+    "artisans": [
+      {
+        "id": "9319373343891388395",
+        "nom": "CUBE METTEY MENETRIER - MONTBELIARD BELFORT",
+        "slug": "cube-mettey-menetrier-montbeliard-belfort",
+        "telephone": "03 81 98 44 44",
+        "site_web": "https://www.groupe-cube.fr/",
+        "adresse": "2 Rue Frédéric Japy, 25420 Bart",
+        "note": 4.4,
+        "avis": 87,
+        "type": "Siège social"
+      },
+      {
+        "id": "5969130127830401361",
+        "nom": "CUBE SERVICES JEANNIN - MONTBELIARD BELFORT",
+        "slug": "cube-services-jeannin-montbeliard-belfort",
+        "telephone": "03 81 98 59 93",
+        "site_web": "https://groupe-cube.fr/",
+        "adresse": "44 Rue Frédéric Japy Bâtiment D, 25420 Bart",
+        "note": 3.5,
+        "avis": 51,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-auxons": {
+    "artisans": [
+      {
+        "id": "2457753019405477480",
+        "nom": "C.C.T.",
+        "slug": "cct",
+        "telephone": "09 74 56 40 16",
+        "site_web": "http://www.couvreur-besancon.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "7 Rue de Nicoray, 25870 Les Auxons",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15407190428432532500",
+        "nom": "Gugler France",
+        "slug": "gugler-france",
+        "telephone": "03 81 53 36 84",
+        "site_web": "https://www.guglerfrance.fr/",
+        "adresse": "Rte de Châtillon, 25870 Châtillon-le-Duc",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Vitrier"
+      },
+      {
+        "id": "14030469535009690182",
+        "nom": "CCT",
+        "slug": "cct",
+        "telephone": "03 81 53 39 28",
+        "site_web": "https://www.couvreur-besancon.fr/",
+        "adresse": "7 Rue de Nicoray, 25870 Les Auxons",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bavans": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "avanne-aveney": {
+    "artisans": [
+      {
+        "id": "12275608919821411269",
+        "nom": "VELUX Technology Centre",
+        "slug": "velux-technology-centre",
+        "telephone": "03 84 31 95 50",
+        "site_web": "https://www.velux.com/",
+        "adresse": "8 Rue Claude Girard, 25770 Chemaudin et Vaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "baume-les-dames": {
+    "artisans": [
+      {
+        "id": "17351472783117913589",
+        "nom": "VD Batiman",
+        "slug": "vd-batiman",
+        "telephone": "03 81 51 76 86",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/vd-batiman-baume-les-dames-25110-experts-en-menuiserie",
+        "adresse": "6 Rue des Jonquilles, 25110 Baume-les-Dames",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10526434375646421407",
+        "nom": "Avenir Vérandas",
+        "slug": "avenir-verandas",
+        "telephone": "03 81 84 33 52",
+        "site_web": "https://avenir-verandas.fr/",
+        "adresse": "1 Rue Simone de Beauvoir, 25110 Baume-les-Dames",
+        "note": 4.2,
+        "avis": 58,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "18302562907739107577",
+        "nom": "DBM Aluminium",
+        "slug": "dbm-aluminium",
+        "telephone": "03 81 84 39 11",
+        "site_web": null,
+        "adresse": "1 Rue André Boulloche, 25110 Baume-les-Dames",
+        "note": 4,
+        "avis": 12,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "beure": {
+    "artisans": [
+      {
+        "id": "12877537968084282580",
+        "nom": "Fermetures Isolation 25 SARL",
+        "slug": "fermetures-isolation-25-sarl",
+        "telephone": "07 81 23 19 84",
+        "site_web": "http://fermetures-isolation25.com/",
+        "adresse": "44 Rue de Besançon, 25720 Beure",
+        "note": 4.9,
+        "avis": 128,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bethoncourt": {
+    "artisans": [
+      {
+        "id": "228539121523309718",
+        "nom": "GROUPE CK (TILKEO RENOVATION MONTBELIARD / CKHABITAT FERMETURES)",
+        "slug": "groupe-ck-tilkeo-renovation-montbeliard-ckhabitat-fermetures",
+        "telephone": "03 81 34 29 35",
+        "site_web": "http://www.ckhabitat.fr/",
+        "adresse": "Rue de Montbéliard, 25200 Bethoncourt",
+        "note": 5,
+        "avis": 75,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "besancon": {
+    "artisans": [
+      {
+        "id": "4788976506935385531",
+        "nom": "Porte Fenêtre Volet",
+        "slug": "porte-fenetre-volet",
+        "telephone": "03 81 21 29 08",
+        "site_web": "https://www.porte-fenetre-volet.com/?utm_source=gmb",
+        "adresse": "31 Bd Président John Fitzgerald Kennedy, 25000 Besançon",
+        "note": 4.1,
+        "avis": 40,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "9277401635386620800",
+        "nom": "RM Stores et Fermetures - KOMILFO -",
+        "slug": "rm-stores-et-fermetures-komilfo",
+        "telephone": "03 81 80 76 28",
+        "site_web": "https://www.komilfo.fr/magasins/rm-stores-fermetures-besancon-25",
+        "adresse": "4 Rue de Châtillon, 25480 École-Valentin",
+        "note": 4.8,
+        "avis": 146,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1774771263246410582",
+        "nom": "Fenster Fermetures",
+        "slug": "fenster-fermetures",
+        "telephone": "03 81 81 89 30",
+        "site_web": "http://www.fenster.fr/?utm_source=gmb",
+        "adresse": "58 Fbg Rivotte, 25000 Besançon",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "les-premiers-sapins": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "nommay": {
+    "artisans": [
+      {
+        "id": "18160652663412826640",
+        "nom": "Montbéliard Belfort Enrobés",
+        "slug": "montbeliard-belfort-enrobes",
+        "telephone": "03 81 94 36 76",
+        "site_web": null,
+        "adresse": "49 Rue de Dambenois, 25600 Nommay",
+        "note": 3.1,
+        "avis": 11,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10203211956215018506",
+        "nom": "Pevescal",
+        "slug": "pevescal",
+        "telephone": "03 81 57 59 02",
+        "site_web": null,
+        "adresse": "1 Rue de Dambenois, 25600 Nommay",
+        "note": 3.3,
+        "avis": 22,
+        "type": null
+      }
+    ]
+  },
+  "mouthe": {
+    "artisans": [
+      {
+        "id": "13895246798810507354",
+        "nom": "BADET Fenêtre de Toit Sàrl",
+        "slug": "badet-fenetre-de-toit-sarl",
+        "telephone": "+41 848 801 802",
+        "site_web": "http://www.badet.ch/",
+        "adresse": "Chem. des Charbonnières 4, 1376 Goumoens-la-Ville, Suisse",
+        "note": 4.9,
+        "avis": 31,
+        "type": "Vitrier"
+      },
+      {
+        "id": "5740978911677158352",
+        "nom": "Fenêtres sur Cour",
+        "slug": "fenetres-sur-cour",
+        "telephone": "06 87 24 28 52",
+        "site_web": "https://www.fenetres-sur-cour.fr/",
+        "adresse": "9 Rue Croix de l'Épine, 39380 La Loye",
+        "note": 5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2095833375834734926",
+        "nom": "Profen – Fenêtres, Portes et Volets – Granges-Narboz",
+        "slug": "profen-fenetres-portes-et-volets-granges-narboz",
+        "telephone": "03 81 69 20 04",
+        "site_web": "http://www.profen.fr/",
+        "adresse": "5 Rue Bernard Palissy, 25300 Granges-Narboz",
+        "note": 4.4,
+        "avis": 67,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "799912706509522461",
+        "nom": "VELUX Expert - BATI Fenêtre de toit Sàrl",
+        "slug": "velux-expert-bati-fenetre-de-toit-sarl",
+        "telephone": "+41 21 888 90 06",
+        "site_web": "https://www.batifenetredetoit.ch/",
+        "adresse": "Rte de Sorge 2, 1030 Bussigny, Suisse",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Entrepreneur spécialisé dans l'éclairage zénithal"
+      },
+      {
+        "id": "713091728172245496",
+        "nom": "Fenêtres Fermetures du Doubs",
+        "slug": "fenetres-fermetures-du-doubs",
+        "telephone": "03 81 84 64 04",
+        "site_web": "https://www.fenetresdudoubs.com/",
+        "adresse": "Zone Artisanale de la Combe, Parnette 25440, 25440 Lavans-Quingey",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1914774183024755461",
+        "nom": "HOMKiA Pontarlier",
+        "slug": "homkia-pontarlier",
+        "telephone": "03 81 39 03 78",
+        "site_web": "https://www.homkia.fr/nos-points-conseils/menuiserie-pontartlier-doubs/",
+        "adresse": "11 Rue Arthur Bourdin, 25300 Pontarlier",
+        "note": 4.3,
+        "avis": 146,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11058571697902177813",
+        "nom": "Fenêtres de Toit 21",
+        "slug": "fenetres-de-toit-21",
+        "telephone": "07 83 35 87 35",
+        "site_web": "http://lalveethomasalexandre.site-solocal.com/?utm_source=gmb",
+        "adresse": "8 Rue Boileau, 21130 Auxonne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12877537968084282580",
+        "nom": "Fermetures Isolation 25 SARL",
+        "slug": "fermetures-isolation-25-sarl",
+        "telephone": "07 81 23 19 84",
+        "site_web": "http://fermetures-isolation25.com/",
+        "adresse": "44 Rue de Besançon, 25720 Beure",
+        "note": 4.9,
+        "avis": 128,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "novillars": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "vercel-villedieu-le-camp": {
+    "artisans": [
+      {
+        "id": "290990376680148320",
+        "nom": "Vercel-Villedieu-le-Camp",
+        "slug": "vercel-villedieu-le-camp",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "25530 Vercel-Villedieu-le-Camp",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "18146821306806416921",
+        "nom": "Verandas Iso Concept- Pergola",
+        "slug": "verandas-iso-concept-pergola",
+        "telephone": "06 88 93 76 29",
+        "site_web": "http://www.verandas-doubs.fr/",
+        "adresse": "Rue du Seut, 25530 Vercel-Villedieu-le-Camp",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9901937093702609876",
+        "nom": "Nicolas Lime",
+        "slug": "nicolas-lime",
+        "telephone": "06 71 62 55 53",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "morteau": {
+    "artisans": [
+      {
+        "id": "14587632772703964052",
+        "nom": "Komilfo Saillard Frères à Morteau - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-saillard-freres-a-morteau-pergolas-stores-fenetres-menuiseries",
+        "telephone": "03 81 38 31 38",
+        "site_web": "https://www.komilfo.fr/magasins/saillard-freres-morteau-neuchatel-25?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "11 Rue René Payot, 25500 Morteau",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6786665298036562203",
+        "nom": "Komilfo Saillard Frères à Pontarlier - Vérandas, Pergolas, Stores, Menuiseries",
+        "slug": "komilfo-saillard-freres-a-pontarlier-verandas-pergolas-stores-menuiseries",
+        "telephone": "03 81 39 75 75",
+        "site_web": "https://www.komilfo.fr/magasins/saillard-freres-pontarlier-25?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "6 Rue Pierre Mendès France, 25300 Pontarlier",
+        "note": 4.1,
+        "avis": 96,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1530196555129203317",
+        "nom": "L'Allie Fermetures",
+        "slug": "lallie-fermetures",
+        "telephone": "03 81 67 55 86",
+        "site_web": "http://www.lalliefermetures.fr/",
+        "adresse": "Zone artisanale du bas de la Chaux La Chaux, 25500 Le Bélieu",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7348051151527625945",
+        "nom": "Menuiserie Bôle",
+        "slug": "menuiserie-bole",
+        "telephone": "06 71 90 64 75",
+        "site_web": "https://www.menuiserie-bole.fr/",
+        "adresse": "14 Rue des Artisans, 25500 Les Fins",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3490000164130018059",
+        "nom": "DG Fermetures",
+        "slug": "dg-fermetures",
+        "telephone": "03 81 44 13 16",
+        "site_web": "https://www.dgfermetures.com/?utm_source=Google_My_Buisness&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "14 rue Pie Grieche, 25500 Le Bélieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1612243899718270172",
+        "nom": "L.J Toiture",
+        "slug": "lj-toiture",
+        "telephone": "03 81 67 11 71",
+        "site_web": "http://www.ljtoiture.fr/",
+        "adresse": "10 Rue de la Tuilerie, 25500 Montlebon",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2251605537521305899",
+        "nom": "GP Menuiserie Vermot Sàrl",
+        "slug": "gp-menuiserie-vermot-sarl",
+        "telephone": "06 80 70 44 81",
+        "site_web": "http://www.menuiserie-vermot.fr/",
+        "adresse": "7 Rue Clos de la Vie, 25500 La Chenalotte",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12317296848341911685",
+        "nom": "Menuiserie Termeau",
+        "slug": "menuiserie-termeau",
+        "telephone": "06 12 27 21 41",
+        "site_web": "https://www.menuiserie-termeau.fr/",
+        "adresse": null,
+        "note": 3.7,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "orchamps-vennes": {
+    "artisans": [
+      {
+        "id": "3490000164130018059",
+        "nom": "DG Fermetures",
+        "slug": "dg-fermetures",
+        "telephone": "03 81 44 13 16",
+        "site_web": "https://www.dgfermetures.com/?utm_source=Google_My_Buisness&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "14 rue Pie Grieche, 25500 Le Bélieu",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "nancray": {
+    "artisans": [
+      {
+        "id": "10817672441968081167",
+        "nom": "Fermetures du Plateau",
+        "slug": "fermetures-du-plateau",
+        "telephone": "06 61 61 03 31",
+        "site_web": null,
+        "adresse": "24 Rue de Vaire, 25360 Nancray",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pelousey": {
+    "artisans": [
+      {
+        "id": "4788976506935385531",
+        "nom": "Porte Fenêtre Volet",
+        "slug": "porte-fenetre-volet",
+        "telephone": "03 81 21 29 08",
+        "site_web": "https://www.porte-fenetre-volet.com/?utm_source=gmb",
+        "adresse": "31 Bd Président John Fitzgerald Kennedy, 25000 Besançon",
+        "note": 4.1,
+        "avis": 40,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "4884568269863969560",
+        "nom": "MS COMTOISE Storistes de France Fabricant Menuiseries Aluminium Store - Pergola - Véranda - Fenêtre",
+        "slug": "ms-comtoise-storistes-de-france-fabricant-menuiseries-aluminium-store-pergola-veranda-fenetre",
+        "telephone": "03 81 25 35 88",
+        "site_web": "http://www.ms-comtoise.fr/",
+        "adresse": "18 Bd Winston Churchill, 25000 Besançon",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pirey": {
+    "artisans": [
+      {
+        "id": "7673645255186866551",
+        "nom": "Horizon Fermetures SARL",
+        "slug": "horizon-fermetures-sarl",
+        "telephone": "03 81 53 66 96",
+        "site_web": "http://www.horizon-fermetures-besancon.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "12 Rue du Lavoir, 25480 Pirey",
+        "note": 4.6,
+        "avis": 59,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13553760304463735902",
+        "nom": "KparK Besançon",
+        "slug": "kpark-besancon",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/173-kpark-besancon?utm_source=gmb",
+        "adresse": "27 Rue de Châtillon, 25480 École-Valentin",
+        "note": 2.7,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3292744735546149159",
+        "nom": "TRYBA Besançon (Pirey)",
+        "slug": "tryba-besancon-pirey",
+        "telephone": "03 81 88 20 67",
+        "site_web": "https://www.tryba.com/espace-conseil/25/tryba-pirey/?utm_campaign=Tryba_Pirey&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "12E Rte Saint-Martin, 25480 Pirey",
+        "note": 4,
+        "avis": 82,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pierrefontaine-les-varans": {
+    "artisans": [
+      {
+        "id": "3865587266914870979",
+        "nom": "BigMat Les Matériaux du Haut Doubs",
+        "slug": "bigmat-les-materiaux-du-haut-doubs",
+        "telephone": "03 81 56 03 39",
+        "site_web": "https://www.bigmat.fr/materiaux-haut-doubs/pierrefontaine-les-varans/",
+        "adresse": "2 Rue Bellevue, 25510 Pierrefontaine-les-Varans",
+        "note": 4.5,
+        "avis": 25,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "ornans": {
+    "artisans": [
+      {
+        "id": "11015518822288913536",
+        "nom": "Avenir Rénovations Besançon (25)",
+        "slug": "avenir-renovations-besancon-25",
+        "telephone": "03 53 64 05 82",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-25-besancon/",
+        "adresse": "14 Rue la Fayette, 25000 Besançon",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "995181514890946697",
+        "nom": "GORA Fermetures",
+        "slug": "gora-fermetures",
+        "telephone": "06 23 50 88 11",
+        "site_web": "https://www.gora-fermetures.fr/",
+        "adresse": "9 Rue des Champs Lambert, 25620 Tarcenay-Foucherans",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9871010780849150734",
+        "nom": "Société Bois Services",
+        "slug": "societe-bois-services",
+        "telephone": "03 81 62 24 84",
+        "site_web": null,
+        "adresse": "Rue sous Charmont, 25290 Ornans",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7528004664354710632",
+        "nom": "Menuiserie CORBET",
+        "slug": "menuiserie-corbet",
+        "telephone": "07 81 93 89 69",
+        "site_web": "https://cmi25.fr/",
+        "adresse": "Rue Epeugney, 25290 Rurey",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14569621566800984863",
+        "nom": "Gora Fermetures",
+        "slug": "gora-fermetures",
+        "telephone": "06 23 50 88 11",
+        "site_web": "http://www.gora-fermetures.fr/",
+        "adresse": "4 Lotissement les Alpins, 25290 Épeugney",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17455155077396103214",
+        "nom": "Art Fermetures",
+        "slug": "art-fermetures",
+        "telephone": "03 81 53 17 42",
+        "site_web": "http://www.artfermetures.com/",
+        "adresse": "3 rue Plaine Chaux, 25580 Étalans",
+        "note": 4.2,
+        "avis": 38,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11229603072629984519",
+        "nom": "Weldom Ornans",
+        "slug": "weldom-ornans",
+        "telephone": "03 81 62 24 97",
+        "site_web": "https://www.weldom.fr/m/weldom-ornans",
+        "adresse": "6 Rue Eugène Cusenier, 25290 Ornans",
+        "note": 4.2,
+        "avis": 285,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "10415756323006943082",
+        "nom": "Martinenghi Menuiserie Charpente Couverture",
+        "slug": "martinenghi-menuiserie-charpente-couverture",
+        "telephone": "03 81 62 20 18",
+        "site_web": null,
+        "adresse": "15 Chem. des Sablières, 25290 Ornans",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Charpentier"
+      },
+      {
+        "id": "18400807924233210931",
+        "nom": "Barbier Métallerie Serrurerie",
+        "slug": "barbier-metallerie-serrurerie",
+        "telephone": "06 34 48 12 95",
+        "site_web": "http://www.barbier-metallerie-serrurerie.fr/",
+        "adresse": "11 Chem. le Chandouillot, 25290 Ornans",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Entreprise de construction métallique"
+      }
+    ]
+  },
+  "roche-lez-beaupre": {
+    "artisans": [
+      {
+        "id": "6854428491551823381",
+        "nom": "SARL MICHEL ANGELOT",
+        "slug": "sarl-michel-angelot",
+        "telephone": "03 81 57 02 12",
+        "site_web": "http://www.sarl-michelangelot.fr/nous-contacter.php",
+        "adresse": "11 Rue du Barrage, 25220 Roche-lez-Beaupré",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13570139359870332542",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 81 41 05 15",
+        "site_web": "https://magasins.lapeyre.fr/bourgogne-franche-comte/doubs/lapeyre-besancon-66",
+        "adresse": "4 Rue François Villon, 25000 Besançon",
+        "note": 4.1,
+        "avis": 409,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13389633520084540639",
+        "nom": "Opticien Roche-lez-Beaupré - Krys",
+        "slug": "opticien-roche-lez-beaupre-krys",
+        "telephone": "03 81 63 94 07",
+        "site_web": "https://www.krys.com/opticien/france/doubs/opticien-roche-lez-beaupre/roche-beaupre",
+        "adresse": "3 Chem. des Prés Chalots, 25220 Roche-lez-Beaupré",
+        "note": 5,
+        "avis": 162,
+        "type": "Opticien"
+      }
+    ]
+  },
+  "pont-de-roide-vermondans": {
+    "artisans": [
+      {
+        "id": "15115581116325556661",
+        "nom": "Andralex",
+        "slug": "andralex",
+        "telephone": "03 81 92 21 66",
+        "site_web": "http://www.facebook.com/LombardAndralex/?ref=br_rs",
+        "adresse": "9 A Rue d'Alsace, 25150 Pont-de-Roide-Vermondans",
+        "note": 3.9,
+        "avis": 11,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3645218791211645771",
+        "nom": "Menuiserie FRESARD",
+        "slug": "menuiserie-fresard",
+        "telephone": "03 81 92 24 92",
+        "site_web": "http://menuiserie-fresard.fr/",
+        "adresse": "16 Rue du Moulin, 25150 Pont-de-Roide-Vermondans",
+        "note": 4.6,
+        "avis": 21,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14142234786133570779",
+        "nom": "CRP",
+        "slug": "crp",
+        "telephone": "06 85 64 35 10",
+        "site_web": "http://www.conception-realisation-pose.fr/",
+        "adresse": "19 Rue de la Gare, 25150 Pont-de-Roide-Vermondans",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pouilley-les-vignes": {
+    "artisans": [
+      {
+        "id": "9552480497959381392",
+        "nom": "Ideabois Menuiserie",
+        "slug": "ideabois-menuiserie",
+        "telephone": "03 81 58 89 26",
+        "site_web": "https://www.ideabois.com/",
+        "adresse": "4 Rue Armand Peugeot, 70190 Boulot",
+        "note": 4.8,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12275608919821411269",
+        "nom": "VELUX Technology Centre",
+        "slug": "velux-technology-centre",
+        "telephone": "03 84 31 95 50",
+        "site_web": "https://www.velux.com/",
+        "adresse": "8 Rue Claude Girard, 25770 Chemaudin et Vaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "15948601873863317476",
+        "nom": "BÂTI FAÇADES",
+        "slug": "bati-facades",
+        "telephone": "09 53 54 05 49",
+        "site_web": "https://www.batifacades.com/",
+        "adresse": "Parc d'activité, 19 Rue des Combottes, 25115 Pouilley-les-Vignes",
+        "note": 3.9,
+        "avis": 25,
+        "type": "Façadier"
+      },
+      {
+        "id": "24555010631388503",
+        "nom": "Opticien Pouilley-les-Vignes - Le Collectif des Lunetiers",
+        "slug": "opticien-pouilley-les-vignes-le-collectif-des-lunetiers",
+        "telephone": "03 81 55 40 22",
+        "site_web": "https://www.lecollectifdeslunetiers.fr/opticien/france/doubs/opticien-pouilley-les-vignes/pouilley-ccsuperu",
+        "adresse": "Centre Commercial Super U, Rue d'Emagny, 25115 Pouilley-les-Vignes",
+        "note": 4.9,
+        "avis": 224,
+        "type": "Opticien"
+      },
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9661110062133120082",
+        "nom": "Cali&Co Besançon - Toiture",
+        "slug": "calico-besancon-toiture",
+        "telephone": "03 81 62 09 40",
+        "site_web": "https://www.cali-co.fr/",
+        "adresse": "ZAC de l'Échange, 4 Rue Robert Schwint, 25770 Chemaudin et Vaux",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8994209438016459932",
+        "nom": "Vitralys",
+        "slug": "vitralys",
+        "telephone": "06 86 84 11 27",
+        "site_web": "https://www.instagram.com/vitralys25/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 9,
+        "type": "Entreprise de nettoyage de vitres"
+      }
+    ]
+  },
+  "pontarlier": {
+    "artisans": [
+      {
+        "id": "6786665298036562203",
+        "nom": "Komilfo Saillard Frères à Pontarlier - Vérandas, Pergolas, Stores, Menuiseries",
+        "slug": "komilfo-saillard-freres-a-pontarlier-verandas-pergolas-stores-menuiseries",
+        "telephone": "03 81 39 75 75",
+        "site_web": "https://www.komilfo.fr/magasins/saillard-freres-pontarlier-25?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "6 Rue Pierre Mendès France, 25300 Pontarlier",
+        "note": 4.1,
+        "avis": 96,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12282114071086124248",
+        "nom": "Profen – Fenêtres, Portes et Volets – Pontarlier",
+        "slug": "profen-fenetres-portes-et-volets-pontarlier",
+        "telephone": "03 81 69 20 04",
+        "site_web": "https://profen.fr/",
+        "adresse": "Zone Les Gravilliers, 9 Rue Charles Marie Lagier, 25300 Pontarlier",
+        "note": 4.3,
+        "avis": 27,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rougemont": {
+    "artisans": [
+      {
+        "id": "10970103321732581187",
+        "nom": "DNS Fenêtres",
+        "slug": "dns-fenetres",
+        "telephone": "03 81 62 55 37",
+        "site_web": "https://www.fermetures-dns.fr/",
+        "adresse": "Zone Artisanale Pré Rond, 25680 Cuse-et-Adrisans",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "quingey": {
+    "artisans": [
+      {
+        "id": "14947220091088913146",
+        "nom": "Groupe Boillot Fenêtres Fermetures",
+        "slug": "groupe-boillot-fenetres-fermetures",
+        "telephone": "03 81 84 64 04",
+        "site_web": "https://www.groupeboillotfenetresfermetures.com/",
+        "adresse": "ZA La Combe Parnette, 25440 Lavans-Quingey",
+        "note": 1,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "sainte-suzanne": {
+    "artisans": [
+      {
+        "id": "7206909983526443981",
+        "nom": "Toitures et Fermetures comtoises",
+        "slug": "toitures-et-fermetures-comtoises",
+        "telephone": "03 39 63 00 96",
+        "site_web": "https://www.toitureetfermeturecomtoise.fr/?utm_source=gmb",
+        "adresse": "6 Rue des Prés, 25630 Sainte-Suzanne",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-russey": {
+    "artisans": [
+      {
+        "id": "255362178798176676",
+        "nom": "Mikit Le Russey",
+        "slug": "mikit-le-russey",
+        "telephone": "06 60 72 85 33",
+        "site_web": "https://le-russey.mikit.fr/",
+        "adresse": "100 Avenue Marechal Delattre de Tassigny, 25210 Le Russey",
+        "note": 5,
+        "avis": 26,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "11818937044958883813",
+        "nom": "Mainier Fermetures",
+        "slug": "mainier-fermetures",
+        "telephone": "03 81 43 83 09",
+        "site_web": "http://mainierfermetures.site-solocal.com/?utm_source=gmb",
+        "adresse": "7 Rue des Rondeys, 25210 Le Russey",
+        "note": 3.4,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1473750567578348521",
+        "nom": "Point.P - Le Russey",
+        "slug": "pointp-le-russey",
+        "telephone": "03 81 43 85 40",
+        "site_web": "https://www.pointp.fr/infos-agence/le-russey-point-p-3165",
+        "adresse": "Rue des Fuottes Rte de Grand Combe Des Bois, 25210 Le Russey",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-vit": {
+    "artisans": [
+      {
+        "id": "7162046836793642417",
+        "nom": "Menuiserie PESEUX",
+        "slug": "menuiserie-peseux",
+        "telephone": "03 81 87 71 77",
+        "site_web": "http://www.menuiserie-peseux.fr/",
+        "adresse": "2 Rue Jean Moulin, 25410 Saint-Vit",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2236410468706321637",
+        "nom": "Avenir Fermetures",
+        "slug": "avenir-fermetures",
+        "telephone": "03 63 35 21 78",
+        "site_web": "https://www.avenirfermetures.fr/",
+        "adresse": "17 Rue Robert Schuman, 25410 Saint-Vit",
+        "note": 4.6,
+        "avis": 112,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "seloncourt": {
+    "artisans": [
+      {
+        "id": "665027786502555982",
+        "nom": "Renov'Est",
+        "slug": "renovest",
+        "telephone": "03 81 95 22 17",
+        "site_web": "http://www.renovest.fr/",
+        "adresse": "16 Rue de la Croisée, 25400 Taillecourt",
+        "note": 4.6,
+        "avis": 85,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "serre-les-sapins": {
+    "artisans": [
+      {
+        "id": "4177973365848982721",
+        "nom": "Vsnb Sarl",
+        "slug": "vsnb-sarl",
+        "telephone": "03 81 80 17 52",
+        "site_web": null,
+        "adresse": "15 Rue Terre Rouge, 25770 Serre-les-Sapins",
+        "note": 4,
+        "avis": 5,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "14307124705433678982",
+        "nom": "SBI / Chauffage Climatisation Menuiseries extérieures / Expert conseil FenetreA",
+        "slug": "sbi-chauffage-climatisation-menuiseries-exterieures-expert-conseil-fenetrea",
+        "telephone": "03 81 59 01 21",
+        "site_web": "https://www.sbi25.com/",
+        "adresse": "13 B Rue de Blanchot, 25770 Serre-les-Sapins",
+        "note": 4.7,
+        "avis": 47,
+        "type": "Menuisier"
+      },
+      {
+        "id": "290990376680149200",
+        "nom": "Serre-les-Sapins",
+        "slug": "serre-les-sapins",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "25770 Serre-les-Sapins",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4406485637263887746",
+        "nom": "Entreprise Rabian",
+        "slug": "entreprise-rabian",
+        "telephone": "03 81 59 02 77",
+        "site_web": "https://rabian-metallerie.fr/",
+        "adresse": "19 Rue de Blanchot, 25770 Serre-les-Sapins",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "7673160789302746528",
+        "nom": "Riva Sarl",
+        "slug": "riva-sarl",
+        "telephone": "03 81 50 03 01",
+        "site_web": null,
+        "adresse": "6 Rue Droulier, 25770 Serre-les-Sapins",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Maçon"
+      },
+      {
+        "id": "2424524394527559771",
+        "nom": "Fenêtres & Fermetures",
+        "slug": "fenetres-fermetures",
+        "telephone": "03 81 85 00 60",
+        "site_web": "http://fenetres-fermetures.fr/",
+        "adresse": "1 Rue des Nozières, 25770 Serre-les-Sapins",
+        "note": 4,
+        "avis": 46,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "roulans": {
+    "artisans": [
+      {
+        "id": "3861671444157621667",
+        "nom": "La Boussole des Travaux du Doubs",
+        "slug": "la-boussole-des-travaux-du-doubs",
+        "telephone": "06 81 03 53 18",
+        "site_web": "https://sites.google.com/view/laboussoledestravauxdudoubs/accueil?utm_source=gmb",
+        "adresse": "15 Rue des Aloses, 25640 Roulans",
+        "note": 4.8,
+        "avis": 86,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saone": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6366941939048721438",
+        "nom": "Cretenet Eric",
+        "slug": "cretenet-eric",
+        "telephone": "03 81 41 02 29",
+        "site_web": "http://creteneteric.site-solocal.com/",
+        "adresse": "2 Rue de Rochefort, 25660 Montfaucon",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "sancey": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sochaux": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tarcenay-foucherans": {
+    "artisans": [
+      {
+        "id": "12064446924325011679",
+        "nom": "Idéal Menuiserie",
+        "slug": "ideal-menuiserie",
+        "telephone": "03 81 56 58 58",
+        "site_web": "https://ideal-menuiserie.fr/",
+        "adresse": "28 Rte de Besançon, 25620 Tarcenay-Foucherans",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Agenceur"
+      },
+      {
+        "id": "6761212460662074767",
+        "nom": "Roy menuiserie charpente (RMC)",
+        "slug": "roy-menuiserie-charpente-rmc",
+        "telephone": "06 76 28 06 08",
+        "site_web": "https://roy-menuiserie-charpente.fr/",
+        "adresse": "8E Rue de la Croix, 25620 Tarcenay-Foucherans",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "taillecourt": {
+    "artisans": [
+      {
+        "id": "665027786502555982",
+        "nom": "Renov'Est",
+        "slug": "renovest",
+        "telephone": "03 81 95 22 17",
+        "site_web": "http://www.renovest.fr/",
+        "adresse": "16 Rue de la Croisée, 25400 Taillecourt",
+        "note": 4.6,
+        "avis": 85,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "13351087381129118510",
+        "nom": "Idéal fermeture",
+        "slug": "ideal-fermeture",
+        "telephone": "03 81 92 53 09",
+        "site_web": "http://www.fermeture-ideal.fr/?utm_source=gmb",
+        "adresse": "6 Imp. des Champs Millot, 25400 Taillecourt",
+        "note": 5,
+        "avis": 103,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "thise": {
+    "artisans": [
+      {
+        "id": "5034170562913210816",
+        "nom": "DNS Fenêtres",
+        "slug": "dns-fenetres",
+        "telephone": "03 81 62 55 37",
+        "site_web": "https://www.fermetures-dns-thise.fr/",
+        "adresse": "46 Rue de Besançon, 25220 Thise",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "valentigney": {
+    "artisans": [
+      {
+        "id": "8375217882285404021",
+        "nom": "FG Toiture - Applicateur Tuilex",
+        "slug": "fg-toiture-applicateur-tuilex",
+        "telephone": "03 81 93 15 00",
+        "site_web": "https://tuilex.fr/applicateurs/fg-toiture-25/",
+        "adresse": "5 Rue des Combottes, 25700 Valentigney",
+        "note": 4.6,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6651155857107481696",
+        "nom": "ANL PVC | Fenêtres & Portes",
+        "slug": "anl-pvc-fenetres-portes",
+        "telephone": "06 65 65 98 36",
+        "site_web": "https://www.anlpvc.fr/?utm_source=Google&utm_medium=My%20Business&utm_campaign=Local",
+        "adresse": "1 Grande Rue, 25700 Valentigney",
+        "note": 3.1,
+        "avis": 26,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "13936192482484304419",
+        "nom": "L'Atelier Fermetures",
+        "slug": "latelier-fermetures",
+        "telephone": "06 58 28 70 32",
+        "site_web": "https://www.latelier-fermetures.fr/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "3 Rue de la Libération, 25700 Valentigney",
+        "note": 5,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "4788946799530630268",
+        "nom": "Durand Fils",
+        "slug": "durand-fils",
+        "telephone": "03 81 30 68 58",
+        "site_web": "http://www.durandfils-25.com/",
+        "adresse": "18/20 Rue des Combottes, 25700 Valentigney",
+        "note": 3.2,
+        "avis": 23,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16648538149548728641",
+        "nom": "SARL DELFILS",
+        "slug": "sarl-delfils",
+        "telephone": "06 70 63 55 48",
+        "site_web": "http://sarldelfils.free.fr/",
+        "adresse": "37 Rue des Buis, 25700 Valentigney",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "torpes": {
+    "artisans": [
+      {
+        "id": "7839371587292511630",
+        "nom": "FG Toiture - Applicateur Tuilex",
+        "slug": "fg-toiture-applicateur-tuilex",
+        "telephone": "03 81 63 53 37",
+        "site_web": "https://tuilex.fr/applicateurs/fg-toiture-25/",
+        "adresse": "7 Rue Pythagore, 25410 Dannemarie-sur-Crète",
+        "note": 4.5,
+        "avis": 58,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mandeure": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "valdahon": {
+    "artisans": [
+      {
+        "id": "17982044179260619565",
+        "nom": "BigMat Les Matériaux du Haut Doubs",
+        "slug": "bigmat-les-materiaux-du-haut-doubs",
+        "telephone": "03 81 56 24 45",
+        "site_web": "https://www.bigmat.fr/materiaux-haut-doubs/valdahon/",
+        "adresse": "24 Grande Rue, 25800 Valdahon",
+        "note": 4.3,
+        "avis": 29,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "866090223013957016",
+        "nom": "Bat Et Mat",
+        "slug": "bat-et-mat",
+        "telephone": "03 81 60 33 74",
+        "site_web": "http://www.batetmat.fr/?utm_source=gmb",
+        "adresse": "Za en Pougie, 20 Rue Denis Papin, 25800 Valdahon",
+        "note": 4.4,
+        "avis": 77,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "4697350111363929188",
+        "nom": "Pittet Mickael - Menuisier Ébeniste",
+        "slug": "pittet-mickael-menuisier-ebeniste",
+        "telephone": "06 31 74 88 12",
+        "site_web": "http://www.ebeniste-menuiserie-besancon.fr/",
+        "adresse": "6 Rue du Chanoine Brachotte, 25800 Valdahon",
+        "note": 4.6,
+        "avis": 7,
+        "type": "Tapissier décorateur"
+      }
+    ]
+  },
+  "morre": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "mathay": {
+    "artisans": [
+      {
+        "id": "12559160529280889635",
+        "nom": "MJ TOITURE",
+        "slug": "mj-toiture",
+        "telephone": "06 75 04 29 48",
+        "site_web": null,
+        "adresse": "211 Rue de Saint-Paul, 25700 Mathay",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12085029478331050487",
+        "nom": "Claude Jacques Et Fils SARL",
+        "slug": "claude-jacques-et-fils-sarl",
+        "telephone": "03 81 35 28 66",
+        "site_web": "http://www.claudejacquesetfilssarl.fr/",
+        "adresse": "ZI Ansanges, 10, 25700 Mathay",
+        "note": 3.8,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2001489045735596522",
+        "nom": "SARL Grangeot",
+        "slug": "sarl-grangeot",
+        "telephone": "03 81 98 15 46",
+        "site_web": "http://www.revetementsdesols-grangeot.fr/",
+        "adresse": "271 Rue du Tertre, 25700 Mathay",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les revêtements de sol"
+      }
+    ]
+  },
+  "montenois": {
+    "artisans": [
+      {
+        "id": "12176906268673513003",
+        "nom": "Chauvez Menuiserie SARL",
+        "slug": "chauvez-menuiserie-sarl",
+        "telephone": "03 81 93 19 03",
+        "site_web": "http://www.menuiserie-charpente-chauvez.fr/?utm_source=gmb",
+        "adresse": "9 Rue du Sausset, 25260 Montenois",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "metabief": {
+    "artisans": [
+      {
+        "id": "4471838614765078066",
+        "nom": "Agence CENTURY 21 Avenir Immobilier Métabief",
+        "slug": "agence-century-21-avenir-immobilier-metabief",
+        "telephone": "03 81 49 26 66",
+        "site_web": "https://www.century21-haut-doubs-immobilier-metabief.com/?utm_source=google_business&utm_medium=bouton_fiche_agence&utm_campaign=agence-century-21-avenir-immobilier-mtabief",
+        "adresse": "2 Pl. Xavier Authier, 25370 Métabief",
+        "note": 4.5,
+        "avis": 392,
+        "type": "Agence immobilière"
+      }
+    ]
+  },
+  "marchaux-chaudefontaine": {
+    "artisans": [
+      {
+        "id": "17573613327662746918",
+        "nom": "Petitjean Pères et Fils SARL",
+        "slug": "petitjean-peres-et-fils-sarl",
+        "telephone": "03 81 57 97 16",
+        "site_web": "https://www.petitjean-renovation-25.fr/?utm_source=gmb",
+        "adresse": "26 Rue du Bois Joli, 25640 Marchaux-Chaudefontaine",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "4348029455578902610",
+        "nom": "Franche-Comté Menuiserie",
+        "slug": "franche-comte-menuiserie",
+        "telephone": "03 81 57 90 00",
+        "site_web": "https://www.franche-comte-menuiserie.fr/",
+        "adresse": "25640 Rue du Fourney, 25640 Marchaux-Chaudefontaine",
+        "note": 0,
+        "avis": 0,
+        "type": "Site d'entreprise"
+      },
+      {
+        "id": "1546046886166444461",
+        "nom": "Franche Comte Menuiserie",
+        "slug": "franche-comte-menuiserie",
+        "telephone": "03 81 57 90 00",
+        "site_web": "https://www.franche-comte-menuiserie.fr/",
+        "adresse": "Rue de la Comtesse, 25640 Marchaux-Chaudefontaine",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "montfaucon": {
+    "artisans": [
+      {
+        "id": "6366941939048721438",
+        "nom": "Cretenet Eric",
+        "slug": "cretenet-eric",
+        "telephone": "03 81 41 02 29",
+        "site_web": "http://creteneteric.site-solocal.com/",
+        "adresse": "2 Rue de Rochefort, 25660 Montfaucon",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "miserey-salines": {
+    "artisans": [
+      {
+        "id": "6965265113317986309",
+        "nom": "Serplaste Besançon",
+        "slug": "serplaste-besancon",
+        "telephone": "03 81 52 37 27",
+        "site_web": "https://serplaste.fr/agence-besancon/",
+        "adresse": "Chem. Des Maurapan, 25870 Châtillon-le-Duc",
+        "note": 4.4,
+        "avis": 47,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9277401635386620800",
+        "nom": "RM Stores et Fermetures - KOMILFO -",
+        "slug": "rm-stores-et-fermetures-komilfo",
+        "telephone": "03 81 80 76 28",
+        "site_web": "https://www.komilfo.fr/magasins/rm-stores-fermetures-besancon-25",
+        "adresse": "4 Rue de Châtillon, 25480 École-Valentin",
+        "note": 4.8,
+        "avis": 146,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18183045414436844019",
+        "nom": "Fenêtres Bisontines - Artisans à Besançon depuis 5 générations - Fenêtres et menuiseries PVC/Aluminium/Bois",
+        "slug": "fenetres-bisontines-artisans-a-besancon-depuis-5-generations-fenetres-et-menuiseries-pvcaluminiumbois",
+        "telephone": "03 81 50 32 89",
+        "site_web": "https://www.fenetresbisontines.fr/",
+        "adresse": "Espace Valentin, Zac de Valentin Village Expobat, 25000 Besançon",
+        "note": 5,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16560556221807310127",
+        "nom": "Véranda Bois Concept",
+        "slug": "veranda-bois-concept",
+        "telephone": "03 81 50 32 89",
+        "site_web": "https://www.verandaboisconcept.com/",
+        "adresse": "Espace Valentin, Zac de Valentin Village Expobat, 25000 Besançon",
+        "note": 4.9,
+        "avis": 36,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2194709401788658606",
+        "nom": "Eurl Chico la Menuiserie",
+        "slug": "eurl-chico-la-menuiserie",
+        "telephone": "06 19 12 65 55",
+        "site_web": null,
+        "adresse": "39 Rue des Etouvettes, 25480 Miserey-Salines",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "montbeliard": {
+    "artisans": [
+      {
+        "id": "1351850662818572595",
+        "nom": "Fermetures Charmontaises",
+        "slug": "fermetures-charmontaises",
+        "telephone": "03 81 94 25 27",
+        "site_web": "https://www.fermetures-charmontaises.fr/",
+        "adresse": "17 Rue du Manège, 25600 Vieux-Charmont",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10042767471010052527",
+        "nom": "AQUILANO Fermetures",
+        "slug": "aquilano-fermetures",
+        "telephone": "03 81 92 30 69",
+        "site_web": "http://www.aquilano.fr/",
+        "adresse": "28 Rue des Febvres, 25200 Montbéliard",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "14083681155064183227",
+        "nom": "ALU FACTORY",
+        "slug": "alu-factory",
+        "telephone": "03 81 99 60 30",
+        "site_web": "http://alu-factory.fr/",
+        "adresse": "18 Rue Louis Jeanperrin, 25200 Montbéliard",
+        "note": 4.1,
+        "avis": 27,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "198310095282001742",
+        "nom": "Komilfo Courvoisier Stores et Fermetures à Montbéliard - Pergolas,Stores,Menuiseries",
+        "slug": "komilfo-courvoisier-stores-et-fermetures-a-montbeliard-pergolasstoresmenuiseries",
+        "telephone": "03 81 31 29 60",
+        "site_web": "https://www.komilfo.fr/magasins/courvoisier-stores-fermetures-montbeliard-25?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "Zone artisanale de l'Allan, Rue de l'Allan, 25600 Vieux-Charmont",
+        "note": 4.2,
+        "avis": 363,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13855456042663534404",
+        "nom": "Michel rénovation toiture",
+        "slug": "michel-renovation-toiture",
+        "telephone": "07 43 60 67 17",
+        "site_web": "https://www.michel-toiture.fr/",
+        "adresse": "1 Pl. Jean Jaurès, 25200 Montbéliard",
+        "note": 4.9,
+        "avis": 47,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5361032498085883435",
+        "nom": "Jouffroy Frères",
+        "slug": "jouffroy-freres",
+        "telephone": "03 81 90 32 28",
+        "site_web": "https://www.menuiserie-jouffroy.fr/",
+        "adresse": "16 Rue des Écoles, 25420 Bart",
+        "note": 4.4,
+        "avis": 38,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "14493089527311957469",
+        "nom": "AS Couverture",
+        "slug": "as-couverture",
+        "telephone": "06 59 54 73 11",
+        "site_web": "https://www.ascouverture-25.fr/",
+        "adresse": "1 Pl. Jean Jaurès, 25200 Montbéliard",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "maiche": {
+    "artisans": [
+      {
+        "id": "12745799106997937450",
+        "nom": "Maiche Matériaux - Tout Faire",
+        "slug": "maiche-materiaux-tout-faire",
+        "telephone": "03 81 64 32 55",
+        "site_web": "https://www.toutfaire.fr/maiche-materiaux-maiche.html",
+        "adresse": "12 Rue du Jura, 25120 Maîche",
+        "note": 4,
+        "avis": 69,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10744165597107788280",
+        "nom": "DNS Fenêtres",
+        "slug": "dns-fenetres",
+        "telephone": "03 81 62 55 37",
+        "site_web": "https://www.fermetures-dns-maiche.fr/",
+        "adresse": "3 Rue de Saint-Hippolyte, 25120 Maîche",
+        "note": 3.1,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10061990026439965844",
+        "nom": "Charpentes et Maisons Bois du Doubs",
+        "slug": "charpentes-et-maisons-bois-du-doubs",
+        "telephone": "03 81 64 26 36",
+        "site_web": "http://www.charpentes-maisons-bois-doubs.fr/",
+        "adresse": "10 Rue des Grettes, 25120 Maîche",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "jougne": {
+    "artisans": [
+      {
+        "id": "855006601547079980",
+        "nom": "Fournier Menuiserie PVC",
+        "slug": "fournier-menuiserie-pvc",
+        "telephone": "03 81 92 74 66",
+        "site_web": "https://www.menuiserie-fournier.fr/",
+        "adresse": "ZA la Combe Rosiers, 1 Rue des Ranchot, 25250 L'Isle-sur-le-Doubs",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "10491910691901901611",
+        "nom": "Menuiserie Tissot",
+        "slug": "menuiserie-tissot",
+        "telephone": "03 81 45 15 13",
+        "site_web": "https://www.menuiserie-tissot.fr/",
+        "adresse": "Z.I, Rue des Meraillis, 25300 Les Fourgs",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7487461617640078492",
+        "nom": "JEP Charpente -Ossature bois -Rénovation",
+        "slug": "jep-charpente-ossature-bois-renovation",
+        "telephone": "06 70 26 41 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "labergement-sainte-marie": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montferrand-le-chateau": {
+    "artisans": [
+      {
+        "id": "2251924699112487478",
+        "nom": "Isola Fermetures",
+        "slug": "isola-fermetures",
+        "telephone": "03 81 88 49 08",
+        "site_web": null,
+        "adresse": "86 Rue de Besançon, 25320 Montferrand-le-Château",
+        "note": 4,
+        "avis": 3,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15143498557410805778",
+        "nom": "DOUBS TRAVAUX",
+        "slug": "doubs-travaux",
+        "telephone": "06 83 43 85 40",
+        "site_web": "https://www.doubstravaux.fr/",
+        "adresse": "1 Rue des Charmilles, 25320 Montferrand-le-Château",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "montlebon": {
+    "artisans": [
+      {
+        "id": "15850179220561042818",
+        "nom": "SIMONIN WOOD SOLUTIONS",
+        "slug": "simonin-wood-solutions",
+        "telephone": "03 81 67 01 26",
+        "site_web": "http://www.simonin.com/",
+        "adresse": "22 Rue des Epinottes ZA des, 25500 Montlebon",
+        "note": 4.6,
+        "avis": 62,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10137965522646875052",
+        "nom": "Scierie Pugin",
+        "slug": "scierie-pugin",
+        "telephone": "03 81 67 11 97",
+        "site_web": "http://www.scierie-pugin.com/",
+        "adresse": "Lieu-dit Louadey, 25500 Montlebon",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "levier": {
+    "artisans": [
+      {
+        "id": "713091728172245496",
+        "nom": "Fenêtres Fermetures du Doubs",
+        "slug": "fenetres-fermetures-du-doubs",
+        "telephone": "03 81 84 64 04",
+        "site_web": "https://www.fenetresdudoubs.com/",
+        "adresse": "Zone Artisanale de la Combe, Parnette 25440, 25440 Lavans-Quingey",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villers-le-lac": {
+    "artisans": [
+      {
+        "id": "1084734503862582696",
+        "nom": "M.A Fermeture",
+        "slug": "ma-fermeture",
+        "telephone": "07 86 08 41 15",
+        "site_web": null,
+        "adresse": "1 Rue du Maréchal Leclerc, 25130 Villers-le-Lac",
+        "note": 5,
+        "avis": 1,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "mamirolle": {
+    "artisans": [
+      {
+        "id": "554499698486410002",
+        "nom": "Tholomier Frères",
+        "slug": "tholomier-freres",
+        "telephone": "03 81 55 71 30",
+        "site_web": "http://www.facebook.com/Tholomier-freres-330608427497182/",
+        "adresse": "43 Rue du Stade, 25620 Mamirolle",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16376623746330065264",
+        "nom": "France Matériaux - Au Faite 25",
+        "slug": "france-materiaux-au-faite-25",
+        "telephone": "03 81 52 92 59",
+        "site_web": "https://negoce.france-materiaux.fr/25-france-materiaux-au-faite-25?utm_source=gmb",
+        "adresse": "Zone Artisanale Noret, 25620 Mamirolle",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "9095068867165948714",
+        "nom": "Zénith Constructions",
+        "slug": "zenith-constructions",
+        "telephone": "03 81 47 00 44",
+        "site_web": "https://www.maisonszenith.com/",
+        "adresse": "Z.I du Noret, 25620 Mamirolle",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "6377049863312751354",
+        "nom": "Cbois Agencement",
+        "slug": "cbois-agencement",
+        "telephone": "03 81 48 65 11",
+        "site_web": "https://www.cbois-agencement.fr/",
+        "adresse": "22 Rue du Noret, 25620 Mamirolle",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "1051331487825584618",
+        "nom": "REPARATION 25",
+        "slug": "reparation-25",
+        "telephone": "06 81 26 05 11",
+        "site_web": "https://www.reparation-25.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "vieux-charmont": {
+    "artisans": [
+      {
+        "id": "1351850662818572595",
+        "nom": "Fermetures Charmontaises",
+        "slug": "fermetures-charmontaises",
+        "telephone": "03 81 94 25 27",
+        "site_web": "https://www.fermetures-charmontaises.fr/",
+        "adresse": "17 Rue du Manège, 25600 Vieux-Charmont",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "198310095282001742",
+        "nom": "Komilfo Courvoisier Stores et Fermetures à Montbéliard - Pergolas,Stores,Menuiseries",
+        "slug": "komilfo-courvoisier-stores-et-fermetures-a-montbeliard-pergolasstoresmenuiseries",
+        "telephone": "03 81 31 29 60",
+        "site_web": "https://www.komilfo.fr/magasins/courvoisier-stores-fermetures-montbeliard-25?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "Zone artisanale de l'Allan, Rue de l'Allan, 25600 Vieux-Charmont",
+        "note": 4.2,
+        "avis": 363,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "voujeaucourt": {
+    "artisans": [
+      {
+        "id": "14835738649168357228",
+        "nom": "L Air Du Toit",
+        "slug": "l-air-du-toit",
+        "telephone": "06 52 25 65 67",
+        "site_web": "https://www.lair-du-toit.com/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "1 Rue de la Noierie, 70400 Frahier-et-Chatebier",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "chateauvillain": {
+    "artisans": [
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3905836091236495072",
+        "nom": "Jais Services",
+        "slug": "jais-services",
+        "telephone": "06 42 94 25 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10540737105087535433",
+        "nom": "Forge de France Paris",
+        "slug": "forge-de-france-paris",
+        "telephone": "07 45 91 74 03",
+        "site_web": null,
+        "adresse": "86 Av. de la République, 75011 Paris",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Vitrier"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2923713275372396362",
+        "nom": "Roofnow",
+        "slug": "roofnow",
+        "telephone": "01 85 09 72 64",
+        "site_web": "https://roofnow.fr/",
+        "adresse": "26 Rue Bosquet, 75007 Paris",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "393094641864557431",
+        "nom": "Reparation Fenetre Paris toute marque: cremone,poignee",
+        "slug": "reparation-fenetre-paris-toute-marque-cremonepoignee",
+        "telephone": "06 51 85 75 38",
+        "site_web": "https://www.paris-fenetre.fr/",
+        "adresse": "102 Av. des Champs-Élysées, 75008 Paris",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4513875156904007383",
+        "nom": "LESPETITSTRAVAUX.COM",
+        "slug": "lespetitstravauxcom",
+        "telephone": "06 50 91 48 58",
+        "site_web": "http://www.lespetitstravaux.com/?utm_source=gmb",
+        "adresse": "18 Rue Cadet, 75009 Paris",
+        "note": 5,
+        "avis": 43,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14555292365492619796",
+        "nom": "HBHS - Dépannage Rideaux Métalliques Paris - Île de France",
+        "slug": "hbhs-depannage-rideaux-metalliques-paris-ile-de-france",
+        "telephone": "01 85 42 08 07",
+        "site_web": "https://www.rideaux-metalliques.paris/",
+        "adresse": "10 Rue Alexandre Dumas, 75011 Paris",
+        "note": 4.8,
+        "avis": 305,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "chancenay": {
+    "artisans": [
+      {
+        "id": "1811555937989684978",
+        "nom": "Etablissement Lefevre Paris 11 : Plomberie dégorgement Chauffage Serrurerie",
+        "slug": "etablissement-lefevre-paris-11-plomberie-degorgement-chauffage-serrurerie",
+        "telephone": "01 48 05 15 15",
+        "site_web": "https://www.ets-lefevre.fr/",
+        "adresse": "124 Bd Voltaire, 75011 Paris",
+        "note": 4.5,
+        "avis": 147,
+        "type": "Plombier"
+      },
+      {
+        "id": "15810091605655052955",
+        "nom": "Entreprise Denys père et fils - Votre artisan de proximité",
+        "slug": "entreprise-denys-pere-et-fils-votre-artisan-de-proximite",
+        "telephone": "06 51 44 18 71",
+        "site_web": "https://ets-denys.com/",
+        "adresse": "Imp. des Roitelets, 94350 Villiers-sur-Marne",
+        "note": 5,
+        "avis": 22,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13945185318376010191",
+        "nom": "Diruy",
+        "slug": "diruy",
+        "telephone": "01 45 45 46 46",
+        "site_web": "http://diruy.fr/",
+        "adresse": "168 Rue Raymond Losserand, 75014 Paris",
+        "note": 4.8,
+        "avis": 116,
+        "type": "Magasin"
+      },
+      {
+        "id": "17029750830929783172",
+        "nom": "MJN Couverture Installateur Expert VELUX",
+        "slug": "mjn-couverture-installateur-expert-velux",
+        "telephone": "06 80 98 32 28",
+        "site_web": "https://www.facebook.com/profile.php?id=61560145871737",
+        "adresse": "2 Rue de Villeparisis, 77290 Mitry-Mory",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7417397711653357236",
+        "nom": "Ilux",
+        "slug": "ilux",
+        "telephone": "01 83 62 49 02",
+        "site_web": "https://installateurfenetresdetoit.fr/",
+        "adresse": "2 Av. du Prieuré, 77700 Serris",
+        "note": 4.6,
+        "avis": 36,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18221492168587423283",
+        "nom": "HSP Habitat Sécurité Protection",
+        "slug": "hsp-habitat-securite-protection",
+        "telephone": "06 83 23 32 82",
+        "site_web": "https://www.hsp-serrurier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 377,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9903380847790915362",
+        "nom": "CASALUX /installateur Velux Roto / Aménagement de combles",
+        "slug": "casalux-installateur-velux-roto-amenagement-de-combles",
+        "telephone": "06 59 30 16 90",
+        "site_web": "http://www.casa-lux.fr/",
+        "adresse": "Av. du Gén Leclerc, 77390 Chaumes-en-Brie",
+        "note": 5,
+        "avis": 72,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "chevillon": {
+    "artisans": [
+      {
+        "id": "14443114526651903744",
+        "nom": "Les Fidèles Compagnons Du Toit",
+        "slug": "les-fideles-compagnons-du-toit",
+        "telephone": "06 14 71 05 62",
+        "site_web": "https://les-fideles-compagnons-du-toit.fr/",
+        "adresse": "14 Av. du Général de Gaulle, 94160 Saint-Mandé",
+        "note": 4.7,
+        "avis": 73,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "eclaron-braucourt-sainte-liviere": {
+    "artisans": [
+      {
+        "id": "1320397903374131695",
+        "nom": "JL Décors : Installateur Vélux Expert Agréé",
+        "slug": "jl-decors-installateur-velux-expert-agree",
+        "telephone": "06 01 77 09 79",
+        "site_web": "https://www.fenetre-couvreur.com/",
+        "adresse": "13 Cr des Œillets, 77164 Ferrières-en-Brie",
+        "note": 4.7,
+        "avis": 75,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "eurville-bienville": {
+    "artisans": [
+      {
+        "id": "689909042814315580",
+        "nom": "Godin Sarl",
+        "slug": "godin-sarl",
+        "telephone": "03 25 55 51 72",
+        "site_web": null,
+        "adresse": "Avenue Jacques Marcellot, ZA \"Les Vieilles Forges\", 52410 Eurville-Bienville",
+        "note": 3.9,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "7184489075368466391",
+        "nom": "Clair de Verre",
+        "slug": "clair-de-verre",
+        "telephone": "06 52 48 57 73",
+        "site_web": null,
+        "adresse": "4 Rue de la Hugee, 52410 Eurville-Bienville",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de vitraux"
+      },
+      {
+        "id": "5286932752039430178",
+        "nom": "Cr Habitat",
+        "slug": "cr-habitat",
+        "telephone": "03 25 55 50 50",
+        "site_web": "http://www.crhabitat.fr/",
+        "adresse": "52 Rue Gd Rue d'Eurville, 52410 Eurville-Bienville",
+        "note": 3.6,
+        "avis": 55,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "chaumont": {
+    "artisans": [
+      {
+        "id": "3498876552416561088",
+        "nom": "RENOVAL Vérandas, Extensions, Pergolas et Abris de piscine - Art Fermetures 52",
+        "slug": "renoval-verandas-extensions-pergolas-et-abris-de-piscine-art-fermetures-52",
+        "telephone": null,
+        "site_web": "https://www.renoval-veranda.com/concessionnaires/art-fermetures-52-chaumont-52/",
+        "adresse": "8 Rte de Neuilly, 52000 Chaumont",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8098331247386541003",
+        "nom": "Menuiserie du Foultot",
+        "slug": "menuiserie-du-foultot",
+        "telephone": "03 25 35 35 35",
+        "site_web": "http://menuiserie-foultot.com/",
+        "adresse": "Parc d’activité, Plein’Est, 52000 Chaumont",
+        "note": 4.9,
+        "avis": 72,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14556529491730700173",
+        "nom": "Miroiterie du Foultot",
+        "slug": "miroiterie-du-foultot",
+        "telephone": "03 25 35 35 35",
+        "site_web": null,
+        "adresse": "Parc Activité Eco, Plein’Est, 52000 Chaumont",
+        "note": 4.6,
+        "avis": 85,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13952691295549352724",
+        "nom": "KM Fermetures",
+        "slug": "km-fermetures",
+        "telephone": "06 08 77 61 62",
+        "site_web": "https://www.kmfermetures.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "63 Rte de Brottes, 52000 Chaumont",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8728325944066391325",
+        "nom": "Art fermetures 52 - Rénoval",
+        "slug": "art-fermetures-52-renoval",
+        "telephone": "03 51 25 10 44",
+        "site_web": "https://www.artfermetures52.fr/",
+        "adresse": "8 Rte de Neuilly, 52000 Chaumont",
+        "note": 5,
+        "avis": 5,
+        "type": "Magasin"
+      },
+      {
+        "id": "14468730369604722274",
+        "nom": "TRYBA Chaumont",
+        "slug": "tryba-chaumont",
+        "telephone": "03 53 64 12 99",
+        "site_web": "https://www.tryba.com/espace-conseil/52/tryba-chaumont/?utm_campaign=Tryba_Chaumont&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "19 Bd Thiers, 52000 Chaumont",
+        "note": 5,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1442535708111311569",
+        "nom": "SARP Grand Est - Chaumont",
+        "slug": "sarp-grand-est-chaumont",
+        "telephone": "03 25 35 05 35",
+        "site_web": "https://agence.sarp-assainissement.fr/222-sarp-osis-chaumont",
+        "adresse": "Rue Emile Baudot, Zi Dame Huguenotte, 52000 Chaumont",
+        "note": 5,
+        "avis": 5,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "9234771179388253429",
+        "nom": "SARL MENDES",
+        "slug": "sarl-mendes",
+        "telephone": "03 25 32 15 97",
+        "site_web": "http://www.sarl-mendes-toiture.com/?utm_source=gmb",
+        "adresse": "71 Av. de la République, 52000 Chaumont",
+        "note": 4.3,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "118022625265708985",
+        "nom": "Créanov",
+        "slug": "creanov",
+        "telephone": "06 31 86 68 42",
+        "site_web": "http://www.creanov-entreprise.fr/",
+        "adresse": "22 Rue de Chevraucourt, 52000 Chaumont",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "8708573612278409278",
+        "nom": "MJ Menuiserie",
+        "slug": "mj-menuiserie",
+        "telephone": "03 25 32 31 96",
+        "site_web": "http://www.mj-menuiseries.com/",
+        "adresse": "4 Rue de la Gloriotte, 52000 Euffigneix",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "chamarandes-choignes": {
+    "artisans": [
+      {
+        "id": "9091547673561224508",
+        "nom": "BGC Menuiserie",
+        "slug": "bgc-menuiserie",
+        "telephone": "03 25 31 94 23",
+        "site_web": "https://menuiserie-bgc.fr/",
+        "adresse": "34 Rue du Château, 52000 Chamarandes-Choignes",
+        "note": 3.1,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "wassy": {
+    "artisans": [
+      {
+        "id": "17968096603850184955",
+        "nom": "Protec-Fermetures",
+        "slug": "protec-fermetures",
+        "telephone": "03 25 55 45 59",
+        "site_web": "https://www.protecfermetures.com/?utm_source=gmb",
+        "adresse": "Rue du Huit Mai, 52130 Wassy",
+        "note": 4.9,
+        "avis": 89,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "langres": {
+    "artisans": [
+      {
+        "id": "8230091168330532320",
+        "nom": "Projinov Menuiseries",
+        "slug": "projinov-menuiseries",
+        "telephone": "03 10 96 01 60",
+        "site_web": "https://www.projinov-menuiseries.com/",
+        "adresse": "511 Av. de la Collinière, 52200 Langres",
+        "note": 4.8,
+        "avis": 46,
+        "type": "Menuisier"
+      },
+      {
+        "id": "193680932810865406",
+        "nom": "Doras Langres",
+        "slug": "doras-langres",
+        "telephone": "03 25 87 00 09",
+        "site_web": "https://www.doras.fr/?utm_source=gmb",
+        "adresse": "Rue Vernier et Collot ZAC Sabinus Grand Sud, 52200 Langres",
+        "note": 4.4,
+        "avis": 65,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "froncles": {
+    "artisans": [
+      {
+        "id": "12737159144666036766",
+        "nom": "Menuiserie Hervé Bonnecuelle",
+        "slug": "menuiserie-herve-bonnecuelle",
+        "telephone": "03 25 02 36 76",
+        "site_web": "http://www.menuiserie-bonnecuelle.fr/?utm_source=gmb",
+        "adresse": "Zone Artisanale du, rue Mar Foch, Grand Pré, 52320 Froncles",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "fayl-billot": {
+    "artisans": [
+      {
+        "id": "7472986395340160065",
+        "nom": "LINOTTE CHAUFFAGE",
+        "slug": "linotte-chauffage",
+        "telephone": "03 25 88 68 06",
+        "site_web": "https://www.linotte-chauffage-couverture.fr/",
+        "adresse": "12 Rue de la Haie de Montbraux, 52500 Fayl-Billot",
+        "note": 4.6,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11548140988632056413",
+        "nom": "Rolée",
+        "slug": "rolee",
+        "telephone": "03 25 88 61 58",
+        "site_web": null,
+        "adresse": "12 Rue de la Haie de Montbraux, 52500 Fayl-Billot",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "306291032082003995",
+        "nom": "Sarl Piquée",
+        "slug": "sarl-piquee",
+        "telephone": "03 25 88 64 13",
+        "site_web": "http://www.piquee-energies.com/",
+        "adresse": "ZI La Rose des Vents, 52500 Fayl-Billot",
+        "note": 3.4,
+        "avis": 42,
+        "type": "Plombier"
+      },
+      {
+        "id": "4511012764176753494",
+        "nom": "La Vannerie d'Aujourd'hui",
+        "slug": "la-vannerie-daujourdhui",
+        "telephone": "03 25 84 27 28",
+        "site_web": "http://www.lavanneriedaujourdhui.fr/?utm_source=gmb",
+        "adresse": "43 Grande Rue, 52500 Fayl-Billot",
+        "note": 4.4,
+        "avis": 601,
+        "type": "Grand magasin"
+      },
+      {
+        "id": "14858449761365678238",
+        "nom": "Létreux Énergie",
+        "slug": "letreux-energie",
+        "telephone": "06 11 19 68 07",
+        "site_web": "https://www.letreux-energie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11254683059643941708",
+        "nom": "Vacher SARL",
+        "slug": "vacher-sarl",
+        "telephone": "03 25 84 45 62",
+        "site_web": "http://www.vacher-elec.com/",
+        "adresse": "14 Rue de la Haie de Montbraux, 52500 Fayl-Billot",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "8379291585506537315",
+        "nom": "Vannerie Delamotte",
+        "slug": "vannerie-delamotte",
+        "telephone": "03 25 88 61 29",
+        "site_web": "https://www.vannerie-delamotte.fr/",
+        "adresse": "4 Rue Reby, 52500 Fayl-Billot",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "nogent": {
+    "artisans": [
+      {
+        "id": "2477782733629424438",
+        "nom": "LES MAITRES COUVREURS",
+        "slug": "les-maitres-couvreurs",
+        "telephone": "03 25 02 56 84",
+        "site_web": "https://www.lesmaitrescouvreurs.fr/",
+        "adresse": "18 Rue de Verdun, 52800 Nogent",
+        "note": 5,
+        "avis": 21,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "joinville": {
+    "artisans": [
+      {
+        "id": "9677777486379300928",
+        "nom": "Menuiserie REB et ELOI",
+        "slug": "menuiserie-reb-et-eloi",
+        "telephone": "03 25 94 50 51",
+        "site_web": "https://www.rebeloi.net/",
+        "adresse": "9 Grande Rue, 52230 Annonville",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4633290327083082987",
+        "nom": "Miroiterie du Val-de-Marne Komilfo",
+        "slug": "miroiterie-du-val-de-marne-komilfo",
+        "telephone": "01 42 83 70 84",
+        "site_web": "https://www.miroiterieduvaldemarne.fr/?utm_source=gmb",
+        "adresse": "4 Av. Jean d'Estienne d'Orves, 94340 Joinville-le-Pont",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bayard-sur-marne": {
+    "artisans": [
+      {
+        "id": "11912152255693501817",
+        "nom": "Fermap",
+        "slug": "fermap",
+        "telephone": "03 25 04 33 00",
+        "site_web": null,
+        "adresse": "Rue de la Petite Varenne, 52170 Bayard-sur-Marne",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "val-de-meuse": {
+    "artisans": [
+      {
+        "id": "12737159144666036766",
+        "nom": "Menuiserie Hervé Bonnecuelle",
+        "slug": "menuiserie-herve-bonnecuelle",
+        "telephone": "03 25 02 36 76",
+        "site_web": "http://www.menuiserie-bonnecuelle.fr/?utm_source=gmb",
+        "adresse": "Zone Artisanale du, rue Mar Foch, Grand Pré, 52320 Froncles",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "la-porte-du-der": {
+    "artisans": [
+      {
+        "id": "4998958758208140485",
+        "nom": "La verrerie du Der",
+        "slug": "la-verrerie-du-der",
+        "telephone": "03 25 56 43 15",
+        "site_web": "http://www.laverrerieduder.fr/",
+        "adresse": "21 Place Notre Dame, 52220 La Porte du Der",
+        "note": 4.8,
+        "avis": 35,
+        "type": "Souffleur de verre"
+      }
+    ]
+  },
+  "le-montsaugeonnais": {
+    "artisans": [
+      {
+        "id": "10976372683243754521",
+        "nom": "Styl Rénov",
+        "slug": "styl-renov",
+        "telephone": "03 25 87 45 26",
+        "site_web": "http://www.styl-renov.fr/",
+        "adresse": "ZI, Rue du Champ Miolin, 52190",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "rolampont": {
+    "artisans": [
+      {
+        "id": "12022726968490061252",
+        "nom": "D J M",
+        "slug": "d-j-m",
+        "telephone": "03 25 88 82 64",
+        "site_web": "http://www.djm52.com/",
+        "adresse": "4 rue Saboterie, 52260 Rolampont",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18220783205119634028",
+        "nom": "JØTUL ROLAMPONT - Ets Magali Leclerc",
+        "slug": "jtul-rolampont-ets-magali-leclerc",
+        "telephone": "03 25 86 00 92",
+        "site_web": "https://magasin.jotul.fr/rolampont/",
+        "adresse": "GALLISSOT, 92 RUE MICHEL, Pte Av. du Pays de Langres, 52260 Rolampont",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Magasin de poêles à bois"
+      }
+    ]
+  },
+  "villiers-en-lieu": {
+    "artisans": [
+      {
+        "id": "17171539170631183898",
+        "nom": "Dardé Damien",
+        "slug": "darde-damien",
+        "telephone": "03 25 05 98 70",
+        "site_web": "http://www.darde-couverture-charpente-52.com/?utm_source=gmb",
+        "adresse": "Zone Industrielle, 10 rue Favarde, Rte de 3 Fontaines, 52100 Saint-Dizier",
+        "note": 5,
+        "avis": 29,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-dizier": {
+    "artisans": [
+      {
+        "id": "10065996315922514839",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 25 04 99 10",
+        "site_web": "https://magasins.lapeyre.fr/grand-est/haute-marne/lapeyre-saint-dizier-83",
+        "adresse": "parc Commercial Du, Av. du Chêne Saint-Amand, 52100 Saint-Dizier",
+        "note": 4,
+        "avis": 142,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8358751811788892380",
+        "nom": "FERMOLOR / SG Fermetures",
+        "slug": "fermolor-sg-fermetures",
+        "telephone": "03 25 04 90 12",
+        "site_web": "http://www.facebook.com/fermolorfr/?utm_source=gmb",
+        "adresse": "11 Rte de Bar le Duc, 52100 Bettancourt-la-Ferrée",
+        "note": 4.3,
+        "avis": 35,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10340743194500682453",
+        "nom": "Menuiserie Hocquet",
+        "slug": "menuiserie-hocquet",
+        "telephone": "03 25 55 52 41",
+        "site_web": "https://www.hocquet-menuiserie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "5 Lot. Lucien Lesprit, 52100 Saint-Dizier",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13443067617670438190",
+        "nom": "D.PERRIER - Menuiseries et fermetures",
+        "slug": "dperrier-menuiseries-et-fermetures",
+        "telephone": "03 25 05 43 73",
+        "site_web": "http://dperrier.com/",
+        "adresse": "Chemin du Clos Lapierre, Av. du Général Sarrail, 52100 Saint-Dizier",
+        "note": 4.2,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7319796010432198664",
+        "nom": "Fenêtres Concept",
+        "slug": "fenetres-concept",
+        "telephone": "03 25 05 61 25",
+        "site_web": null,
+        "adresse": "7 Av. Pierre Bérégovoy, 52100 Saint-Dizier",
+        "note": 4.2,
+        "avis": 46,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14458734093429989993",
+        "nom": "Delta Menuiserie",
+        "slug": "delta-menuiserie",
+        "telephone": "06 22 79 85 31",
+        "site_web": null,
+        "adresse": "3 Rue Emile Giros, 52100 Saint-Dizier",
+        "note": 1.8,
+        "avis": 5,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "16147819829421176661",
+        "nom": "Couverture Concept",
+        "slug": "couverture-concept",
+        "telephone": "07 86 13 80 90",
+        "site_web": "https://www.couverture-concept-52.fr/",
+        "adresse": "4 Rue Marc Seguin, 52100 Saint-Dizier",
+        "note": 5,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12154142359441835652",
+        "nom": "Metal Secur",
+        "slug": "metal-secur",
+        "telephone": "06 43 95 66 18",
+        "site_web": "http://www.metal-secur.fr/?utm_source=gmb",
+        "adresse": "16 Rue du Perthois, 52100 Saint-Dizier",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17171539170631183898",
+        "nom": "Dardé Damien",
+        "slug": "darde-damien",
+        "telephone": "03 25 05 98 70",
+        "site_web": "http://www.darde-couverture-charpente-52.com/?utm_source=gmb",
+        "adresse": "Zone Industrielle, 10 rue Favarde, Rte de 3 Fontaines, 52100 Saint-Dizier",
+        "note": 5,
+        "avis": 29,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10065996315922514839",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 25 04 99 10",
+        "site_web": "https://magasins.lapeyre.fr/grand-est/haute-marne/lapeyre-saint-dizier-83",
+        "adresse": "parc Commercial Du, Av. du Chêne Saint-Amand, 52100 Saint-Dizier",
+        "note": 4,
+        "avis": 142,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "rives-dervoises": {
+    "artisans": [
+      {
+        "id": "13910284743467091140",
+        "nom": "Finot Charpente",
+        "slug": "finot-charpente",
+        "telephone": "06 31 58 42 27",
+        "site_web": "https://www.finotcharpente.fr/",
+        "adresse": "30 Rue de la Chapelle, 52220 Rives Dervoises",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saints-geosmes": {
+    "artisans": [
+      {
+        "id": "14673352940746159182",
+        "nom": "Dupuy Sébastien",
+        "slug": "dupuy-sebastien",
+        "telephone": "06 70 03 87 23",
+        "site_web": null,
+        "adresse": "31 Rue de la Fontaine, 52200 Saints-Geosmes",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bologne": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bettancourt-la-ferree": {
+    "artisans": [
+      {
+        "id": "4202406491630915552",
+        "nom": "Contrôle Toiture Habitat (CTH)",
+        "slug": "controle-toiture-habitat-cth",
+        "telephone": "03 25 05 64 24",
+        "site_web": null,
+        "adresse": "2 Rue du Pré Adam, 52100 Bettancourt-la-Ferrée",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      }
+    ]
+  },
+  "biesles": {
+    "artisans": [
+      {
+        "id": "13952691295549352724",
+        "nom": "KM Fermetures",
+        "slug": "km-fermetures",
+        "telephone": "06 08 77 61 62",
+        "site_web": "https://www.kmfermetures.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "63 Rte de Brottes, 52000 Chaumont",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bourbonne-les-bains": {
+    "artisans": [
+      {
+        "id": "3875534384066998679",
+        "nom": "Petit Christophe",
+        "slug": "petit-christophe",
+        "telephone": "06 77 25 20 60",
+        "site_web": "https://menuiserie-bourbonne.fr/",
+        "adresse": "1 Rue du Prieuré, 52400 Bourbonne-les-Bains",
+        "note": 5,
+        "avis": 1,
+        "type": "Vitrier"
+      },
+      {
+        "id": "17337701681171345722",
+        "nom": "KH-SK France SAS",
+        "slug": "kh-sk-france-sas",
+        "telephone": "03 25 90 21 30",
+        "site_web": null,
+        "adresse": "Rue du Parc Animalier, 52400 Bourbonne-les-Bains",
+        "note": 4.6,
+        "avis": 81,
+        "type": "Service logistique"
+      }
+    ]
+  },
+  "chalindrey": {
+    "artisans": [
+      {
+        "id": "1170561007104987891",
+        "nom": "Menuiserie du Foultot",
+        "slug": "menuiserie-du-foultot",
+        "telephone": "03 25 88 12 99",
+        "site_web": "http://www.menuiserie-foultot.com/",
+        "adresse": "ZI Les Moullières, 52600 Chalindrey",
+        "note": 4.8,
+        "avis": 169,
+        "type": "Menuisier"
+      }
+    ]
+  }
+}

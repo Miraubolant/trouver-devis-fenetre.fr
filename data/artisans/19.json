@@ -1,0 +1,1723 @@
+{
+  "beynat": {
+    "artisans": [
+      {
+        "id": "14075626720469213270",
+        "nom": "Beynat Fermetures - OuvertureS - Nanterre",
+        "slug": "beynat-fermetures-ouvertures-nanterre",
+        "telephone": "01 40 99 00 36",
+        "site_web": "https://www.beynat-fermetures.net/",
+        "adresse": "290 Av. Georges Clemenceau, 92000 Nanterre",
+        "note": 4.5,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8630520392386584781",
+        "nom": "BEYNAT FERMETURES",
+        "slug": "beynat-fermetures",
+        "telephone": "01 41 21 40 88",
+        "site_web": "https://www.beynatfermetures.eu/",
+        "adresse": "81 Av. de la Marne, 92600 Asnières-sur-Seine",
+        "note": 4.8,
+        "avis": 53,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3823950774463252297",
+        "nom": "Beynat Fermetures - OuvertureS - Beauchamp",
+        "slug": "beynat-fermetures-ouvertures-beauchamp",
+        "telephone": "01 61 35 15 06",
+        "site_web": "https://www.beynatfermetures95.com/",
+        "adresse": "12 Av. du Général de Gaulle, 95250 Beauchamp",
+        "note": 4.9,
+        "avis": 36,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11774391488354783023",
+        "nom": "La boutique du menuisier Manach Fermetures",
+        "slug": "la-boutique-du-menuisier-manach-fermetures",
+        "telephone": "01 47 51 09 06",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/manach-fermetures",
+        "adresse": "74 Av. du 18 Juin 1940, 92500 Rueil-Malmaison",
+        "note": 3,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "arnac-pompadour": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "voutezac": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "allassac": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bort-les-orgues": {
+    "artisans": [
+      {
+        "id": "18121810399825766327",
+        "nom": "Besse Jacques",
+        "slug": "besse-jacques",
+        "telephone": "05 55 96 70 98",
+        "site_web": null,
+        "adresse": "181 Rue Jules Ferry, 19110 Bort-les-Orgues",
+        "note": 3,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3221520581097609662",
+        "nom": "Sarl Rios",
+        "slug": "sarl-rios",
+        "telephone": "05 55 96 79 06",
+        "site_web": "http://www.sarl-rios.com/",
+        "adresse": "1115 Av. de la Gare, 19110 Bort-les-Orgues",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1554819738543669188",
+        "nom": "Gedimat Vialleix Usine",
+        "slug": "gedimat-vialleix-usine",
+        "telephone": "05 55 96 73 83",
+        "site_web": "http://www.gedimat.fr/",
+        "adresse": "180 Rue Gustave Parre, 19110 Bort-les-Orgues",
+        "note": 3.7,
+        "avis": 20,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13304096238128982188",
+        "nom": "Besse Jean-Claude Sarl",
+        "slug": "besse-jean-claude-sarl",
+        "telephone": "05 55 96 00 84",
+        "site_web": "http://besse-menuiserie-bortlesorgues.fr/",
+        "adresse": "420 Rue de la Tuilerie, 19110 Bort-les-Orgues",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "17579748647346931372",
+        "nom": "Gedimat Vialleix Centrale à béton Bort-les-Orgues",
+        "slug": "gedimat-vialleix-centrale-a-beton-bort-les-orgues",
+        "telephone": "05 55 96 71 64",
+        "site_web": "https://www.gedimat.fr/2162-magasin-gedimat-vialleix-brico-bort-les-orgues.htm",
+        "adresse": "ZI de la Tuilerie, 289 Rue de la Briqueterie, 19110 Bort-les-Orgues",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de béton prêt-à-l'emploi"
+      }
+    ]
+  },
+  "argentat-sur-dordogne": {
+    "artisans": [
+      {
+        "id": "12521440987157344864",
+        "nom": "Argentat Alu",
+        "slug": "argentat-alu",
+        "telephone": "06 78 52 07 39",
+        "site_web": "https://www.reynaers.fr/partner/fenetres-portes-coulissants-portes-repliables-murs-rideaux-brise-soleil-poignees-19400-argentat/delsol-stephane",
+        "adresse": "Z A, L'Hospital, 19400 Argentat-sur-Dordogne",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "beaulieu-sur-dordogne": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "mansac": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chamboulive": {
+    "artisans": [
+      {
+        "id": "4557049502683188593",
+        "nom": "Menuiserie Rioux-fabricant Alu-PVC-Fenêtres-Clôture-volets roulants-garde corps-Véranda - Pergolas-Tulle-Brive-Ussel-Corrèze",
+        "slug": "menuiserie-rioux-fabricant-alu-pvc-fenetres-cloture-volets-roulants-garde-corps-veranda-pergolas-tulle-brive-ussel-correze",
+        "telephone": "05 55 20 14 07",
+        "site_web": "https://www.menuiserie-rioux.com/",
+        "adresse": "3 Imp. du Dr Aimé Audubert, 19000 Tulle",
+        "note": 4.1,
+        "avis": 32,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15714598342486989757",
+        "nom": "Ets Marcilloux",
+        "slug": "ets-marcilloux",
+        "telephone": "06 81 74 64 83",
+        "site_web": null,
+        "adresse": "11 Imp. de la Micheline, 19700 Seilhac",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "chamberet": {
+    "artisans": [
+      {
+        "id": "18413528296348111135",
+        "nom": "SARL ANGLERAUD",
+        "slug": "sarl-angleraud",
+        "telephone": "05 55 98 36 26",
+        "site_web": "https://angleraud.com/",
+        "adresse": "2 Rte des Mezes, 19370 Chamberet",
+        "note": 4,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8961494638248492894",
+        "nom": "BRICOMATERIAUX",
+        "slug": "bricomateriaux",
+        "telephone": "06 79 22 00 77",
+        "site_web": "https://brico-materiaux.fr/",
+        "adresse": "35 Rte Archambaud de Comborn, 19370 Chamberet",
+        "note": 4.5,
+        "avis": 34,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "correze": {
+    "artisans": [
+      {
+        "id": "4023550436406737460",
+        "nom": "Art et Fenêtres - SARL JP RENOV",
+        "slug": "art-et-fenetres-sarl-jp-renov",
+        "telephone": "05 55 92 02 06",
+        "site_web": "https://jp-renov.artetfenetres.com/",
+        "adresse": "Rue Henri Bessemer, 19360 Malemort",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2953247836162512006",
+        "nom": "A BAIE C FENETRE CORREZE",
+        "slug": "a-baie-c-fenetre-correze",
+        "telephone": "05 55 17 68 57",
+        "site_web": "https://www.abaiecfenetre-correze-brive.com/",
+        "adresse": "6 Rue Marcelin Roche, 19100 Brive-la-Gaillarde",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4663461161063029204",
+        "nom": "MET-ALU 19",
+        "slug": "met-alu-19",
+        "telephone": "05 55 17 73 96",
+        "site_web": "http://www.metalu19.fr/?utm_source=gmb",
+        "adresse": "17 Av. du Progrès, 19360 Malemort",
+        "note": 4.8,
+        "avis": 43,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cublac": {
+    "artisans": [
+      {
+        "id": "16026428281082303289",
+        "nom": "B.P Menuiserie",
+        "slug": "bp-menuiserie",
+        "telephone": "05 55 74 07 95",
+        "site_web": "https://www.bp-menuiserie-correze.fr/",
+        "adresse": "Chem. de la Galive, 19600 Saint-Pantaléon-de-Larche",
+        "note": 4.3,
+        "avis": 26,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7722315261996438118",
+        "nom": "Franck Laumond",
+        "slug": "franck-laumond",
+        "telephone": "06 86 48 92 23",
+        "site_web": null,
+        "adresse": "4 Imp. Rouget de Lisle, 19520 Cublac",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1050242462123666908",
+        "nom": "B.P Menuiserie",
+        "slug": "bp-menuiserie",
+        "telephone": "05 53 51 50 41",
+        "site_web": "https://www.bp-menuiserie-correze.fr/",
+        "adresse": "4 Av. Victor Hugo, 24120 Terrasson-Lavilledieu",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12158567255499640161",
+        "nom": "SARL PENARD COUVERTURE",
+        "slug": "sarl-penard-couverture",
+        "telephone": "06 89 78 42 68",
+        "site_web": "https://sarlpenard.fr/",
+        "adresse": "16 Rue Auguste Lumière, 24120 Terrasson-Lavilledieu",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9742971576004121354",
+        "nom": "Toiture Jean Rénovation",
+        "slug": "toiture-jean-renovation",
+        "telephone": "06 10 90 20 46",
+        "site_web": "http://www.jeanrenovation.fr/",
+        "adresse": "LE BOURG, 24120 Pazayac",
+        "note": 4.8,
+        "avis": 36,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18074368480862172482",
+        "nom": "Les delices du gaulois",
+        "slug": "les-delices-du-gaulois",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/profile.php?id=100057195380088",
+        "adresse": "lieux dit, 19520 Cublac",
+        "note": 5,
+        "avis": 22,
+        "type": "Boucherie"
+      }
+    ]
+  },
+  "brive-la-gaillarde": {
+    "artisans": [
+      {
+        "id": "13334510094651554478",
+        "nom": "Carrés de Lumière",
+        "slug": "carres-de-lumiere",
+        "telephone": "05 55 23 03 46",
+        "site_web": "https://www.carresdelumiere.com/",
+        "adresse": "96 Av. Ribot, 19100 Brive-la-Gaillarde",
+        "note": 4.9,
+        "avis": 175,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3930398048939981064",
+        "nom": "TRYBA Brive la Gaillarde",
+        "slug": "tryba-brive-la-gaillarde",
+        "telephone": "05 18 23 12 89",
+        "site_web": "https://www.tryba.com/espace-conseil/19/tryba-brive-la-gaillarde/?utm_campaign=Tryba_Brive-la-Gaillarde&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "112 Av. Abbé Jean Alvitre, 19100 Brive-la-Gaillarde",
+        "note": 4.5,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12483927443586446432",
+        "nom": "Profession Habitat Brive - Spécialiste dans la rénovation et l'aménagement de l'habitat",
+        "slug": "profession-habitat-brive-specialiste-dans-la-renovation-et-lamenagement-de-lhabitat",
+        "telephone": "05 55 86 91 13",
+        "site_web": null,
+        "adresse": "La Maison Neuve, 19360 Malemort",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16612329738270023022",
+        "nom": "Lamellux",
+        "slug": "lamellux",
+        "telephone": "05 55 24 12 61",
+        "site_web": "http://www.lamellux.com/",
+        "adresse": "12 Rue Pierre Milon, 19100 Brive-la-Gaillarde",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14074611337517392290",
+        "nom": "JDM Terres de Fenêtre - menuiserie construction et rénovation",
+        "slug": "jdm-terres-de-fenetre-menuiserie-construction-et-renovation",
+        "telephone": "05 55 84 21 21",
+        "site_web": "http://www.jdm-menuiserie-construction.com/",
+        "adresse": "ZAC de la Nau, Le Rieux, 19240 Saint-Viance",
+        "note": 2,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8521600223130455735",
+        "nom": "Pinto SARL, Correze-Menuiserie&Automatisme",
+        "slug": "pinto-sarl-correze-menuiserieautomatisme",
+        "telephone": "05 55 92 04 20",
+        "site_web": "http://www.correze-automatisme.com/",
+        "adresse": "10 Av. du 4 Juillet 1776 ZI de, 19100 Brive-la-Gaillarde",
+        "note": 3.8,
+        "avis": 23,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "5716739487739881641",
+        "nom": "Greze",
+        "slug": "greze",
+        "telephone": "05 55 87 06 29",
+        "site_web": "https://greze-couverture.fr/",
+        "adresse": "12 Rue Fénelon, 19100 Brive-la-Gaillarde",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11767130901441534350",
+        "nom": "CGMV",
+        "slug": "cgmv",
+        "telephone": "05 55 86 90 82",
+        "site_web": "https://www.cgmv-19.com/",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7358935895057204138",
+        "nom": "Parouteau Menuiseries",
+        "slug": "parouteau-menuiseries",
+        "telephone": "05 55 24 24 75",
+        "site_web": "https://parouteau-menuiseries.com/",
+        "adresse": "11 Chem. des Escrozes, 19100 Brive-la-Gaillarde",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3937425553131979160",
+        "nom": "Menuiserie Gaillarde",
+        "slug": "menuiserie-gaillarde",
+        "telephone": "05 19 98 08 19",
+        "site_web": "http://www.menuiseriegaillarde.fr/",
+        "adresse": "7 Av. André Malraux, 19100 Brive-la-Gaillarde",
+        "note": 5,
+        "avis": 53,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chameyrat": {
+    "artisans": [
+      {
+        "id": "17348981566875463792",
+        "nom": "Monteil Et Masmalet",
+        "slug": "monteil-et-masmalet",
+        "telephone": "05 55 73 75 11",
+        "site_web": "http://www.sarl-monteil-masmalet.com/",
+        "adresse": "Rte de Tous Vents, 19410 Perpezac-le-Noir",
+        "note": 3.1,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6438906583096669365",
+        "nom": "Tulle Etanchéité",
+        "slug": "tulle-etancheite",
+        "telephone": "05 55 20 84 13",
+        "site_web": "https://www.facebook.com/165383156658004?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise d'étanchéité"
+      }
+    ]
+  },
+  "cornil": {
+    "artisans": [
+      {
+        "id": "4557049502683188593",
+        "nom": "Menuiserie Rioux-fabricant Alu-PVC-Fenêtres-Clôture-volets roulants-garde corps-Véranda - Pergolas-Tulle-Brive-Ussel-Corrèze",
+        "slug": "menuiserie-rioux-fabricant-alu-pvc-fenetres-cloture-volets-roulants-garde-corps-veranda-pergolas-tulle-brive-ussel-correze",
+        "telephone": "05 55 20 14 07",
+        "site_web": "https://www.menuiserie-rioux.com/",
+        "adresse": "3 Imp. du Dr Aimé Audubert, 19000 Tulle",
+        "note": 4.1,
+        "avis": 32,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cosnac": {
+    "artisans": [
+      {
+        "id": "3337387923856588647",
+        "nom": "Lariviere",
+        "slug": "lariviere",
+        "telephone": "05 55 92 04 94",
+        "site_web": "https://www.lariviere.fr/trouver-votre-agence/lariviere-SEB/entry-378-lariviere-brive.html",
+        "adresse": "24 Av. du Progrès, 19360 Malemort",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "donzenac": {
+    "artisans": [
+      {
+        "id": "1944284902636129165",
+        "nom": "LMC 19 LES MENUISERIES CORREZIENNES",
+        "slug": "lmc-19-les-menuiseries-correziennes",
+        "telephone": "05 55 85 77 40",
+        "site_web": "http://www.lmc19.fr/",
+        "adresse": "11 Rte de Rond, 19270 Donzenac",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Fabricant de portes"
+      },
+      {
+        "id": "15243217061963859048",
+        "nom": "Arébois",
+        "slug": "arebois",
+        "telephone": "06 71 70 89 51",
+        "site_web": "http://www.arebois.fr/",
+        "adresse": "335 Rue de la Riviere, 19270 Donzenac",
+        "note": 3,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14495303554111327690",
+        "nom": "LAFOND Menuiserie",
+        "slug": "lafond-menuiserie",
+        "telephone": "05 55 85 77 40",
+        "site_web": "https://www.ml19.fr/",
+        "adresse": "Le Pont de l'Hôpital, 19270 Donzenac",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10600952775283796416",
+        "nom": "Exclusif Bois - Portes et Fenêtres",
+        "slug": "exclusif-bois-portes-et-fenetres",
+        "telephone": "05 55 85 68 70",
+        "site_web": "http://www.exclusifbois.fr/",
+        "adresse": "11 Rte de Rond, 19270 Donzenac",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "favars": {
+    "artisans": [
+      {
+        "id": "17895891142680740909",
+        "nom": "SARL PIRONTE",
+        "slug": "sarl-pironte",
+        "telephone": "05 55 27 48 18",
+        "site_web": "https://pironte.fr/",
+        "adresse": "42 Les Alleux, 19330 Favars",
+        "note": 3.5,
+        "avis": 37,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "egletons": {
+    "artisans": [
+      {
+        "id": "10305932468957092192",
+        "nom": "Egletons PVC",
+        "slug": "egletons-pvc",
+        "telephone": "05 55 93 93 03",
+        "site_web": "https://www.linkedin.com/company/egletons-pvc/mycompany/?viewAsMember=true",
+        "adresse": "ZI la Chaulaudre, 19300 Égletons",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "laguenne-sur-avalouze": {
+    "artisans": [
+      {
+        "id": "12875256323988077533",
+        "nom": "Réno travaux",
+        "slug": "reno-travaux",
+        "telephone": "06 17 57 13 20",
+        "site_web": null,
+        "adresse": "SAINT CALMINE, 19150 Laguenne-sur-Avalouze",
+        "note": 5,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "15769649760774754417",
+        "nom": "Couverture Thieyre",
+        "slug": "couverture-thieyre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rte de Poujol, 19150 Laguenne-sur-Avalouze",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14825074341185779459",
+        "nom": "Super U Laguenne Sur Avalouze",
+        "slug": "super-u-laguenne-sur-avalouze",
+        "telephone": "05 55 20 49 00",
+        "site_web": "https://www.coursesu.com/f-superu-tullelaguenne-informations",
+        "adresse": "1 Av. de Coulaud, 19150 Laguenne-sur-Avalouze",
+        "note": 3.8,
+        "avis": 1495,
+        "type": "Supermarché"
+      },
+      {
+        "id": "12624183051400963777",
+        "nom": "Optim Opticiens Laguenne - Tulle",
+        "slug": "optim-opticiens-laguenne-tulle",
+        "telephone": "05 55 20 15 45",
+        "site_web": "https://www.opticiensoptim.com/coscommercestore/optim-laguenne",
+        "adresse": "1 Av. de Coulaud CC SUPER U, 19150 Laguenne-sur-Avalouze",
+        "note": 5,
+        "avis": 16,
+        "type": "Opticien"
+      },
+      {
+        "id": "8352896286283688784",
+        "nom": "Ent Chauvat",
+        "slug": "ent-chauvat",
+        "telephone": "06 11 03 10 78",
+        "site_web": "http://www.chauvat-couverture.fr/",
+        "adresse": "21 Rue Félix Vidalin, 19000 Tulle",
+        "note": 5,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2769508785308964189",
+        "nom": "CHANAC COUVERTURE",
+        "slug": "chanac-couverture",
+        "telephone": "06 58 57 77 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.8,
+        "avis": 9,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "juillac": {
+    "artisans": [
+      {
+        "id": "9861422572909840344",
+        "nom": "menuiserie marbeuf",
+        "slug": "menuiserie-marbeuf",
+        "telephone": "06 89 26 76 69",
+        "site_web": "http://www.menuiserie-marbeuf.fr/",
+        "adresse": "1720 route de pompadour, 19350 Juillac",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12457377585964038379",
+        "nom": "Golfier Ramonage",
+        "slug": "golfier-ramonage",
+        "telephone": "05 55 25 69 38",
+        "site_web": "https://www.pagesjaunes.fr/pros/50125745",
+        "adresse": null,
+        "note": 4,
+        "avis": 4,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "12348547176704223036",
+        "nom": "SAS DUPUY ET FILS",
+        "slug": "sas-dupuy-et-fils",
+        "telephone": "05 55 25 69 36",
+        "site_web": "https://sasdupuyetfils19.fr/",
+        "adresse": "Plumoiseau, 19350 Juillac",
+        "note": 4,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "lubersac": {
+    "artisans": [
+      {
+        "id": "2208273791082341464",
+        "nom": "Mr.Bricolage Lubersac",
+        "slug": "mrbricolage-lubersac",
+        "telephone": "05 55 97 23 83",
+        "site_web": "https://magasin.mr-bricolage.fr/405-mr-bricolage-lubersac?utm_source=gmb",
+        "adresse": "ZA Le Touvent, Touvent, 19210 Lubersac",
+        "note": 4.2,
+        "avis": 41,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "12174003851165948480",
+        "nom": "Sarl JM Lavaud",
+        "slug": "sarl-jm-lavaud",
+        "telephone": "05 55 73 52 28",
+        "site_web": null,
+        "adresse": "24 Rue de la Prade, 19210 Lubersac",
+        "note": 3.9,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10799475452256667172",
+        "nom": "Peixoto Plaz",
+        "slug": "peixoto-plaz",
+        "telephone": "05 55 73 50 55",
+        "site_web": null,
+        "adresse": "Touvent, 19210 Lubersac",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1774792165676840503",
+        "nom": "Immo Renov",
+        "slug": "immo-renov",
+        "telephone": "06 17 51 33 72",
+        "site_web": null,
+        "adresse": "2394 route de Troche, 19210 Lubersac",
+        "note": 5,
+        "avis": 1,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "lagrauliere": {
+    "artisans": [
+      {
+        "id": "16218507512432450493",
+        "nom": "Aurélien Bousseyroux",
+        "slug": "aurelien-bousseyroux",
+        "telephone": "06 68 39 72 49",
+        "site_web": "http://www.bousseyroux-couverture-19.fr/contact/",
+        "adresse": "4 Chem. du Baril, 19700 Lagraulière",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "larche": {
+    "artisans": [
+      {
+        "id": "17574687892975041380",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "05 55 87 88 63",
+        "site_web": "https://magasins.lapeyre.fr/nouvelle-aquitaine/correze/lapeyre-brive-la-gaillarde-26",
+        "adresse": "Rue Armand Sourie, 19100 Brive-la-Gaillarde",
+        "note": 4,
+        "avis": 318,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "16386553897737610738",
+        "nom": "BATIMAN Bex Menuiserie Saint Pantaléon de Larche",
+        "slug": "batiman-bex-menuiserie-saint-pantaleon-de-larche",
+        "telephone": "05 55 22 44 43",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-bex-saint-pantaleon-de-larche-19600-experts-en-menuiserie",
+        "adresse": "RN 89 - Le Roc, 19600 Saint-Pantaléon-de-Larche",
+        "note": 4.5,
+        "avis": 24,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "meymac": {
+    "artisans": [
+      {
+        "id": "16557408458460285130",
+        "nom": "Mvf Menuiserie Ussel",
+        "slug": "mvf-menuiserie-ussel",
+        "telephone": "05 55 46 17 46",
+        "site_web": "https://www.mvfmenuiseries.fr/",
+        "adresse": "Av. de la Résistance, 19200 Ussel",
+        "note": 4.2,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5410987467008782958",
+        "nom": "Menuiserie Ozan",
+        "slug": "menuiserie-ozan",
+        "telephone": "05 55 46 23 39",
+        "site_web": "https://www.ozan-menuiseries-ussel.com/",
+        "adresse": "24 Av. Thiers, 19200 Ussel",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11151882082068307395",
+        "nom": "adm 19",
+        "slug": "adm-19",
+        "telephone": "06 44 36 42 39",
+        "site_web": "https://www.adm19energie.fr/",
+        "adresse": "12 Bd des Artisans, 19250 Meymac",
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepôt"
+      }
+    ]
+  },
+  "objat": {
+    "artisans": [
+      {
+        "id": "8339585702077518658",
+        "nom": "MESMIN Menuiserie - La Boutique du Menuisier Objat - Brive",
+        "slug": "mesmin-menuiserie-la-boutique-du-menuisier-objat-brive",
+        "telephone": "05 55 25 15 10",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/mesmin-entreprise",
+        "adresse": "360 Rue de l'Industrie, 19130 Objat",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9975173081489206848",
+        "nom": "Serrurerie Objatoise Ltd",
+        "slug": "serrurerie-objatoise-ltd",
+        "telephone": "05 55 84 14 99",
+        "site_web": "https://www.serrurerie-objatoise.fr/",
+        "adresse": "6 Av. Eugène Freyssinet, 19130 Objat",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Serrurier"
+      },
+      {
+        "id": "4214579362419052554",
+        "nom": "Corrèze Fermetures",
+        "slug": "correze-fermetures",
+        "telephone": "05 55 25 13 46",
+        "site_web": "https://www.correzefermetures.com/",
+        "adresse": "Route de Bridal, 19130 Objat",
+        "note": 3.9,
+        "avis": 31,
+        "type": null
+      },
+      {
+        "id": "1780888405582605824",
+        "nom": "EURL SAUVIAT MENUISERIE",
+        "slug": "eurl-sauviat-menuiserie",
+        "telephone": "06 68 70 04 62",
+        "site_web": "https://sauviat-menuiserie19.fr/",
+        "adresse": "4 IMPASSE DES ARTISANS REUNIS, 19130 Objat",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15221192501234089483",
+        "nom": "MENUISERIE PICON",
+        "slug": "menuiserie-picon",
+        "telephone": "07 87 08 41 09",
+        "site_web": null,
+        "adresse": "1026 Rte de Brive, 19130 Objat",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13918426703107895354",
+        "nom": "Johan BROCHOT",
+        "slug": "johan-brochot",
+        "telephone": "06 85 36 42 11",
+        "site_web": "http://brochot-menuiserie.fr/",
+        "adresse": "Le Burg Haut, 19240 Varetz",
+        "note": 5,
+        "avis": 2,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "meyssac": {
+    "artisans": [
+      {
+        "id": "8716703623541477847",
+        "nom": "Ateliers BERGEAL MORÈLE",
+        "slug": "ateliers-bergeal-morele",
+        "telephone": "05 55 25 41 66",
+        "site_web": "http://www.bergeal.fr/",
+        "adresse": "230 Le Tournier, 19500 Meyssac",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "malemort": {
+    "artisans": [
+      {
+        "id": "4163121956675527670",
+        "nom": "CHOUZENOUX SARL",
+        "slug": "chouzenoux-sarl",
+        "telephone": "05 55 92 92 62",
+        "site_web": null,
+        "adresse": "La Rivière ZA, Av. Eugène Freyssinet, 19360",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "9876639191550250041",
+        "nom": "Vie & Véranda",
+        "slug": "vie-veranda",
+        "telephone": "05 55 74 47 71",
+        "site_web": "https://www.vie-veranda.com/agences/veranda-brive-la-gaillarde",
+        "adresse": "5 Rue Henri Bessemer, 19360 Malemort",
+        "note": 4.7,
+        "avis": 67,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15343611179083277257",
+        "nom": "Antony Fenêtres",
+        "slug": "antony-fenetres",
+        "telephone": "05 55 17 94 10",
+        "site_web": "http://etablissementslamiche.site-solocal.com/?utm_source=gmb",
+        "adresse": "31 Av. Georges Pompidou, 19100 Brive-la-Gaillarde",
+        "note": 3.4,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7855714722386171829",
+        "nom": "CORRÈZE MÉTAL",
+        "slug": "correze-metal",
+        "telephone": "06 66 89 32 22",
+        "site_web": "https://www.correzemetal.com/",
+        "adresse": "21 Av. de la Liberté, 19360 Malemort",
+        "note": 4.8,
+        "avis": 39,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11558564251652020433",
+        "nom": "Bois Services 19 BSV 19",
+        "slug": "bois-services-19-bsv-19",
+        "telephone": "05 55 92 10 17",
+        "site_web": "https://www.boisservices19.fr/?utm_source=gmb",
+        "adresse": "Zone Artisanale de la Riante Borie, Rue Jean Mermoz, 19360 Malemort",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "3337387923856588647",
+        "nom": "Lariviere",
+        "slug": "lariviere",
+        "telephone": "05 55 92 04 94",
+        "site_web": "https://www.lariviere.fr/trouver-votre-agence/lariviere-SEB/entry-378-lariviere-brive.html",
+        "adresse": "24 Av. du Progrès, 19360 Malemort",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "sainte-fereole": {
+    "artisans": [
+      {
+        "id": "9648073638106425116",
+        "nom": "Bouillaguet Jean-Bernard Ets",
+        "slug": "bouillaguet-jean-bernard-ets",
+        "telephone": "05 55 85 68 96",
+        "site_web": "https://www.bouillaguet-toiture-19.com/",
+        "adresse": "Le Pilard, 19270 Sainte-Féréole",
+        "note": 3,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1387329720263438681",
+        "nom": "Bjf Couverture",
+        "slug": "bjf-couverture",
+        "telephone": "06 81 33 63 76",
+        "site_web": "https://bjf-couverture.fr/",
+        "adresse": "21 Rue des Pradelles, 19270 Sainte-Féréole",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11241575238913278444",
+        "nom": "Menuiserie Laborde",
+        "slug": "menuiserie-laborde",
+        "telephone": "05 53 51 82 13",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/menuiserie-laborde",
+        "adresse": "605 Rte de Sarlat, 24290 Aubas",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17716423885062975",
+        "nom": "Rouhaud Jacques",
+        "slug": "rouhaud-jacques",
+        "telephone": "05 55 85 68 97",
+        "site_web": null,
+        "adresse": "8 Av. de la Besse, 19270 Sainte-Féréole",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9199920836177109442",
+        "nom": "MENUISERIE GENERALE DIDIER BECOT",
+        "slug": "menuiserie-generale-didier-becot",
+        "telephone": "05 55 22 17 08",
+        "site_web": null,
+        "adresse": "11 Goursat, 19270 Sainte-Féréole",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "naves": {
+    "artisans": [
+      {
+        "id": "3412414489089084653",
+        "nom": "MENUISERIES ROCHAIS",
+        "slug": "menuiseries-rochais",
+        "telephone": "05 55 27 03 00",
+        "site_web": "https://www.menuiseries-rochais-naves.com/",
+        "adresse": "20 Soleilhavoup E, 19460 Naves",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "perpezac-le-noir": {
+    "artisans": [
+      {
+        "id": "17348981566875463792",
+        "nom": "Monteil Et Masmalet",
+        "slug": "monteil-et-masmalet",
+        "telephone": "05 55 73 75 11",
+        "site_web": "http://www.sarl-monteil-masmalet.com/",
+        "adresse": "Rte de Tous Vents, 19410 Perpezac-le-Noir",
+        "note": 3.1,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "neuvic": {
+    "artisans": [
+      {
+        "id": "10738348081825587949",
+        "nom": "SARL MANZAGOL charpentier couvreur menuisier",
+        "slug": "sarl-manzagol-charpentier-couvreur-menuisier",
+        "telephone": "05 55 95 96 00",
+        "site_web": "https://www.sarl-manzagol.fr/",
+        "adresse": "Le Bourg, 19160 Sérandon",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6501894334174198089",
+        "nom": "WOODS AMBIANCE",
+        "slug": "woods-ambiance",
+        "telephone": "05 19 79 95 10",
+        "site_web": "https://cloturechataigniershop.fr//",
+        "adresse": "29 Rte d'Ussel, 19160 Neuvic",
+        "note": 4.6,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5704332131263925903",
+        "nom": "SARL FH BREUIL",
+        "slug": "sarl-fh-breuil",
+        "telephone": "09 74 56 32 78",
+        "site_web": "http://www.materiaux-breuil-sarl.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rte de Palisse, 19160 Neuvic",
+        "note": 4.7,
+        "avis": 32,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9203233963398791268",
+        "nom": "DBS Modelage Menuiserie",
+        "slug": "dbs-modelage-menuiserie",
+        "telephone": "05 55 72 55 25",
+        "site_web": "http://www.facebook.com/SasDbs/?ref=page_internal",
+        "adresse": "5 Rue des Tisserands, 19200 Ussel",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3762784786032463330",
+        "nom": "Bétaille Lucien",
+        "slug": "betaille-lucien",
+        "telephone": "05 55 95 86 78",
+        "site_web": null,
+        "adresse": "19 Pass. des Granges, 19160 Neuvic",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4146643480648088615",
+        "nom": "Chaveroche Michael",
+        "slug": "chaveroche-michael",
+        "telephone": "06 85 91 51 24",
+        "site_web": null,
+        "adresse": "19160 Neuvic",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "17979197660633522896",
+        "nom": "Gatiniol Art et Fenêtres Ydes",
+        "slug": "gatiniol-art-et-fenetres-ydes",
+        "telephone": "04 71 40 82 09",
+        "site_web": "http://www.gatiniol.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2919884257560259114",
+        "adresse": "10 Av. Roger Besse, 15210 Ydes",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-clement": {
+    "artisans": [
+      {
+        "id": "17215570758508390658",
+        "nom": "Menuiserie Ebénisterie Duchâteau",
+        "slug": "menuiserie-ebenisterie-duchateau",
+        "telephone": "07 62 56 64 98",
+        "site_web": "http://www.menuiserie-duchateau.fr/",
+        "adresse": "ZA le Breuil, 5 ZA du Breuil 19700, 19700 Saint-Clément",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rosiers-d-egletons": {
+    "artisans": [
+      {
+        "id": "10305932468957092192",
+        "nom": "Egletons PVC",
+        "slug": "egletons-pvc",
+        "telephone": "05 55 93 93 03",
+        "site_web": "https://www.linkedin.com/company/egletons-pvc/mycompany/?viewAsMember=true",
+        "adresse": "ZI la Chaulaudre, 19300 Égletons",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "sainte-fortunade": {
+    "artisans": [
+      {
+        "id": "91386472518977148",
+        "nom": "Compagnie Correzienne de Menuiserie SAS",
+        "slug": "compagnie-correzienne-de-menuiserie-sas",
+        "telephone": "05 44 41 58 99",
+        "site_web": "https://www.facebook.com/111608855257414",
+        "adresse": "1855 Rte de Tulle, 19490 Sainte-Fortunade",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12931438850484140310",
+        "nom": "Mialet Sarl",
+        "slug": "mialet-sarl",
+        "telephone": "05 55 27 12 50",
+        "site_web": "https://www.sarl-mialet.fr/",
+        "adresse": "55 route de tulle, 19490 Sainte-Fortunade",
+        "note": 4.6,
+        "avis": 43,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "7458412308068867517",
+        "nom": "Perrier Daniel",
+        "slug": "perrier-daniel",
+        "telephone": "05 55 27 13 77",
+        "site_web": null,
+        "adresse": "1805 Le Mons, 19490 Sainte-Fortunade",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-mexant": {
+    "artisans": [
+      {
+        "id": "4557049502683188593",
+        "nom": "Menuiserie Rioux-fabricant Alu-PVC-Fenêtres-Clôture-volets roulants-garde corps-Véranda - Pergolas-Tulle-Brive-Ussel-Corrèze",
+        "slug": "menuiserie-rioux-fabricant-alu-pvc-fenetres-cloture-volets-roulants-garde-corps-veranda-pergolas-tulle-brive-ussel-correze",
+        "telephone": "05 55 20 14 07",
+        "site_web": "https://www.menuiserie-rioux.com/",
+        "adresse": "3 Imp. du Dr Aimé Audubert, 19000 Tulle",
+        "note": 4.1,
+        "avis": 32,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "treignac": {
+    "artisans": [
+      {
+        "id": "17554609411808368430",
+        "nom": "Sas MEYRIGNAC",
+        "slug": "sas-meyrignac",
+        "telephone": "05 55 98 08 58",
+        "site_web": "https://maison-meyrignac.com/",
+        "adresse": "4 rue Georges Bordes, 19260 Treignac",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3062075857962716406",
+        "nom": "Tauron Jean-Michel",
+        "slug": "tauron-jean-michel",
+        "telephone": "06 78 39 78 89",
+        "site_web": "https://www.menuiserie-tauron.fr/",
+        "adresse": "7 Fbg Gabriel Hoffre, 19260 Treignac",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "saint-privat": {
+    "artisans": [
+      {
+        "id": "14933124409041712431",
+        "nom": "Albaret Roland",
+        "slug": "albaret-roland",
+        "telephone": "05 55 28 53 39",
+        "site_web": null,
+        "adresse": "3 Rue Neuve, 19220 Saint-Privat",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "seilhac": {
+    "artisans": [
+      {
+        "id": "195552792712145672",
+        "nom": "Bachelerie Stephane",
+        "slug": "bachelerie-stephane",
+        "telephone": "06 85 49 19 59",
+        "site_web": null,
+        "adresse": "3 Puy la Graule, 19700 Seilhac",
+        "note": 4,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16005121030370463678",
+        "nom": "Atelier BPM",
+        "slug": "atelier-bpm",
+        "telephone": "06 75 39 71 02",
+        "site_web": "https://menuiserie-tulle-peuch.fr/",
+        "adresse": "4 Les Cabanes de Laporte, 19700 Seilhac",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8981785535052014775",
+        "nom": "Menuiserie Charpente Peuch",
+        "slug": "menuiserie-charpente-peuch",
+        "telephone": null,
+        "site_web": "http://peuch-menuiserie.fr/",
+        "adresse": "1 Les Cabanes de Laporte, 19700 Seilhac",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "130387865571344505",
+        "nom": "Isovie",
+        "slug": "isovie",
+        "telephone": "05 55 27 35 69",
+        "site_web": "https://www.isovie.fr/",
+        "adresse": "D1120, 19700 Seilhac",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "saint-pantaleon-de-larche": {
+    "artisans": [
+      {
+        "id": "6061351042965015535",
+        "nom": "C.C.P.F. Couverture Charpente Prat Frères",
+        "slug": "ccpf-couverture-charpente-prat-freres",
+        "telephone": "05 55 87 73 74",
+        "site_web": "http://www.ccpf-prat.fr/",
+        "adresse": "316 Rue du Moulin, 19600 Saint-Pantaléon-de-Larche",
+        "note": 3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10675165578852256408",
+        "nom": "M+ Matériaux - Saint-Pantaléon-de-Larche",
+        "slug": "m-materiaux-saint-pantaleon-de-larche",
+        "telephone": "05 55 87 50 60",
+        "site_web": "https://www.mplus-materiaux.fr/",
+        "adresse": "ZA, Chem. de la Galive, 19600 Saint-Pantaléon-de-Larche",
+        "note": 4.1,
+        "avis": 68,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "7145485795222385195",
+        "nom": "Couverture vincent",
+        "slug": "couverture-vincent",
+        "telephone": "06 45 79 33 31",
+        "site_web": null,
+        "adresse": "105 rue du lavoir, 19600 Saint-Pantaléon-de-Larche",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-viance": {
+    "artisans": [
+      {
+        "id": "8656382839680457446",
+        "nom": "MURPROTEC BRIVE LA GAILLARDE",
+        "slug": "murprotec-brive-la-gaillarde",
+        "telephone": "05 55 25 44 12",
+        "site_web": "https://www.murprotec.fr/",
+        "adresse": "66 Av. Georges Pompidou, 19100 Brive-la-Gaillarde",
+        "note": 4.6,
+        "avis": 35,
+        "type": "Centre de diagnostic"
+      },
+      {
+        "id": "13829591292242108677",
+        "nom": "Menuiserie Lenhart",
+        "slug": "menuiserie-lenhart",
+        "telephone": "05 55 85 06 28",
+        "site_web": "http://www.menuiserie-lenhart.fr/",
+        "adresse": "14 Le Poirier Haut, 19240 Saint-Viance",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ussac": {
+    "artisans": [
+      {
+        "id": "4750459252834705858",
+        "nom": "SARL TCM19",
+        "slug": "sarl-tcm19",
+        "telephone": "06 80 40 41 09",
+        "site_web": "http://tcm19.fr/",
+        "adresse": "41 Rue de la Reine, 19270 Ussac",
+        "note": 0,
+        "avis": 0,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "11933072674458253397",
+        "nom": "Valentin DELPY",
+        "slug": "valentin-delpy",
+        "telephone": "05 55 88 15 64",
+        "site_web": "http://www.entreprisedelpy.fr/",
+        "adresse": "24 Av. du Parc des Sports, 19270 Ussac",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-germain-les-vergnes": {
+    "artisans": [
+      {
+        "id": "18414661877835417770",
+        "nom": "Treille TP",
+        "slug": "treille-tp",
+        "telephone": "06 27 94 09 71",
+        "site_web": null,
+        "adresse": "1418 Laborde, 19330 Saint-Germain-les-Vergnes",
+        "note": 5,
+        "avis": 10,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "3772341427028930800",
+        "nom": "Sur Mesures - Terres de Fenêtre Aubazine",
+        "slug": "sur-mesures-terres-de-fenetre-aubazine",
+        "telephone": "05 55 85 36 93",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/sur-mesures-terres-de-fenetre",
+        "adresse": "12 Pont du Chambon, 19190 Aubazines",
+        "note": 4.7,
+        "avis": 35,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15248592453846515622",
+        "nom": "NAVES CLÔTURE",
+        "slug": "naves-cloture",
+        "telephone": "07 88 14 84 59",
+        "site_web": "https://www.naves-cloture-piquet-bois.com/",
+        "adresse": "Grand Chemin, 19330 Saint-Germain-les-Vergnes",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "uzerche": {
+    "artisans": [
+      {
+        "id": "12238118245649345764",
+        "nom": "Alexandre Ducloux",
+        "slug": "alexandre-ducloux",
+        "telephone": "06 62 68 09 93",
+        "site_web": "http://www.ducloux-menuiserie.fr/",
+        "adresse": "511 route des Monedieres, 19140 Eyburie",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4103536418945462200",
+        "nom": "EURL Menuiserie Sourie Cécilien",
+        "slug": "eurl-menuiserie-sourie-cecilien",
+        "telephone": "06 47 25 64 80",
+        "site_web": "http://www.menuiserie-sourie.fr/",
+        "adresse": "La Belette, ldt Peyssoulier, 19140 Uzerche",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18186257861227623300",
+        "nom": "Menuiserie Patrice chassagne",
+        "slug": "menuiserie-patrice-chassagne",
+        "telephone": "06 38 82 21 67",
+        "site_web": "https://www.menuiserie-patricechassagne.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4651843917943184043",
+        "adresse": "25 Fbg Sainte-Eulalie, 19140 Uzerche",
+        "note": 4,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9158707718239792462",
+        "nom": "Christophe Peyry SARL",
+        "slug": "christophe-peyry-sarl",
+        "telephone": "06 22 74 48 22",
+        "site_web": null,
+        "adresse": "9 Le mas du puy haut ( le baladour, 19410 Vigeois",
+        "note": 4.9,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5121623768327382548",
+        "nom": "BFB BATIMENT - BLANC FERREIRA BATIMENT",
+        "slug": "bfb-batiment-blanc-ferreira-batiment",
+        "telephone": "05 55 73 29 67",
+        "site_web": "http://bfb-renovation.fr/",
+        "adresse": "17 Bis Av. de la Gare, 19140 Uzerche",
+        "note": 5,
+        "avis": 8,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9467071994448922878",
+        "nom": "Alain Cayrou",
+        "slug": "alain-cayrou",
+        "telephone": "05 55 73 21 85",
+        "site_web": null,
+        "adresse": "Limousin, Croix du Tieyrou, 19140 Espartignac",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "tulle": {
+    "artisans": [
+      {
+        "id": "1058864967842418864",
+        "nom": "Menuiseries 2BR",
+        "slug": "menuiseries-2br",
+        "telephone": "05 55 26 02 86",
+        "site_web": "http://www.menuiserie-2br.fr/?utm_source=gmb",
+        "adresse": "7 Rue du Dr Valette, 19000 Tulle",
+        "note": 5,
+        "avis": 100,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6051291531896628168",
+        "nom": "TRYBA Tulle",
+        "slug": "tryba-tulle",
+        "telephone": "05 18 23 12 91",
+        "site_web": "https://www.tryba.com/espace-conseil/19/tryba-tulle/?utm_campaign=Tryba_Tulle&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "93 Av. Victor Hugo, 19000 Tulle",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ussel": {
+    "artisans": [
+      {
+        "id": "10856420391704581427",
+        "nom": "Gatiniol Art et Fenêtres Ussel",
+        "slug": "gatiniol-art-et-fenetres-ussel",
+        "telephone": "05 55 72 42 32",
+        "site_web": "http://www.gatiniol.fr/",
+        "adresse": "21 Av. Carnot, 19200 Ussel",
+        "note": 4,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3501877505204361045",
+        "nom": "VONO menuiseries",
+        "slug": "vono-menuiseries",
+        "telephone": "07 61 25 34 16",
+        "site_web": null,
+        "adresse": "Lotissement les bories, 19200 Saint-Pardoux-le-Vieux",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2195948409880901306",
+        "nom": "Panneaux de Corrèze/Unilin",
+        "slug": "panneaux-de-correzeunilin",
+        "telephone": "05 55 46 37 77",
+        "site_web": "https://www.panneauxdecorreze.fr/",
+        "adresse": "6 Imp. de l'Empereur, 19200 Ussel",
+        "note": 3.5,
+        "avis": 148,
+        "type": "Fabricant"
+      },
+      {
+        "id": "6508221374407016602",
+        "nom": "confort-de-lhabitat",
+        "slug": "confort-de-lhabitat",
+        "telephone": "05 55 72 43 79",
+        "site_web": "https://confort-de-lhabitat.fr/fr/page/contact",
+        "adresse": "12 Rue du Pré du Theil, 19200 Ussel",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5877016084095638793",
+        "nom": "Jeld-wen France",
+        "slug": "jeld-wen-france",
+        "telephone": "05 55 46 36 70",
+        "site_web": null,
+        "adresse": "2 Rue du Moulin du Theil, 19200 Ussel",
+        "note": 2.6,
+        "avis": 41,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "14855244908768988321",
+        "nom": "Ozan Menuiseries",
+        "slug": "ozan-menuiseries",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lot. Chp Viar Longevialle, 19200 Ussel",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "9458952769937154599",
+        "nom": "GOUTTIÈRE YEUX ET FILS",
+        "slug": "gouttiere-yeux-et-fils",
+        "telephone": "05 55 72 93 93",
+        "site_web": "https://gouttieres-alu-yeux.fr/",
+        "adresse": "1 Chem. de Montupet, 19200 Ussel",
+        "note": 4,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vigeois": {
+    "artisans": [
+      {
+        "id": "9857008973220475912",
+        "nom": "Sarl Soccorez Boudinet Baptiste",
+        "slug": "sarl-soccorez-boudinet-baptiste",
+        "telephone": "05 55 73 19 19",
+        "site_web": null,
+        "adresse": "Pesse du Cheyrou, 19140 Espartignac",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2313206072547324825",
+        "nom": "OBO Services",
+        "slug": "obo-services",
+        "telephone": "06 16 16 10 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "varetz": {
+    "artisans": [
+      {
+        "id": "8381366761289982713",
+        "nom": "Briveservices - fabricant de volets roulants à Brive",
+        "slug": "briveservices-fabricant-de-volets-roulants-a-brive",
+        "telephone": "05 55 92 00 73",
+        "site_web": "https://briveservices.fr/",
+        "adresse": "122 Av. du Midi, 19240 Varetz",
+        "note": 5,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9266587393652079850",
+        "nom": "Johan Brochot Menuiseries",
+        "slug": "johan-brochot-menuiseries",
+        "telephone": "06 85 36 42 11",
+        "site_web": "http://brochot-menuiserie.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9083876567681044969",
+        "nom": "Gauthier et fils menuiserie",
+        "slug": "gauthier-et-fils-menuiserie",
+        "telephone": "06 46 77 67 03",
+        "site_web": "https://gauthiermenuiserie.com/",
+        "adresse": "Rue Jean Baptiste Bardinal, 19240 Varetz",
+        "note": 4,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  }
+}

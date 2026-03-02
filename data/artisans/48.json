@@ -1,0 +1,586 @@
+{
+  "florac-trois-rivieres": {
+    "artisans": [
+      {
+        "id": "3898699754692665085",
+        "nom": "Matériaux Martinazzo - Tout Faire",
+        "slug": "materiaux-martinazzo-tout-faire",
+        "telephone": "04 66 45 00 64",
+        "site_web": "https://www.toutfaire.fr/materiaux-martinazzo-florac.html",
+        "adresse": "St Julien du Gourg, 48400 Florac Trois Rivières",
+        "note": 4.3,
+        "avis": 75,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "marvejols": {
+    "artisans": [
+      {
+        "id": "14204336180211386896",
+        "nom": "LG Menuiseries & Services - Sur Mesure Menuiserie",
+        "slug": "lg-menuiseries-services-sur-mesure-menuiserie",
+        "telephone": "06 85 15 91 29",
+        "site_web": "https://marvejols.surmesure-menuiserie.fr/",
+        "adresse": "16 Av. Savorgnan de Brazza, 48100 Marvejols",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "peyre-en-aubrac": {
+    "artisans": [
+      {
+        "id": "4876277416421713727",
+        "nom": "BATIMAN Alutex Aumont-Aubrac",
+        "slug": "batiman-alutex-aumont-aubrac",
+        "telephone": "04 66 42 95 46",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-alutex-aumont-aubrac-48130-experts-en-menuiserie",
+        "adresse": "ZAE du Pêcher, 90 Av. de la Méridienne, 48130 Peyre en Aubrac",
+        "note": 4.6,
+        "avis": 104,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3831080235382532123",
+        "nom": "Aubrac Toitures",
+        "slug": "aubrac-toitures",
+        "telephone": "04 66 32 10 10",
+        "site_web": null,
+        "adresse": "D809, 48130 Peyre en Aubrac",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "la-canourgue": {
+    "artisans": [
+      {
+        "id": "11815645470345430398",
+        "nom": "Sarl Segala Facades",
+        "slug": "sarl-segala-facades",
+        "telephone": "06 87 09 48 74",
+        "site_web": "http://www.segala-facades.fr/",
+        "adresse": "11 Imp. du Sauveterre, 48500 La Canourgue",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Façadier"
+      },
+      {
+        "id": "13594745713461628328",
+        "nom": "Canourgue stores & fermetures",
+        "slug": "canourgue-stores-fermetures",
+        "telephone": "06 48 12 39 27",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "889594354600754887",
+        "nom": "Canourgue stores & fermetures",
+        "slug": "canourgue-stores-fermetures",
+        "telephone": "06 48 12 39 27",
+        "site_web": "http://www.c-stores-fermetures.webador.fr/",
+        "adresse": "1 Auxillac, 48500 La Canourgue",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "mont-lozere-et-goulet": {
+    "artisans": [
+      {
+        "id": "4113131778393101264",
+        "nom": "La Compagnie des Menuisiers de France",
+        "slug": "la-compagnie-des-menuisiers-de-france",
+        "telephone": "04 66 49 11 11",
+        "site_web": "https://www.facebook.com/profile.php?id=100063628569123&locale=fr_FR&utm_source=gmb",
+        "adresse": "Lot. les Terres Bleues, 48000 Lanuéjols",
+        "note": 4.7,
+        "avis": 76,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2783318822126893381",
+        "nom": "Alzur",
+        "slug": "alzur",
+        "telephone": "04 66 32 71 52",
+        "site_web": "http://www.alzur.fr/",
+        "adresse": "67 Av. de la République, 48100 Bourgs sur Colagne",
+        "note": 4.3,
+        "avis": 39,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12966990452328408739",
+        "nom": "Lozère menuiserie",
+        "slug": "lozere-menuiserie",
+        "telephone": null,
+        "site_web": "https://laboutiquedumenuisier.fr/",
+        "adresse": "Av. des Gorges du Tarn, 48000 Mende",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13807723978420601119",
+        "nom": "Le Montlo 48 Relais des Cerfs",
+        "slug": "le-montlo-48-relais-des-cerfs",
+        "telephone": "04 66 48 35 21",
+        "site_web": "http://www.montlo-cerfs.fr/",
+        "adresse": "Mont Lozère, 48190 Mont Lozère et Goulet",
+        "note": 3.8,
+        "avis": 352,
+        "type": "Hôtel"
+      },
+      {
+        "id": "5314357489267740660",
+        "nom": "Station de pleine nature du Mont-Lozère",
+        "slug": "station-de-pleine-nature-du-mont-lozere",
+        "telephone": "07 65 75 10 05",
+        "site_web": "http://www.lemontlozere.com/",
+        "adresse": "station du Mont Lozère, 48190 Mont Lozère et Goulet",
+        "note": 4.5,
+        "avis": 389,
+        "type": "Station de ski"
+      },
+      {
+        "id": "12071841690176835038",
+        "nom": "L'Atelier S",
+        "slug": "latelier-s",
+        "telephone": "04 66 45 08 57",
+        "site_web": "http://lateliers.eu/",
+        "adresse": "39 Av. du Soleil, 48190 Mont Lozère et Goulet",
+        "note": 4.6,
+        "avis": 76,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "18138953610049829609",
+        "nom": "Le Vallon du Villaret",
+        "slug": "le-vallon-du-villaret",
+        "telephone": "04 66 47 63 76",
+        "site_web": "https://www.levallon.fr/",
+        "adresse": "48190 Mont Lozère et Goulet",
+        "note": 4.7,
+        "avis": 1175,
+        "type": "Parc d'attractions"
+      },
+      {
+        "id": "11884195583637566793",
+        "nom": "Lozère Charpente SAS",
+        "slug": "lozere-charpente-sas",
+        "telephone": "04 66 65 35 87",
+        "site_web": "https://www.lozere-charpente.fr/",
+        "adresse": "29 Rue des Alouettes, 48000 Mende",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16887270874848510698",
+        "nom": "Les Chalets du Goulet, 4 épis, Chambres d'hôtes, tables d'hôtes, groupe Yoga.",
+        "slug": "les-chalets-du-goulet-4-epis-chambres-dhotes-tables-dhotes-groupe-yoga",
+        "telephone": "04 66 45 85 77",
+        "site_web": "http://www.leschaletsdugoulet.com/",
+        "adresse": "2101 Rte du Goulet, 48190 Mont Lozère et Goulet",
+        "note": 4.8,
+        "avis": 150,
+        "type": "Hôtel"
+      },
+      {
+        "id": "3768263994386682878",
+        "nom": "Camping municipal \"La Gazelle\" de Le Bleymard par Mont Lozère et Goulet",
+        "slug": "camping-municipal-la-gazelle-de-le-bleymard-par-mont-lozere-et-goulet",
+        "telephone": "06 85 76 95 63",
+        "site_web": "https://www.destination-montlozere.fr/campings/camping-municipal-la-gazelle/",
+        "adresse": "48190 Mont Lozère et Goulet",
+        "note": 4.6,
+        "avis": 147,
+        "type": "Terrain de camping"
+      }
+    ]
+  },
+  "langogne": {
+    "artisans": [
+      {
+        "id": "3590735491453089410",
+        "nom": "Charpente Couverture Langonaise",
+        "slug": "charpente-couverture-langonaise",
+        "telephone": "04 66 69 24 99",
+        "site_web": null,
+        "adresse": "47 Av. du Dr Conturie, 48300 Langogne",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18126899464337397679",
+        "nom": "Lhermet Menuiserie",
+        "slug": "lhermet-menuiserie",
+        "telephone": "04 66 69 12 87",
+        "site_web": "http://www.veranda-lhermet.com/",
+        "adresse": "21 Av. Jean Moulin, 48300 Langogne",
+        "note": 3.8,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "chanac": {
+    "artisans": [
+      {
+        "id": "12884441956131533227",
+        "nom": "Aluminium Systeme",
+        "slug": "aluminium-systeme",
+        "telephone": "04 66 45 93 80",
+        "site_web": "http://www.aluminium-systeme.fr/",
+        "adresse": "7 allée des Artisans, Za les Plaines, 48230 Chanac",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "banassac-canilhac": {
+    "artisans": [
+      {
+        "id": "909691682554570597",
+        "nom": "SARL ERIC PELAT",
+        "slug": "sarl-eric-pelat",
+        "telephone": "04 66 32 95 92",
+        "site_web": "https://www.couverture-pelat.fr/",
+        "adresse": "ZA de la Plaine, 48500 Banassac-Canilhac",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mende": {
+    "artisans": [
+      {
+        "id": "10122728421900380070",
+        "nom": "Centrale BPE Chausson (Béton Prêt à l'Emploi)",
+        "slug": "centrale-bpe-chausson-beton-pret-a-lemploi",
+        "telephone": "04 66 47 12 59",
+        "site_web": "https://www.chausson.fr/",
+        "adresse": "8 Rue de la Draine, 48000 Mende",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de béton prêt-à-l'emploi"
+      },
+      {
+        "id": "12339840700264909817",
+        "nom": "TRYBA Mende",
+        "slug": "tryba-mende",
+        "telephone": "04 20 98 14 31",
+        "site_web": "https://www.tryba.com/espace-conseil/48/tryba-mende/?utm_campaign=Tryba_Mende&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "2 Av. du Père Coudrin, 48000 Mende",
+        "note": 5,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7631958193303061981",
+        "nom": "Matériaux Martinazzo - Tout Faire",
+        "slug": "materiaux-martinazzo-tout-faire",
+        "telephone": "04 66 49 03 25",
+        "site_web": "https://www.toutfaire.fr/materiaux-martinazzo-mende.html",
+        "adresse": "26 Rte du Chapitre, 48000 Mende",
+        "note": 4.4,
+        "avis": 28,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2866273696293662868",
+        "nom": "CADRAL",
+        "slug": "cadral",
+        "telephone": "04 66 69 16 23",
+        "site_web": "https://cadral.fr/",
+        "adresse": "23 Rue de la Draine, 48000 Mende",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1653443477549539137",
+        "nom": "SAS Gely Menuiserie",
+        "slug": "sas-gely-menuiserie",
+        "telephone": "04 66 49 13 20",
+        "site_web": null,
+        "adresse": "Gardes, 48000 Mende",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11574567471356908675",
+        "nom": "Menuiserie Concept 48",
+        "slug": "menuiserie-concept-48",
+        "telephone": "07 86 52 22 96",
+        "site_web": "https://www.menuiserieconcept48.fr/?utm_source=gmb",
+        "adresse": "12 Rue de la Draine, 48000 Mende",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bourgs-sur-colagne": {
+    "artisans": [
+      {
+        "id": "16152645240760138206",
+        "nom": "Fournier Jean-Pierre et Fils",
+        "slug": "fournier-jean-pierre-et-fils",
+        "telephone": "04 66 32 71 64",
+        "site_web": null,
+        "adresse": "Quartier Estradasses, 48100 Bourgs sur Colagne",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "261836509192033457",
+        "nom": "Bs Facades 48",
+        "slug": "bs-facades-48",
+        "telephone": "07 81 07 71 62",
+        "site_web": "https://www.facebook.com/people/BS-FACADES-48/100077056375621/?utm_source=gmb",
+        "adresse": "64 Av. de la République, 48100 Bourgs sur Colagne",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13901994432089829168",
+        "nom": "Imbert Père et Fils",
+        "slug": "imbert-pere-et-fils",
+        "telephone": "04 66 32 74 37",
+        "site_web": null,
+        "adresse": "Av. de la République, 48100 Bourgs sur Colagne",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "montrodat": {
+    "artisans": [
+      {
+        "id": "509892191071223242",
+        "nom": "EATU Maison des Sources - Association le Clos du Nid",
+        "slug": "eatu-maison-des-sources-association-le-clos-du-nid",
+        "telephone": "04 66 32 82 24",
+        "site_web": "https://www.closdunid.asso.fr/les-institutions/etablissement-daccueil-temporaire-et-durgence/eatu-la-maison-des-sources.html",
+        "adresse": "L'Empery, 48100 Marvejols",
+        "note": 3.3,
+        "avis": 4,
+        "type": "Hôpital"
+      },
+      {
+        "id": "17028087831704180045",
+        "nom": "A2LFS - Centre de Réadaptation Fonctionnelle",
+        "slug": "a2lfs-centre-de-readaptation-fonctionnelle",
+        "telephone": "04 66 49 58 00",
+        "site_web": "http://www.allfs.fr/",
+        "adresse": "Rte de Vimenet, 48100 Montrodat",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Centre de convalescence"
+      },
+      {
+        "id": "4706317883609275227",
+        "nom": "Foyer d'hébergement de Bouldoire - Association Le Clos du Nid",
+        "slug": "foyer-dhebergement-de-bouldoire-association-le-clos-du-nid",
+        "telephone": "04 66 32 23 81",
+        "site_web": null,
+        "adresse": "Rte de Bouldoire, 48100 Montrodat",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Organisme de soutien et de services aux personnes handicapées"
+      },
+      {
+        "id": "18200028408883104071",
+        "nom": "Foyer Bouldoire",
+        "slug": "foyer-bouldoire",
+        "telephone": "09 64 21 12 49",
+        "site_web": null,
+        "adresse": "1 Boulevard Rêver Père de Jabrun, 48100 Montrodat",
+        "note": 1.8,
+        "avis": 4,
+        "type": "Organisme des services sociaux"
+      },
+      {
+        "id": "3259593943515639876",
+        "nom": "Complexe Euroméditerranéen",
+        "slug": "complexe-euromediterraneen",
+        "telephone": "04 66 49 58 58",
+        "site_web": "http://cem-montrodat.com/",
+        "adresse": "2 rue du Centre, 48100 Montrodat",
+        "note": 4.4,
+        "avis": 67,
+        "type": "Centre de sport adapté"
+      },
+      {
+        "id": "9027402139508708265",
+        "nom": "Association Le Clos Du Nid - Direction Générale - Centre d'accueil",
+        "slug": "association-le-clos-du-nid-direction-generale-centre-daccueil",
+        "telephone": "04 66 32 03 11",
+        "site_web": "https://www.closdunid.asso.fr/",
+        "adresse": "Quartier de, Chem. de Costevieille, 48100 Marvejols",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Organisme de soutien et de services aux personnes handicapées"
+      }
+    ]
+  },
+  "saint-chely-d-apcher": {
+    "artisans": [
+      {
+        "id": "12276911340235746914",
+        "nom": "Menuiseries du Gévaudan",
+        "slug": "menuiseries-du-gevaudan",
+        "telephone": "04 66 31 69 23",
+        "site_web": "https://www.menuiserie-du-gevaudan.fr/",
+        "adresse": "1 impasse Des Entrepreneurs, 48200 Saint-Chély-d'Apcher",
+        "note": 3.3,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6540010094280890107",
+        "nom": "Menuiseries D Ici",
+        "slug": "menuiseries-d-ici",
+        "telephone": "04 30 43 40 20",
+        "site_web": null,
+        "adresse": "15 Bd Guérin d'Apcher, 48200 Saint-Chély-d'Apcher",
+        "note": 5,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1034093612948486011",
+        "nom": "Miroiterie Vitrerie Haute Lozére",
+        "slug": "miroiterie-vitrerie-haute-lozere",
+        "telephone": "06 73 61 65 12",
+        "site_web": null,
+        "adresse": "4 Rue Beauséjour, 48200 Saint-Chély-d'Apcher",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "5933827492527694106",
+        "nom": "Matériaux Martinazzo - Tout Faire",
+        "slug": "materiaux-martinazzo-tout-faire",
+        "telephone": "04 66 31 00 56",
+        "site_web": "https://www.toutfaire.fr/materiaux-martinazzo-saint-chely-d-apher.html",
+        "adresse": "11 Rte de Sarroul, 48200 Saint-Chély-d'Apcher",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9850653955692633557",
+        "nom": "ORLHAC MENUISERIES",
+        "slug": "orlhac-menuiseries",
+        "telephone": "04 66 31 00 68",
+        "site_web": "https://orlhacmenuiseries.com/",
+        "adresse": "36 Av. Pierre Pignide, 48200 Saint-Chély-d'Apcher",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2925117441220268808",
+        "nom": "NICOLAS BRUNEL Menuiseries INTERNORM / Pergolas - Store Banne GIBUS / Etanchéité - Charpente",
+        "slug": "nicolas-brunel-menuiseries-internorm-pergolas-store-banne-gibus-etancheite-charpente",
+        "telephone": "04 48 25 02 18",
+        "site_web": "https://www.nicolas-brunel-menuiseries.fr/",
+        "adresse": "81 Rue Théophile Roussel, 48200 Saint-Chély-d'Apcher",
+        "note": 5,
+        "avis": 12,
+        "type": "Showroom"
+      },
+      {
+        "id": "7970631334366051103",
+        "nom": "GEDIMAT François Matériaux - Saint Chély d'Apcher",
+        "slug": "gedimat-francois-materiaux-saint-chely-dapcher",
+        "telephone": "04 66 31 10 20",
+        "site_web": "https://www.gedimat.fr/index.php?magDest=2445",
+        "adresse": "33 Bd Guérin d'Apcher, 48200 Saint-Chély-d'Apcher",
+        "note": 4.3,
+        "avis": 39,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "11184547488673706889",
+        "nom": "Brun Fabrice",
+        "slug": "brun-fabrice",
+        "telephone": "06 70 33 18 66",
+        "site_web": "http://brunfabrice.fr/",
+        "adresse": "25 Av. des Entrepreneurs, 48200 Saint-Chély-d'Apcher",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "monts-de-randon": {
+    "artisans": [
+      {
+        "id": "1475347562378648554",
+        "nom": "Garrel Menuiserie (SARL)",
+        "slug": "garrel-menuiserie-sarl",
+        "telephone": "04 66 49 30 31",
+        "site_web": "http://www.menuiseriegarrel.fr/",
+        "adresse": "ZA DU GÉVAUDAN, 48700",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11313632245404784713",
+        "nom": "Atelier Lilliu",
+        "slug": "atelier-lilliu",
+        "telephone": "04 66 47 34 96",
+        "site_web": "http://www.atelier-lilliu.fr/",
+        "adresse": "Village, 48700 Monts-de-Randon",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "saint-alban-sur-limagnole": {
+    "artisans": [
+      {
+        "id": "2433922320111498418",
+        "nom": "HENNERON COUVERTURE",
+        "slug": "henneron-couverture",
+        "telephone": "06 87 22 09 90",
+        "site_web": null,
+        "adresse": "Quartier des Prairies, 48120 Saint-Alban-sur-Limagnole",
+        "note": 3.8,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

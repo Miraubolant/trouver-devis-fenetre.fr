@@ -1,0 +1,5397 @@
+{
+  "audrieu": {
+    "artisans": [
+      {
+        "id": "11176886246056968255",
+        "nom": "Déclic & Toit",
+        "slug": "declic-toit",
+        "telephone": "06 28 72 10 47",
+        "site_web": "https://www.declic-fenetre-de-toit.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "608508219573381385",
+        "nom": "KparK Boulogne Billancourt",
+        "slug": "kpark-boulogne-billancourt",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/120-kpark-boulogne-billancourt?utm_source=gmb",
+        "adresse": "14 Av. du Général Leclerc, 92100 Boulogne-Billancourt",
+        "note": 3.8,
+        "avis": 54,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "16541829220080211621",
+        "nom": "Techni Plast - Plexiglas sur mesure",
+        "slug": "techni-plast-plexiglas-sur-mesure",
+        "telephone": "01 34 77 54 22",
+        "site_web": "https://www.techni-plast.com/",
+        "adresse": "6 Rue du Moulin À Vent, 78440 Gargenville",
+        "note": 5,
+        "avis": 8,
+        "type": "Entreprise de fabrication de plastique"
+      },
+      {
+        "id": "7672195270495600055",
+        "nom": "Toit et Lumière",
+        "slug": "toit-et-lumiere",
+        "telephone": "07 49 64 53 08",
+        "site_web": "https://www.toitetlumiere.fr/",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 5,
+        "avis": 79,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10808235573159033634",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/calvados/installateur-expert-en-pose-velux-a-caen",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 4.9,
+        "avis": 76,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "balleroy-sur-drome": {
+    "artisans": [
+      {
+        "id": "12467998443579990148",
+        "nom": "Hélios Habitat Vitré, isolation et fenêtre de toit Velux",
+        "slug": "helios-habitat-vitre-isolation-et-fenetre-de-toit-velux",
+        "telephone": "02 56 28 98 53",
+        "site_web": "http://helios-habitat.bzh/",
+        "adresse": "92 Bd de Laval, 35500 Vitré",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "2332129452347689202",
+        "nom": "Déclic Habitat - Isolation extérieure - Fenêtres - Portes d'entrées aluminium K-Line",
+        "slug": "declic-habitat-isolation-exterieure-fenetres-portes-dentrees-aluminium-k-line",
+        "telephone": "02 31 28 06 67",
+        "site_web": "http://www.declic-habitat-isolation.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.9,
+        "avis": 117,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12298179549395516209",
+        "nom": "Renov' Habitat SOLABAIE - Portes, fenêtres, volets, portails, portes de garage, pergolas, stores, ITE, bardages et isolations",
+        "slug": "renov-habitat-solabaie-portes-fenetres-volets-portails-portes-de-garage-pergolas-stores-ite-bardages-et-isolations",
+        "telephone": "02 33 45 60 51",
+        "site_web": "http://www.renovhabitat50.com/",
+        "adresse": "du carrousel, LA FR, 1 ZA, 50250 La Haye",
+        "note": 4.9,
+        "avis": 75,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6160995590734857034",
+        "nom": "RL NETTOYAGE",
+        "slug": "rl-nettoyage",
+        "telephone": "06 52 84 38 35",
+        "site_web": "http://www.rl-nettoyage-couvertur.fr/",
+        "adresse": "2 Av. de Woodbury, 14760 Bretteville-sur-Odon",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9658328784153001472",
+        "nom": "Pole Rénovation Normandie/Picardie – Étanchéité, Humidité & Isolation",
+        "slug": "pole-renovation-normandiepicardie-etancheite-humidite-isolation",
+        "telephone": "02 31 84 62 42",
+        "site_web": "https://pole-renov.fr/?utm_medium=Click&utm_source=GoogleBusinessProfileNormandie",
+        "adresse": "1 Rue de la Libération, 14940 Sannerville",
+        "note": 4.5,
+        "avis": 78,
+        "type": "Entreprise d'étanchéité"
+      },
+      {
+        "id": "17274948683920105119",
+        "nom": "VERRE SOLUTIONS CAEN",
+        "slug": "verre-solutions-caen",
+        "telephone": "02 31 71 14 00",
+        "site_web": "https://agence.verre-solutions.com/19-verre-solutions-caen?utm_source=gmb",
+        "adresse": "ZI Caen Ouest, 2 Rue des Monderaines, 14650 Carpiquet",
+        "note": 4.7,
+        "avis": 113,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "colomby-anguerny": {
+    "artisans": [
+      {
+        "id": "11945114066283499465",
+        "nom": "Harcourt Couverture",
+        "slug": "harcourt-couverture",
+        "telephone": "06 40 24 20 97",
+        "site_web": "https://harcourt-couverture.fr/",
+        "adresse": "5 Rue du Bac du Port, 14860 Amfreville",
+        "note": 5,
+        "avis": 28,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13154377145480607313",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/seine-maritime/installateur-expert-en-pose-velux-au-havre",
+        "adresse": "5 Pl. Léon Meyer, 76600 Le Havre",
+        "note": 4.9,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8762581891120962293",
+        "nom": "LC Rénover",
+        "slug": "lc-renover",
+        "telephone": "07 82 98 19 65",
+        "site_web": "https://lc-renover.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 50,
+        "type": "Constructeur de terrasses"
+      },
+      {
+        "id": "12705098329557260230",
+        "nom": "Isogreen SAS - Installateur Velux agréé",
+        "slug": "isogreen-sas-installateur-velux-agree",
+        "telephone": "09 53 84 28 40",
+        "site_web": "https://www.isogreen-sas.com/",
+        "adresse": "8 Rue de Meulan, 78440 Fontenay-Saint-Père",
+        "note": 4.9,
+        "avis": 256,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12548095380518036032",
+        "nom": "Couvreur Rybiki Renov Habitat Normandie",
+        "slug": "couvreur-rybiki-renov-habitat-normandie",
+        "telephone": "06 69 61 11 81",
+        "site_web": "https://www.artisan-couvreur-14.fr/",
+        "adresse": "6 Rue du Dr Ebrard, 14800 Deauville",
+        "note": 5,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4895511443283541830",
+        "nom": "Couverture Normande : Artisan TOUDIC Julien 14 Calvados",
+        "slug": "couverture-normande-artisan-toudic-julien-14-calvados",
+        "telephone": "06 82 95 09 32",
+        "site_web": "https://www.couverture-normande-calvados.fr/",
+        "adresse": "Rue d'Emiéville, 14670 Troarn",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5703866435128233436",
+        "nom": "Marie Aurélien Couverture",
+        "slug": "marie-aurelien-couverture",
+        "telephone": "06 61 13 90 64",
+        "site_web": null,
+        "adresse": "Route de Colomby, 14440 Bény-sur-Mer",
+        "note": 4,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1777352953656082223",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 31 31 90 51",
+        "site_web": "https://techniques-et-traditions.artetfenetres.com/adresses-magasins/lisieux-14100.php?utm_source=gmb",
+        "adresse": "12 Rue d'Alençon, 14100 Lisieux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10339282423282500956",
+        "nom": "Gevrey",
+        "slug": "gevrey",
+        "telephone": "02 31 72 56 54",
+        "site_web": "http://couverturegevrey.fr/",
+        "adresse": "Rue Jean Monnet, 14460 Colombelles",
+        "note": 4.5,
+        "avis": 41,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4686843374846776659",
+        "nom": "TRYBA Caen",
+        "slug": "tryba-caen",
+        "telephone": "02 31 78 97 10",
+        "site_web": "https://www.tryba.com/espace-conseil/14/tryba-caen/?utm_campaign=Tryba_Caen&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "147 Bd Maréchal Lyautey, 14000 Caen",
+        "note": 4.5,
+        "avis": 77,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "argences": {
+    "artisans": [
+      {
+        "id": "11952077895951258785",
+        "nom": "Ouest Habitat",
+        "slug": "ouest-habitat",
+        "telephone": "02 31 23 98 01",
+        "site_web": "http://www.ouest-habitat.com/",
+        "adresse": "Rue Marcel Longuet, 14370 Argences",
+        "note": 4.3,
+        "avis": 43,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11681744985920317215",
+        "nom": "Côté Pose Fenêtres Pvc Bois Aluminium, porte d'entrée, volet, store, Pergola en normandie",
+        "slug": "cote-pose-fenetres-pvc-bois-aluminium-porte-dentree-volet-store-pergola-en-normandie",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "10 Les Grandes Carrières Bâtiment 10, 14370 Moult-Chicheboville",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13408244205108458156",
+        "nom": "SKYLINE / BACON ESTEBAN COUVERTURE",
+        "slug": "skyline-bacon-esteban-couverture",
+        "telephone": "02 31 28 39 06",
+        "site_web": "https://skyline-couverture.fr/",
+        "adresse": "5 Rue Marcel Longuet, 14370 Argences",
+        "note": 4.5,
+        "avis": 63,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5300095327221705351",
+        "nom": "Clair2Jours",
+        "slug": "clair2jours",
+        "telephone": "02 31 50 63 07",
+        "site_web": "https://www.clair2jours.com/",
+        "adresse": "34 ZI, Les Grandes Carrières, 14370",
+        "note": 5,
+        "avis": 25,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "authie": {
+    "artisans": [
+      {
+        "id": "17053816936755956597",
+        "nom": "KparK Caen",
+        "slug": "kpark-caen",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/135-kpark-caen?utm_source=gmb",
+        "adresse": "73 Rue d'Auge, 14000 Caen",
+        "note": 4,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8594022747271265866",
+        "nom": "La Boutique du Menuisier Caen",
+        "slug": "la-boutique-du-menuisier-caen",
+        "telephone": "06 76 97 83 22",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/gl-menuiseries",
+        "adresse": "119 Bd Maréchal Lyautey, 14000 Caen",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "baron-sur-odon": {
+    "artisans": [
+      {
+        "id": "9425030958612215502",
+        "nom": "Mario Duval Couverture - Couvreur Caen",
+        "slug": "mario-duval-couverture-couvreur-caen",
+        "telephone": "02 44 84 79 77",
+        "site_web": "https://marioduvalcouverture.com/",
+        "adresse": "2 Av. de Woodbury, 14760 Bretteville-sur-Odon",
+        "note": 5,
+        "avis": 119,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16096735186534611454",
+        "nom": "REPAR'STORES CAEN OUEST",
+        "slug": "reparstores-caen-ouest",
+        "telephone": "02 61 67 03 95",
+        "site_web": "https://www.reparstores.com/intervenants/320-mathis-le-calve?utm_source=google&utm_medium=gmb&utm_campaign=caen-ouest&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 91,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "15465829287604372629",
+        "nom": "B'PLAST CAEN",
+        "slug": "bplast-caen",
+        "telephone": "02 31 35 03 35",
+        "site_web": "https://www.bplast.fr/agence/bplast-caen/?utm_source=gmb",
+        "adresse": "ZAC Lazzaro, 2 Rue de la Métallurgie, 14460 Colombelles",
+        "note": 3.9,
+        "avis": 249,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-monts-d-aunay": {
+    "artisans": [
+      {
+        "id": "5552608524147236138",
+        "nom": "Artisanat Deperiers - Fenêtres Solabaie Caen",
+        "slug": "artisanat-deperiers-fenetres-solabaie-caen",
+        "telephone": "06 14 49 81 19",
+        "site_web": "https://www.solabaie.fr/entreprise-menuiserie/calvados/aunay-sur-odon/artisanat-deperiers-332/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "adresse": "02 Le Château, 14260 Les Monts d'Aunay",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5618221693027832424",
+        "nom": "B'Plast SAV Colombelles",
+        "slug": "bplast-sav-colombelles",
+        "telephone": "02 31 78 59 05",
+        "site_web": "https://www.bplast.fr/agences/bplast-caen/",
+        "adresse": "2 Espa. Jean Mantelet, 14123 Cormelles-le-Royal",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "douvres-la-delivrande": {
+    "artisans": [
+      {
+        "id": "17181183852163952402",
+        "nom": "LC-POSE",
+        "slug": "lc-pose",
+        "telephone": null,
+        "site_web": "https://www.lc-pose.com/",
+        "adresse": "14 Rue Jean Perrin, 14440 Douvres-la-Délivrande",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "580167405740100174",
+        "nom": "Chouette Habitat",
+        "slug": "chouette-habitat",
+        "telephone": "02 31 91 35 14",
+        "site_web": "http://chouette-habitat.fr/",
+        "adresse": "6 Rue Pierre Auger, 14440 Douvres-la-Délivrande",
+        "note": 4.7,
+        "avis": 38,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18087445381598900245",
+        "nom": "Sofamec",
+        "slug": "sofamec",
+        "telephone": "02 31 37 36 34",
+        "site_web": "http://www.sofamec.com/",
+        "adresse": "Rue de la Fossette, 14440 Douvres-la-Délivrande",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bayeux": {
+    "artisans": [
+      {
+        "id": "11955842608488424409",
+        "nom": "AV Menuiseries",
+        "slug": "av-menuiseries",
+        "telephone": "02 31 51 79 23",
+        "site_web": "http://www.av-menuiseries.fr/",
+        "adresse": "ZA Saint-Exupère III Rue jean Moulin, 14400 Saint-Vigor-le-Grand",
+        "note": 4.5,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "708735204335232499",
+        "nom": "Izabelle Bâtiment",
+        "slug": "izabelle-batiment",
+        "telephone": "02 31 21 37 52",
+        "site_web": "https://www.izabelle-batiment.com/",
+        "adresse": "Bd Winston Churchill, 14400 Saint-Vigor-le-Grand",
+        "note": 4.7,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "457694679125881519",
+        "nom": "ALM Menuiserie",
+        "slug": "alm-menuiserie",
+        "telephone": "06 85 01 43 93",
+        "site_web": "https://www.alm-menuiserie.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14655939858701903352",
+        "nom": "B'PLAST BAYEUX",
+        "slug": "bplast-bayeux",
+        "telephone": "02 31 51 35 30",
+        "site_web": "https://www.bplast.fr/agence/bplast-bayeux/?utm_source=gmb",
+        "adresse": "Boulevard Winston Churchill, 2 Chem. de la Bletre chemin de, 14400 Saint-Vigor-le-Grand",
+        "note": 4.2,
+        "avis": 65,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12227979402070623744",
+        "nom": "Bayeux Menuiseries",
+        "slug": "bayeux-menuiseries",
+        "telephone": "02 14 08 61 12",
+        "site_web": null,
+        "adresse": "2 Imp. du Moulin de la Rivière, 14400 Saint-Vigor-le-Grand",
+        "note": 5,
+        "avis": 83,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6173630628708896766",
+        "nom": "Terré Menuiserie",
+        "slug": "terre-menuiserie",
+        "telephone": "06 08 56 11 82",
+        "site_web": "https://www.facebook.com/terremenuiserie/",
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bavent": {
+    "artisans": [
+      {
+        "id": "4891373258159500042",
+        "nom": "Terreal Bavent",
+        "slug": "terreal-bavent",
+        "telephone": "02 31 78 80 10",
+        "site_web": "https://www.terreal.com/fr/implantation/bavent",
+        "adresse": "Le Mesnil, 14860 Bavent",
+        "note": 3.6,
+        "avis": 20,
+        "type": "Fabricant de constructions transportables"
+      },
+      {
+        "id": "1020228460391649589",
+        "nom": "WEISS COUVERTURE NORMANDIE: Artisan couvreur Caen Étanchéité Réparation fuites Nettoyage toiture Traitement 14 Calvados",
+        "slug": "weiss-couverture-normandie-artisan-couvreur-caen-etancheite-reparation-fuites-nettoyage-toiture-traitement-14-calvados",
+        "telephone": "06 83 74 56 17",
+        "site_web": "https://weiss-couverture-normandie.fr/",
+        "adresse": "5 Chemin de la, Rue de la Bruyère Saint-Léonard, 14670",
+        "note": 5,
+        "avis": 42,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13489863879239574739",
+        "nom": "technik déco carrelages",
+        "slug": "technik-deco-carrelages",
+        "telephone": "06 78 86 22 85",
+        "site_web": null,
+        "adresse": "10 bis Rue de Geiselbach, 14860 Bavent",
+        "note": 4,
+        "avis": 1,
+        "type": "Carreleur"
+      },
+      {
+        "id": "8035157928387484471",
+        "nom": "Flambard Couverture",
+        "slug": "flambard-couverture",
+        "telephone": "07 84 94 91 57",
+        "site_web": "https://www.flambard-couverture.fr/",
+        "adresse": null,
+        "note": 3.8,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bellengreville": {
+    "artisans": [
+      {
+        "id": "3639013067151618729",
+        "nom": "My Etanchéité",
+        "slug": "my-etancheite",
+        "telephone": "02 31 45 70 56",
+        "site_web": "https://www.mlgbyetancheite.fr/?utm_source=gmb",
+        "adresse": "14 Pl. Saint-Clair, 14370 Bellengreville",
+        "note": 4.9,
+        "avis": 69,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16440658556971951091",
+        "nom": "BLM Couverture SARL",
+        "slug": "blm-couverture-sarl",
+        "telephone": "07 77 86 01 87",
+        "site_web": "http://www.blmcouverture.fr/?utm_source=gmb",
+        "adresse": "2 Rue Marcel Longuet, 14370 Argences",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7236235670057184401",
+        "nom": "Groupe Thillaye | ANNE BOUCLIER | CTP | MPIS",
+        "slug": "groupe-thillaye-anne-bouclier-ctp-mpis",
+        "telephone": "02 31 30 06 06",
+        "site_web": "https://www.groupe-thillaye.com/",
+        "adresse": "14158 Rue Rembrandt Bugatti, 14370 Moult-Chicheboville",
+        "note": 5,
+        "avis": 32,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8273684919572570057",
+        "nom": "Couverture Langlois Caen",
+        "slug": "couverture-langlois-caen",
+        "telephone": "02 31 24 42 46",
+        "site_web": "https://couverturelangloiscaen.fr/",
+        "adresse": "25 Rue Henry Spriet, 14120 Mondeville",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5441552742210225612",
+        "nom": "PARISY RENOV TOITURE 14",
+        "slug": "parisy-renov-toiture-14",
+        "telephone": "07 77 94 55 09",
+        "site_web": "https://www.renovtoiture14.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 63,
+        "type": "Couvreur"
+      },
+      {
+        "id": "794465949837993179",
+        "nom": "EVEREST CHARPENTE COUVERTURE",
+        "slug": "everest-charpente-couverture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "benouville": {
+    "artisans": [
+      {
+        "id": "11114352014464320688",
+        "nom": "SARL Laurent Didier et BENJAMIN",
+        "slug": "sarl-laurent-didier-et-benjamin",
+        "telephone": "02 31 43 54 91",
+        "site_web": "https://www.toiture-laurent.fr/notre-entreprise/",
+        "adresse": "ZONE ARTISANALE DE LA, All. de la Hogue, 14970 Bénouville",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12044324618286438095",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": "02 31 73 48 61",
+        "site_web": "https://www.lg-habitat-14.fr/",
+        "adresse": "ZA du clos de la hogue, 18 Rue de la Plaine, 14970 Bénouville",
+        "note": 4.9,
+        "avis": 371,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "1034085399181660505",
+        "nom": "SARL Laurent Didier et Benjamin",
+        "slug": "sarl-laurent-didier-et-benjamin",
+        "telephone": "02 31 43 54 91",
+        "site_web": "https://www.toiture-laurent.fr/",
+        "adresse": "6 All. des Tilleuls, 14970 Bénouville",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11172586654664083912",
+        "nom": "ANJOU COUVERTURE",
+        "slug": "anjou-couverture",
+        "telephone": "07 82 12 03 66",
+        "site_web": "https://www.anjou-couverture.fr/",
+        "adresse": "51 Rue des Ecordières, 14970 Bénouville",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      },
+      {
+        "id": "8605011059007117543",
+        "nom": "Bunel Frères",
+        "slug": "bunel-freres",
+        "telephone": "02 31 23 45 14",
+        "site_web": "http://www.bunelfreres.com/?utm_source=gmb",
+        "adresse": "D613, 14630 Frénouville",
+        "note": 4.1,
+        "avis": 30,
+        "type": "Constructeur d'abris de jardin"
+      }
+    ]
+  },
+  "basly": {
+    "artisans": [
+      {
+        "id": "7861105308382651154",
+        "nom": "Entreprise Pesnelle",
+        "slug": "entreprise-pesnelle",
+        "telephone": "02 31 80 08 40",
+        "site_web": "https://www.couverture-pesnelle.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "17 Rue Talbot, 14610 Basly",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "souleuvre-en-bocage": {
+    "artisans": [
+      {
+        "id": "3618307276233550587",
+        "nom": "Couverture JL Leprovost et Fils",
+        "slug": "couverture-jl-leprovost-et-fils",
+        "telephone": "02 31 67 74 20",
+        "site_web": "https://www.couverture-leprovostetfils.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "3 Rue des Frênes, 14350 Souleuvre en Bocage",
+        "note": 3,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1622988636897809518",
+        "nom": "Entreprise Carville",
+        "slug": "entreprise-carville",
+        "telephone": "06 98 14 18 60",
+        "site_web": "https://www.carville.fr/#entreprise",
+        "adresse": "Le Bourg, 14350 Souleuvre en Bocage",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9970207190519737969",
+        "nom": "SAS Cedric Lechartier",
+        "slug": "sas-cedric-lechartier",
+        "telephone": "02 31 69 70 82",
+        "site_web": null,
+        "adresse": "23 Rue de la Minoterie, 14350 Souleuvre en Bocage",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5321548794094387940",
+        "nom": "Couverture du Bocage",
+        "slug": "couverture-du-bocage",
+        "telephone": "02 31 77 89 63",
+        "site_web": "https://www.couverturedubocage.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "3 Rte de Cheux, 14210 Val d'Arry",
+        "note": 4.8,
+        "avis": 33,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12868167082239652845",
+        "nom": "Vincent Nicolas",
+        "slug": "vincent-nicolas",
+        "telephone": "02 31 68 35 26",
+        "site_web": "https://www.vincent-nicolas-couverture.fr/",
+        "adresse": "5 Rte de Crincelles, 14350 Souleuvre en Bocage",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4382142498012814412",
+        "nom": "Dubois Robert",
+        "slug": "dubois-robert",
+        "telephone": "02 31 67 37 97",
+        "site_web": "https://www.pagesjaunes.fr/pros/09624840",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9593525859941463065",
+        "nom": "Agri Bocage - Tout Faire",
+        "slug": "agri-bocage-tout-faire",
+        "telephone": "02 31 68 78 89",
+        "site_web": "https://www.toutfaire.fr/agri-bocage-saint-martin-des-besaces.html",
+        "adresse": "La Grange Cauchard, 14350 Souleuvre en Bocage",
+        "note": 4.1,
+        "avis": 50,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "bernieres-sur-mer": {
+    "artisans": [
+      {
+        "id": "10808235573159033634",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/calvados/installateur-expert-en-pose-velux-a-caen",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 4.9,
+        "avis": 76,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "beuvillers": {
+    "artisans": [
+      {
+        "id": "1777352953656082223",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 31 31 90 51",
+        "site_web": "https://techniques-et-traditions.artetfenetres.com/adresses-magasins/lisieux-14100.php?utm_source=gmb",
+        "adresse": "12 Rue d'Alençon, 14100 Lisieux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "blonville-sur-mer": {
+    "artisans": [
+      {
+        "id": "13682728816376779110",
+        "nom": "Sarl Plafonds Suspendus Cloisons Isola",
+        "slug": "sarl-plafonds-suspendus-cloisons-isola",
+        "telephone": "06 88 15 46 73",
+        "site_web": "http://www.psci14.com/",
+        "adresse": "14 Rue d'Alsace, 14910 Blonville-sur-Mer",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "15561322780722080353",
+        "nom": "MCP Le Havre - Fenêtres, Portes, Volets, Portails et Vérandas",
+        "slug": "mcp-le-havre-fenetres-portes-volets-portails-et-verandas",
+        "telephone": "02 35 91 07 26",
+        "site_web": "https://mcp-menuiserie.com/magasins/magasin-mcp-le-havre-fenetre/",
+        "adresse": "9 Rue Jean Baptiste Eyriès, 76600 Le Havre",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7321862282506002742",
+        "nom": "Duval Régis",
+        "slug": "duval-regis",
+        "telephone": "02 31 88 28 61",
+        "site_web": "https://www.couverture-duval.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "La Cour Au Roy Route De Beaumont, 14910 Blonville-sur-Mer",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12572409344817932902",
+        "nom": "Menuiserie Josse",
+        "slug": "menuiserie-josse",
+        "telephone": "06 76 17 63 66",
+        "site_web": "http://www.josse-menuiserie.fr/",
+        "adresse": "22 Av. de la Brigade Piron, 14910 Blonville-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12116304660814260649",
+        "nom": "Loizon",
+        "slug": "loizon",
+        "telephone": "02 31 88 94 79",
+        "site_web": null,
+        "adresse": "Chem. de la Croix Ferey, 14910 Blonville-sur-Mer",
+        "note": 5,
+        "avis": 8,
+        "type": "Maçon"
+      },
+      {
+        "id": "15974208125285597563",
+        "nom": "Veret Olivier",
+        "slug": "veret-olivier",
+        "telephone": "06 63 63 01 28",
+        "site_web": null,
+        "adresse": "10 All. des Eglantines, 14910 Blonville-sur-Mer",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "9333729946591062801",
+        "nom": "Vma",
+        "slug": "vma",
+        "telephone": "02 31 98 21 53",
+        "site_web": "http://www.vma14.com/?utm_source=gmb",
+        "adresse": "Rue des Tonneliers, 14800 Touques",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "blainville-sur-orne": {
+    "artisans": [
+      {
+        "id": "11981102104350155128",
+        "nom": "Couvreur Blainville-sur-Orne",
+        "slug": "couvreur-blainville-sur-orne",
+        "telephone": "02 61 53 71 94",
+        "site_web": "http://couvreur-expert-blainville.fr/",
+        "adresse": "8 Rue du Général Leclerc, 14550 Blainville-sur-Orne",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux en hauteur"
+      },
+      {
+        "id": "6459130945630183602",
+        "nom": "Toiture 14 Blainville",
+        "slug": "toiture-14-blainville",
+        "telephone": "02 61 53 71 31",
+        "site_web": "http://toiture-blainville-sur-orne.fr/",
+        "adresse": "5 Rue Saint-Quentin, 14550 Blainville-sur-Orne",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10122389850846261276",
+        "nom": "Defever Laurent",
+        "slug": "defever-laurent",
+        "telephone": "02 31 44 39 12",
+        "site_web": "http://www.defever-couverture-calvados.fr/",
+        "adresse": "4 Rue des Arts et Métiers, 14550 Blainville-sur-Orne",
+        "note": 4,
+        "avis": 9,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bourguebus": {
+    "artisans": [
+      {
+        "id": "10688341743401747802",
+        "nom": "Couvreur Calvados - SARL SBS HABITAT",
+        "slug": "couvreur-calvados-sarl-sbs-habitat",
+        "telephone": "07 83 22 92 43",
+        "site_web": "https://couvreur-sbs-habitat.fr/",
+        "adresse": "Park Artisan, 25 Rue Henry Spriet, 14120 Mondeville",
+        "note": 5,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4297290193092379337",
+        "nom": "Gonthier Couverture - Couvreur Caen",
+        "slug": "gonthier-couverture-couvreur-caen",
+        "telephone": "02 31 23 60 74",
+        "site_web": "https://www.gonthiercouverture.fr/",
+        "adresse": "Bd des Nations, 14540 Bourguébus",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8199646762052722333",
+        "nom": "Piquet Couverture - Couvreur Caen - Entreprise de couverture Caen",
+        "slug": "piquet-couverture-couvreur-caen-entreprise-de-couverture-caen",
+        "telephone": "06 86 84 60 77",
+        "site_web": "https://www.piquet-couverture.fr/?utm_source=gmb",
+        "adresse": "6 bis Bd de l'Europe, 14540 Bourguébus",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8833669098660034880",
+        "nom": "KôHm | Menuiseries | Fenêtres | Portes | Volets | Isolation",
+        "slug": "kohm-menuiseries-fenetres-portes-volets-isolation",
+        "telephone": "02 31 39 54 54",
+        "site_web": "https://menuiserie-kohm.fr/",
+        "adresse": "1 Rue Augustin Riffault, 14540 Soliers",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2277840945319798030",
+        "nom": "Isoplaf",
+        "slug": "isoplaf",
+        "telephone": "02 31 46 09 35",
+        "site_web": "https://www.isoplaf14.fr/",
+        "adresse": "17 Bd des Nations, 14540 Bourguébus",
+        "note": 3.6,
+        "avis": 10,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "1465780044376842049",
+        "nom": "Euro Habitat",
+        "slug": "euro-habitat",
+        "telephone": "02 31 35 25 50",
+        "site_web": "http://eurohabitat14.com/",
+        "adresse": "Village Entreprise Actifs 3, 6 Allée Emilie du Châtelet, 14123 Ifs",
+        "note": 4.5,
+        "avis": 56,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "7076052396962217494",
+        "nom": "SL Solutions Accessbat",
+        "slug": "sl-solutions-accessbat",
+        "telephone": "06 13 36 52 23",
+        "site_web": "https://accessbat.com/",
+        "adresse": "12 Bd de l'Europe, 14540 Bourguébus",
+        "note": 5,
+        "avis": 5,
+        "type": "Marché de matériaux de construction"
+      },
+      {
+        "id": "4732448373777180196",
+        "nom": "N.S.V.",
+        "slug": "nsv",
+        "telephone": "02 31 23 73 73",
+        "site_web": "https://www.nsv-14.fr/",
+        "adresse": "26 Bd des Nations, 14540 Bourguébus",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Service d'enlèvement des graffitis"
+      },
+      {
+        "id": "1181402761925464061",
+        "nom": "BMJ Toiture",
+        "slug": "bmj-toiture",
+        "telephone": "07 82 78 76 19",
+        "site_web": "https://bmjtoiturecaen.fr/?utm_source=gmb",
+        "adresse": "9 Rue de l'Égalité, 14000 Caen",
+        "note": 4.9,
+        "avis": 71,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "thue-et-mue": {
+    "artisans": [
+      {
+        "id": "5088543212361239375",
+        "nom": "Thue et Mue",
+        "slug": "thue-et-mue",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Thue et Mue",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "amaye-sur-orne": {
+    "artisans": [
+      {
+        "id": "11947228810876074144",
+        "nom": "Entreprise Hettier Reynald",
+        "slug": "entreprise-hettier-reynald",
+        "telephone": "02 31 80 53 68",
+        "site_web": null,
+        "adresse": "Rue Saint-Lambert, 14210 Amayé-sur-Orne",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "17528505780068978768",
+        "nom": "Leconte Energie",
+        "slug": "leconte-energie",
+        "telephone": "09 87 70 18 02",
+        "site_web": "https://leconte-energie.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14114697260178172124",
+        "nom": "Couverture Marie Stephen",
+        "slug": "couverture-marie-stephen",
+        "telephone": "02 49 88 40 80",
+        "site_web": "https://www.couverture-marie-stephen.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 22,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13531416756286247241",
+        "nom": "AU JOLI PONT DU COUDRAY",
+        "slug": "au-joli-pont-du-coudray",
+        "telephone": "06 79 04 61 38",
+        "site_web": "https://www.aujolipontducoudray.com/",
+        "adresse": "2 Rue du Bac, 14210 Amayé-sur-Orne",
+        "note": 4.4,
+        "avis": 401,
+        "type": "Discothèque"
+      }
+    ]
+  },
+  "bretteville-sur-laize": {
+    "artisans": [
+      {
+        "id": "7837918222616878391",
+        "nom": "sas Michel j .renov ( mj renov)",
+        "slug": "sas-michel-j-renov-mj-renov",
+        "telephone": "06 03 04 99 24",
+        "site_web": "https://mjrenov14680.wixsite.com/sas-michel-j",
+        "adresse": "8 Rue de Rougemont, 14680 Bretteville-sur-Laize",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9328580384313080555",
+        "nom": "DRD Menuiserie - L'Expert Fenêtre",
+        "slug": "drd-menuiserie-lexpert-fenetre",
+        "telephone": "02 31 73 30 60",
+        "site_web": "http://www.drdmenuiserie.fr/",
+        "adresse": "ZA des Forques, 4 Rue du Long Douet, 14760 Bretteville-sur-Odon",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15005360777038432860",
+        "nom": "Daniel Moquet signe vos clôtures - Ent. Poret",
+        "slug": "daniel-moquet-signe-vos-clotures-ent-poret",
+        "telephone": "02 31 50 79 25",
+        "site_web": "https://www.moquet-clotures.com/cloture-portail/",
+        "adresse": "20 Rue des Pallières ZAC du Cingal, 14680 Bretteville-sur-Laize",
+        "note": 5,
+        "avis": 85,
+        "type": "Architecte paysagiste"
+      },
+      {
+        "id": "1460483410218075604",
+        "nom": "LARO Aménagement d'intérieur-Solabaie",
+        "slug": "laro-amenagement-dinterieur-solabaie",
+        "telephone": "02 31 29 76 51",
+        "site_web": "https://www.laro-caen.fr/",
+        "adresse": "3 Chemin de la Baulue, 14760 Bretteville-sur-Odon",
+        "note": 4.5,
+        "avis": 48,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8298784624250031291",
+        "nom": "La Menuiserie des Manoirs",
+        "slug": "la-menuiserie-des-manoirs",
+        "telephone": "06 62 21 52 11",
+        "site_web": "https://www.lamenuiseriedesmanoirs.fr/",
+        "adresse": "11 Rue du 8 Juin 1944 Za de, 14740 Thue et Mue",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "770513994717592273",
+        "nom": "L'atelier Haret Déco",
+        "slug": "latelier-haret-deco",
+        "telephone": "02 31 80 38 02",
+        "site_web": "http://www.haretdeco.fr/",
+        "adresse": "4 Chem. aux Bœufs, 14760 Bretteville-sur-Odon",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13372957438229145441",
+        "nom": "Haret Déco",
+        "slug": "haret-deco",
+        "telephone": "02 31 80 38 02",
+        "site_web": "http://www.haretdeco.fr/",
+        "adresse": "3 Rue des Entrepreneurs, ZAC de la Grande Plaine, 14760 Bretteville-sur-Odon",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1317068153217008164",
+        "nom": "SARL MLB",
+        "slug": "sarl-mlb",
+        "telephone": "06 18 52 05 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10346254308897519908",
+        "nom": "SARL Isodécors",
+        "slug": "sarl-isodecors",
+        "telephone": "02 50 08 25 36",
+        "site_web": "http://www.isodecors.jimdofree.com/",
+        "adresse": "3 rue des pallières, 14680 Bretteville-sur-Laize",
+        "note": 5,
+        "avis": 7,
+        "type": "Tapissier décorateur"
+      }
+    ]
+  },
+  "bretteville-sur-odon": {
+    "artisans": [
+      {
+        "id": "1841351597744055515",
+        "nom": "Les Ateliers Duvernois Caen - Menuiserie - Ebenisterie Sur-Mesure",
+        "slug": "les-ateliers-duvernois-caen-menuiserie-ebenisterie-sur-mesure",
+        "telephone": "02 61 53 52 54",
+        "site_web": "https://lesateliersduvernois.fr/",
+        "adresse": "8 Av. du Fresne, 14760 Bretteville-sur-Odon",
+        "note": 5,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "amfreville": {
+    "artisans": [
+      {
+        "id": "631228902284596038",
+        "nom": "RENOV HABITATION",
+        "slug": "renov-habitation",
+        "telephone": "06 34 09 63 83",
+        "site_web": null,
+        "adresse": "Rue du Gable Harel, 14860 Amfreville",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "885743735490524844",
+        "nom": "Renov'Pro Habitat l'Expert Fenêtre",
+        "slug": "renovpro-habitat-lexpert-fenetre",
+        "telephone": "02 35 52 01 00",
+        "site_web": "https://www.facebook.com/people/RenovPro-Habitat/100063527980598/?utm_source=gmb",
+        "adresse": "177 Rte de Paris, 76920 Amfreville-la-Mi-Voie",
+        "note": 4.1,
+        "avis": 41,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15005094728756605324",
+        "nom": "Plaq'home Concept (EURL)",
+        "slug": "plaqhome-concept-eurl",
+        "telephone": "06 85 86 90 79",
+        "site_web": null,
+        "adresse": "28 Rue de la Haute Ecarde, 14860 Amfreville",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "ablon": {
+    "artisans": [
+      {
+        "id": "13154377145480607313",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/seine-maritime/installateur-expert-en-pose-velux-au-havre",
+        "adresse": "5 Pl. Léon Meyer, 76600 Le Havre",
+        "note": 4.9,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "valambray": {
+    "artisans": [
+      {
+        "id": "14535156053808562369",
+        "nom": "JD Services Couverture Zinguerie Installateur fenêtre de toit Velux",
+        "slug": "jd-services-couverture-zinguerie-installateur-fenetre-de-toit-velux",
+        "telephone": "06 14 76 77 13",
+        "site_web": "https://www.jd-services-renovations.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12529775347823393353",
+        "nom": "Joachim Martin Création",
+        "slug": "joachim-martin-creation",
+        "telephone": "06 32 23 36 67",
+        "site_web": null,
+        "adresse": "7 Rue du Ruel, 14370 Valambray",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1316602443997147760",
+        "nom": "Groupe Launay Materiaux Livarot - TOUT FAIRE",
+        "slug": "groupe-launay-materiaux-livarot-tout-faire",
+        "telephone": "02 31 63 51 35",
+        "site_web": "https://www.groupelaunaymateriaux.fr/",
+        "adresse": "Z.A Nord, 14140",
+        "note": 4.2,
+        "avis": 50,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "10272060370417787260",
+        "nom": "Leroy Merlin Caen Mondeville",
+        "slug": "leroy-merlin-caen-mondeville",
+        "telephone": "02 31 82 40 33",
+        "site_web": "https://www.leroymerlin.fr/magasins/caen-mondeville.html",
+        "adresse": "32 Rue Henry Spriet, 14120 Mondeville",
+        "note": 4,
+        "avis": 6833,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "580948134140217169",
+        "nom": "Halbout Couverture",
+        "slug": "halbout-couverture",
+        "telephone": "02 31 62 80 28",
+        "site_web": "https://www.halboutcouverture.com/",
+        "adresse": "600 Rte de Dives, 14100 Saint-Désir",
+        "note": 3.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "colombelles": {
+    "artisans": [
+      {
+        "id": "14213247691333043423",
+        "nom": "Menuiserie Agencements Lesort",
+        "slug": "menuiserie-agencements-lesort",
+        "telephone": "02 31 34 25 15",
+        "site_web": "http://www.atelier-lesort.fr/?utm_source=gmb",
+        "adresse": "12 Rue Jean Monnet, 14460 Colombelles",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "5618221693027832424",
+        "nom": "B'Plast SAV Colombelles",
+        "slug": "bplast-sav-colombelles",
+        "telephone": "02 31 78 59 05",
+        "site_web": "https://www.bplast.fr/agences/bplast-caen/",
+        "adresse": "2 Espa. Jean Mantelet, 14123 Cormelles-le-Royal",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "15465829287604372629",
+        "nom": "B'PLAST CAEN",
+        "slug": "bplast-caen",
+        "telephone": "02 31 35 03 35",
+        "site_web": "https://www.bplast.fr/agence/bplast-caen/?utm_source=gmb",
+        "adresse": "ZAC Lazzaro, 2 Rue de la Métallurgie, 14460 Colombelles",
+        "note": 3.9,
+        "avis": 249,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11476288761980410286",
+        "nom": "Dispano Caen",
+        "slug": "dispano-caen",
+        "telephone": "02 31 70 77 07",
+        "site_web": "https://www.dispano.fr/infos-agence/caen-dispano-5906",
+        "adresse": "1 Rue Jean Monnet, 14460 Colombelles",
+        "note": 3.7,
+        "avis": 64,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "534110971784822257",
+        "nom": "Vl Menuiserie",
+        "slug": "vl-menuiserie",
+        "telephone": "06 87 66 49 44",
+        "site_web": "http://www.vl-menuiserie.fr/",
+        "adresse": "ZAC LAZZARO 3, 8 Rue du Four à Chaux, 14460 Colombelles",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12735706692198502326",
+        "nom": "Échafaudages Bonvoisin - location et vente d'échafaudages proche de Caen",
+        "slug": "echafaudages-bonvoisin-location-et-vente-dechafaudages-proche-de-caen",
+        "telephone": "02 31 50 37 29",
+        "site_web": "https://www.echafaudages-bonvoisin-caen.fr/",
+        "adresse": "2 Rue de l'Europe, 14460 Colombelles",
+        "note": 4.1,
+        "avis": 26,
+        "type": "Échafaudeur"
+      },
+      {
+        "id": "76947049497937548",
+        "nom": "Multi-Plast Normandie",
+        "slug": "multi-plast-normandie",
+        "telephone": "02 31 37 49 45",
+        "site_web": "http://multiplast-normandie.com/",
+        "adresse": "17 Rue de la Mer, 14470 Courseulles-sur-Mer",
+        "note": 4.8,
+        "avis": 10,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "17463776546916394398",
+        "nom": "LION AMENAGEMENT",
+        "slug": "lion-amenagement",
+        "telephone": "07 88 58 02 94",
+        "site_web": "https://www.lionamenagement.fr/",
+        "adresse": "8 Rue du Four à Chaux, 14460 Colombelles",
+        "note": 5,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1974356974275051196",
+        "nom": "H2D",
+        "slug": "h2d",
+        "telephone": "02 31 83 58 35",
+        "site_web": "http://www.h2d-stores-fermetures.fr/?utm_source=gmb",
+        "adresse": "Zone Industrielle Mondeville Sud, 5057 Rue Jacques Daguerre, 14540 Grentheville",
+        "note": 4.4,
+        "avis": 74,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6819297127076516557",
+        "nom": "ALUTIL",
+        "slug": "alutil",
+        "telephone": "02 31 83 93 53",
+        "site_web": "http://alutil.fr/",
+        "adresse": "6 espace Jean Mantelet, Boulevard de l'Espérance, 14123 Cormelles-le-Royal",
+        "note": 2.8,
+        "avis": 12,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "cabourg": {
+    "artisans": [
+      {
+        "id": "12729989253298025733",
+        "nom": "Manceaux Aménagement",
+        "slug": "manceaux-amenagement",
+        "telephone": "02 77 62 20 01",
+        "site_web": "https://www.manceauxamenagement.com/",
+        "adresse": "Av. Durand-Morimbau, 14390 Cabourg",
+        "note": 4.2,
+        "avis": 35,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "caen": {
+    "artisans": [
+      {
+        "id": "4101544346073999780",
+        "nom": "BLAVAIT Menuiseries - Caen",
+        "slug": "blavait-menuiseries-caen",
+        "telephone": "02 31 15 80 00",
+        "site_web": "https://www.blavait.fr/",
+        "adresse": "84 Bd Yves Guillou, 14000 Caen",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11530756146155043201",
+        "nom": "Lorenove Caen",
+        "slug": "lorenove-caen",
+        "telephone": "02 31 52 00 31",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/caen?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_caen",
+        "adresse": "Zac Lazzaro, 3 Rue du Four à Chaux 3, 14460 Colombelles",
+        "note": 4.8,
+        "avis": 50,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11128513104759834627",
+        "nom": "Coté Pose fenêtres Pvc, bois, Aluminium, porte d'entrée, volet, pergola, portail à Caen 14",
+        "slug": "cote-pose-fenetres-pvc-bois-aluminium-porte-dentree-volet-pergola-portail-a-caen-14",
+        "telephone": "06 33 09 14 88",
+        "site_web": "https://www.cotepose.com/",
+        "adresse": "26 Av. de Thiès, 14000 Caen",
+        "note": 4.7,
+        "avis": 142,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17053816936755956597",
+        "nom": "KparK Caen",
+        "slug": "kpark-caen",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/135-kpark-caen?utm_source=gmb",
+        "adresse": "73 Rue d'Auge, 14000 Caen",
+        "note": 4,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cagny": {
+    "artisans": [
+      {
+        "id": "9872789510560603701",
+        "nom": "Logikinov",
+        "slug": "logikinov",
+        "telephone": "02 31 52 00 78",
+        "site_web": "http://www.facebook.com/logikinov/?utm_source=gmb",
+        "adresse": "12 Avenue Digues, All. 1, 14123 Fleury-sur-Orne",
+        "note": 4.9,
+        "avis": 500,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5303675027001250687",
+        "nom": "Glastint Caen",
+        "slug": "glastint-caen",
+        "telephone": "02 31 44 58 34",
+        "site_web": "https://www.glastint.com/centres/vitres-teintees/caen/",
+        "adresse": "46 Rue Léon Foucault, 14200 Hérouville-Saint-Clair",
+        "note": 4.5,
+        "avis": 42,
+        "type": "Prestataire spécialisé dans les vitres teintées"
+      },
+      {
+        "id": "5289240384846260928",
+        "nom": "EMTY FENETRES",
+        "slug": "emty-fenetres",
+        "telephone": "06 65 58 11 39",
+        "site_web": "https://www.emtyfenetres.com/",
+        "adresse": "6 Rue de la Poste, 14630 Cagny",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15256656980181232908",
+        "nom": "Sarl Max Services",
+        "slug": "sarl-max-services",
+        "telephone": "02 49 88 40 02",
+        "site_web": "https://max-services-couverture-14.fr/",
+        "adresse": "3 Rue des Acacias, 14940 Sannerville",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "courseulles-sur-mer": {
+    "artisans": [
+      {
+        "id": "14669357246446829553",
+        "nom": "Baué couverture",
+        "slug": "baue-couverture",
+        "telephone": "02 31 37 69 60",
+        "site_web": null,
+        "adresse": "42 Rue de l'Église, 14470 Courseulles-sur-Mer",
+        "note": 2.8,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9931713825425540821",
+        "nom": "Roberge Couverture",
+        "slug": "roberge-couverture",
+        "telephone": "02 31 96 49 60",
+        "site_web": "https://www.robergecouverture.fr/fr/page/contact",
+        "adresse": null,
+        "note": 3.7,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10937362401716728034",
+        "nom": "Menuiserie BRUNO BAUÉ",
+        "slug": "menuiserie-bruno-baue",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "29 Quai E, 14470 Courseulles-sur-Mer",
+        "note": 5,
+        "avis": 2,
+        "type": null
+      },
+      {
+        "id": "12712465355267358760",
+        "nom": "Devaux Sas",
+        "slug": "devaux-sas",
+        "telephone": "02 31 37 90 13",
+        "site_web": "https://menuiserie-devaux.fr/",
+        "adresse": "3 Rue des Carreaux, 14470 Courseulles-sur-Mer",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13705252941141407628",
+        "nom": "Desfeux",
+        "slug": "desfeux",
+        "telephone": "02 31 37 96 93",
+        "site_web": "https://sas-desfeux.fr/",
+        "adresse": "Rue de Reviers, 14470 Courseulles-sur-Mer",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "conde-en-normandie": {
+    "artisans": [
+      {
+        "id": "17735157789741997599",
+        "nom": "Menuiland | Fenêtres Portes en PVC",
+        "slug": "menuiland-fenetres-portes-en-pvc",
+        "telephone": "02 31 69 88 40",
+        "site_web": "http://www.menuiland.fr/",
+        "adresse": "77 Rue des Normands, 14110 Condé-en-Normandie",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "7282295726556688529",
+        "nom": "RD Agencement",
+        "slug": "rd-agencement",
+        "telephone": "02 14 96 00 00",
+        "site_web": "https://www.rdagencement-menuiserie.fr/",
+        "adresse": "18 Rue Saint-Jacques, 14110 Condé-en-Normandie",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cormelles-le-royal": {
+    "artisans": [
+      {
+        "id": "5113954890063259125",
+        "nom": "PARISY COUVERTURE",
+        "slug": "parisy-couverture",
+        "telephone": "06 89 92 02 72",
+        "site_web": "https://parisy-couverture-normande.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "12 Rue de la Lisière, 14123 Cormelles-le-Royal",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14489749908812780440",
+        "nom": "GPAL - Art et Fenêtres Caen",
+        "slug": "gpal-art-et-fenetres-caen",
+        "telephone": "02 31 52 49 58",
+        "site_web": "https://gpal.artetfenetres.com/",
+        "adresse": "6 Bd de l'Espérance, 14123 Cormelles-le-Royal",
+        "note": 4.3,
+        "avis": 56,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17606493551529810569",
+        "nom": "Aluver",
+        "slug": "aluver",
+        "telephone": "06 19 41 13 52",
+        "site_web": "http://aluver14.fr/",
+        "adresse": "16P Bd de l'Espérance, 14123 Cormelles-le-Royal",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans la décoration d'intérieur"
+      },
+      {
+        "id": "1133124342218353012",
+        "nom": "Hamelin Stephane",
+        "slug": "hamelin-stephane",
+        "telephone": "02 31 72 83 41",
+        "site_web": null,
+        "adresse": "7 Rue des Marches, 14123 Cormelles-le-Royal",
+        "note": 3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12323500204458762187",
+        "nom": "RIMASSON ISOLATION",
+        "slug": "rimasson-isolation",
+        "telephone": "02 31 82 75 75",
+        "site_web": "http://www.rimasson-isolation.com/",
+        "adresse": "7 Rue Ampère, 14123 Cormelles-le-Royal",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Fournisseur d'isolateurs"
+      },
+      {
+        "id": "12144876552218687340",
+        "nom": "Couvreur Peter Hoffmann: Entreprise couverture Rénovation Réparation Nettoyage toiture tuiles Artisan 14 Calvados Ifs Caen",
+        "slug": "couvreur-peter-hoffmann-entreprise-couverture-renovation-reparation-nettoyage-toiture-tuiles-artisan-14-calvados-ifs-caen",
+        "telephone": "02 52 56 06 95",
+        "site_web": "http://couvreur-14.fr/",
+        "adresse": "ANCIEN TERRAIN LEGRAND 8, 14123 Cormelles-le-Royal",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10641410396181443817",
+        "nom": "DECORITEX",
+        "slug": "decoritex",
+        "telephone": "02 31 34 28 27",
+        "site_web": "https://decoritex.com/",
+        "adresse": "9 Rue Ampère, 14123 Cormelles-le-Royal",
+        "note": 4.4,
+        "avis": 44,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "17191306991186445662",
+        "nom": "Home Solutions 14",
+        "slug": "home-solutions-14",
+        "telephone": "02 31 29 42 94",
+        "site_web": "https://www.facebook.com/savhomesolutions?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "cambremer": {
+    "artisans": [
+      {
+        "id": "8588179062961886777",
+        "nom": "Peretti Jean-Christophe",
+        "slug": "peretti-jean-christophe",
+        "telephone": "02 31 63 49 05",
+        "site_web": "https://www.couvreur-peretti.fr/",
+        "adresse": "14340 Cambremer",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cresserons": {
+    "artisans": [
+      {
+        "id": "2612292658528093305",
+        "nom": "BAIE OUEST CAEN KOMILFO",
+        "slug": "baie-ouest-caen-komilfo",
+        "telephone": "02 31 74 72 50",
+        "site_web": "https://www.komilfo.fr/magasins/baie-ouest-caen-14?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "16 Av. des Digues normandika 1, 14123 Fleury-sur-Orne",
+        "note": 4.7,
+        "avis": 52,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "carpiquet": {
+    "artisans": [
+      {
+        "id": "13472234090843043827",
+        "nom": "SFIC Caen",
+        "slug": "sfic-caen",
+        "telephone": "02 31 26 06 06",
+        "site_web": "https://www.sfic.com/infos-agence/sfic-caen-4058",
+        "adresse": "Rue des Monderaines, 14650 Carpiquet",
+        "note": 4.5,
+        "avis": 43,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14409330709492980074",
+        "nom": "Normandie Volets -Sarl DUCA",
+        "slug": "normandie-volets-sarl-duca",
+        "telephone": "02 31 79 93 02",
+        "site_web": null,
+        "adresse": "17 Rue de l'Avenir, 14650 Carpiquet",
+        "note": 4.1,
+        "avis": 31,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7428981211795449103",
+        "nom": "PLEIN JOUR RENOVATION",
+        "slug": "plein-jour-renovation",
+        "telephone": "02 31 35 57 87",
+        "site_web": "https://www.pleinjour-renovation.fr/",
+        "adresse": "23 Rue de l'Avenir, 14650 Carpiquet",
+        "note": 4.8,
+        "avis": 276,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11531723370861123118",
+        "nom": "ALTO CAEN",
+        "slug": "alto-caen",
+        "telephone": "02 31 08 11 22",
+        "site_web": "http://www.alto-groupe.fr/",
+        "adresse": "16 Rue du Poirier, 14650 Carpiquet",
+        "note": 3.3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10704868035953116842",
+        "nom": "Husnot Couverture",
+        "slug": "husnot-couverture",
+        "telephone": "06 37 76 96 66",
+        "site_web": "https://www.husnot-couverture.fr/?utm_source=gmb",
+        "adresse": "Avenir Entreprise, 16 Rue de l'Avenir, 14650 Carpiquet",
+        "note": 4.8,
+        "avis": 53,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "creully-sur-seulles": {
+    "artisans": [
+      {
+        "id": "1772644178295211862",
+        "nom": "Baue Couverture",
+        "slug": "baue-couverture",
+        "telephone": "06 34 28 11 85",
+        "site_web": "http://baueludovicclaudedidier.site-solocal.com/?utm_source=gmb",
+        "adresse": "18 Rue du Fresnay, 14480 Creully sur Seulles",
+        "note": 4.6,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7548917425934232764",
+        "nom": "GlassAuto CREULLY SUR SEULLES",
+        "slug": "glassauto-creully-sur-seulles",
+        "telephone": "02 31 80 11 35",
+        "site_web": "https://www.glassauto.fr/centre/glassauto-creully-sur-seulles",
+        "adresse": "2 Rue du Grand Clos, 14480 Creully sur Seulles",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de pare-brise"
+      }
+    ]
+  },
+  "deauville": {
+    "artisans": [
+      {
+        "id": "12274776582172380838",
+        "nom": "Dolley - Stores, fenêtres, portes et volets",
+        "slug": "dolley-stores-fenetres-portes-et-volets",
+        "telephone": "02 31 88 22 80",
+        "site_web": "http://www.dolley-stores.fr/",
+        "adresse": "3 ZA La Touques, 14800 Saint-Arnoult",
+        "note": 4.9,
+        "avis": 124,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "1867293754451859860",
+        "nom": "KparK Le Havre",
+        "slug": "kpark-le-havre",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/79-kpark-le-havre?utm_source=gmb",
+        "adresse": "27 Rue Emile Renouf, 76600 Le Havre",
+        "note": 4,
+        "avis": 54,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3554267082038457329",
+        "nom": "Solutions Habitat Normandie",
+        "slug": "solutions-habitat-normandie",
+        "telephone": "02 31 81 08 10",
+        "site_web": "https://www.solutionshabitatnormandie.com/?utm_source=gmb",
+        "adresse": "Av. de la Vallée, 14800 Saint-Arnoult",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2465348858307504845",
+        "nom": "LA FENÊTRE NORMANDE | MENUISIER & STORISTE",
+        "slug": "la-fenetre-normande-menuisier-storiste",
+        "telephone": "02 44 51 33 78",
+        "site_web": "https://www.lafenetrenormande.fr/",
+        "adresse": "5 Rue des Grives, 14640 Villers-sur-Mer",
+        "note": 5,
+        "avis": 81,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9343073721297223335",
+        "nom": "Castelain",
+        "slug": "castelain",
+        "telephone": "09 74 56 50 97",
+        "site_web": "http://www.menuiserie-castelain-deauville.fr/",
+        "adresse": "11 Rue du Dr Lainé, 14800 Touques",
+        "note": 3.5,
+        "avis": 26,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6997891485278543587",
+        "nom": "Répar'stores Deauville / Lisieux - Réparation de volet roulant & store - Motorisation",
+        "slug": "reparstores-deauville-lisieux-reparation-de-volet-roulant-store-motorisation",
+        "telephone": "06 69 63 90 61",
+        "site_web": "https://www.reparstores.com/intervenants/190-simon-beaufils?utm_source=google&utm_medium=gmb&utm_campaign=deauville&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 51,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "11146122492843958761",
+        "nom": "TRYBA Trouville-sur-Mer",
+        "slug": "tryba-trouville-sur-mer",
+        "telephone": "02 21 83 12 78",
+        "site_web": "https://www.tryba.com/espace-conseil/14/tryba-trouville-sur-mer/?utm_campaign=Tryba_Trouville-sur-Mer&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "22 Bd d'Hautpoul, 14360 Trouville-sur-Mer",
+        "note": 4.7,
+        "avis": 67,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "demouville": {
+    "artisans": [
+      {
+        "id": "17983156333357433219",
+        "nom": "Entreprise Varignon",
+        "slug": "entreprise-varignon",
+        "telephone": "02 31 34 64 52",
+        "site_web": "https://serrurier-urgence-varignon.com/",
+        "adresse": "7 Rue Denis Papin, 14840 Démouville",
+        "note": 5,
+        "avis": 116,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10332437289545568710",
+        "nom": "VM Matériaux",
+        "slug": "vm-materiaux",
+        "telephone": "02 31 72 28 28",
+        "site_web": "https://magasin.vm-materiaux.fr/1-vm-materiaux-demouville?utm_source=gmb",
+        "adresse": "ZAC Du Clos Neuf, 14840 Démouville",
+        "note": 4.1,
+        "avis": 36,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "dives-sur-mer": {
+    "artisans": [
+      {
+        "id": "16512799831006224259",
+        "nom": "Euro Habitat",
+        "slug": "euro-habitat",
+        "telephone": "02 31 35 25 50",
+        "site_web": "http://www.eurohabitat14.com/contact.asp",
+        "adresse": "13 Pl. de la République, 14160 Dives-sur-Mer",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16585720595938246895",
+        "nom": "Rouvres et Pleintel (SARL)",
+        "slug": "rouvres-et-pleintel-sarl",
+        "telephone": "02 31 91 32 48",
+        "site_web": "http://www.menuiserie-rouvrespleintel.com/",
+        "adresse": "Av. des Résistants, 14160 Dives-sur-Mer",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3862033668281940458",
+        "nom": "Dives Toiture MB",
+        "slug": "dives-toiture-mb",
+        "telephone": "02 31 24 03 46",
+        "site_web": "http://www.dives-toiture.fr/",
+        "adresse": "14 Rue de la Vignerie, 14160 Dives-sur-Mer",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6865419380688456159",
+        "nom": "Boulin Olivier Couverture Zinguerie",
+        "slug": "boulin-olivier-couverture-zinguerie",
+        "telephone": "06 62 08 99 14",
+        "site_web": "http://www.facebook.com/boulin.olivier.couverture/?utm_source=gmb",
+        "adresse": "ZAC des grands prés, Av. des Résistants, 14160 Dives-sur-Mer",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "caumont-sur-aure": {
+    "artisans": [
+      {
+        "id": "9436520443067137735",
+        "nom": "SARL Couverture Vaugelade",
+        "slug": "sarl-couverture-vaugelade",
+        "telephone": "06 64 59 05 88",
+        "site_web": "https://www.couverture-vaugelade.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10322816497972591909",
+        "nom": "SL COUVERTURE",
+        "slug": "sl-couverture",
+        "telephone": "06 73 89 92 70",
+        "site_web": "https://www.couverture-lelandois.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7094551626160623912",
+        "nom": "Couvreur Caumont Sur Aure - CSA Toiture",
+        "slug": "couvreur-caumont-sur-aure-csa-toiture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Douet Baron, 14240 Caumont-sur-Aure",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "colleville-montgomery": {
+    "artisans": [
+      {
+        "id": "16944437129378127933",
+        "nom": "Entreprise de Couverture Ouistreham - Couvreur - Réparation Fuite Toit",
+        "slug": "entreprise-de-couverture-ouistreham-couvreur-reparation-fuite-toit",
+        "telephone": "02 61 53 71 14",
+        "site_web": "https://entreprisedecouvertureouistreham-couvreur-reparationfuitetoit.ovh/",
+        "adresse": "48 Av. Georges Clemenceau, 14150 Ouistreham",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6821089090314884735",
+        "nom": "SAS CHAUVIN",
+        "slug": "sas-chauvin",
+        "telephone": "02 31 37 95 49",
+        "site_web": null,
+        "adresse": "22 Rue de Saint-Aubin, 14880 Colleville-Montgomery",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "11730433120922672837",
+        "nom": "MG Terrassement",
+        "slug": "mg-terrassement",
+        "telephone": "06 07 90 16 92",
+        "site_web": "https://www.mgterrassement.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 18,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "17935335363594994874",
+        "nom": "Les Artisans du Copeau",
+        "slug": "les-artisans-du-copeau",
+        "telephone": "07 82 29 77 13",
+        "site_web": "https://www.les-artisans-du-copeau.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "fontaine-etoupefour": {
+    "artisans": [
+      {
+        "id": "11176886246056968255",
+        "nom": "Déclic & Toit",
+        "slug": "declic-toit",
+        "telephone": "06 28 72 10 47",
+        "site_web": "https://www.declic-fenetre-de-toit.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "fontenay-le-marmion": {
+    "artisans": [
+      {
+        "id": "13090021684531544369",
+        "nom": "Alpha renov",
+        "slug": "alpha-renov",
+        "telephone": "06 51 01 01 26",
+        "site_web": "https://www.alpharenov14.fr/",
+        "adresse": "43 Rue du Parc, 14320 Fontenay-le-Marmion",
+        "note": 5,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "5394049015108991197",
+        "nom": "MA SOLUTION HABITAT - EURL BARBENCHON OLIVIER",
+        "slug": "ma-solution-habitat-eurl-barbenchon-olivier",
+        "telephone": "07 76 09 62 57",
+        "site_web": "https://masolution-habitat.fr/",
+        "adresse": "2 Les Cinq Fermés, 14320 Fontenay-le-Marmion",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "9398336765931791673",
+        "nom": "JR MENUISERIE",
+        "slug": "jr-menuiserie",
+        "telephone": "06 98 85 50 98",
+        "site_web": "https://www.jeanrussiemenuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15984501530994653696",
+        "nom": "F.bigot Sarl",
+        "slug": "fbigot-sarl",
+        "telephone": "02 31 79 15 16",
+        "site_web": "https://artisan-bigot.com/",
+        "adresse": "1 Cité Albert Taraud, 14320 Fontenay-le-Marmion",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4641659992902719183",
+        "nom": "Gournay Gilles",
+        "slug": "gournay-gilles",
+        "telephone": "02 31 79 99 00",
+        "site_web": "https://www.gournay-louis-couverture.fr/",
+        "adresse": "1 Cité Albert Taraud, 14320 Fontenay-le-Marmion",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16711081589118554570",
+        "nom": "MGMenuiseries",
+        "slug": "mgmenuiseries",
+        "telephone": "06 77 13 09 06",
+        "site_web": "https://mgmenuiseries.fr/",
+        "adresse": "6 Rue de la Prairie, 14250 Fontenay-le-Pesnel",
+        "note": 5,
+        "avis": 18,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "falaise": {
+    "artisans": [
+      {
+        "id": "14489749908812780440",
+        "nom": "GPAL - Art et Fenêtres Caen",
+        "slug": "gpal-art-et-fenetres-caen",
+        "telephone": "02 31 52 49 58",
+        "site_web": "https://gpal.artetfenetres.com/",
+        "adresse": "6 Bd de l'Espérance, 14123 Cormelles-le-Royal",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8594022747271265866",
+        "nom": "La Boutique du Menuisier Caen",
+        "slug": "la-boutique-du-menuisier-caen",
+        "telephone": "06 76 97 83 22",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/gl-menuiseries",
+        "adresse": "119 Bd Maréchal Lyautey, 14000 Caen",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11008614462083627367",
+        "nom": "Quetron Menuiseries",
+        "slug": "quetron-menuiseries",
+        "telephone": "02 31 20 99 72",
+        "site_web": null,
+        "adresse": "10 Rue Trinité, 14700 Falaise",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5618221693027832424",
+        "nom": "B'Plast SAV Colombelles",
+        "slug": "bplast-sav-colombelles",
+        "telephone": "02 31 78 59 05",
+        "site_web": "https://www.bplast.fr/agences/bplast-caen/",
+        "adresse": "2 Espa. Jean Mantelet, 14123 Cormelles-le-Royal",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11176886246056968255",
+        "nom": "Déclic & Toit",
+        "slug": "declic-toit",
+        "telephone": "06 28 72 10 47",
+        "site_web": "https://www.declic-fenetre-de-toit.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "411375863022385028",
+        "nom": "Expansia Habitat",
+        "slug": "expansia-habitat",
+        "telephone": "06 38 33 12 71",
+        "site_web": "http://www.expansiahabitat.com/?utm_source=gmb",
+        "adresse": "5 Rue Saint-Gervais, 14700 Falaise",
+        "note": 4.7,
+        "avis": 80,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10808235573159033634",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/calvados/installateur-expert-en-pose-velux-a-caen",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2332129452347689202",
+        "nom": "Déclic Habitat - Isolation extérieure - Fenêtres - Portes d'entrées aluminium K-Line",
+        "slug": "declic-habitat-isolation-exterieure-fenetres-portes-dentrees-aluminium-k-line",
+        "telephone": "02 31 28 06 67",
+        "site_web": "http://www.declic-habitat-isolation.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10568875380122635124",
+        "nom": "Mullois Guillaume",
+        "slug": "mullois-guillaume",
+        "telephone": "06 98 67 39 68",
+        "site_web": "https://www.facebook.com/people/Guillaume-Mullois/100086332054311/",
+        "adresse": "10 Le Chétif Bois, 14700 La Hoguette",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "fleury-sur-orne": {
+    "artisans": [
+      {
+        "id": "8204021334056379906",
+        "nom": "Décorisol Caennaise",
+        "slug": "decorisol-caennaise",
+        "telephone": "02 31 47 45 45",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/caen-decorisol-caseo/",
+        "adresse": "222 Av. des Digues, 14123 Fleury-sur-Orne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17053816936755956597",
+        "nom": "KparK Caen",
+        "slug": "kpark-caen",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/135-kpark-caen?utm_source=gmb",
+        "adresse": "73 Rue d'Auge, 14000 Caen",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9872789510560603701",
+        "nom": "Logikinov",
+        "slug": "logikinov",
+        "telephone": "02 31 52 00 78",
+        "site_web": "http://www.facebook.com/logikinov/?utm_source=gmb",
+        "adresse": "12 Avenue Digues, All. 1, 14123 Fleury-sur-Orne",
+        "note": 4.9,
+        "avis": 500,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4387580838513996466",
+        "nom": "CASÉO Caen",
+        "slug": "caseo-caen",
+        "telephone": "02 31 47 45 45",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-caen-fleury-sur-orne-42",
+        "adresse": "Parc d'Activités Normandika, Av. des Digues Allée n°2, 14123 Fleury-sur-Orne",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16460466430945011774",
+        "nom": "Batistyl Habitat - Caen - Fabricant installateur de menuiseries",
+        "slug": "batistyl-habitat-caen-fabricant-installateur-de-menuiseries",
+        "telephone": "02 72 62 91 80",
+        "site_web": "https://www.batistyl-habitat.fr/agences/batistyl-caen-fleury-sur-orne-installateur-fenetres/?utm_source=gmb",
+        "adresse": "522 Av. des Digues, 14123 Fleury-sur-Orne",
+        "note": 4.8,
+        "avis": 72,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "potigny": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1646107612981766405",
+        "nom": "SARL Hélaine et Fossey - La Solution Fenêtres",
+        "slug": "sarl-helaine-et-fossey-la-solution-fenetres",
+        "telephone": "02 31 90 64 06",
+        "site_web": "http://www.helaine-et-fossey.fr/",
+        "adresse": "16 Rue du Général Leclerc, 14420 Potigny",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "eterville": {
+    "artisans": [
+      {
+        "id": "7672195270495600055",
+        "nom": "Toit et Lumière",
+        "slug": "toit-et-lumiere",
+        "telephone": "07 49 64 53 08",
+        "site_web": "https://www.toitetlumiere.fr/",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 5,
+        "avis": 79,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "evrecy": {
+    "artisans": [
+      {
+        "id": "16410593466716696868",
+        "nom": "GuillHard Confort Menuiseries Fenêtres Portes Caen",
+        "slug": "guillhard-confort-menuiseries-fenetres-portes-caen",
+        "telephone": "02 31 06 02 23",
+        "site_web": "http://caen.guillhardconfort.fr/",
+        "adresse": "2 Rue des Gallois, 14210 Évrecy",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "feuguerolles-bully": {
+    "artisans": [
+      {
+        "id": "11176886246056968255",
+        "nom": "Déclic & Toit",
+        "slug": "declic-toit",
+        "telephone": "06 28 72 10 47",
+        "site_web": "https://www.declic-fenetre-de-toit.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "fontenay-le-pesnel": {
+    "artisans": [
+      {
+        "id": "7234749841438369436",
+        "nom": "Ozenne Couverture",
+        "slug": "ozenne-couverture",
+        "telephone": "09 75 34 74 99",
+        "site_web": null,
+        "adresse": "16 Rue du Coteau, 14250 Fontenay-le-Pesnel",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "frenouville": {
+    "artisans": [
+      {
+        "id": "1777352953656082223",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 31 31 90 51",
+        "site_web": "https://techniques-et-traditions.artetfenetres.com/adresses-magasins/lisieux-14100.php?utm_source=gmb",
+        "adresse": "12 Rue d'Alençon, 14100 Lisieux",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8273684919572570057",
+        "nom": "Couverture Langlois Caen",
+        "slug": "couverture-langlois-caen",
+        "telephone": "02 31 24 42 46",
+        "site_web": "https://couverturelangloiscaen.fr/",
+        "adresse": "25 Rue Henry Spriet, 14120 Mondeville",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15527738085299114793",
+        "nom": "Fp Couverture: Couvreur Réparation toiture Démoussage nettoyage Pose gouttières Velux 14 Calvados Ouistreham Caen",
+        "slug": "fp-couverture-couvreur-reparation-toiture-demoussage-nettoyage-pose-gouttieres-velux-14-calvados-ouistreham-caen",
+        "telephone": "06 52 91 86 13",
+        "site_web": null,
+        "adresse": "1746 Rte de Bretagne, 14210 Val d'Arry",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12548095380518036032",
+        "nom": "Couvreur Rybiki Renov Habitat Normandie",
+        "slug": "couvreur-rybiki-renov-habitat-normandie",
+        "telephone": "06 69 61 11 81",
+        "site_web": "https://www.artisan-couvreur-14.fr/",
+        "adresse": "6 Rue du Dr Ebrard, 14800 Deauville",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11172586654664083912",
+        "nom": "ANJOU COUVERTURE",
+        "slug": "anjou-couverture",
+        "telephone": "07 82 12 03 66",
+        "site_web": "https://www.anjou-couverture.fr/",
+        "adresse": "51 Rue des Ecordières, 14970 Bénouville",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      },
+      {
+        "id": "1020228460391649589",
+        "nom": "WEISS COUVERTURE NORMANDIE: Artisan couvreur Caen Étanchéité Réparation fuites Nettoyage toiture Traitement 14 Calvados",
+        "slug": "weiss-couverture-normandie-artisan-couvreur-caen-etancheite-reparation-fuites-nettoyage-toiture-traitement-14-calvados",
+        "telephone": "06 83 74 56 17",
+        "site_web": "https://weiss-couverture-normandie.fr/",
+        "adresse": "5 Chemin de la, Rue de la Bruyère Saint-Léonard, 14670",
+        "note": 5,
+        "avis": 42,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13154377145480607313",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/seine-maritime/installateur-expert-en-pose-velux-au-havre",
+        "adresse": "5 Pl. Léon Meyer, 76600 Le Havre",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8605011059007117543",
+        "nom": "Bunel Frères",
+        "slug": "bunel-freres",
+        "telephone": "02 31 23 45 14",
+        "site_web": "http://www.bunelfreres.com/?utm_source=gmb",
+        "adresse": "D613, 14630 Frénouville",
+        "note": 4.1,
+        "avis": 30,
+        "type": "Constructeur d'abris de jardin"
+      },
+      {
+        "id": "14535156053808562369",
+        "nom": "JD Services Couverture Zinguerie Installateur fenêtre de toit Velux",
+        "slug": "jd-services-couverture-zinguerie-installateur-fenetre-de-toit-velux",
+        "telephone": "06 14 76 77 13",
+        "site_web": "https://www.jd-services-renovations.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7054238263045675976",
+        "nom": "Castel couverture",
+        "slug": "castel-couverture",
+        "telephone": "02 31 39 12 34",
+        "site_web": "http://www.couverture-castel.fr/",
+        "adresse": "26 Bis Rue de la Résistance, 14630 Frénouville",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "giberville": {
+    "artisans": [
+      {
+        "id": "14415159231742664553",
+        "nom": "POINT.P - Giberville Matériaux",
+        "slug": "pointp-giberville-materiaux",
+        "telephone": "02 31 72 35 27",
+        "site_web": "https://www.pointp.fr/infos-agence/caen-giberville-mat-point-p-3875",
+        "adresse": "7 Av. du Clos de la Tête, 14730 Giberville",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "11830693249026592888",
+        "nom": "Normandie Habitat",
+        "slug": "normandie-habitat",
+        "telephone": "02 31 83 19 19",
+        "site_web": "https://www.normandiehabitat.fr/contact-devis-gratuit-charpentier-couvreur-macon-a-caen-14118",
+        "adresse": "57 Rue de la Liberté, 14730 Giberville",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15159444342958591481",
+        "nom": "POINT.P - Giberville Couverture",
+        "slug": "pointp-giberville-couverture",
+        "telephone": "02 31 78 63 67",
+        "site_web": "https://www.pointp.fr/infos-agence/giberville-couverture-point-p-3850",
+        "adresse": "18 Av. du Clos de la Tête, 14730 Giberville",
+        "note": 4.2,
+        "avis": 23,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10339282423282500956",
+        "nom": "Gevrey",
+        "slug": "gevrey",
+        "telephone": "02 31 72 56 54",
+        "site_web": "http://couverturegevrey.fr/",
+        "adresse": "Rue Jean Monnet, 14460 Colombelles",
+        "note": 4.5,
+        "avis": 41,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16497465723744864939",
+        "nom": "M. Charles - Couvreur Giberville : Démoussage Traitement Rénovation Toiture Réparation Fuites Couverture 14 Calvados Caen",
+        "slug": "m-charles-couvreur-giberville-demoussage-traitement-renovation-toiture-reparation-fuites-couverture-14-calvados-caen",
+        "telephone": "02 30 79 03 96",
+        "site_web": "https://couvreurcapello.wixsite.com/couvreur14",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "grandcamp-maisy": {
+    "artisans": [
+      {
+        "id": "10808235573159033634",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/calvados/installateur-expert-en-pose-velux-a-caen",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 4.9,
+        "avis": 76,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "grainville-sur-odon": {
+    "artisans": [
+      {
+        "id": "9335913040294180085",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 31 83 97 48",
+        "site_web": "https://magasins.lapeyre.fr/normandie/calvados/lapeyre-caen-33",
+        "adresse": "340 Rue Jacquard, 14120 Mondeville",
+        "note": 4,
+        "avis": 512,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "12358297790160046080",
+        "nom": "Tillaut Sarl",
+        "slug": "tillaut-sarl",
+        "telephone": "02 31 80 64 16",
+        "site_web": null,
+        "adresse": "0 Rue de la 15ème Division Écossaise, 14210 Grainville-sur-Odon",
+        "note": 4,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "herouville-saint-clair": {
+    "artisans": [
+      {
+        "id": "18177979960918279944",
+        "nom": "Fenétrier® VEKA by Menuiland | Fenêtres Portes en PVC",
+        "slug": "fenetrier-veka-by-menuiland-fenetres-portes-en-pvc",
+        "telephone": "02 31 08 30 80",
+        "site_web": "https://www.menuiland.fr/",
+        "adresse": "284 Rue Marie Curie, 14200 Hérouville-Saint-Clair",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "herouvillette": {
+    "artisans": [
+      {
+        "id": "580167405740100174",
+        "nom": "Chouette Habitat",
+        "slug": "chouette-habitat",
+        "telephone": "02 31 91 35 14",
+        "site_web": "http://chouette-habitat.fr/",
+        "adresse": "6 Rue Pierre Auger, 14440 Douvres-la-Délivrande",
+        "note": 4.7,
+        "avis": 38,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11945114066283499465",
+        "nom": "Harcourt Couverture",
+        "slug": "harcourt-couverture",
+        "telephone": "06 40 24 20 97",
+        "site_web": "https://harcourt-couverture.fr/",
+        "adresse": "5 Rue du Bac du Port, 14860 Amfreville",
+        "note": 5,
+        "avis": 28,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15465829287604372629",
+        "nom": "B'PLAST CAEN",
+        "slug": "bplast-caen",
+        "telephone": "02 31 35 03 35",
+        "site_web": "https://www.bplast.fr/agence/bplast-caen/?utm_source=gmb",
+        "adresse": "ZAC Lazzaro, 2 Rue de la Métallurgie, 14460 Colombelles",
+        "note": 3.9,
+        "avis": 249,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4101544346073999780",
+        "nom": "BLAVAIT Menuiseries - Caen",
+        "slug": "blavait-menuiseries-caen",
+        "telephone": "02 31 15 80 00",
+        "site_web": "https://www.blavait.fr/",
+        "adresse": "84 Bd Yves Guillou, 14000 Caen",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "isigny-sur-mer": {
+    "artisans": [
+      {
+        "id": "12084988818361363337",
+        "nom": "B'PLAST ST LO",
+        "slug": "bplast-st-lo",
+        "telephone": "02 33 05 16 06",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-lo/?utm_source=gmb",
+        "adresse": "10 Rue des Frères Lumière, 50180 Agneaux",
+        "note": 4.2,
+        "avis": 127,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14260990358779383205",
+        "nom": "GS Menuiserie",
+        "slug": "gs-menuiserie",
+        "telephone": "07 87 16 97 35",
+        "site_web": null,
+        "adresse": "380 Rue de Cherbourg, 14230 Isigny-sur-Mer",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9409751919499459849",
+        "nom": "EMRG MENUISERIE",
+        "slug": "emrg-menuiserie",
+        "telephone": "06 72 26 69 31",
+        "site_web": null,
+        "adresse": "145 Rue Cordier, 14230 Isigny-sur-Mer",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "houlgate": {
+    "artisans": [
+      {
+        "id": "3554267082038457329",
+        "nom": "Solutions Habitat Normandie",
+        "slug": "solutions-habitat-normandie",
+        "telephone": "02 31 81 08 10",
+        "site_web": "https://www.solutionshabitatnormandie.com/?utm_source=gmb",
+        "adresse": "Av. de la Vallée, 14800 Saint-Arnoult",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17917983756969530999",
+        "nom": "Les Toitures du Rivage",
+        "slug": "les-toitures-du-rivage",
+        "telephone": "06 71 45 73 78",
+        "site_web": null,
+        "adresse": "Chem. de Trousseauville, 14510 Houlgate",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15561322780722080353",
+        "nom": "MCP Le Havre - Fenêtres, Portes, Volets, Portails et Vérandas",
+        "slug": "mcp-le-havre-fenetres-portes-volets-portails-et-verandas",
+        "telephone": "02 35 91 07 26",
+        "site_web": "https://mcp-menuiserie.com/magasins/magasin-mcp-le-havre-fenetre/",
+        "adresse": "9 Rue Jean Baptiste Eyriès, 76600 Le Havre",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2465348858307504845",
+        "nom": "LA FENÊTRE NORMANDE | MENUISIER & STORISTE",
+        "slug": "la-fenetre-normande-menuisier-storiste",
+        "telephone": "02 44 51 33 78",
+        "site_web": "https://www.lafenetrenormande.fr/",
+        "adresse": "5 Rue des Grives, 14640 Villers-sur-Mer",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16585720595938246895",
+        "nom": "Rouvres et Pleintel (SARL)",
+        "slug": "rouvres-et-pleintel-sarl",
+        "telephone": "02 31 91 32 48",
+        "site_web": "http://www.menuiserie-rouvrespleintel.com/",
+        "adresse": "Av. des Résistants, 14160 Dives-sur-Mer",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17399273588086483301",
+        "nom": "Golf Bluegreen Houlgate, Calvados (14)",
+        "slug": "golf-bluegreen-houlgate-calvados-14",
+        "telephone": "02 31 24 80 49",
+        "site_web": "http://www.bluegreen.fr/houlgate/",
+        "adresse": "Route de la Vallée, D24, 14510 Gonneville-sur-Mer",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Parcours de golf"
+      },
+      {
+        "id": "9343073721297223335",
+        "nom": "Castelain",
+        "slug": "castelain",
+        "telephone": "09 74 56 50 97",
+        "site_web": "http://www.menuiserie-castelain-deauville.fr/",
+        "adresse": "11 Rue du Dr Lainé, 14800 Touques",
+        "note": 3.5,
+        "avis": 26,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7088027068000874223",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/seine-maritime/installateur-expert-en-pose-velux-a-rouen",
+        "adresse": "177 Bd de l'Yser, 76000 Rouen",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5301451382787141629",
+        "nom": "Eurl Denis Maertens",
+        "slug": "eurl-denis-maertens",
+        "telephone": "02 31 24 78 28",
+        "site_web": "http://mca-houlgate.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "honfleur": {
+    "artisans": [
+      {
+        "id": "15732108754824258247",
+        "nom": "Fenêtres et Pergolas Logikinov",
+        "slug": "fenetres-et-pergolas-logikinov",
+        "telephone": "02 31 87 34 72",
+        "site_web": "https://www.logikinov.com/",
+        "adresse": "656 Av. Charles Houssaye, 14600 Équemauville",
+        "note": 5,
+        "avis": 206,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ifs": {
+    "artisans": [
+      {
+        "id": "1465780044376842049",
+        "nom": "Euro Habitat",
+        "slug": "euro-habitat",
+        "telephone": "02 31 35 25 50",
+        "site_web": "http://eurohabitat14.com/",
+        "adresse": "Village Entreprise Actifs 3, 6 Allée Emilie du Châtelet, 14123 Ifs",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "11039208314766770049",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "02 31 70 73 47",
+        "site_web": "https://www.gustaverideau.com/agences/caen-ifs/?utm_campaign=ifs&utm_medium=GMB&utm_source=google",
+        "adresse": "Bd Clément Ader, 14123 Ifs",
+        "note": 4.5,
+        "avis": 97,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "dialan-sur-chaine": {
+    "artisans": [
+      {
+        "id": "2332129452347689202",
+        "nom": "Déclic Habitat - Isolation extérieure - Fenêtres - Portes d'entrées aluminium K-Line",
+        "slug": "declic-habitat-isolation-exterieure-fenetres-portes-dentrees-aluminium-k-line",
+        "telephone": "02 31 28 06 67",
+        "site_web": "http://www.declic-habitat-isolation.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.9,
+        "avis": 117,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "langrune-sur-mer": {
+    "artisans": [
+      {
+        "id": "4852606233302173640",
+        "nom": "SARL BANTONEL - MENUISERIE ET ISOLATION",
+        "slug": "sarl-bantonel-menuiserie-et-isolation",
+        "telephone": "02 31 37 03 70",
+        "site_web": "https://www.bantonel-menuiserie-caen.fr/",
+        "adresse": "12 bis Voie Romaine, 14830 Langrune-sur-Mer",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "laize-clinchamps": {
+    "artisans": [
+      {
+        "id": "3765056039660376902",
+        "nom": "SOLEIL ET TOIT PANNEAUX SOLAIRES CALVADOS",
+        "slug": "soleil-et-toit-panneaux-solaires-calvados",
+        "telephone": "06 79 12 67 24",
+        "site_web": "http://www.soleilettoit.fr/",
+        "adresse": "32 Rue du Village, 14320 Laize-Clinchamps",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "14114697260178172124",
+        "nom": "Couverture Marie Stephen",
+        "slug": "couverture-marie-stephen",
+        "telephone": "02 49 88 40 80",
+        "site_web": "https://www.couverture-marie-stephen.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 22,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-molay-littry": {
+    "artisans": [
+      {
+        "id": "10091631607688873952",
+        "nom": "Le Roulley",
+        "slug": "le-roulley",
+        "telephone": "02 31 22 96 12",
+        "site_web": "https://www.le-roulley-bois.fr/",
+        "adresse": "Zone Artisanale Za Bp6, 14330 Le Molay-Littry",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Négociant en bois"
+      }
+    ]
+  },
+  "lisieux": {
+    "artisans": [
+      {
+        "id": "345946782647739701",
+        "nom": "L'Expert Fenêtre Franck Evain Et Fils Menuiseries et Vérandas",
+        "slug": "lexpert-fenetre-franck-evain-et-fils-menuiseries-et-verandas",
+        "telephone": "02 31 31 25 07",
+        "site_web": "http://www.fermeturesdupaysdauge.com/",
+        "adresse": "21 Rue Marie de Besneray, 14100 Lisieux",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1208254426170073719",
+        "nom": "A4 Renovation SARL",
+        "slug": "a4-renovation-sarl",
+        "telephone": "02 31 63 98 91",
+        "site_web": "https://www.a4-renovation-menuiserie.fr/",
+        "adresse": "41 Rue Fournet, 14100 Lisieux",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "1867293754451859860",
+        "nom": "KparK Le Havre",
+        "slug": "kpark-le-havre",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/79-kpark-le-havre?utm_source=gmb",
+        "adresse": "27 Rue Emile Renouf, 76600 Le Havre",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2829743705183313653",
+        "nom": "L'Expert Fenêtre Franck Evain et Fils",
+        "slug": "lexpert-fenetre-franck-evain-et-fils",
+        "telephone": "02 31 31 25 07",
+        "site_web": "http://www.fermeturesdupaysdauge.com/",
+        "adresse": "7 Rue Calmette et Guérin, 14100 Lisieux",
+        "note": 4.8,
+        "avis": 86,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13072555527748503050",
+        "nom": "SAS Lehain",
+        "slug": "sas-lehain",
+        "telephone": "02 31 62 03 98",
+        "site_web": "http://www.lehain.fr/?utm_source=gmb",
+        "adresse": "68 Rue Fournet, 14100 Lisieux",
+        "note": 4.3,
+        "avis": 29,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "15660226395862103310",
+        "nom": "B'PLAST LISIEUX",
+        "slug": "bplast-lisieux",
+        "telephone": "02 31 48 62 00",
+        "site_web": "https://www.bplast.fr/agence/bplast-lisieux/?utm_source=gmb",
+        "adresse": "Pôle d'Activités de l'Espérance, 806 Av. Georges Duval, 14100 Lisieux",
+        "note": 4.3,
+        "avis": 107,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lion-sur-mer": {
+    "artisans": [
+      {
+        "id": "17463776546916394398",
+        "nom": "LION AMENAGEMENT",
+        "slug": "lion-amenagement",
+        "telephone": "07 88 58 02 94",
+        "site_web": "https://www.lionamenagement.fr/",
+        "adresse": "8 Rue du Four à Chaux, 14460 Colombelles",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7268683799282311488",
+        "nom": "Sarl Quere",
+        "slug": "sarl-quere",
+        "telephone": "06 82 13 07 10",
+        "site_web": "https://www.entreprisequere.fr/",
+        "adresse": "10 Rue de l'Abbé Prte, 14780 Lion-sur-Mer",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "17058241028187078417",
+        "nom": "Lion Aménagement",
+        "slug": "lion-amenagement",
+        "telephone": "02 31 84 74 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "maltot": {
+    "artisans": [
+      {
+        "id": "5441552742210225612",
+        "nom": "PARISY RENOV TOITURE 14",
+        "slug": "parisy-renov-toiture-14",
+        "telephone": "07 77 94 55 09",
+        "site_web": "https://www.renovtoiture14.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 63,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "livarot-pays-d-auge": {
+    "artisans": [
+      {
+        "id": "9132673958981516428",
+        "nom": "Morel Serge",
+        "slug": "morel-serge",
+        "telephone": "02 31 63 50 09",
+        "site_web": null,
+        "adresse": "268 Route de St Pierre en Auge LE MESNIL BACLEY, 14140",
+        "note": 3,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1316602443997147760",
+        "nom": "Groupe Launay Materiaux Livarot - TOUT FAIRE",
+        "slug": "groupe-launay-materiaux-livarot-tout-faire",
+        "telephone": "02 31 63 51 35",
+        "site_web": "https://www.groupelaunaymateriaux.fr/",
+        "adresse": "Z.A Nord, 14140",
+        "note": 4.2,
+        "avis": 50,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "9957514977770994628",
+        "nom": "Pouchin-Duval",
+        "slug": "pouchin-duval",
+        "telephone": "02 31 63 57 59",
+        "site_web": null,
+        "adresse": "5 Bd Gustave Timmerman, 14140 Livarot-Pays-d'Auge",
+        "note": 3.9,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1064954607337951551",
+        "nom": "LS Fermetures",
+        "slug": "ls-fermetures",
+        "telephone": "06 46 15 21 65",
+        "site_web": "https://www.facebook.com/profile.php?id=100018034352392",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17782005430324309382",
+        "nom": "Sarl Mathieu Neuville",
+        "slug": "sarl-mathieu-neuville",
+        "telephone": "06 12 62 95 60",
+        "site_web": "http://couvreur-mathieu-neuville.fr/",
+        "adresse": "140 Rue de la Cochonnière, 14140 Livarot-Pays-d'Auge",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11142521577384787312",
+        "nom": "SARL STEPHANE ROUILLARD",
+        "slug": "sarl-stephane-rouillard",
+        "telephone": "06 89 15 19 38",
+        "site_web": "http://rouillard-maconnerie.fr/",
+        "adresse": "240 Route De La Croix Bougon Heurtevent, 14140",
+        "note": 3,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "11253315493792747310",
+        "nom": "Neuille Michel",
+        "slug": "neuille-michel",
+        "telephone": "02 31 20 62 97",
+        "site_web": null,
+        "adresse": "14140 Beauvoir",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "louvigny": {
+    "artisans": [
+      {
+        "id": "4686843374846776659",
+        "nom": "TRYBA Caen",
+        "slug": "tryba-caen",
+        "telephone": "02 31 78 97 10",
+        "site_web": "https://www.tryba.com/espace-conseil/14/tryba-caen/?utm_campaign=Tryba_Caen&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "147 Bd Maréchal Lyautey, 14000 Caen",
+        "note": 4.5,
+        "avis": 77,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "moulins-en-bessin": {
+    "artisans": [
+      {
+        "id": "9153061502606092339",
+        "nom": "SARL TURGIS Couverture",
+        "slug": "sarl-turgis-couverture",
+        "telephone": "02 31 38 25 74",
+        "site_web": "http://www.turgis-couverture.fr/",
+        "adresse": "9 Rue des Écoles, 14740 Thue et Mue",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "luc-sur-mer": {
+    "artisans": [
+      {
+        "id": "5485420001164341518",
+        "nom": "Artisan Couvreur Luc : Demoussage Toiture | Zinguerie | Recherche Fuites",
+        "slug": "artisan-couvreur-luc-demoussage-toiture-zinguerie-recherche-fuites",
+        "telephone": "09 72 10 81 16",
+        "site_web": "https://artisancouvreurluc.ovh/",
+        "adresse": "35 Rue de la Mer, 14530 Luc-sur-Mer",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15180863515522077192",
+        "nom": "FM Mahier Entreprise",
+        "slug": "fm-mahier-entreprise",
+        "telephone": "02 31 97 60 18",
+        "site_web": null,
+        "adresse": "15 Rue des Delettes, 14530 Luc-sur-Mer",
+        "note": 4,
+        "avis": 21,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6731031958602115132",
+        "nom": "Entreprise Godefroy - Peinture générale, revêtement de sol, tapisserie, agencement, isolation & ravalement",
+        "slug": "entreprise-godefroy-peinture-generale-revetement-de-sol-tapisserie-agencement-isolation-ravalement",
+        "telephone": "07 86 43 35 70",
+        "site_web": "https://www.godefroy-ent.fr/",
+        "adresse": "19 Rue du Point du Jour, 14530 Luc-sur-Mer",
+        "note": 5,
+        "avis": 4,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "may-sur-orne": {
+    "artisans": [
+      {
+        "id": "1777352953656082223",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 31 31 90 51",
+        "site_web": "https://techniques-et-traditions.artetfenetres.com/adresses-magasins/lisieux-14100.php?utm_source=gmb",
+        "adresse": "12 Rue d'Alençon, 14100 Lisieux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "mery-bissieres-en-auge": {
+    "artisans": [
+      {
+        "id": "12599727798058699831",
+        "nom": "BCA Matériaux Anciens Mery-Corbon",
+        "slug": "bca-materiaux-anciens-mery-corbon",
+        "telephone": "02 31 23 95 87",
+        "site_web": "https://www.bca-materiauxanciens.com/",
+        "adresse": "4 Av. de Paris, 14370 Méry-Bissières-en-Auge",
+        "note": 4.5,
+        "avis": 41,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13408244205108458156",
+        "nom": "SKYLINE / BACON ESTEBAN COUVERTURE",
+        "slug": "skyline-bacon-esteban-couverture",
+        "telephone": "02 31 28 39 06",
+        "site_web": "https://skyline-couverture.fr/",
+        "adresse": "5 Rue Marcel Longuet, 14370 Argences",
+        "note": 4.5,
+        "avis": 63,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mouen": {
+    "artisans": [
+      {
+        "id": "8761218316505305390",
+        "nom": "Menuiserie Marie EURL",
+        "slug": "menuiserie-marie-eurl",
+        "telephone": "02 31 71 02 06",
+        "site_web": "https://www.menuiserie-marie-calvados.com/",
+        "adresse": "425 Rue de la Guinguette, 14210 Thue et Mue",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "9060184300911858010",
+        "nom": "Aménagement 14",
+        "slug": "amenagement-14",
+        "telephone": "02 31 78 04 47",
+        "site_web": "http://www.amenagement14.fr/",
+        "adresse": "529 Av. du Parc, 14790 Mouen",
+        "note": 5,
+        "avis": 4,
+        "type": "Entrepreneur de cloisons sèches"
+      },
+      {
+        "id": "16096735186534611454",
+        "nom": "REPAR'STORES CAEN OUEST",
+        "slug": "reparstores-caen-ouest",
+        "telephone": "02 61 67 03 95",
+        "site_web": "https://www.reparstores.com/intervenants/320-mathis-le-calve?utm_source=google&utm_medium=gmb&utm_campaign=caen-ouest&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 91,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "7130511266663774286",
+        "nom": "Etablissement Prod'Homme",
+        "slug": "etablissement-prodhomme",
+        "telephone": null,
+        "site_web": "https://www.pinterest.fr/janneaumenuiseries?utm_source=gmb",
+        "adresse": "Parc Les Rives De L'odon, 130 Rue de l'Odon, 14790 Mouen",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mathieu": {
+    "artisans": [
+      {
+        "id": "4449843204906772480",
+        "nom": "Tillard Jean-Louis",
+        "slug": "tillard-jean-louis",
+        "telephone": "02 31 44 17 23",
+        "site_web": null,
+        "adresse": "2 Rue des Écoles, 14920 Mathieu",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mezidon-vallee-d-auge": {
+    "artisans": [
+      {
+        "id": "15179498167422064065",
+        "nom": "La Goulardière",
+        "slug": "la-goulardiere",
+        "telephone": "02 31 20 03 85",
+        "site_web": null,
+        "adresse": "84 Rue Jules Guesde, 14270 Mézidon Vallée d'Auge",
+        "note": 5,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "16945650160056800117",
+        "nom": "Groupe Launay Materiaux Mézidon - TOUT FAIRE",
+        "slug": "groupe-launay-materiaux-mezidon-tout-faire",
+        "telephone": "02 31 42 61 50",
+        "site_web": "https://www.groupelaunaymateriaux.fr/",
+        "adresse": "12 Bis Rue Henri Dunant, 14270 Mézidon Vallée d'Auge",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15289895811116392743",
+        "nom": "Boidiscount SAS",
+        "slug": "boidiscount-sas",
+        "telephone": "02 31 40 09 73",
+        "site_web": "http://www.boidiscount.com/",
+        "adresse": "5 Rte des Bois de Magny D 152, 14270 Mézidon Vallée d'Auge",
+        "note": 4.5,
+        "avis": 47,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "12072749232342257991",
+        "nom": "OCM - Ouest Clôtures Matériaux",
+        "slug": "ocm-ouest-clotures-materiaux",
+        "telephone": "02 31 42 36 01",
+        "site_web": "http://ouestcloturesmateriaux.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "14270 Mézidon Vallée d'Auge",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "580948134140217169",
+        "nom": "Halbout Couverture",
+        "slug": "halbout-couverture",
+        "telephone": "02 31 62 80 28",
+        "site_web": "https://www.halboutcouverture.com/",
+        "adresse": "600 Rte de Dives, 14100 Saint-Désir",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10235698220068422176",
+        "nom": "Miroiterie du Pays d'Auge",
+        "slug": "miroiterie-du-pays-dauge",
+        "telephone": "02 31 62 94 38",
+        "site_web": "https://miroiteriedupaysdauge.com/",
+        "adresse": "1545 Bd Jean-Charles Contel, 14100 Glos",
+        "note": 4.9,
+        "avis": 69,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9425030958612215502",
+        "nom": "Mario Duval Couverture - Couvreur Caen",
+        "slug": "mario-duval-couverture-couvreur-caen",
+        "telephone": "02 44 84 79 77",
+        "site_web": "https://marioduvalcouverture.com/",
+        "adresse": "2 Av. de Woodbury, 14760 Bretteville-sur-Odon",
+        "note": 5,
+        "avis": 119,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13856753138026282978",
+        "nom": "LEPROVOST SAS à CAEN - Rénovation maison et appartement, extension de maison et aménagement des combles.",
+        "slug": "leprovost-sas-a-caen-renovation-maison-et-appartement-extension-de-maison-et-amenagement-des-combles",
+        "telephone": "06 52 13 91 91",
+        "site_web": "https://www.leprovost-sas.com/",
+        "adresse": "ZA du Clos de la Hogue, Rue de la Plaine, 14970 Bénouville",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "9098723092200467912",
+        "nom": "Menuiserie Charpente EIRL Garnavault",
+        "slug": "menuiserie-charpente-eirl-garnavault",
+        "telephone": "02 31 90 50 71",
+        "site_web": null,
+        "adresse": "16 Rue Alfred Zuckerman, 14270 Mézidon Vallée d'Auge",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mondeville": {
+    "artisans": [
+      {
+        "id": "8532125838132082732",
+        "nom": "Perspectives",
+        "slug": "perspectives",
+        "telephone": "06 63 26 99 65",
+        "site_web": "https://www.facebook.com/menuiserieperspectives/",
+        "adresse": "3D rue Gisele Guillemot, 14120 Mondeville",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8762581891120962293",
+        "nom": "LC Rénover",
+        "slug": "lc-renover",
+        "telephone": "07 82 98 19 65",
+        "site_web": "https://lc-renover.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 50,
+        "type": "Constructeur de terrasses"
+      },
+      {
+        "id": "4014645692018391884",
+        "nom": "GM Rénovation Menuiserie A Caen spécialisé dans le Portail alu , Carport alu, Fenêtres ,Portes d'entrée,Volets,Escalier.",
+        "slug": "gm-renovation-menuiserie-a-caen-specialise-dans-le-portail-alu-carport-alu-fenetres-portes-dentreevoletsescalier",
+        "telephone": "02 31 82 17 14",
+        "site_web": "http://www.gm-renovation.fr/",
+        "adresse": "13 Rue Denis Papin, 14120 Mondeville",
+        "note": 4.9,
+        "avis": 46,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9335913040294180085",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 31 83 97 48",
+        "site_web": "https://magasins.lapeyre.fr/normandie/calvados/lapeyre-caen-33",
+        "adresse": "340 Rue Jacquard, 14120 Mondeville",
+        "note": 4,
+        "avis": 512,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "10272060370417787260",
+        "nom": "Leroy Merlin Caen Mondeville",
+        "slug": "leroy-merlin-caen-mondeville",
+        "telephone": "02 31 82 40 33",
+        "site_web": "https://www.leroymerlin.fr/magasins/caen-mondeville.html",
+        "adresse": "32 Rue Henry Spriet, 14120 Mondeville",
+        "note": 4,
+        "avis": 6833,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "moult-chicheboville": {
+    "artisans": [
+      {
+        "id": "11681744985920317215",
+        "nom": "Côté Pose Fenêtres Pvc Bois Aluminium, porte d'entrée, volet, store, Pergola en normandie",
+        "slug": "cote-pose-fenetres-pvc-bois-aluminium-porte-dentree-volet-store-pergola-en-normandie",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "10 Les Grandes Carrières Bâtiment 10, 14370 Moult-Chicheboville",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5300095327221705351",
+        "nom": "Clair2Jours",
+        "slug": "clair2jours",
+        "telephone": "02 31 50 63 07",
+        "site_web": "https://www.clair2jours.com/",
+        "adresse": "34 ZI, Les Grandes Carrières, 14370",
+        "note": 5,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "510824415745565102",
+        "nom": "LMenuiseries",
+        "slug": "lmenuiseries",
+        "telephone": "06 61 42 77 90",
+        "site_web": "https://www.facebook.com/profile.php?id=61552015379021",
+        "adresse": "127 Rue Éole, 14370 Moult-Chicheboville",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7236235670057184401",
+        "nom": "Groupe Thillaye | ANNE BOUCLIER | CTP | MPIS",
+        "slug": "groupe-thillaye-anne-bouclier-ctp-mpis",
+        "telephone": "02 31 30 06 06",
+        "site_web": "https://www.groupe-thillaye.com/",
+        "adresse": "14158 Rue Rembrandt Bugatti, 14370 Moult-Chicheboville",
+        "note": 5,
+        "avis": 32,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "moyaux": {
+    "artisans": [
+      {
+        "id": "1777352953656082223",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 31 31 90 51",
+        "site_web": "https://techniques-et-traditions.artetfenetres.com/adresses-magasins/lisieux-14100.php?utm_source=gmb",
+        "adresse": "12 Rue d'Alençon, 14100 Lisieux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "orbec": {
+    "artisans": [
+      {
+        "id": "12332143796271613772",
+        "nom": "Atelier Michaut",
+        "slug": "atelier-michaut",
+        "telephone": "02 31 32 52 42",
+        "site_web": "https://www.atelier-michaut.fr/",
+        "adresse": "191 Rue de Chambrais, 14290 La Vespière-Friardel",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3152968015922882507",
+        "nom": "MCJ Menuiserie",
+        "slug": "mcj-menuiserie",
+        "telephone": "02 31 32 20 99",
+        "site_web": "https://www.menuiseriemcj.com/",
+        "adresse": "ZI de Beauvoir, Rte de Livarot, 14290 Orbec",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17709484422667288350",
+        "nom": "D.R-WOOD",
+        "slug": "dr-wood",
+        "telephone": "06 47 24 51 98",
+        "site_web": "https://www.dr-wood.fr/",
+        "adresse": "Zone artisanale de la gare, 14290 Orbec",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6146616067341089525",
+        "nom": "Michaut Vincent SARL",
+        "slug": "michaut-vincent-sarl",
+        "telephone": "02 31 32 52 42",
+        "site_web": "https://www.menuiserie-michaut-vincent.fr/",
+        "adresse": "191 Rue de Chambrais, 14290 La Vespière-Friardel",
+        "note": 3.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "ouistreham": {
+    "artisans": [
+      {
+        "id": "11018306555965566166",
+        "nom": "HSM Couverture",
+        "slug": "hsm-couverture",
+        "telephone": "06 23 57 98 46",
+        "site_web": "http://www.couverture-hsm.fr/",
+        "adresse": "1 Rue de l'Artisanat, 14860 Ranville",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16944437129378127933",
+        "nom": "Entreprise de Couverture Ouistreham - Couvreur - Réparation Fuite Toit",
+        "slug": "entreprise-de-couverture-ouistreham-couvreur-reparation-fuite-toit",
+        "telephone": "02 61 53 71 14",
+        "site_web": "https://entreprisedecouvertureouistreham-couvreur-reparationfuitetoit.ovh/",
+        "adresse": "48 Av. Georges Clemenceau, 14150 Ouistreham",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6077832089185207852",
+        "nom": "Marin - Couverture | Couvreur, SoS fuite, Demoussage",
+        "slug": "marin-couverture-couvreur-sos-fuite-demoussage",
+        "telephone": "06 38 26 58 54",
+        "site_web": "http://www.marin-couverture-14.fr/",
+        "adresse": "11 Rue des Bleuets, 14730 Giberville",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15348959841027147650",
+        "nom": "Ludomenuiserie14",
+        "slug": "ludomenuiserie14",
+        "telephone": "06 74 81 24 82",
+        "site_web": null,
+        "adresse": "19 Rue de l'Yser, 14150 Ouistreham",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10249906208676242099",
+        "nom": "Artisans de l'Ouest",
+        "slug": "artisans-de-louest",
+        "telephone": "06 42 25 77 33",
+        "site_web": "https://www.artisans-de-louest.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "33 Rue de la Crète au Coq, 14150 Ouistreham",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "equemauville": {
+    "artisans": [
+      {
+        "id": "15732108754824258247",
+        "nom": "Fenêtres et Pergolas Logikinov",
+        "slug": "fenetres-et-pergolas-logikinov",
+        "telephone": "02 31 87 34 72",
+        "site_web": "https://www.logikinov.com/",
+        "adresse": "656 Av. Charles Houssaye, 14600 Équemauville",
+        "note": 5,
+        "avis": 206,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "val-d-arry": {
+    "artisans": [
+      {
+        "id": "16410593466716696868",
+        "nom": "GuillHard Confort Menuiseries Fenêtres Portes Caen",
+        "slug": "guillhard-confort-menuiseries-fenetres-portes-caen",
+        "telephone": "02 31 06 02 23",
+        "site_web": "http://caen.guillhardconfort.fr/",
+        "adresse": "2 Rue des Gallois, 14210 Évrecy",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "esquay-notre-dame": {
+    "artisans": [
+      {
+        "id": "5416484076348973636",
+        "nom": "Normandie DML",
+        "slug": "normandie-dml",
+        "telephone": "06 14 74 25 88",
+        "site_web": null,
+        "adresse": "3 Rue des Tilleuls, 14210 Esquay-Notre-Dame",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "port-en-bessin-huppain": {
+    "artisans": [
+      {
+        "id": "9592133015224869908",
+        "nom": "L'Atelier Couvreur du Calvados - Demoussage Toiture Port-en-Bessin-Huppain, Réparation Fuites, Isolation Toit",
+        "slug": "latelier-couvreur-du-calvados-demoussage-toiture-port-en-bessin-huppain-reparation-fuites-isolation-toit",
+        "telephone": "02 61 77 02 62",
+        "site_web": "https://lateliercouvreurducalvadosdemoussage.fr/",
+        "adresse": "6 Rue Abbé Lemazurier, 14520 Port-en-Bessin-Huppain",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "dozule": {
+    "artisans": [
+      {
+        "id": "3169392324674562916",
+        "nom": "ALB Le BARS",
+        "slug": "alb-le-bars",
+        "telephone": "06 08 76 48 50",
+        "site_web": "http://lebars.alb.free.fr/",
+        "adresse": "6144 Rte de Villers, 14430 Dozulé",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "pont-l-eveque": {
+    "artisans": [
+      {
+        "id": "3978587842231059991",
+        "nom": "RIQUIER",
+        "slug": "riquier",
+        "telephone": "02 31 65 88 34",
+        "site_web": "http://www.ent-riquier.fr/",
+        "adresse": "Rue Marie Curie ZAC DU, Imp. de Grieu, 14130 Pont-l'Évêque",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8385762209107978465",
+        "nom": "POINT.P - Pont-l'Evêque",
+        "slug": "pointp-pont-leveque",
+        "telephone": "02 31 65 64 64",
+        "site_web": "https://www.pointp.fr/infos-agence/pont-l-eveque-point-p-5931",
+        "adresse": "5 Rue de l'Hippodrome, 14130 Pont-l'Évêque",
+        "note": 4,
+        "avis": 52,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "8650212635731073770",
+        "nom": "Komilfo Ets CARRÉ à Pont l'Évêque - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-ets-carre-a-pont-leveque-pergolas-stores-fenetres-menuiseries",
+        "telephone": "02 31 64 91 07",
+        "site_web": "https://www.komilfo.fr/magasins/ets-carre-pont-l-eveque-14?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "z.a. de launay, 4 Imp. de l'Environnement, 14130 Pont-l'Évêque",
+        "note": 4.8,
+        "avis": 80,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "12235623357634630036",
+        "nom": "Pont l'Evêque POINT.P Showroom",
+        "slug": "pont-leveque-pointp-showroom",
+        "telephone": "02 31 65 64 64",
+        "site_web": "https://www.pointp.fr/infos-showroom/pont-l-eveque-point-p-6431",
+        "adresse": "5 Rue de l'Hippodrome, 14130 Pont-l'Évêque",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "1514535344203045050",
+        "nom": "OuvertureS - Pont-L'Évêque - KMC Menuiserie -Vérandas",
+        "slug": "ouvertures-pont-leveque-kmc-menuiserie-verandas",
+        "telephone": "02 31 64 72 46",
+        "site_web": "https://pont-leveque.ouvertures.com/?utm_campaign=GMB_pont_leveque&utm_medium=organic&utm_source=GMB",
+        "adresse": "Parc d'Activité Launay, 11 bis Rue Laplace 2, 14130 Pont-l'Évêque",
+        "note": 5,
+        "avis": 104,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "epron": {
+    "artisans": [
+      {
+        "id": "9442614219491727098",
+        "nom": "Top reno'v",
+        "slug": "top-renov",
+        "telephone": "06 99 99 41 28",
+        "site_web": null,
+        "adresse": "9 Rue Louis Lachenal, 14000 Caen",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-arnoult": {
+    "artisans": [
+      {
+        "id": "3554267082038457329",
+        "nom": "Solutions Habitat Normandie",
+        "slug": "solutions-habitat-normandie",
+        "telephone": "02 31 81 08 10",
+        "site_web": "https://www.solutionshabitatnormandie.com/?utm_source=gmb",
+        "adresse": "Av. de la Vallée, 14800 Saint-Arnoult",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-aubin-d-arquenay": {
+    "artisans": [
+      {
+        "id": "10808235573159033634",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/calvados/installateur-expert-en-pose-velux-a-caen",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 4.9,
+        "avis": 76,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8147412243875071913",
+        "nom": "SAS JL Pieplu",
+        "slug": "sas-jl-pieplu",
+        "telephone": "06 08 54 14 40",
+        "site_web": "https://www.pieplu-jeanlouis-fenetre.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "22 Chem. Noir, 14970 Saint-Aubin-d'Arquenay",
+        "note": 4.6,
+        "avis": 19,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "12156004524317189830",
+        "nom": "SARL VASNIER",
+        "slug": "sarl-vasnier",
+        "telephone": "02 31 96 61 39",
+        "site_web": null,
+        "adresse": "40 Rte de Tailleville, 14750 Saint-Aubin-sur-Mer",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8594022747271265866",
+        "nom": "La Boutique du Menuisier Caen",
+        "slug": "la-boutique-du-menuisier-caen",
+        "telephone": "06 76 97 83 22",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/gl-menuiseries",
+        "adresse": "119 Bd Maréchal Lyautey, 14000 Caen",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15465829287604372629",
+        "nom": "B'PLAST CAEN",
+        "slug": "bplast-caen",
+        "telephone": "02 31 35 03 35",
+        "site_web": "https://www.bplast.fr/agence/bplast-caen/?utm_source=gmb",
+        "adresse": "ZAC Lazzaro, 2 Rue de la Métallurgie, 14460 Colombelles",
+        "note": 3.9,
+        "avis": 249,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vire-normandie": {
+    "artisans": [
+      {
+        "id": "3897210293530737219",
+        "nom": "B'PLAST VIRE",
+        "slug": "bplast-vire",
+        "telephone": "02 31 66 25 10",
+        "site_web": "https://www.bplast.fr/agences/bplast-vire/?utm_source=GMB&utm_medium=Organique&utm_campaign=GMB+Vire",
+        "adresse": "ZA le maupas, 125 Rue de l'Allière, 14500 Vire Normandie",
+        "note": 4.4,
+        "avis": 155,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1531554261536665184",
+        "nom": "A2MO Menuisier fabricant",
+        "slug": "a2mo-menuisier-fabricant",
+        "telephone": "02 31 67 07 99",
+        "site_web": "https://a2mo-menuiserie.com/",
+        "adresse": "386 Rue Madeleine Brès, 14500 Vire Normandie",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3897210293530737219",
+        "nom": "B'PLAST VIRE",
+        "slug": "bplast-vire",
+        "telephone": "02 31 66 25 10",
+        "site_web": "https://www.bplast.fr/agences/bplast-vire/?utm_source=GMB&utm_medium=Organique&utm_campaign=GMB+Vire",
+        "adresse": "ZA le maupas, 125 Rue de l'Allière, 14500 Vire Normandie",
+        "note": 4.4,
+        "avis": 155,
+        "type": "Menuisier"
+      },
+      {
+        "id": "797497211381945855",
+        "nom": "Menuiserie Fabricant Aluminium ALU BHM",
+        "slug": "menuiserie-fabricant-aluminium-alu-bhm",
+        "telephone": "02 31 67 97 38",
+        "site_web": "http://www.alu-bhm.fr/",
+        "adresse": "Rue de la Planche, 14500 Vire Normandie",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7983607396038840574",
+        "nom": "Atelier Alu & Co",
+        "slug": "atelier-alu-co",
+        "telephone": "02 31 59 90 60",
+        "site_web": "http://www.atelier-alu.com/",
+        "adresse": "2 Pl. Castel, 14500 Vire Normandie",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "9799440078059824552",
+        "nom": "Chanu HD",
+        "slug": "chanu-hd",
+        "telephone": "02 31 68 03 99",
+        "site_web": "http://www.chanuhd.com/",
+        "adresse": "54 Rue Fulgence Bienvenue, 14500 Vire Normandie",
+        "note": 4,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-aubin-sur-mer": {
+    "artisans": [
+      {
+        "id": "7672195270495600055",
+        "nom": "Toit et Lumière",
+        "slug": "toit-et-lumiere",
+        "telephone": "07 49 64 53 08",
+        "site_web": "https://www.toitetlumiere.fr/",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 5,
+        "avis": 79,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14655939858701903352",
+        "nom": "B'PLAST BAYEUX",
+        "slug": "bplast-bayeux",
+        "telephone": "02 31 51 35 30",
+        "site_web": "https://www.bplast.fr/agence/bplast-bayeux/?utm_source=gmb",
+        "adresse": "Boulevard Winston Churchill, 2 Chem. de la Bletre chemin de, 14400 Saint-Vigor-le-Grand",
+        "note": 4.2,
+        "avis": 65,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2465348858307504845",
+        "nom": "LA FENÊTRE NORMANDE | MENUISIER & STORISTE",
+        "slug": "la-fenetre-normande-menuisier-storiste",
+        "telephone": "02 44 51 33 78",
+        "site_web": "https://www.lafenetrenormande.fr/",
+        "adresse": "5 Rue des Grives, 14640 Villers-sur-Mer",
+        "note": 5,
+        "avis": 81,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9335913040294180085",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 31 83 97 48",
+        "site_web": "https://magasins.lapeyre.fr/normandie/calvados/lapeyre-caen-33",
+        "adresse": "340 Rue Jacquard, 14120 Mondeville",
+        "note": 4,
+        "avis": 512,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8762581891120962293",
+        "nom": "LC Rénover",
+        "slug": "lc-renover",
+        "telephone": "07 82 98 19 65",
+        "site_web": "https://lc-renover.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 50,
+        "type": "Constructeur de terrasses"
+      },
+      {
+        "id": "11176886246056968255",
+        "nom": "Déclic & Toit",
+        "slug": "declic-toit",
+        "telephone": "06 28 72 10 47",
+        "site_web": "https://www.declic-fenetre-de-toit.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13154377145480607313",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/seine-maritime/installateur-expert-en-pose-velux-au-havre",
+        "adresse": "5 Pl. Léon Meyer, 76600 Le Havre",
+        "note": 4.9,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9551719468189975778",
+        "nom": "Atelier du 114",
+        "slug": "atelier-du-114",
+        "telephone": "07 65 19 15 84",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-andre-sur-orne": {
+    "artisans": [
+      {
+        "id": "14881871229610178120",
+        "nom": "Caen Menuiseries Isolations SA",
+        "slug": "caen-menuiseries-isolations-sa",
+        "telephone": "02 31 83 85 44",
+        "site_web": "https://www.facebook.com/profile.php?id=100063602472720&utm_source=gmb",
+        "adresse": "Za Les Portes De La Suisse Normande, 13 Delle du Poirier, 14320 Saint-André-sur-Orne",
+        "note": 5,
+        "avis": 80,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-contest": {
+    "artisans": [
+      {
+        "id": "2332129452347689202",
+        "nom": "Déclic Habitat - Isolation extérieure - Fenêtres - Portes d'entrées aluminium K-Line",
+        "slug": "declic-habitat-isolation-exterieure-fenetres-portes-dentrees-aluminium-k-line",
+        "telephone": "02 31 28 06 67",
+        "site_web": "http://www.declic-habitat-isolation.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.9,
+        "avis": 117,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "valorbiquet": {
+    "artisans": [
+      {
+        "id": "18146530697599880750",
+        "nom": "Homiso Evreux - Menuiseries, Isolation, Chauffage",
+        "slug": "homiso-evreux-menuiseries-isolation-chauffage",
+        "telephone": "02 32 82 99 88",
+        "site_web": "https://homiso.fr/",
+        "adresse": "215 Rte de Paris Bureau 213, 27000 Évreux",
+        "note": 5,
+        "avis": 37,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "14535156053808562369",
+        "nom": "JD Services Couverture Zinguerie Installateur fenêtre de toit Velux",
+        "slug": "jd-services-couverture-zinguerie-installateur-fenetre-de-toit-velux",
+        "telephone": "06 14 76 77 13",
+        "site_web": "https://www.jd-services-renovations.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13817356502619067164",
+        "nom": "Couvreur nettoyage Peinture, recherche de fuite Couverture artisan remplacement fenêtre de toit",
+        "slug": "couvreur-nettoyage-peinture-recherche-de-fuite-couverture-artisan-remplacement-fenetre-de-toit",
+        "telephone": "06 67 33 68 97",
+        "site_web": "https://adelelouis.wixsite.com/accueil",
+        "adresse": "27340 Criquebeuf-sur-Seine",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4464335794363019181",
+        "nom": "Europe Fermeture",
+        "slug": "europe-fermeture",
+        "telephone": "02 35 87 45 87",
+        "site_web": null,
+        "adresse": "34 Rue Paul Fraenckel, 76500 Elbeuf",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17155738043688616752",
+        "nom": "Ouest Poses",
+        "slug": "ouest-poses",
+        "telephone": "02 32 30 13 39",
+        "site_web": "http://www.ouestposes.fr/",
+        "adresse": "Rue Grande, 27220 Coudres",
+        "note": 4.7,
+        "avis": 89,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7088027068000874223",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/seine-maritime/installateur-expert-en-pose-velux-a-rouen",
+        "adresse": "177 Bd de l'Yser, 76000 Rouen",
+        "note": 4.8,
+        "avis": 53,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-desir": {
+    "artisans": [
+      {
+        "id": "1777352953656082223",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 31 31 90 51",
+        "site_web": "https://techniques-et-traditions.artetfenetres.com/adresses-magasins/lisieux-14100.php?utm_source=gmb",
+        "adresse": "12 Rue d'Alençon, 14100 Lisieux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-germain-la-blanche-herbe": {
+    "artisans": [
+      {
+        "id": "10808235573159033634",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/calvados/installateur-expert-en-pose-velux-a-caen",
+        "adresse": "3 Pl. Jean Nouzille, 14000 Caen",
+        "note": 4.9,
+        "avis": 76,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-gatien-des-bois": {
+    "artisans": [
+      {
+        "id": "15561322780722080353",
+        "nom": "MCP Le Havre - Fenêtres, Portes, Volets, Portails et Vérandas",
+        "slug": "mcp-le-havre-fenetres-portes-volets-portails-et-verandas",
+        "telephone": "02 35 91 07 26",
+        "site_web": "https://mcp-menuiserie.com/magasins/magasin-mcp-le-havre-fenetre/",
+        "adresse": "9 Rue Jean Baptiste Eyriès, 76600 Le Havre",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15660226395862103310",
+        "nom": "B'PLAST LISIEUX",
+        "slug": "bplast-lisieux",
+        "telephone": "02 31 48 62 00",
+        "site_web": "https://www.bplast.fr/agence/bplast-lisieux/?utm_source=gmb",
+        "adresse": "Pôle d'Activités de l'Espérance, 806 Av. Georges Duval, 14100 Lisieux",
+        "note": 4.3,
+        "avis": 107,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12998354483034811767",
+        "nom": "Menuiserie Germain",
+        "slug": "menuiserie-germain",
+        "telephone": "02 78 77 16 10",
+        "site_web": "https://menuiserie-germain.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1777352953656082223",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 31 31 90 51",
+        "site_web": "https://techniques-et-traditions.artetfenetres.com/adresses-magasins/lisieux-14100.php?utm_source=gmb",
+        "adresse": "12 Rue d'Alençon, 14100 Lisieux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9343073721297223335",
+        "nom": "Castelain",
+        "slug": "castelain",
+        "telephone": "09 74 56 50 97",
+        "site_web": "http://www.menuiserie-castelain-deauville.fr/",
+        "adresse": "11 Rue du Dr Lainé, 14800 Touques",
+        "note": 3.5,
+        "avis": 26,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "seulline": {
+    "artisans": [
+      {
+        "id": "5618221693027832424",
+        "nom": "B'Plast SAV Colombelles",
+        "slug": "bplast-sav-colombelles",
+        "telephone": "02 31 78 59 05",
+        "site_web": "https://www.bplast.fr/agences/bplast-caen/",
+        "adresse": "2 Espa. Jean Mantelet, 14123 Cormelles-le-Royal",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "sainte-honorine-du-fay": {
+    "artisans": [
+      {
+        "id": "11205683711091435025",
+        "nom": "Thalea",
+        "slug": "thalea",
+        "telephone": "02 31 74 12 31",
+        "site_web": "https://thalea.fr/",
+        "adresse": "26 Rue du Général Revel de Bretteville, 14210 Sainte-Honorine-du-Fay",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "305354210951120447",
+        "nom": "Atelier XYZ",
+        "slug": "atelier-xyz",
+        "telephone": "02 31 39 95 41",
+        "site_web": "https://atelier-xyz.fr/",
+        "adresse": "15B Rue du Général Revel de Bretteville, 14210 Sainte-Honorine-du-Fay",
+        "note": 5,
+        "avis": 19,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "15328273987917244731",
+        "nom": "ENR Ouest",
+        "slug": "enr-ouest",
+        "telephone": "02 30 96 05 12",
+        "site_web": "https://enr-ouest.fr/",
+        "adresse": "26 Rue du Général Revel de Bretteville, 14210 Sainte-Honorine-du-Fay",
+        "note": 4.5,
+        "avis": 19,
+        "type": "Service de réparation de chaudières"
+      }
+    ]
+  },
+  "saint-martin-de-fontenay": {
+    "artisans": [
+      {
+        "id": "2380611985857262092",
+        "nom": "BigMat Saint-Martin de May - CS Matériaux",
+        "slug": "bigmat-saint-martin-de-may-cs-materiaux",
+        "telephone": "02 31 48 28 79",
+        "site_web": "https://www.toutfaire.fr/fouques-materiaux-st-martin-de-fontenay.html",
+        "adresse": "Rue du Clos Saint-Joseph, 14320 Saint-Martin-de-May",
+        "note": 4.1,
+        "avis": 59,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-pierre-en-auge": {
+    "artisans": [
+      {
+        "id": "15835996815558154417",
+        "nom": "Menuiserie des 3 Rivières",
+        "slug": "menuiserie-des-3-rivieres",
+        "telephone": "02 31 40 98 72",
+        "site_web": "http://www.menuiserie-trois-rivieres.com/",
+        "adresse": "14170 Saint-Pierre-en-Auge",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "1109883098348596429",
+        "nom": "Joël Etiemble Fermetures",
+        "slug": "joel-etiemble-fermetures",
+        "telephone": "06 81 13 47 62",
+        "site_web": "https://www.joel-etiemble-fermetures.fr/",
+        "adresse": "20 Rue des Villages, 14170 Vendeuvre",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12001878852624365778",
+        "nom": "JF COUVERTURE",
+        "slug": "jf-couverture",
+        "telephone": "06 58 68 85 18",
+        "site_web": "https://jfcouverture14.fr/",
+        "adresse": "16 Rue des Peupliers, 14170 Saint-Pierre-en-Auge",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14166124363403715970",
+        "nom": "Atelier Dufresne - Menuisier Agenceur",
+        "slug": "atelier-dufresne-menuisier-agenceur",
+        "telephone": "02 31 20 85 18",
+        "site_web": "https://atelierdufresne.fr/",
+        "adresse": "29 Rue de Falaise, 14170 Saint-Pierre-en-Auge",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Agenceur"
+      },
+      {
+        "id": "10653125056882679592",
+        "nom": "ATPM - ATELIER DE PRODUCTION DE MENUISERIES",
+        "slug": "atpm-atelier-de-production-de-menuiseries",
+        "telephone": "06 18 53 14 74",
+        "site_web": "https://www.atp-menuiseries.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 bis Rue Gérard Renault, 61120 Vimoutiers",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "noues-de-sienne": {
+    "artisans": [
+      {
+        "id": "11176886246056968255",
+        "nom": "Déclic & Toit",
+        "slug": "declic-toit",
+        "telephone": "06 28 72 10 47",
+        "site_web": "https://www.declic-fenetre-de-toit.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-manvieu-norrey": {
+    "artisans": [
+      {
+        "id": "8915949103225064706",
+        "nom": "FD Matériaux",
+        "slug": "fd-materiaux",
+        "telephone": "02 31 26 22 14",
+        "site_web": "http://www.fdmateriaux.com/",
+        "adresse": "1 Rte de Caen, 14740 Saint-Manvieu-Norrey",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "2941178488586229868",
+        "nom": "Actibat",
+        "slug": "actibat",
+        "telephone": "09 50 50 13 44",
+        "site_web": "https://www.actibat-habitat.fr/",
+        "adresse": "17 All. du Marquis de Hericy, 14740 Saint-Manvieu-Norrey",
+        "note": 4.9,
+        "avis": 77,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "saint-vigor-le-grand": {
+    "artisans": [
+      {
+        "id": "14655939858701903352",
+        "nom": "B'PLAST BAYEUX",
+        "slug": "bplast-bayeux",
+        "telephone": "02 31 51 35 30",
+        "site_web": "https://www.bplast.fr/agence/bplast-bayeux/?utm_source=gmb",
+        "adresse": "Boulevard Winston Churchill, 2 Chem. de la Bletre chemin de, 14400 Saint-Vigor-le-Grand",
+        "note": 4.2,
+        "avis": 65,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12227979402070623744",
+        "nom": "Bayeux Menuiseries",
+        "slug": "bayeux-menuiseries",
+        "telephone": "02 14 08 61 12",
+        "site_web": null,
+        "adresse": "2 Imp. du Moulin de la Rivière, 14400 Saint-Vigor-le-Grand",
+        "note": 5,
+        "avis": 83,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11955842608488424409",
+        "nom": "AV Menuiseries",
+        "slug": "av-menuiseries",
+        "telephone": "02 31 51 79 23",
+        "site_web": "http://www.av-menuiseries.fr/",
+        "adresse": "ZA Saint-Exupère III Rue jean Moulin, 14400 Saint-Vigor-le-Grand",
+        "note": 4.5,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5849788081401211058",
+        "nom": "Frans Bonhomme Bayeux - St Vigor",
+        "slug": "frans-bonhomme-bayeux-st-vigor",
+        "telephone": "02 31 10 01 46",
+        "site_web": "https://www.fransbonhomme.fr/store-finder/14400-saint-vigor-le-grand-434",
+        "adresse": "Boulevard Winston Churchill Zone Artisanale, 14400 Saint-Vigor-le-Grand",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "708735204335232499",
+        "nom": "Izabelle Bâtiment",
+        "slug": "izabelle-batiment",
+        "telephone": "02 31 21 37 52",
+        "site_web": "https://www.izabelle-batiment.com/",
+        "adresse": "Bd Winston Churchill, 14400 Saint-Vigor-le-Grand",
+        "note": 4.7,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-sylvain": {
+    "artisans": [
+      {
+        "id": "17053816936755956597",
+        "nom": "KparK Caen",
+        "slug": "kpark-caen",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/135-kpark-caen?utm_source=gmb",
+        "adresse": "73 Rue d'Auge, 14000 Caen",
+        "note": 4,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16333942520216076978",
+        "nom": "EBP Couverture",
+        "slug": "ebp-couverture",
+        "telephone": "06 12 30 09 81",
+        "site_web": null,
+        "adresse": "4 Rue Louis Lechevalier, 14190 Saint-Sylvain",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sannerville": {
+    "artisans": [
+      {
+        "id": "9658328784153001472",
+        "nom": "Pole Rénovation Normandie/Picardie – Étanchéité, Humidité & Isolation",
+        "slug": "pole-renovation-normandiepicardie-etancheite-humidite-isolation",
+        "telephone": "02 31 84 62 42",
+        "site_web": "https://pole-renov.fr/?utm_medium=Click&utm_source=GoogleBusinessProfileNormandie",
+        "adresse": "1 Rue de la Libération, 14940 Sannerville",
+        "note": 4.5,
+        "avis": 78,
+        "type": "Entreprise d'étanchéité"
+      },
+      {
+        "id": "7526283226679381071",
+        "nom": "SIRAM Caen - Installation Fenêtres, Portes, Portails, Pergolas, Carports, Volets Menuiserie extérieure PVC, alu et bois",
+        "slug": "siram-caen-installation-fenetres-portes-portails-pergolas-carports-volets-menuiserie-exterieure-pvc-alu-et-bois",
+        "telephone": "02 31 39 08 08",
+        "site_web": "https://www.siram.fr/",
+        "adresse": "6 bis Rue de Caen, 14940 Sannerville",
+        "note": 4.4,
+        "avis": 199,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7511117769997693167",
+        "nom": "LG couverture rénovation",
+        "slug": "lg-couverture-renovation",
+        "telephone": "06 66 19 88 20",
+        "site_web": "https://lg-couverture-renovation.fr/",
+        "adresse": "84 Rue de Lirose, 14940 Sannerville",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "soliers": {
+    "artisans": [
+      {
+        "id": "8204021334056379906",
+        "nom": "Décorisol Caennaise",
+        "slug": "decorisol-caennaise",
+        "telephone": "02 31 47 45 45",
+        "site_web": "https://www.veranda-menuiserie.fr/agence/caen-decorisol-caseo/",
+        "adresse": "222 Av. des Digues, 14123 Fleury-sur-Orne",
+        "note": 4.5,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6283742694379432471",
+        "nom": "CGi - Terres de fenêtre",
+        "slug": "cgi-terres-de-fenetre",
+        "telephone": "02 31 07 35 48",
+        "site_web": "http://www.cg-isolation.fr/",
+        "adresse": "50 Bd des Nations, 14540 Soliers",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8833669098660034880",
+        "nom": "KôHm | Menuiseries | Fenêtres | Portes | Volets | Isolation",
+        "slug": "kohm-menuiseries-fenetres-portes-volets-isolation",
+        "telephone": "02 31 39 54 54",
+        "site_web": "https://menuiserie-kohm.fr/",
+        "adresse": "1 Rue Augustin Riffault, 14540 Soliers",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10814516558386070058",
+        "nom": "Rénov'Habitat",
+        "slug": "renovhabitat",
+        "telephone": "02 31 93 51 22",
+        "site_web": "http://www.renovhabitat-caen.fr/",
+        "adresse": "50 Bd des Nations, 14540 Soliers",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10272060370417787260",
+        "nom": "Leroy Merlin Caen Mondeville",
+        "slug": "leroy-merlin-caen-mondeville",
+        "telephone": "02 31 82 40 33",
+        "site_web": "https://www.leroymerlin.fr/magasins/caen-mondeville.html",
+        "adresse": "32 Rue Henry Spriet, 14120 Mondeville",
+        "note": 4,
+        "avis": 6833,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "1020228460391649589",
+        "nom": "WEISS COUVERTURE NORMANDIE: Artisan couvreur Caen Étanchéité Réparation fuites Nettoyage toiture Traitement 14 Calvados",
+        "slug": "weiss-couverture-normandie-artisan-couvreur-caen-etancheite-reparation-fuites-nettoyage-toiture-traitement-14-calvados",
+        "telephone": "06 83 74 56 17",
+        "site_web": "https://weiss-couverture-normandie.fr/",
+        "adresse": "5 Chemin de la, Rue de la Bruyère Saint-Léonard, 14670",
+        "note": 5,
+        "avis": 42,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15885404586669933530",
+        "nom": "MS COUVERTURE 14",
+        "slug": "ms-couverture-14",
+        "telephone": "02 44 84 82 00",
+        "site_web": "https://mscouvertures.fr/",
+        "adresse": "65 Rue Georges Auguste, 14000 Caen",
+        "note": 5,
+        "avis": 100,
+        "type": "Couvreur"
+      },
+      {
+        "id": "794465949837993179",
+        "nom": "EVEREST CHARPENTE COUVERTURE",
+        "slug": "everest-charpente-couverture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "thaon": {
+    "artisans": [
+      {
+        "id": "6995055547033194114",
+        "nom": "Église Saint-Pierre de Thaon",
+        "slug": "eglise-saint-pierre-de-thaon",
+        "telephone": null,
+        "site_web": "http://vieilleeglisedethaon.free.fr/",
+        "adresse": "Chem. de la Vallée, 14610 Thaon",
+        "note": 4.7,
+        "avis": 353,
+        "type": "Église catholique"
+      }
+    ]
+  },
+  "thury-harcourt-le-hom": {
+    "artisans": [
+      {
+        "id": "18336365576885812920",
+        "nom": "Bois en vie",
+        "slug": "bois-en-vie",
+        "telephone": "07 67 69 56 49",
+        "site_web": "http://www.boisenvie.fr/",
+        "adresse": "9 Rue de l'Aluminium, 14220 Thury-Harcourt-le-Hom",
+        "note": 5,
+        "avis": 2,
+        "type": "Décorateur d'intérieur"
+      },
+      {
+        "id": "12686180469784316359",
+        "nom": "POINT.P - LE HOM (Thury Harcourt)",
+        "slug": "pointp-le-hom-thury-harcourt",
+        "telephone": "02 31 79 70 73",
+        "site_web": "https://www.pointp.fr/infos-agence/thury-harcourt-point-p-3939",
+        "adresse": "Rue d'Esson Zone D'activité Esson, 14220 Thury-Harcourt-le-Hom",
+        "note": 4.1,
+        "avis": 41,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5087651402404553646",
+        "nom": "LaMaison.fr",
+        "slug": "lamaisonfr",
+        "telephone": "02 31 79 70 08",
+        "site_web": "https://www.lamaison.fr/stores/thury-harcourt-le-hom-lamaison-fr?utm_campaign=googlebusinessprofile&utm_medium=local&utm_source=google&utm_content=site+web",
+        "adresse": "ZA de l'Aluminium, Rue de l'Aluminium, 14220 Thury-Harcourt-le-Hom",
+        "note": 4.2,
+        "avis": 151,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "16856823517567201691",
+        "nom": "AJL HABITAT - Menuiseries Électricité Ossature bois Thury-Harcourt",
+        "slug": "ajl-habitat-menuiseries-electricite-ossature-bois-thury-harcourt",
+        "telephone": "07 43 27 15 11",
+        "site_web": "https://www.facebook.com/ajlhabitat",
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16410593466716696868",
+        "nom": "GuillHard Confort Menuiseries Fenêtres Portes Caen",
+        "slug": "guillhard-confort-menuiseries-fenetres-portes-caen",
+        "telephone": "02 31 06 02 23",
+        "site_web": "http://caen.guillhardconfort.fr/",
+        "adresse": "2 Rue des Gallois, 14210 Évrecy",
+        "note": 5,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16817498628373132835",
+        "nom": "Meubles Gouget",
+        "slug": "meubles-gouget",
+        "telephone": "02 31 79 72 19",
+        "site_web": null,
+        "adresse": "27 Rue de Condé, 14220 Thury-Harcourt-le-Hom",
+        "note": 4.5,
+        "avis": 34,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "3522481162441079195",
+        "nom": "Barbier Laulnais couverture",
+        "slug": "barbier-laulnais-couverture",
+        "telephone": "07 61 25 37 55",
+        "site_web": "https://www.barbier-couverture-isolation.fr/",
+        "adresse": "11 Rte du Bosq, 14570 Saint-Lambert",
+        "note": 4.9,
+        "avis": 48,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2145623508934593618",
+        "nom": "Vilfeu Jean-christophe",
+        "slug": "vilfeu-jean-christophe",
+        "telephone": "02 31 08 18 80",
+        "site_web": null,
+        "adresse": "Le Bourg, 14220 Ouffières",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1579412161232720009",
+        "nom": "Morel p. Sarl",
+        "slug": "morel-p-sarl",
+        "telephone": "02 31 79 70 11",
+        "site_web": null,
+        "adresse": "10 Rue d'Esson, 14220 Thury-Harcourt-le-Hom",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "tilly-sur-seulles": {
+    "artisans": [
+      {
+        "id": "2216837753544208543",
+        "nom": "SARL Denis Le Goupil",
+        "slug": "sarl-denis-le-goupil",
+        "telephone": "02 31 80 79 24",
+        "site_web": "https://www.sarl-denislegoupil.fr/",
+        "adresse": "ZA de Montilly, 14250 Tilly-sur-Seulles",
+        "note": 5,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "touques": {
+    "artisans": [
+      {
+        "id": "5751222187236523170",
+        "nom": "Bruno Gournay Couverture",
+        "slug": "bruno-gournay-couverture",
+        "telephone": "06 82 96 44 97",
+        "site_web": "http://www.bruno-gournay-couverture.fr/",
+        "adresse": "Rue des Écoles, 14800 Touques",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9333729946591062801",
+        "nom": "Vma",
+        "slug": "vma",
+        "telephone": "02 31 98 21 53",
+        "site_web": "http://www.vma14.com/?utm_source=gmb",
+        "adresse": "Rue des Tonneliers, 14800 Touques",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12548095380518036032",
+        "nom": "Couvreur Rybiki Renov Habitat Normandie",
+        "slug": "couvreur-rybiki-renov-habitat-normandie",
+        "telephone": "06 69 61 11 81",
+        "site_web": "https://www.artisan-couvreur-14.fr/",
+        "adresse": "6 Rue du Dr Ebrard, 14800 Deauville",
+        "note": 5,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tourville-sur-odon": {
+    "artisans": [
+      {
+        "id": "18177979960918279944",
+        "nom": "Fenétrier® VEKA by Menuiland | Fenêtres Portes en PVC",
+        "slug": "fenetrier-veka-by-menuiland-fenetres-portes-en-pvc",
+        "telephone": "02 31 08 30 80",
+        "site_web": "https://www.menuiland.fr/",
+        "adresse": "284 Rue Marie Curie, 14200 Hérouville-Saint-Clair",
+        "note": 4.5,
+        "avis": 31,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "16014582749172036653",
+        "nom": "Brizard Ets",
+        "slug": "brizard-ets",
+        "telephone": "02 31 80 61 67",
+        "site_web": "http://www.fondis-normandie-brizard.fr/",
+        "adresse": "51 Rte de Bretagne, 14210 Tourville-sur-Odon",
+        "note": 4.7,
+        "avis": 21,
+        "type": "Cheministe"
+      },
+      {
+        "id": "17735157789741997599",
+        "nom": "Menuiland | Fenêtres Portes en PVC",
+        "slug": "menuiland-fenetres-portes-en-pvc",
+        "telephone": "02 31 69 88 40",
+        "site_web": "http://www.menuiland.fr/",
+        "adresse": "77 Rue des Normands, 14110 Condé-en-Normandie",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13000812080271947379",
+        "nom": "AFC - Automatisations Fermetures Concept",
+        "slug": "afc-automatisations-fermetures-concept",
+        "telephone": "02 31 26 22 33",
+        "site_web": "https://www.afc14.com/",
+        "adresse": "11 Rue du Long Douet, 14760 Bretteville-sur-Odon",
+        "note": 3.9,
+        "avis": 47,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9425030958612215502",
+        "nom": "Mario Duval Couverture - Couvreur Caen",
+        "slug": "mario-duval-couverture-couvreur-caen",
+        "telephone": "02 44 84 79 77",
+        "site_web": "https://marioduvalcouverture.com/",
+        "adresse": "2 Av. de Woodbury, 14760 Bretteville-sur-Odon",
+        "note": 5,
+        "avis": 119,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16096735186534611454",
+        "nom": "REPAR'STORES CAEN OUEST",
+        "slug": "reparstores-caen-ouest",
+        "telephone": "02 61 67 03 95",
+        "site_web": "https://www.reparstores.com/intervenants/320-mathis-le-calve?utm_source=google&utm_medium=gmb&utm_campaign=caen-ouest&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 91,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "9872789510560603701",
+        "nom": "Logikinov",
+        "slug": "logikinov",
+        "telephone": "02 31 52 00 78",
+        "site_web": "http://www.facebook.com/logikinov/?utm_source=gmb",
+        "adresse": "12 Avenue Digues, All. 1, 14123 Fleury-sur-Orne",
+        "note": 4.9,
+        "avis": 500,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "trouville-sur-mer": {
+    "artisans": [
+      {
+        "id": "17432765474959187429",
+        "nom": "Miroiterie Michel Kap",
+        "slug": "miroiterie-michel-kap",
+        "telephone": "02 31 88 45 92",
+        "site_web": "https://www.miroiteriemichelkap.com/",
+        "adresse": "All. des Vikings, 14360 Trouville-sur-Mer",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11146122492843958761",
+        "nom": "TRYBA Trouville-sur-Mer",
+        "slug": "tryba-trouville-sur-mer",
+        "telephone": "02 21 83 12 78",
+        "site_web": "https://www.tryba.com/espace-conseil/14/tryba-trouville-sur-mer/?utm_campaign=Tryba_Trouville-sur-Mer&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "22 Bd d'Hautpoul, 14360 Trouville-sur-Mer",
+        "note": 4.7,
+        "avis": 67,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1102150919479829343",
+        "nom": "Menuiserie Marie",
+        "slug": "menuiserie-marie",
+        "telephone": "06 86 13 42 49",
+        "site_web": "https://www.menuiseriemarie.fr/?utm_source=gmb",
+        "adresse": "Zone d'emploi d, Rue de la briqueterie, 14360 Trouville-sur-Mer",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3554267082038457329",
+        "nom": "Solutions Habitat Normandie",
+        "slug": "solutions-habitat-normandie",
+        "telephone": "02 31 81 08 10",
+        "site_web": "https://www.solutionshabitatnormandie.com/?utm_source=gmb",
+        "adresse": "Av. de la Vallée, 14800 Saint-Arnoult",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "troarn": {
+    "artisans": [
+      {
+        "id": "2110697984730289097",
+        "nom": "couvreur troarn entreprise coteux artisan",
+        "slug": "couvreur-troarn-entreprise-coteux-artisan",
+        "telephone": "06 24 47 41 67",
+        "site_web": "http://entreprisecoteuxlarry.fr/",
+        "adresse": "14670 Troarn",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11752487511207244838",
+        "nom": "SARL CHILE Frédéric",
+        "slug": "sarl-chile-frederic",
+        "telephone": "02 31 26 15 47",
+        "site_web": "https://chile-frederic.com/",
+        "adresse": "112 Rte de Rouen, 14670 Troarn",
+        "note": 4.6,
+        "avis": 117,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4895511443283541830",
+        "nom": "Couverture Normande : Artisan TOUDIC Julien 14 Calvados",
+        "slug": "couverture-normande-artisan-toudic-julien-14-calvados",
+        "telephone": "06 82 95 09 32",
+        "site_web": "https://www.couverture-normande-calvados.fr/",
+        "adresse": "Rue d'Emiéville, 14670 Troarn",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5815713936494290093",
+        "nom": "Couverture normande",
+        "slug": "couverture-normande",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "9 Rue d'Emiéville, 14670 Troarn",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "verson": {
+    "artisans": [
+      {
+        "id": "11176886246056968255",
+        "nom": "Déclic & Toit",
+        "slug": "declic-toit",
+        "telephone": "06 28 72 10 47",
+        "site_web": "https://www.declic-fenetre-de-toit.fr/",
+        "adresse": "5 Imp. du Noroît, 14790 Verson",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "valdalliere": {
+    "artisans": [
+      {
+        "id": "9970207190519737969",
+        "nom": "SAS Cedric Lechartier",
+        "slug": "sas-cedric-lechartier",
+        "telephone": "02 31 69 70 82",
+        "site_web": null,
+        "adresse": "23 Rue de la Minoterie, 14350 Souleuvre en Bocage",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6256314561986745490",
+        "nom": "Classic Bois - Menuiserie - Charpente - Agencement à VIRE (14)",
+        "slug": "classic-bois-menuiserie-charpente-agencement-a-vire-14",
+        "telephone": "07 86 97 01 73",
+        "site_web": "https://classicbois.fr/",
+        "adresse": "7 Les Templeries, 14410 Valdallière",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4010367798200657215",
+        "nom": "LEFRANCOIS CONSTRUCTION",
+        "slug": "lefrancois-construction",
+        "telephone": "02 31 09 38 42",
+        "site_web": "https://lefrancois-construction-14.fr/",
+        "adresse": "Rte de Condé, 14410 Valdallière",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9286855490892889471",
+        "nom": "Lefrancois Construction",
+        "slug": "lefrancois-construction",
+        "telephone": "06 45 65 75 06",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "la-vespiere-friardel": {
+    "artisans": [
+      {
+        "id": "12332143796271613772",
+        "nom": "Atelier Michaut",
+        "slug": "atelier-michaut",
+        "telephone": "02 31 32 52 42",
+        "site_web": "https://www.atelier-michaut.fr/",
+        "adresse": "191 Rue de Chambrais, 14290 La Vespière-Friardel",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6146616067341089525",
+        "nom": "Michaut Vincent SARL",
+        "slug": "michaut-vincent-sarl",
+        "telephone": "02 31 32 52 42",
+        "site_web": "https://www.menuiserie-michaut-vincent.fr/",
+        "adresse": "191 Rue de Chambrais, 14290 La Vespière-Friardel",
+        "note": 3.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7819851576014294277",
+        "nom": "La Vespière-Friardel",
+        "slug": "la-vespiere-friardel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "14290 La Vespière-Friardel",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "8591485434411377742",
+        "nom": "Terrassements Locations Vespérois",
+        "slug": "terrassements-locations-vesperois",
+        "telephone": "02 31 63 99 03",
+        "site_web": "https://www.tlv14.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lieu-dit Beausoleil, 592 Le Chemin de Bernay, 14290 La Vespière-Friardel",
+        "note": 5,
+        "avis": 6,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "villers-bocage": {
+    "artisans": [
+      {
+        "id": "8901041045794198784",
+        "nom": "BeauBois",
+        "slug": "beaubois",
+        "telephone": "06 07 09 50 62",
+        "site_web": "http://beau-bois.fr/",
+        "adresse": "6 Rue des Fours À Chaux, 14310 Villers-Bocage",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3546835477458433445",
+        "nom": "Gazeux Franck",
+        "slug": "gazeux-franck",
+        "telephone": "06 03 35 28 86",
+        "site_web": null,
+        "adresse": "13 résidence des sources, 14310 Villers-Bocage",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5704820879502337862",
+        "nom": "LaMaison.fr",
+        "slug": "lamaisonfr",
+        "telephone": "02 31 77 15 15",
+        "site_web": "https://www.lamaison.fr/stores/villers-bocage-lamaison-fr?utm_campaign=googlebusinessprofile&utm_medium=local&utm_source=google&utm_content=site+web",
+        "adresse": "Ancienne, Parking Carrefour Market, Rte de Caen, 14310 Villers-Bocage",
+        "note": 4.1,
+        "avis": 485,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "10494251245952052482",
+        "nom": "MOKKŌ AGENCEMENT",
+        "slug": "mokko-agencement",
+        "telephone": "02 31 25 09 60",
+        "site_web": "https://mokko-agencement.fr/",
+        "adresse": "ZA Des Terres Noires, 4 Rue des Fours À Chaux, 14310 Villers-Bocage",
+        "note": 3.6,
+        "avis": 5,
+        "type": "Agenceur"
+      },
+      {
+        "id": "4761829069067970588",
+        "nom": "Glazing Basse-Normandie",
+        "slug": "glazing-basse-normandie",
+        "telephone": "06 72 60 44 03",
+        "site_web": "http://www.glazing-bt.com/",
+        "adresse": "2 impasse du rail, 14310 Villers-Bocage",
+        "note": 0,
+        "avis": 0,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "13160123003893961327",
+        "nom": "D.S.R.A SARL",
+        "slug": "dsra-sarl",
+        "telephone": "02 31 36 92 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.7,
+        "avis": 9,
+        "type": "Maçon"
+      },
+      {
+        "id": "11221609633197528182",
+        "nom": "Agenc'Eco14",
+        "slug": "agenceco14",
+        "telephone": "07 66 23 35 12",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 21,
+        "type": "Service de pose de parquet"
+      },
+      {
+        "id": "16711081589118554570",
+        "nom": "MGMenuiseries",
+        "slug": "mgmenuiseries",
+        "telephone": "06 77 13 09 06",
+        "site_web": "https://mgmenuiseries.fr/",
+        "adresse": "6 Rue de la Prairie, 14250 Fontenay-le-Pesnel",
+        "note": 5,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5273601549073781576",
+        "nom": "Costil Michel Sarl",
+        "slug": "costil-michel-sarl",
+        "telephone": "02 31 25 09 60",
+        "site_web": null,
+        "adresse": "ZA Des Terres Noires, 4 Rue des Fours À Chaux, 14310 Villers-Bocage",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "5656773268884531011",
+        "nom": "SARL Lucas Peinture",
+        "slug": "sarl-lucas-peinture",
+        "telephone": "09 87 12 78 76",
+        "site_web": null,
+        "adresse": "ZI des noires terres, Rue des Fours À Chaux, 14310 Villers-Bocage",
+        "note": 5,
+        "avis": 14,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "la-riviere-saint-sauveur": {
+    "artisans": [
+      {
+        "id": "7122196254594045077",
+        "nom": "Canu",
+        "slug": "canu",
+        "telephone": "02 31 98 88 69",
+        "site_web": "http://www.canu-couverture-ramonage.fr/",
+        "adresse": "16 Bis Pl. de l'Église, 14600 La Rivière-Saint-Sauveur",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13732226555983530072",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 35 13 36 60",
+        "site_web": "https://magasins.lapeyre.fr/normandie/seine-maritime/lapeyre-le-havre-47",
+        "adresse": "Av. de la Belle Étoile, 76290 Montivilliers",
+        "note": 3.8,
+        "avis": 341,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "15732108754824258247",
+        "nom": "Fenêtres et Pergolas Logikinov",
+        "slug": "fenetres-et-pergolas-logikinov",
+        "telephone": "02 31 87 34 72",
+        "site_web": "https://www.logikinov.com/",
+        "adresse": "656 Av. Charles Houssaye, 14600 Équemauville",
+        "note": 5,
+        "avis": 206,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15561322780722080353",
+        "nom": "MCP Le Havre - Fenêtres, Portes, Volets, Portails et Vérandas",
+        "slug": "mcp-le-havre-fenetres-portes-volets-portails-et-verandas",
+        "telephone": "02 35 91 07 26",
+        "site_web": "https://mcp-menuiserie.com/magasins/magasin-mcp-le-havre-fenetre/",
+        "adresse": "9 Rue Jean Baptiste Eyriès, 76600 Le Havre",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13396428120528193636",
+        "nom": "ETS JBH",
+        "slug": "ets-jbh",
+        "telephone": "06 98 86 59 89",
+        "site_web": "https://www.facebook.com/profile.php?id=61563819931667&locale=fr_FR&utm_source=gmb",
+        "adresse": "5 bis Rue de la Pannerie, 27210 Berville-sur-Mer",
+        "note": 4.8,
+        "avis": 33,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10152843759640328577",
+        "nom": "Quesney Menuiserie",
+        "slug": "quesney-menuiserie",
+        "telephone": "06 40 50 73 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "villers-sur-mer": {
+    "artisans": [
+      {
+        "id": "5652274426803046137",
+        "nom": "Thierry Lepeltier Menuiserie",
+        "slug": "thierry-lepeltier-menuiserie",
+        "telephone": "06 75 81 14 92",
+        "site_web": null,
+        "adresse": "3 Rue des Grives, 14640 Villers-sur-Mer",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12007078122971996881",
+        "nom": "Vignet Et Fils ETS",
+        "slug": "vignet-et-fils-ets",
+        "telephone": "02 31 87 80 12",
+        "site_web": "https://ets-vignet.com/",
+        "adresse": "Rue des Grives, 14640 Villers-sur-Mer",
+        "note": 4.1,
+        "avis": 157,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "6839753187885079003",
+        "nom": "MENUISERIE GUERARD",
+        "slug": "menuiserie-guerard",
+        "telephone": "02 31 87 44 24",
+        "site_web": "http://www.menuiserie-guerard.fr/",
+        "adresse": "ZA, Rue des Grives, 14640 Villers-sur-Mer",
+        "note": 3.3,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7583041807555184985",
+        "nom": "Manceaux Aménagement",
+        "slug": "manceaux-amenagement",
+        "telephone": "02 31 98 87 43",
+        "site_web": "https://www.manceauxamenagement.com/",
+        "adresse": "23 Rue Michel d'Ornano, 14640 Villers-sur-Mer",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "14730863297638831339",
+        "nom": "Le Court Grégory",
+        "slug": "le-court-gregory",
+        "telephone": "06 28 40 90 75",
+        "site_web": "https://www.becel-lecourt-couverture.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 Rue des Grives, 14640 Villers-sur-Mer",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3645242468115627779",
+        "nom": "Alain Lepeltier",
+        "slug": "alain-lepeltier",
+        "telephone": "02 31 87 42 86",
+        "site_web": null,
+        "adresse": "41 Rue des Jardins, 14640 Villers-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "castine-en-plaine": {
+    "artisans": [
+      {
+        "id": "3765056039660376902",
+        "nom": "SOLEIL ET TOIT PANNEAUX SOLAIRES CALVADOS",
+        "slug": "soleil-et-toit-panneaux-solaires-calvados",
+        "telephone": "06 79 12 67 24",
+        "site_web": "http://www.soleilettoit.fr/",
+        "adresse": "32 Rue du Village, 14320 Laize-Clinchamps",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "ranville": {
+    "artisans": [
+      {
+        "id": "11018306555965566166",
+        "nom": "HSM Couverture",
+        "slug": "hsm-couverture",
+        "telephone": "06 23 57 98 46",
+        "site_web": "http://www.couverture-hsm.fr/",
+        "adresse": "1 Rue de l'Artisanat, 14860 Ranville",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11945114066283499465",
+        "nom": "Harcourt Couverture",
+        "slug": "harcourt-couverture",
+        "telephone": "06 40 24 20 97",
+        "site_web": "https://harcourt-couverture.fr/",
+        "adresse": "5 Rue du Bac du Port, 14860 Amfreville",
+        "note": 5,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "rots": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  }
+}

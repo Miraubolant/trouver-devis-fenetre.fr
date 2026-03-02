@@ -1,0 +1,5686 @@
+{
+  "bourbriac": {
+    "artisans": [
+      {
+        "id": "14412931880162912270",
+        "nom": "Vitel Menuiseries",
+        "slug": "vitel-menuiseries",
+        "telephone": "02 96 78 37 36",
+        "site_web": "http://www.vitel.fr/",
+        "adresse": "1 Rue Robert Schuman, 22190 Plérin",
+        "note": 4.8,
+        "avis": 228,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3958687801593203580",
+        "nom": "Batitrem Services",
+        "slug": "batitrem-services",
+        "telephone": "06 78 29 24 88",
+        "site_web": "https://www.facebook.com/people/Bati-Trem-Services/100076116336997/?utm_source=gmb",
+        "adresse": "ZA du Courjou, 22390 Bourbriac",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12835908805631485235",
+        "nom": "Avenir Rénovations 22 Saint Brieuc",
+        "slug": "avenir-renovations-22-saint-brieuc",
+        "telephone": "02 49 88 36 17",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-22-saint-brieuc/",
+        "adresse": "3 Rue de la Cassoire, 22170 Plerneuf",
+        "note": 5,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "6234204561361366233",
+        "nom": "Guillerm David",
+        "slug": "guillerm-david",
+        "telephone": "06 67 42 73 30",
+        "site_web": "http://www.couvreurguillerm.fr/",
+        "adresse": "22390 Bourbriac",
+        "note": 4,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "brehand": {
+    "artisans": [
+      {
+        "id": "8638523623691564821",
+        "nom": "Histoire de Ciel - Installateur Conseil Velux Bretagne",
+        "slug": "histoire-de-ciel-installateur-conseil-velux-bretagne",
+        "telephone": "07 82 30 45 55",
+        "site_web": "https://www.histoiredeciel.fr/",
+        "adresse": "19 Rue Léon Durocher, 56300 Pontivy",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "loudeac": {
+    "artisans": [
+      {
+        "id": "5046713280664908562",
+        "nom": "Menuiserie Josse",
+        "slug": "menuiserie-josse",
+        "telephone": "02 96 28 92 12",
+        "site_web": "https://loudeacmenuiserie.fr/",
+        "adresse": "12 Rue Glais Bizoin, 22600 Loudéac",
+        "note": 4.4,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "720441919083818439",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 96 33 46 46",
+        "site_web": "https://magasins.lapeyre.fr/bretagne/cotes-darmor/lapeyre-saint-brieuc-54",
+        "adresse": "34 Rue Chaptal, 22000 Saint-Brieuc",
+        "note": 3.7,
+        "avis": 221,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "9748028394681159147",
+        "nom": "Idéal Confort Menuisier Loudéac",
+        "slug": "ideal-confort-menuisier-loudeac",
+        "telephone": "02 96 66 18 22",
+        "site_web": "http://www.idealconfort22.fr/",
+        "adresse": "1 Rue Glais Bizoin, 22600 Loudéac",
+        "note": 4.9,
+        "avis": 153,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10347596973813769122",
+        "nom": "Terres de fenêtre - Loudéac",
+        "slug": "terres-de-fenetre-loudeac",
+        "telephone": "06 95 75 34 00",
+        "site_web": "https://terresdefenetrelou.wixsite.com/terres-de-fen?fbclid=IwZXh0bgNhZW0CMTAAAR0AUGN05CY6y8RzYHGYdedTQC4sORiB2WqtumC2rQxEi4KGXs3UZphGI-k_aem_ahxb3H_DaDtp0J2BBjnfUw",
+        "adresse": "ZA de Bel Air, 22600 Trévé",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9186079588480455571",
+        "nom": "Menuiserie ROUXEL Loudéac",
+        "slug": "menuiserie-rouxel-loudeac",
+        "telephone": "02 96 28 73 43",
+        "site_web": "https://menuiserie-rouxel.com/",
+        "adresse": "45 Rue Anatole le Braz, 22600 Loudéac",
+        "note": 5,
+        "avis": 109,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9278877980954455834",
+        "nom": "Menuiserie OLIVIER S.A.R.L.",
+        "slug": "menuiserie-olivier-sarl",
+        "telephone": "02 96 25 70 55",
+        "site_web": "http://www.menuiserie-olivier.bzh/",
+        "adresse": "129 Za des Parpareux, 22600 Loudéac",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "brusvily": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "broons": {
+    "artisans": [
+      {
+        "id": "14234983890018779730",
+        "nom": "AMDP Delaunay Production",
+        "slug": "amdp-delaunay-production",
+        "telephone": "02 96 86 15 67",
+        "site_web": "http://www.agencement-amdp.com/",
+        "adresse": "11 Rte de Lamballe, 22250 Broons",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12448783533942395193",
+        "nom": "MENUISERIE LE GUILLOUZIC",
+        "slug": "menuiserie-le-guillouzic",
+        "telephone": "06 03 87 49 12",
+        "site_web": "https://www.menuiserie-le-guillouzic.fr/",
+        "adresse": "9 Rue de la Trinité, 22250 Broons",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3357594885777480521",
+        "nom": "Piedvache Agencements",
+        "slug": "piedvache-agencements",
+        "telephone": "06 04 43 88 57",
+        "site_web": "http://piedvache-agencements.fr/",
+        "adresse": "14 la ville Bougault, 22250 Broons",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bourseul": {
+    "artisans": [
+      {
+        "id": "14707466062140887557",
+        "nom": "LE BALC'H FV2P (menuiserie, fermeture)",
+        "slug": "le-balch-fv2p-menuiserie-fermeture",
+        "telephone": "02 96 84 24 66",
+        "site_web": "http://www.lebalch-fv2p.fr/",
+        "adresse": "ZA La Millière Pluduno, 22130 Plancoët",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6024394390264501058",
+        "nom": "Oriance",
+        "slug": "oriance",
+        "telephone": "02 96 60 75 98",
+        "site_web": "https://www.oriance-fenetres.com/",
+        "adresse": "9 Rue Jean Marie Baudet, 22360 Langueux",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "callac": {
+    "artisans": [
+      {
+        "id": "4942107979175014282",
+        "nom": "BIZIEN MENUISERIES - VERANDAS - PORTAILS",
+        "slug": "bizien-menuiseries-verandas-portails",
+        "telephone": "02 96 45 93 59",
+        "site_web": "https://bizien.bzh/",
+        "adresse": "Zone artisanale de Kerguiniou, 22160 Callac",
+        "note": 4.9,
+        "avis": 49,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "boqueho": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cavan": {
+    "artisans": [
+      {
+        "id": "16613518042475467426",
+        "nom": "Thomas Menuiserie Métallerie",
+        "slug": "thomas-menuiserie-metallerie",
+        "telephone": "02 96 91 43 79",
+        "site_web": "https://ets-thomas.fr/",
+        "adresse": "27 ZA Kerbiquet, 22140 Cavan",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4982858619097159179",
+        "nom": "LE BIHAN - Menuiseries, Extension & Vérandas Aluminium_Métallerie",
+        "slug": "le-bihan-menuiseries-extension-verandas-aluminiummetallerie",
+        "telephone": "02 96 35 90 95",
+        "site_web": "http://www.veranda-lebihan-marc.com/",
+        "adresse": "3 ZA Kerbiquet, 22140 Cavan",
+        "note": 2.8,
+        "avis": 16,
+        "type": "Fabricant"
+      },
+      {
+        "id": "7534386159140406494",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 96 48 56 10",
+        "site_web": "https://magasins.lapeyre.fr/bretagne/cotes-darmor/lapeyre-lannion-109",
+        "adresse": "Rue Georges Cuvier, 22300 Lannion",
+        "note": 4.2,
+        "avis": 143,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2919738644243934420",
+        "nom": "Oriance",
+        "slug": "oriance",
+        "telephone": "02 98 15 25 32",
+        "site_web": "http://www.oriance-fenetres.com/",
+        "adresse": "2 Rue du Puits, 29600 Saint-Martin-des-Champs",
+        "note": 4.7,
+        "avis": 219,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5557773431896276215",
+        "nom": "Eco Trait'toit Cavan",
+        "slug": "eco-traittoit-cavan",
+        "telephone": "06 23 55 32 99",
+        "site_web": "https://www.ecotraittoit.com/",
+        "adresse": "27 ZA Kerbiquet, 22140 Cavan",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7833597360676316676",
+        "nom": "Ty Labour Coat",
+        "slug": "ty-labour-coat",
+        "telephone": "02 96 38 08 48",
+        "site_web": "http://www.marchet-guy-menuiserie.com/",
+        "adresse": "40 ZA Kerbiquet, 22140 Cavan",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "coetmieux": {
+    "artisans": [
+      {
+        "id": "4214093919519942097",
+        "nom": "Miroiterie Glaverouest 22",
+        "slug": "miroiterie-glaverouest-22",
+        "telephone": "02 96 34 41 71",
+        "site_web": "http://www.glaverouest.fr/",
+        "adresse": "3 bis Rue de l'Écluse, 22120 Yffiniac",
+        "note": 4.8,
+        "avis": 28,
+        "type": "Miroiterie"
+      },
+      {
+        "id": "4418862349608695300",
+        "nom": "Menuiserie M&T",
+        "slug": "menuiserie-mt",
+        "telephone": "02 96 34 60 64",
+        "site_web": "https://menuiseriemt.fr/",
+        "adresse": "36 bis Rue de Belleville, 22400 Coëtmieux",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11027436994154372724",
+        "nom": "Sarl Lesoeur",
+        "slug": "sarl-lesoeur",
+        "telephone": "06 64 49 22 92",
+        "site_web": "https://ventilation-sarl-lesoeur22.fr/",
+        "adresse": "10 Rue du Coin, 22400 Coëtmieux",
+        "note": 4.7,
+        "avis": 24,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "caulnes": {
+    "artisans": [
+      {
+        "id": "4373383304825125169",
+        "nom": "BMG - Barbier Menuiserie Générale",
+        "slug": "bmg-barbier-menuiserie-generale",
+        "telephone": "06 29 22 00 90",
+        "site_web": "http://bmg-menuiserie.fr/",
+        "adresse": "11 La Cornière, 22350 Caulnes",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2603759612261828537",
+        "nom": "Meheust SARL",
+        "slug": "meheust-sarl",
+        "telephone": "02 96 83 94 28",
+        "site_web": "https://www.meheust-menuiserie.fr/",
+        "adresse": "51 Rue du Bois, 22350 Caulnes",
+        "note": 4,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2446536187628568703",
+        "nom": "Choux Toiture",
+        "slug": "choux-toiture",
+        "telephone": "02 96 88 70 70",
+        "site_web": "http://www.choux-toiture.com/",
+        "adresse": "28 Rue du Bois, 22350 Caulnes",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14226331668349918472",
+        "nom": "Toiture Armor Couvreur Caulnes - Reparation Fuite Toiture - Demoussage",
+        "slug": "toiture-armor-couvreur-caulnes-reparation-fuite-toiture-demoussage",
+        "telephone": "02 57 69 03 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15234809806738099904",
+        "nom": "Entreprise Renault",
+        "slug": "entreprise-renault",
+        "telephone": "02 96 83 92 71",
+        "site_web": "https://www.entrepriserenault.fr/",
+        "adresse": "30 Rue du Bois, 22350 Caulnes",
+        "note": 3.7,
+        "avis": 19,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-champs-geraux": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "corseul": {
+    "artisans": [
+      {
+        "id": "13550818481943607906",
+        "nom": "Lb menuiserie",
+        "slug": "lb-menuiserie",
+        "telephone": "06 69 34 88 24",
+        "site_web": null,
+        "adresse": "4 La Billiais, 22130 Corseul",
+        "note": 5,
+        "avis": 7,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "le-mene": {
+    "artisans": [
+      {
+        "id": "14129505971935789148",
+        "nom": "Mené Constructions Eurl",
+        "slug": "mene-constructions-eurl",
+        "telephone": "02 96 31 41 06",
+        "site_web": null,
+        "adresse": "2, ZA La Ville Es Goupine, 22330",
+        "note": 4,
+        "avis": 10,
+        "type": "Maçon"
+      },
+      {
+        "id": "3619041256108732230",
+        "nom": "RC Couverture",
+        "slug": "rc-couverture",
+        "telephone": "06 66 41 82 51",
+        "site_web": null,
+        "adresse": "8 Vieux Saint-Blaise, 22120 Quessoy",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15887936300997559562",
+        "nom": "Les Korrigans SASU",
+        "slug": "les-korrigans-sasu",
+        "telephone": "02 96 31 36 36",
+        "site_web": "http://www.sarlleskorrigans.fr/",
+        "adresse": "PA la Ville es Goupines, 22330",
+        "note": 4,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10712718761174307465",
+        "nom": "Treussard Couverture",
+        "slug": "treussard-couverture",
+        "telephone": "02 96 34 47 37",
+        "site_web": "http://treussard-couverture.fr/",
+        "adresse": "Z.A les Tertres, 22330",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16222841766933788928",
+        "nom": "M J Menuiserie",
+        "slug": "m-j-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "15 Le Plessis, 22330 Le Mené",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "14157082801838066538",
+        "nom": "EMJ menuiserie SAS",
+        "slug": "emj-menuiserie-sas",
+        "telephone": "06 69 06 86 48",
+        "site_web": "http://emj-menuiserie.fr/",
+        "adresse": "5 Rue du Stade, 22250 Sévignac",
+        "note": 5,
+        "avis": 25,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "crehen": {
+    "artisans": [
+      {
+        "id": "2728515574717977816",
+        "nom": "Richeux Michele",
+        "slug": "richeux-michele",
+        "telephone": "06 69 72 32 14",
+        "site_web": null,
+        "adresse": "la ville es rouets, 22130 Créhen",
+        "note": 5,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "bobital": {
+    "artisans": [
+      {
+        "id": "2003407893250293131",
+        "nom": "Festival Bobital l'Armor À Sons",
+        "slug": "festival-bobital-larmor-a-sons",
+        "telephone": null,
+        "site_web": "http://www.bobital-festival.fr/",
+        "adresse": "2B Bourillet, 22100 Trélivan",
+        "note": 4.5,
+        "avis": 443,
+        "type": "Festival"
+      }
+    ]
+  },
+  "dinan": {
+    "artisans": [
+      {
+        "id": "15120592957879366838",
+        "nom": "Habitalia Menuiseries - Art & Fenêtres Dinan - Bureau d'étude - sur rendez-vous",
+        "slug": "habitalia-menuiseries-art-fenetres-dinan-bureau-detude-sur-rendez-vous",
+        "telephone": "02 96 87 96 35",
+        "site_web": "https://www.artetfenetres-habitalia-menuiseries.fr/",
+        "adresse": "ZA des Alleux Taden, 7 Rue de la Tramontane, 22100 Dinan",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "erquy": {
+    "artisans": [
+      {
+        "id": "11734595212342867317",
+        "nom": "LUCAS MENUISERIE",
+        "slug": "lucas-menuiserie",
+        "telephone": "02 96 72 33 40",
+        "site_web": "https://lucasmenuiserie.fr/",
+        "adresse": "27 Rue du 3 Août 1944, 22430 Erquy",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15847684566706134485",
+        "nom": "MENUISERIE CARDIN-BLIVET",
+        "slug": "menuiserie-cardin-blivet",
+        "telephone": "02 96 72 07 02",
+        "site_web": "http://menuiseriecardinblivet.com/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4287090829202680871",
+        "nom": "S.T.B. Talbourdet - Brouard",
+        "slug": "stb-talbourdet-brouard",
+        "telephone": "02 96 72 31 30",
+        "site_web": "http://www.stb-menuiserie.fr/?utm_source=gmb",
+        "adresse": "23 Rue des Jeannettes, 22430 Erquy",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11784287416499646398",
+        "nom": "MENUISERIE CARDIN-BLIVET ERQUY",
+        "slug": "menuiserie-cardin-blivet-erquy",
+        "telephone": null,
+        "site_web": "https://menuiseriecardinblivet.wordpress.com/",
+        "adresse": "Rue Morvan, 22400 Coëtmieux",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3421573048930708902",
+        "nom": "BRETAGNE MATERIAUX ERQUY",
+        "slug": "bretagne-materiaux-erquy",
+        "telephone": "02 96 72 41 41",
+        "site_web": "https://www.bretagne-materiaux.fr/infos-agence/erquy-bretagne-materiaux-3025",
+        "adresse": "Rue des Jeannettes ZA, 22430 Erquy",
+        "note": 4.4,
+        "avis": 24,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13619147980357000119",
+        "nom": "Menuiserie des Caps - Lamballe",
+        "slug": "menuiserie-des-caps-lamballe",
+        "telephone": "02 96 50 97 60",
+        "site_web": "http://www.menuiseriedescaps.fr/?utm_source=gmb&utm_medium=button-website&utm_campaign=GoogleMyBusiness",
+        "adresse": "2 Rue des Prés Jouettes, 22400 Lamballe-Armor",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8108194941259680709",
+        "nom": "Menuiserie des Caps - Erquy",
+        "slug": "menuiserie-des-caps-erquy",
+        "telephone": "02 96 63 68 69",
+        "site_web": "http://www.menuiseriedescaps.fr/",
+        "adresse": "Les Colombiers, 22430 Erquy",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14980528504605961704",
+        "nom": "Menuiserie Sort",
+        "slug": "menuiserie-sort",
+        "telephone": "02 96 72 33 76",
+        "site_web": "https://www.menuiserie-sort.com/",
+        "adresse": "14 Rue des Jeannettes, 22430 Erquy",
+        "note": 4.2,
+        "avis": 22,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "binic-etables-sur-mer": {
+    "artisans": [
+      {
+        "id": "17620369178273795170",
+        "nom": "Menuiseries Chapelet",
+        "slug": "menuiseries-chapelet",
+        "telephone": "02 96 73 68 53",
+        "site_web": "https://menuiserie-chapelet.com/",
+        "adresse": "Zac des, Rue des Prés Calans, 22520",
+        "note": 4.8,
+        "avis": 65,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17632038002966815713",
+        "nom": "Costa Menuiseries",
+        "slug": "costa-menuiseries",
+        "telephone": "02 96 74 54 30",
+        "site_web": "https://www.costa-menuiseries-plerin.fr/",
+        "adresse": "ZA des Longs Réages, Rue François Jégou, 22190 Plérin",
+        "note": 4.6,
+        "avis": 90,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2855576501711696319",
+        "nom": "CBH Saint-Brieuc 22",
+        "slug": "cbh-saint-brieuc-22",
+        "telephone": "02 96 61 78 93",
+        "site_web": "https://www.centrebretonhabitat.com/",
+        "adresse": "3 Rue Ambroise Paré, 22680 Binic-Étables-sur-Mer",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "le-foeil": {
+    "artisans": [
+      {
+        "id": "14475334257472566106",
+        "nom": "Defin Couverture",
+        "slug": "defin-couverture",
+        "telephone": "02 96 72 54 64",
+        "site_web": "http://www.defincouverture.fr/",
+        "adresse": "5 Rue du Bois, 22120 Yffiniac",
+        "note": 4.4,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5492427348254160128",
+        "nom": "NLR Toiture",
+        "slug": "nlr-toiture",
+        "telephone": "06 29 51 74 78",
+        "site_web": "http://www.nlrtoiture.fr/",
+        "adresse": "26 Rue du Pont des Îles, 22440 Ploufragan",
+        "note": 4,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10306443369247960495",
+        "nom": "MONFORT Maçonnerie",
+        "slug": "monfort-maconnerie",
+        "telephone": "02 96 58 14 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "2795634255009251087",
+        "nom": "LE GOFFIC Menuiserie",
+        "slug": "le-goffic-menuiserie",
+        "telephone": "02 96 48 58 02",
+        "site_web": "https://www.menuiserie-legoffic.com/",
+        "adresse": "27 Rue de la Chapelle de Saint-Méen, 22700 Saint-Quay-Perros",
+        "note": 4.8,
+        "avis": 89,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17181469708020704206",
+        "nom": "Automatismes et Menuiseries d'Armor",
+        "slug": "automatismes-et-menuiseries-darmor",
+        "telephone": "06 63 02 60 84",
+        "site_web": "http://www.automatismesetmenuiseriesdarmor.wordpress.com/",
+        "adresse": "1 Lieu Dit Barre, 22800, Le Fœil",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "goudelin": {
+    "artisans": [
+      {
+        "id": "12858597166619134298",
+        "nom": "Matthieu Serandour partenaire Velux",
+        "slug": "matthieu-serandour-partenaire-velux",
+        "telephone": "02 96 79 25 65",
+        "site_web": "http://www.matthieu-serandour.fr/",
+        "adresse": "22170 Plélo",
+        "note": 4.8,
+        "avis": 29,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "evran": {
+    "artisans": [
+      {
+        "id": "7004422115996396709",
+        "nom": "Domise Couverture à Evran",
+        "slug": "domise-couverture-a-evran",
+        "telephone": "06 73 08 17 98",
+        "site_web": "https://www.couverture-domise-clement.fr/",
+        "adresse": "67 La Fontaine, 22630 Évran",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "glomel": {
+    "artisans": [
+      {
+        "id": "5583233647340752024",
+        "nom": "IMERYS Glomel",
+        "slug": "imerys-glomel",
+        "telephone": "02 96 57 70 30",
+        "site_web": "https://www.imerys.com/fr/france/glomel",
+        "adresse": "Lieu-dit Guerphales, 22110 Glomel",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Carrière"
+      },
+      {
+        "id": "18368816429206340179",
+        "nom": "Les Constructions du Kreiz Breizh",
+        "slug": "les-constructions-du-kreiz-breizh",
+        "telephone": "02 96 24 85 09",
+        "site_web": "https://constructions-kreiz-breizh.fr/",
+        "adresse": "ZA de Goperen, 22110 Glomel",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "graces": {
+    "artisans": [
+      {
+        "id": "5257225572627316352",
+        "nom": "GAUTIER TOITURE",
+        "slug": "gautier-toiture",
+        "telephone": "02 96 44 90 67",
+        "site_web": "http://www.gautier-toiture.fr/",
+        "adresse": "14 Av. de l'Hippodrome, 22200 Saint-Agathon",
+        "note": 4.7,
+        "avis": 84,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13300357609906361326",
+        "nom": "Le Guen Toiture",
+        "slug": "le-guen-toiture",
+        "telephone": "02 96 21 10 27",
+        "site_web": "http://www.leguen-toiture.fr/",
+        "adresse": "7 Stang Marec, 22200 Grâces",
+        "note": 4.4,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17695673279514655743",
+        "nom": "BRETAGNE MATERIAUX GUINGAMP",
+        "slug": "bretagne-materiaux-guingamp",
+        "telephone": "02 96 40 15 60",
+        "site_web": "https://www.bretagne-materiaux.fr/infos-agence/guingamp-bmx-5399",
+        "adresse": "6 Le Derff, 22200 Grâces",
+        "note": 4.3,
+        "avis": 83,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "13761307393650701871",
+        "nom": "Connan Couverture",
+        "slug": "connan-couverture",
+        "telephone": "06 85 55 65 38",
+        "site_web": null,
+        "adresse": "10 Impasse des Buis, 22970 Ploumagoar",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3213750919871374762",
+        "nom": "ASP RENOV",
+        "slug": "asp-renov",
+        "telephone": "06 38 67 20 20",
+        "site_web": "https://www.asprenov22.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4913162998310770206",
+        "nom": "JT RÉNOVATION",
+        "slug": "jt-renovation",
+        "telephone": "06 10 24 09 12",
+        "site_web": "https://jt-renovation.fr/",
+        "adresse": "47 bis Rte de Bourbriac, 22200 Guingamp",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "2100046368755997079",
+        "nom": "ER Toiture Expert",
+        "slug": "er-toiture-expert",
+        "telephone": "07 61 47 10 04",
+        "site_web": "https://www.er-toiture-expert.fr/",
+        "adresse": "1 Pl. du Champ au Roy, 22200 Guingamp",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "guingamp": {
+    "artisans": [
+      {
+        "id": "2531959862598371731",
+        "nom": "Votre couvreur zingueur - Expert en toiture : Rénovation - Réparation- Entretien - Guingamp - Côtes D'Armor 22",
+        "slug": "votre-couvreur-zingueur-expert-en-toiture-renovation-reparation-entretien-guingamp-cotes-darmor-22",
+        "telephone": "02 52 56 43 97",
+        "site_web": "https://couvreur-22.fr/",
+        "adresse": "43 Rte de Bourbriac, 22200 Guingamp",
+        "note": 5,
+        "avis": 181,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2328715864788560751",
+        "nom": "Axel Fermetures Guingamp",
+        "slug": "axel-fermetures-guingamp",
+        "telephone": "02 96 40 62 62",
+        "site_web": "https://axelfermetures.com/",
+        "adresse": "12 Pl. Saint-Sauveur, 22200 Guingamp",
+        "note": 4.3,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11775932141363145797",
+        "nom": "hilzinger Fenêtres et Portes Guingamp",
+        "slug": "hilzinger-fenetres-et-portes-guingamp",
+        "telephone": "02 96 43 71 64",
+        "site_web": "https://www.hilzinger.fr/fenetres-guingamp/",
+        "adresse": "34 Imp. des Ajoncs, 22200 Saint-Agathon",
+        "note": 5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5224460972442517496",
+        "nom": "ARGOAT FERMETURES",
+        "slug": "argoat-fermetures",
+        "telephone": "02 96 38 91 36",
+        "site_web": "https://www.argoat-fermetures.fr/",
+        "adresse": "ZA de Mikez Zone B, 22540 Pédernec",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5737491981068604452",
+        "nom": "Aluminium Systèmes",
+        "slug": "aluminium-systemes",
+        "telephone": "02 96 44 34 39",
+        "site_web": "http://www.aluminium-systemes.fr/",
+        "adresse": "46 Rte de Corlay, 22200 Guingamp",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7548900510417525275",
+        "nom": "Guelat Loïc",
+        "slug": "guelat-loic",
+        "telephone": "02 96 11 90 40",
+        "site_web": "http://guelat-menuiserie-guingamp.fr/",
+        "adresse": "2 Rue des Châtaigniers, 22970 Ploumagoar",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "hillion": {
+    "artisans": [
+      {
+        "id": "2770330967099179634",
+        "nom": "Atlantem",
+        "slug": "atlantem",
+        "telephone": "09 69 36 69 10",
+        "site_web": "https://www.atlantem.fr/",
+        "adresse": "32 Rue de Brest, 22120 Hillion",
+        "note": 3.7,
+        "avis": 21,
+        "type": "Fabricant"
+      },
+      {
+        "id": "11893279572670305019",
+        "nom": "Bochet SAS",
+        "slug": "bochet-sas",
+        "telephone": "02 96 32 30 07",
+        "site_web": "http://www.fenetre-bochet.fr/",
+        "adresse": "51 Rue de Licellion, 22120 Hillion",
+        "note": 4.3,
+        "avis": 22,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "henon": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "henansal": {
+    "artisans": [
+      {
+        "id": "13989228324486898885",
+        "nom": "Armor couverture bardage",
+        "slug": "armor-couverture-bardage",
+        "telephone": "06 17 83 70 00",
+        "site_web": "https://armorcouverturebardage.fr/",
+        "adresse": "route de la Côtiére, 22400 Hénansal",
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "1075972713529911864",
+        "nom": "LOSCOS STEPHANE CHARPENTE MENUISERIE",
+        "slug": "loscos-stephane-charpente-menuiserie",
+        "telephone": "02 96 50 49 89",
+        "site_web": "https://www.facebook.com/Loscos-St%C3%A9phane-111748483537387",
+        "adresse": "Les Salles, 22400 Hénansal",
+        "note": 4,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "jugon-les-lacs": {
+    "artisans": [
+      {
+        "id": "1555658865927222351",
+        "nom": "S&K Coffrages",
+        "slug": "sk-coffrages",
+        "telephone": "06 42 75 88 18",
+        "site_web": null,
+        "adresse": "ZA du Plessis, 22640 Plénée-Jugon",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18368763331644489384",
+        "nom": "S&K Menuiseries / Maçonnerie",
+        "slug": "sk-menuiseries-maconnerie",
+        "telephone": "06 42 75 88 18",
+        "site_web": "https://www.skmenuiseries.fr/",
+        "adresse": "ZA, 22640 Plénée-Jugon",
+        "note": 4,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lancieux": {
+    "artisans": [
+      {
+        "id": "8232682328620090510",
+        "nom": "B'PLAST ST MALO",
+        "slug": "bplast-st-malo",
+        "telephone": "02 99 21 36 36",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-malo/?utm_source=gmb",
+        "adresse": "7 Rue du Grand Jardin ZI Sud, 35400 Saint-Malo",
+        "note": 4.6,
+        "avis": 116,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15507353347458864910",
+        "nom": "Couverture Moisseron François",
+        "slug": "couverture-moisseron-francois",
+        "telephone": "06 40 05 40 18",
+        "site_web": "https://www.couverture-moisseron.fr/",
+        "adresse": "les chenes ploubalay, 22650, Beaussais-sur-Mer",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13795985142659503112",
+        "nom": "Couverture moisseron",
+        "slug": "couverture-moisseron",
+        "telephone": "06 40 05 40 18",
+        "site_web": "https://www.couverture-moisseron.fr/",
+        "adresse": "Les chênes, 22650 Beaussais-sur-Mer",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "henanbihen": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lamballe-armor": {
+    "artisans": [
+      {
+        "id": "9118308288337327084",
+        "nom": "Renault Menuiserie SA",
+        "slug": "renault-menuiserie-sa",
+        "telephone": "02 96 31 38 78",
+        "site_web": "http://www.renault22.fr/",
+        "adresse": "Rue des Averies, 22400 Lamballe-Armor",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17153273484632426020",
+        "nom": "Etablissements Pellan",
+        "slug": "etablissements-pellan",
+        "telephone": "02 96 30 00 24",
+        "site_web": "http://www.facebook.com/Pellan-Menuiserie-963747953714353/",
+        "adresse": "Rue du Ventoue Maroué, 22400 Lamballe-Armor",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16685911682556363373",
+        "nom": "Expert Toiture Couvreur 22 | Couvreur Lamballe-Armor | Réparation Fuite Toiture Gouttières",
+        "slug": "expert-toiture-couvreur-22-couvreur-lamballe-armor-reparation-fuite-toiture-gouttieres",
+        "telephone": "09 72 19 67 36",
+        "site_web": "https://expertoiturecouvreur22.ovh/",
+        "adresse": "22 Rue du Val, 22400 Lamballe-Armor",
+        "note": 5,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4895512003238897484",
+        "nom": "Trell'Rénovation",
+        "slug": "trellrenovation",
+        "telephone": "06 08 07 50 83",
+        "site_web": "https://www.trellrenovation.bzh/",
+        "adresse": "610 Le Fros, 22400 Lamballe-Armor",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "landehen": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lanfains": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bon-repos-sur-blavet": {
+    "artisans": [
+      {
+        "id": "8304304887719402680",
+        "nom": "BRITTANY PVC",
+        "slug": "brittany-pvc",
+        "telephone": "02 96 66 08 27",
+        "site_web": "http://brittanypvc.com/",
+        "adresse": "18 Rue de la Gare, 22530 Guerlédan",
+        "note": 5,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "6653744958888834532",
+        "nom": "Yann Couverture",
+        "slug": "yann-couverture",
+        "telephone": "06 09 20 58 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14506199490235340611",
+        "nom": "L'Allinec Couverture",
+        "slug": "lallinec-couverture",
+        "telephone": "07 83 18 08 32",
+        "site_web": null,
+        "adresse": "5 Canach Leron, 22570 Bon Repos sur Blavet",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11540611686906469967",
+        "nom": "Art et Fenêtres - Bonnot Menuiseries",
+        "slug": "art-et-fenetres-bonnot-menuiseries",
+        "telephone": "02 96 45 21 43",
+        "site_web": "http://www.menuiseriebonnot.fr/",
+        "adresse": "ZA Coat Yen, 22140 Bégard",
+        "note": 4.8,
+        "avis": 104,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "languenan": {
+    "artisans": [
+      {
+        "id": "14922642677783521856",
+        "nom": "J.L ELECTRICITE",
+        "slug": "jl-electricite",
+        "telephone": "06 38 88 12 99",
+        "site_web": "https://www.google.com/url?q=https://jlelectricite.fr/&sa=U&sqi=2&ved=2ahUKEwi65Mv90L2QAxXONPsDHbmqAmEQFnoECCEQAQ&usg=AOvVaw39EQCybxh9ONCtGfW5Ms6e",
+        "adresse": "4 Bel Air, 22130 Languenan",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "8796587664722385792",
+        "nom": "Leclaire Frederic",
+        "slug": "leclaire-frederic",
+        "telephone": "02 96 82 77 19",
+        "site_web": "https://www.fredericleclaire.fr/",
+        "adresse": "La Couterie, 22130 Languenan",
+        "note": 4,
+        "avis": 10,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13284714082226572219",
+        "nom": "Couverture Villalon Patrick",
+        "slug": "couverture-villalon-patrick",
+        "telephone": "02 96 39 84 08",
+        "site_web": "https://www.contact-couverture-villalon.com/",
+        "adresse": "1 bis Chem. des Cordiers, 22100 Dinan",
+        "note": 3.5,
+        "avis": 39,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13891455309686179027",
+        "nom": "EMCA Menuiserie et Agencement",
+        "slug": "emca-menuiserie-et-agencement",
+        "telephone": "06 81 89 58 84",
+        "site_web": null,
+        "adresse": "7 La Potinais, 22130 Languenan",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10726556740778970203",
+        "nom": "Coudray Christian",
+        "slug": "coudray-christian",
+        "telephone": "02 96 82 78 05",
+        "site_web": null,
+        "adresse": "Beauséjour, 22130 Languenan",
+        "note": 5,
+        "avis": 3,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "3363022200753354359",
+        "nom": "CMD Concept Bois",
+        "slug": "cmd-concept-bois",
+        "telephone": "06 67 23 83 03",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16339286061601849218",
+        "nom": "Gourgan Maçonnerie",
+        "slug": "gourgan-maconnerie",
+        "telephone": "02 96 27 92 70",
+        "site_web": null,
+        "adresse": "Le Chesnay, 22130 Languenan",
+        "note": 5,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "406473052787582934",
+        "nom": "Georgelin Fabrice",
+        "slug": "georgelin-fabrice",
+        "telephone": "02 96 82 79 67",
+        "site_web": null,
+        "adresse": "3 La Ville ès Moines, 22130 Languenan",
+        "note": 5,
+        "avis": 13,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "langoat": {
+    "artisans": [
+      {
+        "id": "14039432492985016439",
+        "nom": "Reno'Habitat : Couvreur et Ravalement Façade / Enduit, Réparation fissures étanchéité, traitement toiture Saint-Brieuc",
+        "slug": "renohabitat-couvreur-et-ravalement-facade-enduit-reparation-fissures-etancheite-traitement-toiture-saint-brieuc",
+        "telephone": "06 70 78 31 07",
+        "site_web": "https://www.renohabitat.fr/",
+        "adresse": "74 Bd Charner, 22000 Saint-Brieuc",
+        "note": 4.6,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10835561092582335047",
+        "nom": "BLG Couvertures",
+        "slug": "blg-couvertures",
+        "telephone": "02 96 47 07 61",
+        "site_web": null,
+        "adresse": "30 Quatre Vents, 22450 Langoat",
+        "note": 3,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "585316637722525479",
+        "nom": "Bihannic Michel & Yann SARL",
+        "slug": "bihannic-michel-yann-sarl",
+        "telephone": "02 96 23 77 96",
+        "site_web": "http://www.couverture-bihannic-michel.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14330287263220051967",
+        "nom": "Poupon Ludovic",
+        "slug": "poupon-ludovic",
+        "telephone": "02 96 46 66 05",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lanrodec": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lannion": {
+    "artisans": [
+      {
+        "id": "4071074379764344773",
+        "nom": "Raub Lannion",
+        "slug": "raub-lannion",
+        "telephone": "02 96 48 88 08",
+        "site_web": "https://raub-lannion.fr/",
+        "adresse": "15 Rte de Trébeurden, 22300 Lannion",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4580340500467430148",
+        "nom": "Menuisier Armory 2PL Lannion",
+        "slug": "menuisier-armory-2pl-lannion",
+        "telephone": "02 96 14 00 37",
+        "site_web": "https://armory.bzh/?mtm_campaign=clic_site_web_fiche_GBP&mtm_source=google_business_profile&mtm_medium=organic",
+        "adresse": "Za De Troquery, 1 Rue Maryse Bastié, 22300 Lannion",
+        "note": 4.5,
+        "avis": 123,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3799542629672830150",
+        "nom": "BZH QUALITE Traitement de charpente, Traitement mérule, Traitement mur humide, Isolation intérieure, extérieur, Placo Lannion",
+        "slug": "bzh-qualite-traitement-de-charpente-traitement-merule-traitement-mur-humide-isolation-interieure-exterieur-placo-lannion",
+        "telephone": "02 96 48 85 80",
+        "site_web": "https://bzh-qualite-lannion.fr/",
+        "adresse": "ZA de Buhulien, 22300 Lannion",
+        "note": 4.9,
+        "avis": 122,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "5701491710628265729",
+        "nom": "TRYBA Lannion",
+        "slug": "tryba-lannion",
+        "telephone": "02 21 83 13 61",
+        "site_web": "https://www.tryba.com/espace-conseil/22/tryba-lannion/?utm_campaign=Tryba_Lannion&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "140 Rte de Trégastel, 22300 Lannion",
+        "note": 4.9,
+        "avis": 83,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13251827951279502022",
+        "nom": "Salland Larry – Couvreur Toiture & Rénovation Côtes-d’Armor 22",
+        "slug": "salland-larry-couvreur-toiture-renovation-cotes-darmor-22",
+        "telephone": "06 48 81 57 05",
+        "site_web": "https://www.salland-larry.fr/",
+        "adresse": "7 Rue Édouard Branly, 22300 Lannion",
+        "note": 4.8,
+        "avis": 38,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "langueux": {
+    "artisans": [
+      {
+        "id": "2049752416945228497",
+        "nom": "Société RADENAC",
+        "slug": "societe-radenac",
+        "telephone": "02 96 33 10 79",
+        "site_web": "http://radenac.pro/",
+        "adresse": "25 Rue de Bretagne, 22360 Langueux",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "lantic": {
+    "artisans": [
+      {
+        "id": "11050222359933022955",
+        "nom": "NV COUVERTURE",
+        "slug": "nv-couverture",
+        "telephone": "06 98 63 02 95",
+        "site_web": "http://facebook.com/armorcouverture",
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16114520881613413861",
+        "nom": "Lebecque Joan",
+        "slug": "lebecque-joan",
+        "telephone": "02 96 71 46 38",
+        "site_web": null,
+        "adresse": "Le Devant de la Lande, 22410 Lantic",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10582352768293829457",
+        "nom": "ALM couverture",
+        "slug": "alm-couverture",
+        "telephone": "07 87 39 35 39",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11503356687718414131",
+        "nom": "KL Couverture Saint-Brieuc : Artisan Couvreur Zinguerie Charpente étanchéité nettoyage toiture - St Brieuc Côtes d'Armor (22)",
+        "slug": "kl-couverture-saint-brieuc-artisan-couvreur-zinguerie-charpente-etancheite-nettoyage-toiture-st-brieuc-cotes-darmor-22",
+        "telephone": "06 04 07 32 58",
+        "site_web": "https://www.klcouverture.com/",
+        "adresse": "79 c, Rue Voltaire, 22190 Plérin",
+        "note": 4.9,
+        "avis": 42,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14377860635956762514",
+        "nom": "Le Faucheur Olivier",
+        "slug": "le-faucheur-olivier",
+        "telephone": "02 96 71 98 08",
+        "site_web": null,
+        "adresse": "8 La Croix Cotard, 22410 Lantic",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "4034268955435097307",
+        "nom": "Thierry Chauvel Couverture",
+        "slug": "thierry-chauvel-couverture",
+        "telephone": "02 96 71 93 82",
+        "site_web": "http://couverture.chauvel.pagesperso-orange.fr/",
+        "adresse": null,
+        "note": 4,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1754515107959310438",
+        "nom": "Am couvreur",
+        "slug": "am-couvreur",
+        "telephone": "06 50 73 74 50",
+        "site_web": "https://couvreur22.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 122,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lanvollon": {
+    "artisans": [
+      {
+        "id": "271002325208324976",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "02 96 70 13 42",
+        "site_web": "https://www.gustaverideau.com/agences/lanvollon-alu-confort/?utm_campaign=lanvollon&utm_medium=GMB&utm_source=google",
+        "adresse": "Kercadiou ZA de, 22290 Lanvollon",
+        "note": 4.9,
+        "avis": 132,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17640391539330092554",
+        "nom": "Idéal Baies",
+        "slug": "ideal-baies",
+        "telephone": "02 96 65 33 11",
+        "site_web": "https://idealbaies.fr/",
+        "adresse": "ZA De 2, Kercadiou, 22290 Lanvollon",
+        "note": 4.4,
+        "avis": 85,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15822326071217052629",
+        "nom": "Menuiseries Nicolas",
+        "slug": "menuiseries-nicolas",
+        "telephone": "02 96 65 30 40",
+        "site_web": "http://www.menuiseriesnicolas.fr/",
+        "adresse": "Rue Saint-Hubert, 22290 Lanvollon",
+        "note": 3.8,
+        "avis": 39,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4613451496505482699",
+        "nom": "Les Toits de Benjamin",
+        "slug": "les-toits-de-benjamin",
+        "telephone": "06 35 13 07 66",
+        "site_web": "https://www.lestoitsdebenjamin.com/",
+        "adresse": "8 Rue du Petit Bois, 22290 Lanvollon",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3689610561755415935",
+        "nom": "L'ATOUT BOIS",
+        "slug": "latout-bois",
+        "telephone": "06 50 56 74 33",
+        "site_web": "https://www.facebook.com/p/LATOUT-BOIS-100057556414955/",
+        "adresse": "16 Rue du Petit Bois, 22290 Lanvollon",
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5099064507342082805",
+        "nom": "Riou Glass VICA",
+        "slug": "riou-glass-vica",
+        "telephone": "02 96 70 26 75",
+        "site_web": "https://www.riouglass.com/entreprises/riou-glass-vica?utm_source=gmb",
+        "adresse": "Rue du Leff, 22290 Lanvollon",
+        "note": 4.6,
+        "avis": 7,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "louannec": {
+    "artisans": [
+      {
+        "id": "2874476416184941314",
+        "nom": "MENUISERIE LUQUET",
+        "slug": "menuiserie-luquet",
+        "telephone": "07 88 02 89 49",
+        "site_web": "https://www.facebook.com/Leboisdabby/",
+        "adresse": "Convenant Droniou, 22300 Ploubezre",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7936434109273994225",
+        "nom": "EMC 22",
+        "slug": "emc-22",
+        "telephone": "02 96 91 03 03",
+        "site_web": "http://www.emc-22.fr/",
+        "adresse": "47 Rte de Tréguier, 22700 Louannec",
+        "note": 4.6,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8308336034686058970",
+        "nom": "MENUISERIE LUQUET",
+        "slug": "menuiserie-luquet",
+        "telephone": "07 88 02 89 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16347961461790017409",
+        "nom": "Cote Bois",
+        "slug": "cote-bois",
+        "telephone": "06 81 59 90 34",
+        "site_web": "https://www.cotebois22.fr/",
+        "adresse": "6 rue Denis Papin, Zone Artisanale de Mabilies, 22700 Louannec",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16324178873876397914",
+        "nom": "L'atelier du Toit : Couvreur Perros Guirec - Démoussage Toit - Zingueur - Réparation Toiture - Peinture Façade",
+        "slug": "latelier-du-toit-couvreur-perros-guirec-demoussage-toit-zingueur-reparation-toiture-peinture-facade",
+        "telephone": "02 57 63 07 67",
+        "site_web": "http://couvreur-perros-guirec-toitures.ovh/",
+        "adresse": "19 Pl. de l'Hôtel de ville, 22700 Perros-Guirec",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "louargat": {
+    "artisans": [
+      {
+        "id": "17673603931072020933",
+        "nom": "sarl lsr",
+        "slug": "sarl-lsr",
+        "telephone": "06 31 47 31 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lanvallay": {
+    "artisans": [
+      {
+        "id": "2548101993803249879",
+        "nom": "SLB Menuiserie ( SARL LOMINÉ Bernard )",
+        "slug": "slb-menuiserie-sarl-lomine-bernard",
+        "telephone": "02 96 83 03 67",
+        "site_web": "http://www.slb-menuiserie.com/",
+        "adresse": "ZA des Alleux, 2 Rue du Vent d'Autan, 22100 Taden",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Siège social"
+      },
+      {
+        "id": "3735486155933969725",
+        "nom": "CBH Dinan 22",
+        "slug": "cbh-dinan-22",
+        "telephone": "02 96 83 15 00",
+        "site_web": "https://www.centrebretonhabitat.com/",
+        "adresse": "4 rue des Avoiries, ZA, 22100 Saint-Samson-sur-Rance",
+        "note": 4.9,
+        "avis": 85,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "belle-isle-en-terre": {
+    "artisans": [
+      {
+        "id": "7116444960145602010",
+        "nom": "Belles Baies",
+        "slug": "belles-baies",
+        "telephone": "02 96 52 03 03",
+        "site_web": "http://www.belles-baies.fr/?utm_source=gmb",
+        "adresse": "14 Rue Ampère, 22000 Saint-Brieuc",
+        "note": 4.4,
+        "avis": 164,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "lezardrieux": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "andel": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pedernec": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "minihy-treguier": {
+    "artisans": [
+      {
+        "id": "10791477116827523867",
+        "nom": "Tanguy Matériaux",
+        "slug": "tanguy-materiaux",
+        "telephone": "02 96 92 20 56",
+        "site_web": "https://www.tanguy.fr/magasin-materiaux/tanguy-materiaux-minihy-treguier",
+        "adresse": "ZA de, Kerfolic, 22220 Minihy-Tréguier",
+        "note": 4.2,
+        "avis": 61,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "17062243554056773926",
+        "nom": "La Trécoroise Menuiserie",
+        "slug": "la-trecoroise-menuiserie",
+        "telephone": "02 96 92 14 04",
+        "site_web": "http://www.latrecoroisemenuiserie.net/",
+        "adresse": "Kerfolic, 22220 Minihy-Tréguier",
+        "note": 4.2,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5017125955665541624",
+        "nom": "Centrakor Minihy-Tréguier",
+        "slug": "centrakor-minihy-treguier",
+        "telephone": "02 96 44 05 38",
+        "site_web": "https://www.centrakor.com/magasin-centrakor/mpf17/centrakor-minihy-treguier-22220.html?utm_source=gmb",
+        "adresse": "4 Zone Artisanale de, Kerfolic, 22220 Minihy-Tréguier",
+        "note": 4.3,
+        "avis": 465,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "4322677469031580558",
+        "nom": "BRETAGNE MATERIAUX TREGUIER",
+        "slug": "bretagne-materiaux-treguier",
+        "telephone": "02 96 92 29 71",
+        "site_web": "https://www.bretagne-materiaux.fr/infos-agence/treguier-bmx-4507",
+        "adresse": "Rue Kerfolic, 22220 Minihy-Tréguier",
+        "note": 4.4,
+        "avis": 19,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "mael-carhaix": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4833001033427136908",
+        "nom": "Logiprotec",
+        "slug": "logiprotec",
+        "telephone": "02 98 93 35 63",
+        "site_web": "https://www.logiprotec.fr/",
+        "adresse": "Rue Duguay-Trouin, Rue de Pont Herbot Zone de, 29270 Carhaix-Plouguer",
+        "note": 4.1,
+        "avis": 27,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4064320337738164242",
+        "nom": "Couvreur Quimper Cairhaix-Plouguer Carl Claudi Nettoyage Toiture Traitement de charpente Velux",
+        "slug": "couvreur-quimper-cairhaix-plouguer-carl-claudi-nettoyage-toiture-traitement-de-charpente-velux",
+        "telephone": "06 04 15 12 58",
+        "site_web": "https://carlclaudi-29.fr/",
+        "adresse": null,
+        "note": 3.9,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5465372181212940125",
+        "nom": "MAEL BOIS",
+        "slug": "mael-bois",
+        "telephone": "06 32 75 72 28",
+        "site_web": null,
+        "adresse": "ZA, Rue de Paule, 22340 Maël-Carhaix",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2276110517201941348",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/finistere/installateur-expert-en-pose-velux-a-brest",
+        "adresse": "6 Rue de Porstrein, 29200 Brest",
+        "note": 4.8,
+        "avis": 79,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8638523623691564821",
+        "nom": "Histoire de Ciel - Installateur Conseil Velux Bretagne",
+        "slug": "histoire-de-ciel-installateur-conseil-velux-bretagne",
+        "telephone": "07 82 30 45 55",
+        "site_web": "https://www.histoiredeciel.fr/",
+        "adresse": "19 Rue Léon Durocher, 56300 Pontivy",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6456349730272281838",
+        "nom": "BZH Dépannage - Réparation - Volet Roulant - Fenêtre - Velux - Quimperlé - Lorient",
+        "slug": "bzh-depannage-reparation-volet-roulant-fenetre-velux-quimperle-lorient",
+        "telephone": "07 69 16 00 85",
+        "site_web": "https://bzh-depannage.com/",
+        "adresse": "20 Rue de Lorient, 29300 Quimperlé",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "17524262050938501250",
+        "nom": "EURL M.R.S",
+        "slug": "eurl-mrs",
+        "telephone": "06 19 09 84 86",
+        "site_web": "http://eurlmrs.fr/",
+        "adresse": "KERGORVO, 29270 Carhaix-Plouguer",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6091971001703058802",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/morbihan/installateur-expert-en-pose-velux-a-vannes",
+        "adresse": "81 Av. de la Marne, 56000 Vannes",
+        "note": 4.6,
+        "avis": 56,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-meaugon": {
+    "artisans": [
+      {
+        "id": "3434036095255708981",
+        "nom": "Ftm reno 22",
+        "slug": "ftm-reno-22",
+        "telephone": "06 52 26 65 76",
+        "site_web": "https://www.ftm-reno22.com/",
+        "adresse": "Rue Henri Avril, 22000 Saint-Brieuc",
+        "note": 4.9,
+        "avis": 24,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17132308273873343941",
+        "nom": "MJ menuiserie",
+        "slug": "mj-menuiserie",
+        "telephone": "02 23 22 00 87",
+        "site_web": "http://www.allo-jm-vitrerie-saint-malo.fr/",
+        "adresse": "Launay Thual, 35720 Pleugueneuc",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "814996751035627382",
+        "nom": "Couverture-Zinguerie-Etancheite RBR",
+        "slug": "couverture-zinguerie-etancheite-rbr",
+        "telephone": "06 23 32 44 37",
+        "site_web": "https://rbr.mystrikingly.com/",
+        "adresse": "12 La ville Garnier, 22120 Quessoy",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14157082801838066538",
+        "nom": "EMJ menuiserie SAS",
+        "slug": "emj-menuiserie-sas",
+        "telephone": "06 69 06 86 48",
+        "site_web": "http://emj-menuiserie.fr/",
+        "adresse": "5 Rue du Stade, 22250 Sévignac",
+        "note": 5,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3619041256108732230",
+        "nom": "RC Couverture",
+        "slug": "rc-couverture",
+        "telephone": "06 66 41 82 51",
+        "site_web": null,
+        "adresse": "8 Vieux Saint-Blaise, 22120 Quessoy",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6772688927774209576",
+        "nom": "jouyaux Maze",
+        "slug": "jouyaux-maze",
+        "telephone": "02 96 61 49 95",
+        "site_web": null,
+        "adresse": "4 Rue de Stalingrad, 22000 Saint-Brieuc",
+        "note": 3,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2795634255009251087",
+        "nom": "LE GOFFIC Menuiserie",
+        "slug": "le-goffic-menuiserie",
+        "telephone": "02 96 48 58 02",
+        "site_web": "https://www.menuiserie-legoffic.com/",
+        "adresse": "27 Rue de la Chapelle de Saint-Méen, 22700 Saint-Quay-Perros",
+        "note": 4.8,
+        "avis": 89,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "321187772620406034",
+        "nom": "Quelqu'un sur le Toit",
+        "slug": "quelquun-sur-le-toit",
+        "telephone": "06 36 45 12 57",
+        "site_web": "https://www.fenetresurletoit.com/",
+        "adresse": "14 Rue du Noyer, 35000 Rennes",
+        "note": 4.7,
+        "avis": 62,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plestan": {
+    "artisans": [
+      {
+        "id": "8134283581334217347",
+        "nom": "Ouest Menuiseries Concept",
+        "slug": "ouest-menuiseries-concept",
+        "telephone": "02 96 50 93 65",
+        "site_web": null,
+        "adresse": "ZA les Landes de Penthièvre, Imp. du Bois Ramel, 22640 Plestan",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11340424895761384280",
+        "nom": "Berren (Sarl)",
+        "slug": "berren-sarl",
+        "telephone": "06 08 64 11 95",
+        "site_web": null,
+        "adresse": "Landes de Penthièvre, 22640 Plestan",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "penvenan": {
+    "artisans": [
+      {
+        "id": "12730743026006867671",
+        "nom": "Couvreur Penvénan Services Toitures",
+        "slug": "couvreur-penvenan-services-toitures",
+        "telephone": "02 57 63 07 96",
+        "site_web": "http://couvreur-penvenan-services-toitures.ovh/",
+        "adresse": "5 Rue Hent Dall ar Ruselan, 22710 Penvénan",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "585316637722525479",
+        "nom": "Bihannic Michel & Yann SARL",
+        "slug": "bihannic-michel-yann-sarl",
+        "telephone": "02 96 23 77 96",
+        "site_web": "http://www.couverture-bihannic-michel.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "matignon": {
+    "artisans": [
+      {
+        "id": "7385878679828109351",
+        "nom": "Alnot Menuiserie",
+        "slug": "alnot-menuiserie",
+        "telephone": "02 96 41 14 63",
+        "site_web": "http://www.alnot-menuiserie.com/?utm_source=gmb",
+        "adresse": "25 Rue du Chemin Vert, 22550 Matignon",
+        "note": 4.6,
+        "avis": 65,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "109102810682885755",
+        "nom": "Alnot Véranda",
+        "slug": "alnot-veranda",
+        "telephone": "02 96 41 14 63",
+        "site_web": "https://www.alnot-veranda.fr/",
+        "adresse": "25 Rue du Chemin Vert, 22550 Matignon",
+        "note": 5,
+        "avis": 6,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "merdrignac": {
+    "artisans": [
+      {
+        "id": "8736919621050708948",
+        "nom": "Metallerie Megret- Automatisme de portails BFT",
+        "slug": "metallerie-megret-automatisme-de-portails-bft",
+        "telephone": "02 96 28 45 27",
+        "site_web": "http://www.megret-ouvertures.fr/",
+        "adresse": "52 rue de la pommeraie, 22230 Merdrignac",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9940878829962039396",
+        "nom": "Les Toits De Bretagne",
+        "slug": "les-toits-de-bretagne",
+        "telephone": "02 96 80 09 48",
+        "site_web": "http://www.lestoitsdebretagne-merdrignac.fr/",
+        "adresse": "6 Rue des Tilleuls, 22230 Merdrignac",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plestin-les-greves": {
+    "artisans": [
+      {
+        "id": "2526735424800702189",
+        "nom": "Ty Coat Construction",
+        "slug": "ty-coat-construction",
+        "telephone": "02 96 35 01 28",
+        "site_web": "http://www.tycoat.com/",
+        "adresse": "Z.A du, 22310 Plestin-les-Grèves",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "plouguernevel": {
+    "artisans": [
+      {
+        "id": "6097736887481661679",
+        "nom": "Disserbo et Fils",
+        "slug": "disserbo-et-fils",
+        "telephone": "02 96 36 07 60",
+        "site_web": "https://www.disserboetfils.com/",
+        "adresse": "6 Lotissement Commercial, 22110 Plouguernével",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "3169747454205628895",
+        "nom": "Glou Michel",
+        "slug": "glou-michel",
+        "telephone": "02 96 29 05 08",
+        "site_web": null,
+        "adresse": "27 Rue Marcel Sanguy, 22110 Rostrenen",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12858597166619134298",
+        "nom": "Matthieu Serandour partenaire Velux",
+        "slug": "matthieu-serandour-partenaire-velux",
+        "telephone": "02 96 79 25 65",
+        "site_web": "http://www.matthieu-serandour.fr/",
+        "adresse": "22170 Plélo",
+        "note": 4.8,
+        "avis": 29,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "perros-guirec": {
+    "artisans": [
+      {
+        "id": "5769447846740334519",
+        "nom": "ENTREPRISE DE MENUISERIE SALIOU",
+        "slug": "entreprise-de-menuiserie-saliou",
+        "telephone": "02 96 49 05 40",
+        "site_web": "http://www.menuiseriesaliou.fr/",
+        "adresse": "zone artisanale Balaneyer, 22700 Saint-Quay-Perros",
+        "note": 4.6,
+        "avis": 35,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7534386159140406494",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 96 48 56 10",
+        "site_web": "https://magasins.lapeyre.fr/bretagne/cotes-darmor/lapeyre-lannion-109",
+        "adresse": "Rue Georges Cuvier, 22300 Lannion",
+        "note": 4.2,
+        "avis": 143,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "1609122466662830488",
+        "nom": "Groleau",
+        "slug": "groleau",
+        "telephone": "02 96 49 02 02",
+        "site_web": "https://www.groleau.fr/",
+        "adresse": "38 Rue du Colombier, 22700 Perros-Guirec",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12219674936111735323",
+        "nom": "Menuiserie Janvier - Le Pape",
+        "slug": "menuiserie-janvier-le-pape",
+        "telephone": "02 96 15 92 81",
+        "site_web": "https://www.menuiserie-lepape.fr/",
+        "adresse": "ZA du dolmen, Route de Kerguntil, 22730 Trégastel",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16324178873876397914",
+        "nom": "L'atelier du Toit : Couvreur Perros Guirec - Démoussage Toit - Zingueur - Réparation Toiture - Peinture Façade",
+        "slug": "latelier-du-toit-couvreur-perros-guirec-demoussage-toit-zingueur-reparation-toiture-peinture-facade",
+        "telephone": "02 57 63 07 67",
+        "site_web": "http://couvreur-perros-guirec-toitures.ovh/",
+        "adresse": "19 Pl. de l'Hôtel de ville, 22700 Perros-Guirec",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4580340500467430148",
+        "nom": "Menuisier Armory 2PL Lannion",
+        "slug": "menuisier-armory-2pl-lannion",
+        "telephone": "02 96 14 00 37",
+        "site_web": "https://armory.bzh/?mtm_campaign=clic_site_web_fiche_GBP&mtm_source=google_business_profile&mtm_medium=organic",
+        "adresse": "Za De Troquery, 1 Rue Maryse Bastié, 22300 Lannion",
+        "note": 4.5,
+        "avis": 123,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pleubian": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plaine-haute": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plaintel": {
+    "artisans": [
+      {
+        "id": "13043819343950205529",
+        "nom": "Le Bret Menuiserie",
+        "slug": "le-bret-menuiserie",
+        "telephone": "02 96 32 16 37",
+        "site_web": "http://www.menuiserie-lebret.fr/",
+        "adresse": "16 Les Marettes, 22940 Plaintel",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7393533770457856916",
+        "nom": "Styl'Baies",
+        "slug": "stylbaies",
+        "telephone": "02 96 32 55 55",
+        "site_web": "http://www.styl-baies.com/",
+        "adresse": "Z.I. du, 2 ROUTE DE LA HAUTIERE, 22940 Plaintel",
+        "note": 4.1,
+        "avis": 42,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7336642653184620319",
+        "nom": "Menuiserie Rouault",
+        "slug": "menuiserie-rouault",
+        "telephone": "02 96 32 17 69",
+        "site_web": "http://www.menuiserierouault.fr/",
+        "adresse": "Le Grand Coudray, 22940 Plaintel",
+        "note": 4.8,
+        "avis": 79,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16276672638512091604",
+        "nom": "STYL'BAIES Distributeur Calibaie",
+        "slug": "stylbaies-distributeur-calibaie",
+        "telephone": "02 96 32 55 55",
+        "site_web": "http://www.calibaie.com/",
+        "adresse": null,
+        "note": 3.3,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12975441640036607579",
+        "nom": "Hinault Clotûres",
+        "slug": "hinault-clotures",
+        "telephone": "06 65 27 49 41",
+        "site_web": "https://www.hinault-clotures.fr/",
+        "adresse": "Zone artisanale, Les Prés Guyomard, 22940 Plaintel",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "pleudihen-sur-rance": {
+    "artisans": [
+      {
+        "id": "6636834044966473290",
+        "nom": "Transport Menage",
+        "slug": "transport-menage",
+        "telephone": "02 99 16 08 88",
+        "site_web": "https://www.groupe-georgelin.com/transports-menage-agence-pleudihen-sur-rance-lille-c18.html",
+        "adresse": "La Costardais, 22690 Pleudihen-sur-Rance",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Service de transport"
+      },
+      {
+        "id": "9200873664702149146",
+        "nom": "Guindé",
+        "slug": "guinde",
+        "telephone": "02 96 83 31 97",
+        "site_web": "http://www.guinde.com/",
+        "adresse": "ZA de la Motte, ZA, 22690 Pleudihen-sur-Rance",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6761887788968398002",
+        "nom": "C-LOG Site de Pleudihen-sur-Rance",
+        "slug": "c-log-site-de-pleudihen-sur-rance",
+        "telephone": "02 99 58 09 99",
+        "site_web": "http://www.c-log.fr/",
+        "adresse": "ZI La Costardais Lieu dit, La Costardais, 22690 Pleudihen-sur-Rance",
+        "note": 4,
+        "avis": 81,
+        "type": "Service logistique"
+      },
+      {
+        "id": "1356279398196548603",
+        "nom": "Epalia",
+        "slug": "epalia",
+        "telephone": "02 96 83 36 25",
+        "site_web": "http://www.epalia.fr/",
+        "adresse": "Zoning Industriel de la Costardais, 22690 Pleudihen-sur-Rance",
+        "note": 4,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "11273464850894818781",
+        "nom": "Constructions de la Côte d'Emeraude",
+        "slug": "constructions-de-la-cote-demeraude",
+        "telephone": "02 23 15 21 52",
+        "site_web": "http://www.cce-constructions.com/?utm_source=gmb",
+        "adresse": "za, La Costardais, 22690 Pleudihen-sur-Rance",
+        "note": 3.7,
+        "avis": 20,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "1288718880736210876",
+        "nom": "Maison Bertel-Ferrand (Boutique)",
+        "slug": "maison-bertel-ferrand-boutique",
+        "telephone": "02 96 83 35 45",
+        "site_web": "http://www.maisonbertelferrand.fr/",
+        "adresse": "ZA, 22690 Pleudihen-sur-Rance",
+        "note": 4.2,
+        "avis": 369,
+        "type": "Crêperie"
+      },
+      {
+        "id": "16759249420832731022",
+        "nom": "Groupe Fabrice Georgelin",
+        "slug": "groupe-fabrice-georgelin",
+        "telephone": "02 99 16 08 88",
+        "site_web": "http://www.groupe-georgelin.com/",
+        "adresse": "ZA La Costardais, 22690 Pleudihen-sur-Rance",
+        "note": 3.7,
+        "avis": 58,
+        "type": "Société de transport routier"
+      },
+      {
+        "id": "4769506173314300093",
+        "nom": "Vannier Jean-Luc",
+        "slug": "vannier-jean-luc",
+        "telephone": "02 96 83 23 21",
+        "site_web": null,
+        "adresse": "Le Breil, 22690 Pleudihen-sur-Rance",
+        "note": 3,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "9395887789510719636",
+        "nom": "SLG Finitions",
+        "slug": "slg-finitions",
+        "telephone": "06 03 61 52 38",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "5812183330300963971",
+        "nom": "Lahaye International",
+        "slug": "lahaye-international",
+        "telephone": "02 99 58 09 58",
+        "site_web": "https://www.lahaye-global-logistics.com/",
+        "adresse": "ZAC DE, La Costardais, 22690 Pleudihen-sur-Rance",
+        "note": 4.5,
+        "avis": 42,
+        "type": "Société de transport routier"
+      }
+    ]
+  },
+  "pleumeur-bodou": {
+    "artisans": [
+      {
+        "id": "13251827951279502022",
+        "nom": "Salland Larry – Couvreur Toiture & Rénovation Côtes-d’Armor 22",
+        "slug": "salland-larry-couvreur-toiture-renovation-cotes-darmor-22",
+        "telephone": "06 48 81 57 05",
+        "site_web": "https://www.salland-larry.fr/",
+        "adresse": "7 Rue Édouard Branly, 22300 Lannion",
+        "note": 4.8,
+        "avis": 38,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plancoet": {
+    "artisans": [
+      {
+        "id": "14707466062140887557",
+        "nom": "LE BALC'H FV2P (menuiserie, fermeture)",
+        "slug": "le-balch-fv2p-menuiserie-fermeture",
+        "telephone": "02 96 84 24 66",
+        "site_web": "http://www.lebalch-fv2p.fr/",
+        "adresse": "ZA La Millière Pluduno, 22130 Plancoët",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8156817145403527562",
+        "nom": "EG Couverture",
+        "slug": "eg-couverture",
+        "telephone": "06 83 50 13 99",
+        "site_web": "https://www.eg-couverture.bzh/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "La ville Échet, 22550 Saint-Pôtan",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11517063728036605559",
+        "nom": "Tavet Tanguy",
+        "slug": "tavet-tanguy",
+        "telephone": "02 96 80 45 37",
+        "site_web": "http://www.accroch-toit.fr/",
+        "adresse": "8 Rue de la Folie, 22130 Plancoët",
+        "note": 0,
+        "avis": 0,
+        "type": "Société de construction de piscine"
+      },
+      {
+        "id": "7722579655153828734",
+        "nom": "Accroch Toit",
+        "slug": "accroch-toit",
+        "telephone": "06 15 16 58 21",
+        "site_web": "http://www.accroch-toit.fr/?utm_source=gmb",
+        "adresse": "3 zone artisanale Bois Rolland, 22130 Plancoët",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3620411965065619862",
+        "nom": "Menuiserie Bouan",
+        "slug": "menuiserie-bouan",
+        "telephone": "02 96 84 21 93",
+        "site_web": "http://menuiserie-bouan.fr/?utm_source=gmb",
+        "adresse": "37 Rue de Dinan, 22130 Plancoët",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16297948204434193363",
+        "nom": "Solutions couverture",
+        "slug": "solutions-couverture",
+        "telephone": "06 43 77 89 20",
+        "site_web": null,
+        "adresse": "1 La Garenne, 22130 Plancoët",
+        "note": 5,
+        "avis": 57,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3029092947691418726",
+        "nom": "Tavet Bruno",
+        "slug": "tavet-bruno",
+        "telephone": "06 07 04 83 25",
+        "site_web": "https://couverturebrunotavet.fr/",
+        "adresse": "ZA Hte Lande, 22380 Saint-Cast-le-Guildo",
+        "note": 3.3,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ploeuc-l-hermitage": {
+    "artisans": [
+      {
+        "id": "7076495080042161612",
+        "nom": "Passion Toit - Couverture, Charpente et Isolation par l'Extérieur",
+        "slug": "passion-toit-couverture-charpente-et-isolation-par-lexterieur",
+        "telephone": "07 82 99 90 07",
+        "site_web": "https://www.passiontoit.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14412931880162912270",
+        "nom": "Vitel Menuiseries",
+        "slug": "vitel-menuiseries",
+        "telephone": "02 96 78 37 36",
+        "site_web": "http://www.vitel.fr/",
+        "adresse": "1 Rue Robert Schuman, 22190 Plérin",
+        "note": 4.8,
+        "avis": 228,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11788268320197450077",
+        "nom": "C.M.E Regnault",
+        "slug": "cme-regnault",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16 Rue de l'Église, 22150 Plœuc-L'Hermitage",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3330808080635172874",
+        "nom": "Qualifenêtre",
+        "slug": "qualifenetre",
+        "telephone": "02 96 42 87 46",
+        "site_web": null,
+        "adresse": "Le Plessix, 22150 Plœuc-L'Hermitage",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pleumeur-gautier": {
+    "artisans": [
+      {
+        "id": "2795634255009251087",
+        "nom": "LE GOFFIC Menuiserie",
+        "slug": "le-goffic-menuiserie",
+        "telephone": "02 96 48 58 02",
+        "site_web": "https://www.menuiserie-legoffic.com/",
+        "adresse": "27 Rue de la Chapelle de Saint-Méen, 22700 Saint-Quay-Perros",
+        "note": 4.8,
+        "avis": 89,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "pledeliac": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chatelaudren-plouagat": {
+    "artisans": [
+      {
+        "id": "3765089157361222140",
+        "nom": "BREIZH ECONET couverture 22.",
+        "slug": "breizh-econet-couverture-22",
+        "telephone": "06 09 82 80 15",
+        "site_web": "https://www.breizh-econet.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 30,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plouaret": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pledran": {
+    "artisans": [
+      {
+        "id": "18157710347168768502",
+        "nom": "Kiclos Armor",
+        "slug": "kiclos-armor",
+        "telephone": "02 96 52 50 62",
+        "site_web": "https://agence.kiclos.fr/2-kiclos-armor?utm_source=gmb",
+        "adresse": "Rond Point de Brézillet, 6 Av. Pierre Mendès France, 22950 Trégueux",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12835908805631485235",
+        "nom": "Avenir Rénovations 22 Saint Brieuc",
+        "slug": "avenir-renovations-22-saint-brieuc",
+        "telephone": "02 49 88 36 17",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-22-saint-brieuc/",
+        "adresse": "3 Rue de la Cassoire, 22170 Plerneuf",
+        "note": 5,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "17705508037900843895",
+        "nom": "Poulain Couverture EURL",
+        "slug": "poulain-couverture-eurl",
+        "telephone": "02 96 64 32 32",
+        "site_web": "https://www.poulain-couverture.com/",
+        "adresse": "2 Rue des Compagnons, 22960 Plédran",
+        "note": 3.9,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4754792565038520024",
+        "nom": "BT Menuiserie Agencement",
+        "slug": "bt-menuiserie-agencement",
+        "telephone": "06 74 74 94 23",
+        "site_web": "https://btmenuiserieagencement22.com/",
+        "adresse": "11 Rue Henri Matisse, 22960 Plédran",
+        "note": 5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7116444960145602010",
+        "nom": "Belles Baies",
+        "slug": "belles-baies",
+        "telephone": "02 96 52 03 03",
+        "site_web": "http://www.belles-baies.fr/?utm_source=gmb",
+        "adresse": "14 Rue Ampère, 22000 Saint-Brieuc",
+        "note": 4.4,
+        "avis": 164,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6024394390264501058",
+        "nom": "Oriance",
+        "slug": "oriance",
+        "telephone": "02 96 60 75 98",
+        "site_web": "https://www.oriance-fenetres.com/",
+        "adresse": "9 Rue Jean Marie Baudet, 22360 Langueux",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ploezal": {
+    "artisans": [
+      {
+        "id": "1270177491244330467",
+        "nom": "Les gouttières du Trieux",
+        "slug": "les-gouttieres-du-trieux",
+        "telephone": "06 81 17 70 62",
+        "site_web": null,
+        "adresse": "14 Rue de la Rive, 22260 Ploëzal",
+        "note": 4,
+        "avis": 4,
+        "type": "Artisanat"
+      },
+      {
+        "id": "5353667918637028425",
+        "nom": "Monjaret Sarl",
+        "slug": "monjaret-sarl",
+        "telephone": "02 96 95 60 76",
+        "site_web": "http://www.monjaret.com/",
+        "adresse": "4 Placen Cren, 22260 Ploëzal",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Magasin d'outillage"
+      },
+      {
+        "id": "7500947910668207215",
+        "nom": "Broc- Renov",
+        "slug": "broc-renov",
+        "telephone": "06 47 91 64 80",
+        "site_web": "https://broc-renov.fr/nous-contacter/",
+        "adresse": "4 Bis Placen Cren, 22260 Ploëzal",
+        "note": 3,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "pleguien": {
+    "artisans": [
+      {
+        "id": "720441919083818439",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 96 33 46 46",
+        "site_web": "https://magasins.lapeyre.fr/bretagne/cotes-darmor/lapeyre-saint-brieuc-54",
+        "adresse": "34 Rue Chaptal, 22000 Saint-Brieuc",
+        "note": 3.7,
+        "avis": 221,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "4613451496505482699",
+        "nom": "Les Toits de Benjamin",
+        "slug": "les-toits-de-benjamin",
+        "telephone": "06 35 13 07 66",
+        "site_web": "https://www.lestoitsdebenjamin.com/",
+        "adresse": "8 Rue du Petit Bois, 22290 Lanvollon",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ploubazlanec": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "beaussais-sur-mer": {
+    "artisans": [
+      {
+        "id": "14606761165219539750",
+        "nom": "Beaussais Stores et Fermetures",
+        "slug": "beaussais-stores-et-fermetures",
+        "telephone": "06 13 93 75 45",
+        "site_web": "http://beaussaisstoresetfermetures.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2984087592585829675",
+        "nom": "L'Expert Fenêtre Actipose",
+        "slug": "lexpert-fenetre-actipose",
+        "telephone": "02 96 41 89 44",
+        "site_web": "https://www.lexpertfenetre.fr/",
+        "adresse": "3 R. de Plancoët, 22650 Beaussais-sur-Mer",
+        "note": 4.2,
+        "avis": 11,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "8232682328620090510",
+        "nom": "B'PLAST ST MALO",
+        "slug": "bplast-st-malo",
+        "telephone": "02 99 21 36 36",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-malo/?utm_source=gmb",
+        "adresse": "7 Rue du Grand Jardin ZI Sud, 35400 Saint-Malo",
+        "note": 4.6,
+        "avis": 116,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "plehedel": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plouasne": {
+    "artisans": [
+      {
+        "id": "419247790186252898",
+        "nom": "AMenuiserie - Alexis Martin",
+        "slug": "amenuiserie-alexis-martin",
+        "telephone": "06 63 23 52 25",
+        "site_web": null,
+        "adresse": "Site de, 22830 Plouasne",
+        "note": 1,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15403403240099887436",
+        "nom": "B'PLAST RENNES",
+        "slug": "bplast-rennes",
+        "telephone": "02 23 25 60 00",
+        "site_web": "https://www.bplast.fr/agence/bplast-rennes/?utm_source=gmb",
+        "adresse": "ZA Confortland, 9 Rue du Val, 35520 Melesse",
+        "note": 4.5,
+        "avis": 269,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1011648634990182699",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 99 33 76 76",
+        "site_web": "https://magasins.lapeyre.fr/bretagne/ille-et-vilaine/lapeyre-rennes-31",
+        "adresse": "137 Rue de Lorient, 35000 Rennes",
+        "note": 3.9,
+        "avis": 549,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14470267362902579715",
+        "nom": "Martin Ets",
+        "slug": "martin-ets",
+        "telephone": "02 96 83 40 20",
+        "site_web": "https://www.martin-menuiserie.com/",
+        "adresse": "Le Val, 22830 Plouasne",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11150280527208464973",
+        "nom": "FB COUVERTURE",
+        "slug": "fb-couverture",
+        "telephone": "06 51 63 44 04",
+        "site_web": null,
+        "adresse": "Bd de la Gare, 22830 Plouasne",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "frehel": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ploubezre": {
+    "artisans": [
+      {
+        "id": "14330287263220051967",
+        "nom": "Poupon Ludovic",
+        "slug": "poupon-ludovic",
+        "telephone": "02 96 46 66 05",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3799542629672830150",
+        "nom": "BZH QUALITE Traitement de charpente, Traitement mérule, Traitement mur humide, Isolation intérieure, extérieur, Placo Lannion",
+        "slug": "bzh-qualite-traitement-de-charpente-traitement-merule-traitement-mur-humide-isolation-interieure-exterieur-placo-lannion",
+        "telephone": "02 96 48 85 80",
+        "site_web": "https://bzh-qualite-lannion.fr/",
+        "adresse": "ZA de Buhulien, 22300 Lannion",
+        "note": 4.9,
+        "avis": 122,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "plouec-du-trieux": {
+    "artisans": [
+      {
+        "id": "13323344265385040901",
+        "nom": "Le Quéré",
+        "slug": "le-quere",
+        "telephone": "02 96 95 32 70",
+        "site_web": null,
+        "adresse": "Zone Artisanale, 22260 Plouëc-du-Trieux",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ploufragan": {
+    "artisans": [
+      {
+        "id": "17632038002966815713",
+        "nom": "Costa Menuiseries",
+        "slug": "costa-menuiseries",
+        "telephone": "02 96 74 54 30",
+        "site_web": "https://www.costa-menuiseries-plerin.fr/",
+        "adresse": "ZA des Longs Réages, Rue François Jégou, 22190 Plérin",
+        "note": 4.6,
+        "avis": 90,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5492427348254160128",
+        "nom": "NLR Toiture",
+        "slug": "nlr-toiture",
+        "telephone": "06 29 51 74 78",
+        "site_web": "http://www.nlrtoiture.fr/",
+        "adresse": "26 Rue du Pont des Îles, 22440 Ploufragan",
+        "note": 4,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2260239274171900693",
+        "nom": "Breizheconet",
+        "slug": "breizheconet",
+        "telephone": "06 09 82 80 15",
+        "site_web": "https://www.breizh-econet.fr/",
+        "adresse": "13 Imp. des Châtelets, 22440 Ploufragan",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5225974557813563112",
+        "nom": "LE PETIT COUVREUR",
+        "slug": "le-petit-couvreur",
+        "telephone": "06 03 65 86 45",
+        "site_web": "https://leray.info/page/le-petit-couvreur-couverture-ploufragan",
+        "adresse": "21 Bis Rue de la Pierre Blanche, 22440 Ploufragan",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4982622636643228008",
+        "nom": "PPF Saint Brieuc",
+        "slug": "ppf-saint-brieuc",
+        "telephone": "02 85 52 19 98",
+        "site_web": "https://ppf.fr/reseau-ppf/ppf-ou-nous-trouver/agence-ppf-22-saint-brieuc/",
+        "adresse": "3 Rue de la Cassoire, 22170 Plerneuf",
+        "note": 4.7,
+        "avis": 267,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "667487516963905065",
+        "nom": "In & Out agencement",
+        "slug": "in-out-agencement",
+        "telephone": "06 68 01 64 61",
+        "site_web": "https://inandoutagencement.fr/",
+        "adresse": "12 Rue des Anémones, 22440 Ploufragan",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10930017602211051618",
+        "nom": "LMB - Aménagement et Finition",
+        "slug": "lmb-amenagement-et-finition",
+        "telephone": "02 96 76 60 14",
+        "site_web": "https://lmb.bzh/",
+        "adresse": "2 Rue du Boisillon, 22950 Trégueux",
+        "note": 4.8,
+        "avis": 53,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "2011111713499907330",
+        "nom": "BL Couverture",
+        "slug": "bl-couverture",
+        "telephone": "06 03 73 30 44",
+        "site_web": "https://blcouverture22.fr/",
+        "adresse": "1 bis Rue du Moulin de Persas, 22000 Saint-Brieuc",
+        "note": 4.6,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17252067413872960044",
+        "nom": "Wyatt Menuiserie",
+        "slug": "wyatt-menuiserie",
+        "telephone": "06 19 80 72 67",
+        "site_web": "https://www.facebook.com/wyattmenuiserie",
+        "adresse": "19 Rue François le Notre, 22440 Ploufragan",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1958624292853575882",
+        "nom": "Artisan couvreur zingueur Charpente étanchéité Brian Saint-Brieuc Côtes d'Armor",
+        "slug": "artisan-couvreur-zingueur-charpente-etancheite-brian-saint-brieuc-cotes-darmor",
+        "telephone": "07 49 18 09 62",
+        "site_web": "https://www.technitoiture45.com/",
+        "adresse": "47 Rue de Merlet, 22440 Ploufragan",
+        "note": 5,
+        "avis": 19,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plougrescant": {
+    "artisans": [
+      {
+        "id": "12730743026006867671",
+        "nom": "Couvreur Penvénan Services Toitures",
+        "slug": "couvreur-penvenan-services-toitures",
+        "telephone": "02 57 63 07 96",
+        "site_web": "http://couvreur-penvenan-services-toitures.ovh/",
+        "adresse": "5 Rue Hent Dall ar Ruselan, 22710 Penvénan",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plouer-sur-rance": {
+    "artisans": [
+      {
+        "id": "17468217939222624546",
+        "nom": "Menuisier Armory Tecni'Logis Dinan/St Malo",
+        "slug": "menuisier-armory-tecnilogis-dinanst-malo",
+        "telephone": "02 96 89 11 36",
+        "site_web": "https://armory.bzh/?mtm_campaign=clic_site_web_fiche_GBP&mtm_source=google_business_profile&mtm_medium=organic",
+        "adresse": "22, 36 Rue des Charpentiers de Marine ZAC, 22490 Plouër-sur-Rance",
+        "note": 4.6,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15468470896535971011",
+        "nom": "Komilfo Cardin Stores et Fermetures à Saint-Malo - Pergolas, Stores, Menuiseries",
+        "slug": "komilfo-cardin-stores-et-fermetures-a-saint-malo-pergolas-stores-menuiseries",
+        "telephone": "02 99 19 20 19",
+        "site_web": "https://www.komilfo.fr/magasins/cardin-stores-fermetures-saint-malo-35?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "Z.A. de la Chesnais, Av. du Commerce, 35430 Saint-Jouan-des-Guérets",
+        "note": 4.6,
+        "avis": 191,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1209235140285327946",
+        "nom": "Menuiserie de la rance",
+        "slug": "menuiserie-de-la-rance",
+        "telephone": "06 98 03 51 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "plouezec": {
+    "artisans": [
+      {
+        "id": "14318857084112328148",
+        "nom": "Rabé Erwan",
+        "slug": "rabe-erwan",
+        "telephone": "02 96 20 59 88",
+        "site_web": "https://www.rabe-erwan-plouezec.fr/",
+        "adresse": "Rte de Goas Ar Provost, 22470 Plouézec",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "718152772892450046",
+        "nom": "Hervé Gildas Couverture - SAS BENNOZH",
+        "slug": "herve-gildas-couverture-sas-bennozh",
+        "telephone": "02 96 20 67 16",
+        "site_web": "https://www.gildas-couverture-plouezec.fr/",
+        "adresse": "Chem. du Savazou, 22500 Kerfot",
+        "note": 3,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1243004804517288505",
+        "nom": "MENUISERIE VANNIER",
+        "slug": "menuiserie-vannier",
+        "telephone": "02 96 20 65 69",
+        "site_web": "https://www.menuiserie-vannier.fr/",
+        "adresse": "ZONE ARTISANALE DE KERAVEL, 1, 22470 Plouézec",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "16232429155923034697",
+        "nom": "menuiserie solution",
+        "slug": "menuiserie-solution",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Ven. de Cosquellou, 22470 Plouézec",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4668874310532762750",
+        "nom": "Menuiserie Vannier",
+        "slug": "menuiserie-vannier",
+        "telephone": "02 96 20 65 69",
+        "site_web": "https://www.menuiserie-vannier.fr/",
+        "adresse": "ZA de KERAVEL, 22470 Plouézec",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10367840160190671849",
+        "nom": "COLLEN GROT COUVERTURE",
+        "slug": "collen-grot-couverture",
+        "telephone": "06 63 27 87 11",
+        "site_web": "https://www.lecollen-grot-couverture.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plenee-jugon": {
+    "artisans": [
+      {
+        "id": "969360885751664144",
+        "nom": "Eurosom",
+        "slug": "eurosom",
+        "telephone": "02 96 34 50 50",
+        "site_web": "https://www.eurosom.fr/",
+        "adresse": "1 Zone Artisanale Les Vallées, 22640 Plénée-Jugon",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15887936300997559562",
+        "nom": "Les Korrigans SASU",
+        "slug": "les-korrigans-sasu",
+        "telephone": "02 96 31 36 36",
+        "site_web": "http://www.sarlleskorrigans.fr/",
+        "adresse": "PA la Ville es Goupines, 22330",
+        "note": 4,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16004467671359319661",
+        "nom": "Hervé Tardivel",
+        "slug": "herve-tardivel",
+        "telephone": "02 96 34 55 18",
+        "site_web": null,
+        "adresse": "La Chauchix Collet, 22640 Plénée-Jugon",
+        "note": 3.7,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18368763331644489384",
+        "nom": "S&K Menuiseries / Maçonnerie",
+        "slug": "sk-menuiseries-maconnerie",
+        "telephone": "06 42 75 88 18",
+        "site_web": "https://www.skmenuiseries.fr/",
+        "adresse": "ZA, 22640 Plénée-Jugon",
+        "note": 4,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1555658865927222351",
+        "nom": "S&K Coffrages",
+        "slug": "sk-coffrages",
+        "telephone": "06 42 75 88 18",
+        "site_web": null,
+        "adresse": "ZA du Plessis, 22640 Plénée-Jugon",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11947345017729875428",
+        "nom": "B.C.O",
+        "slug": "bco",
+        "telephone": "02 96 50 62 62",
+        "site_web": "https://www.bco-menuiserie.fr/",
+        "adresse": "Les Vallées, 22640 Plénée-Jugon",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11681130320243257368",
+        "nom": "Herve Tardivel Couverture",
+        "slug": "herve-tardivel-couverture",
+        "telephone": "02 96 34 52 41",
+        "site_web": null,
+        "adresse": "2 Rue de Penthièvre, 22640 Plénée-Jugon",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plelo": {
+    "artisans": [
+      {
+        "id": "15088343201619217387",
+        "nom": "GAUBERT FABIEN",
+        "slug": "gaubert-fabien",
+        "telephone": "06 29 57 43 83",
+        "site_web": "https://www.fabien-gaubert-couvreur.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "4B La ville Pohel, 22170 Plélo",
+        "note": 5,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5276180569166830716",
+        "nom": "Armor Stores",
+        "slug": "armor-stores",
+        "telephone": "02 96 32 43 33",
+        "site_web": "https://rmahestores.wixsite.com/armorstores",
+        "adresse": "ZA des 4 Voies, 22170 Plélo",
+        "note": 4.2,
+        "avis": 19,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "plouguenast-langast": {
+    "artisans": [
+      {
+        "id": "11938554141392924690",
+        "nom": "Tardivel Didier",
+        "slug": "tardivel-didier",
+        "telephone": "02 96 67 60 04",
+        "site_web": null,
+        "adresse": "3 Rue de la Motte Parent, 22150 Plouguenast-Langast",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5845096850115662708",
+        "nom": "GMH (Générale Menuiserie Habitat)",
+        "slug": "gmh-generale-menuiserie-habitat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Polygone, 22150 Plouguenast-Langast",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "plelan-le-petit": {
+    "artisans": [
+      {
+        "id": "16987083118840577869",
+        "nom": "Ouvêo Menuiseries Bretagne",
+        "slug": "ouveo-menuiseries-bretagne",
+        "telephone": "02 96 27 60 32",
+        "site_web": "http://www.ouveo-menuiseries.fr/",
+        "adresse": "Rue du Tram, 22980 Plélan-le-Petit",
+        "note": 3.9,
+        "avis": 40,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "plerin": {
+    "artisans": [
+      {
+        "id": "14412931880162912270",
+        "nom": "Vitel Menuiseries",
+        "slug": "vitel-menuiseries",
+        "telephone": "02 96 78 37 36",
+        "site_web": "http://www.vitel.fr/",
+        "adresse": "1 Rue Robert Schuman, 22190 Plérin",
+        "note": 4.8,
+        "avis": 228,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "6325055616122661063",
+        "nom": "Vie & Véranda",
+        "slug": "vie-veranda",
+        "telephone": "02 96 94 51 67",
+        "site_web": "https://www.vie-veranda.com/agences/veranda-saint-brieuc",
+        "adresse": "35 Rue Hélène Boucher, 22190 Plérin",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "1104965313425932798",
+        "nom": "OuvertureS - Saint-Brieuc - FLC 22",
+        "slug": "ouvertures-saint-brieuc-flc-22",
+        "telephone": "02 96 69 21 92",
+        "site_web": "https://flc22.fr/",
+        "adresse": "22 Bd Carnot, 22000 Saint-Brieuc",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pleneuf-val-andre": {
+    "artisans": [
+      {
+        "id": "18002322559364750792",
+        "nom": "Couvreur Côtes-d'Armor | Top Toiture Rénovation | Réparation Fuites Démoussage Toiture",
+        "slug": "couvreur-cotes-darmor-top-toiture-renovation-reparation-fuites-demoussage-toiture",
+        "telephone": "09 72 19 67 92",
+        "site_web": "https://toptoiturecotes-darmorcouvreur-renovation.ovh/",
+        "adresse": "15 Rue de Saint-Alban, 22370 Pléneuf-Val-André",
+        "note": 5,
+        "avis": 22,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pleslin-trigavou": {
+    "artisans": [
+      {
+        "id": "16366511263512975243",
+        "nom": "Hilzinger dolmen",
+        "slug": "hilzinger-dolmen",
+        "telephone": "02 96 82 31 31",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Fabricant de portes"
+      }
+    ]
+  },
+  "guerledan": {
+    "artisans": [
+      {
+        "id": "3668828607121912520",
+        "nom": "Le clezio couverture",
+        "slug": "le-clezio-couverture",
+        "telephone": "02 96 26 32 87",
+        "site_web": "http://lecleziophilippe.site-solocal.com/",
+        "adresse": "Lisquilly, 22530 Guerlédan",
+        "note": 3.5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14447809267356057000",
+        "nom": "BigMat Guerledan - Avis Matériaux",
+        "slug": "bigmat-guerledan-avis-materiaux",
+        "telephone": "02 96 28 52 55",
+        "site_web": "https://www.bigmat.fr/points-de-vente/guerledan/",
+        "adresse": "Zone Artisanale Toul Houzé, 22530 Guerlédan",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "8304304887719402680",
+        "nom": "BRITTANY PVC",
+        "slug": "brittany-pvc",
+        "telephone": "02 96 66 08 27",
+        "site_web": "http://brittanypvc.com/",
+        "adresse": "18 Rue de la Gare, 22530 Guerlédan",
+        "note": 5,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "la-motte": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pabu": {
+    "artisans": [
+      {
+        "id": "3213750919871374762",
+        "nom": "ASP RENOV",
+        "slug": "asp-renov",
+        "telephone": "06 38 67 20 20",
+        "site_web": "https://www.asprenov22.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1754515107959310438",
+        "nom": "Am couvreur",
+        "slug": "am-couvreur",
+        "telephone": "06 50 73 74 50",
+        "site_web": "https://couvreur22.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 122,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "paimpol": {
+    "artisans": [
+      {
+        "id": "15115227672096517482",
+        "nom": "JLTagencement",
+        "slug": "jltagencement",
+        "telephone": "06 40 78 80 71",
+        "site_web": "https://jltagencement.fr/",
+        "adresse": "22500 Paimpol",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "59489427319026038",
+        "nom": "LE HOGUILLARD GILDAS",
+        "slug": "le-hoguillard-gildas",
+        "telephone": "02 96 22 70 49",
+        "site_web": "https://www.menuiserie-lehoguillard.fr/",
+        "adresse": "5 Rue de la Forge, 22470 Plouézec",
+        "note": 4.3,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4708283980912499006",
+        "nom": "Menuiserie Le Calvez",
+        "slug": "menuiserie-le-calvez",
+        "telephone": "02 96 20 84 05",
+        "site_web": "http://www.lecalvez-menuiserie-paimpol.fr/",
+        "adresse": "ZA DU, Chem. du Savazou, 22500 Kerfot",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "ploumilliau": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "tregastel": {
+    "artisans": [
+      {
+        "id": "12006138777869944235",
+        "nom": "Tite Loïc",
+        "slug": "tite-loic",
+        "telephone": "02 96 15 34 77",
+        "site_web": null,
+        "adresse": "ZA du Dolmen, 22730 Trégastel",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2795634255009251087",
+        "nom": "LE GOFFIC Menuiserie",
+        "slug": "le-goffic-menuiserie",
+        "telephone": "02 96 48 58 02",
+        "site_web": "https://www.menuiserie-legoffic.com/",
+        "adresse": "27 Rue de la Chapelle de Saint-Méen, 22700 Saint-Quay-Perros",
+        "note": 4.8,
+        "avis": 89,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16177076944277609150",
+        "nom": "Le Bivic Sarl",
+        "slug": "le-bivic-sarl",
+        "telephone": "02 96 23 86 98",
+        "site_web": null,
+        "adresse": "Rte du Dolmen, 22730 Trégastel",
+        "note": 3,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "quevert": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "rostrenen": {
+    "artisans": [
+      {
+        "id": "3169747454205628895",
+        "nom": "Glou Michel",
+        "slug": "glou-michel",
+        "telephone": "02 96 29 05 08",
+        "site_web": null,
+        "adresse": "27 Rue Marcel Sanguy, 22110 Rostrenen",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14857199149554275784",
+        "nom": "Oriance",
+        "slug": "oriance",
+        "telephone": "02 98 23 08 28",
+        "site_web": "http://www.oriance-fenetres.com/",
+        "adresse": "23 Pl. du Champ de Foire, 29270 Carhaix-Plouguer",
+        "note": 4.7,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5169582427629887050",
+        "nom": "Menuiserie FALHER",
+        "slug": "menuiserie-falher",
+        "telephone": "02 96 24 25 98",
+        "site_web": "https://www.menuiserie-falher.fr/",
+        "adresse": "Ker Hélène, Bonen, 22110 Rostrenen",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6261901474723787586",
+        "nom": "Quélen De Christophe",
+        "slug": "quelen-de-christophe",
+        "telephone": "02 96 36 65 45",
+        "site_web": null,
+        "adresse": "3 Quélen, 22340 Locarn",
+        "note": 1,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "la-roche-jaudy": {
+    "artisans": [
+      {
+        "id": "12835908805631485235",
+        "nom": "Avenir Rénovations 22 Saint Brieuc",
+        "slug": "avenir-renovations-22-saint-brieuc",
+        "telephone": "02 49 88 36 17",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-22-saint-brieuc/",
+        "adresse": "3 Rue de la Cassoire, 22170 Plerneuf",
+        "note": 5,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "7534386159140406494",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 96 48 56 10",
+        "site_web": "https://magasins.lapeyre.fr/bretagne/cotes-darmor/lapeyre-lannion-109",
+        "adresse": "Rue Georges Cuvier, 22300 Lannion",
+        "note": 4.2,
+        "avis": 143,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "16506127137698388611",
+        "nom": "MENUISERIE DU JAUDY",
+        "slug": "menuiserie-du-jaudy",
+        "telephone": "06 70 77 60 97",
+        "site_web": null,
+        "adresse": "zone Kerverzot, 8 Rue des Bruyères, 22450",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8638523623691564821",
+        "nom": "Histoire de Ciel - Installateur Conseil Velux Bretagne",
+        "slug": "histoire-de-ciel-installateur-conseil-velux-bretagne",
+        "telephone": "07 82 30 45 55",
+        "site_web": "https://www.histoiredeciel.fr/",
+        "adresse": "19 Rue Léon Durocher, 56300 Pontivy",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-agathon": {
+    "artisans": [
+      {
+        "id": "6024394390264501058",
+        "nom": "Oriance",
+        "slug": "oriance",
+        "telephone": "02 96 60 75 98",
+        "site_web": "https://www.oriance-fenetres.com/",
+        "adresse": "9 Rue Jean Marie Baudet, 22360 Langueux",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15885417679472917257",
+        "nom": "Technitoit Guingamp",
+        "slug": "technitoit-guingamp",
+        "telephone": "02 49 88 34 20",
+        "site_web": "https://www.technitoit.com/agence/cotes-d-armor-22-guingamp-renovation?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Z.A.C. De, 1 Rue de l'Argoat, 22200 Saint-Agathon",
+        "note": 4.9,
+        "avis": 112,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14412931880162912270",
+        "nom": "Vitel Menuiseries",
+        "slug": "vitel-menuiseries",
+        "telephone": "02 96 78 37 36",
+        "site_web": "http://www.vitel.fr/",
+        "adresse": "1 Rue Robert Schuman, 22190 Plérin",
+        "note": 4.8,
+        "avis": 228,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11775932141363145797",
+        "nom": "hilzinger Fenêtres et Portes Guingamp",
+        "slug": "hilzinger-fenetres-et-portes-guingamp",
+        "telephone": "02 96 43 71 64",
+        "site_web": "https://www.hilzinger.fr/fenetres-guingamp/",
+        "adresse": "34 Imp. des Ajoncs, 22200 Saint-Agathon",
+        "note": 5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5257225572627316352",
+        "nom": "GAUTIER TOITURE",
+        "slug": "gautier-toiture",
+        "telephone": "02 96 44 90 67",
+        "site_web": "http://www.gautier-toiture.fr/",
+        "adresse": "14 Av. de l'Hippodrome, 22200 Saint-Agathon",
+        "note": 4.7,
+        "avis": 84,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5224460972442517496",
+        "nom": "ARGOAT FERMETURES",
+        "slug": "argoat-fermetures",
+        "telephone": "02 96 38 91 36",
+        "site_web": "https://www.argoat-fermetures.fr/",
+        "adresse": "ZA de Mikez Zone B, 22540 Pédernec",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9002080948853501433",
+        "nom": "Bretagne Ravalement",
+        "slug": "bretagne-ravalement",
+        "telephone": "02 96 95 14 61",
+        "site_web": null,
+        "adresse": "Pl. du Bel Orme Za, 22200 Saint-Agathon",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "2328715864788560751",
+        "nom": "Axel Fermetures Guingamp",
+        "slug": "axel-fermetures-guingamp",
+        "telephone": "02 96 40 62 62",
+        "site_web": "https://axelfermetures.com/",
+        "adresse": "12 Pl. Saint-Sauveur, 22200 Guingamp",
+        "note": 4.3,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "rospez": {
+    "artisans": [
+      {
+        "id": "3799542629672830150",
+        "nom": "BZH QUALITE Traitement de charpente, Traitement mérule, Traitement mur humide, Isolation intérieure, extérieur, Placo Lannion",
+        "slug": "bzh-qualite-traitement-de-charpente-traitement-merule-traitement-mur-humide-isolation-interieure-exterieur-placo-lannion",
+        "telephone": "02 96 48 85 80",
+        "site_web": "https://bzh-qualite-lannion.fr/",
+        "adresse": "ZA de Buhulien, 22300 Lannion",
+        "note": 4.9,
+        "avis": 122,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "2919738644243934420",
+        "nom": "Oriance",
+        "slug": "oriance",
+        "telephone": "02 98 15 25 32",
+        "site_web": "http://www.oriance-fenetres.com/",
+        "adresse": "2 Rue du Puits, 29600 Saint-Martin-des-Champs",
+        "note": 4.7,
+        "avis": 219,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14687150664175517707",
+        "nom": "SARL Gildas Ropars Matériaux de construction à Rospez",
+        "slug": "sarl-gildas-ropars-materiaux-de-construction-a-rospez",
+        "telephone": "02 96 37 60 57",
+        "site_web": "https://www.gildas-ropars.com/",
+        "adresse": "106 Rte de Trezeny, 22300 Rospez",
+        "note": 4.8,
+        "avis": 25,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14330287263220051967",
+        "nom": "Poupon Ludovic",
+        "slug": "poupon-ludovic",
+        "telephone": "02 96 46 66 05",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "585316637722525479",
+        "nom": "Bihannic Michel & Yann SARL",
+        "slug": "bihannic-michel-yann-sarl",
+        "telephone": "02 96 23 77 96",
+        "site_web": "http://www.couverture-bihannic-michel.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "quintin": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-alban": {
+    "artisans": [
+      {
+        "id": "14244176221940532196",
+        "nom": "Bidan Sarl",
+        "slug": "bidan-sarl",
+        "telephone": "02 96 72 90 93",
+        "site_web": null,
+        "adresse": "Croix des Landes, 22400 Saint-Alban",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10639707340496913352",
+        "nom": "Alnot Menuiserie SAINT-ALBAN",
+        "slug": "alnot-menuiserie-saint-alban",
+        "telephone": "02 96 41 02 53",
+        "site_web": "https://www.alnot-menuiserie.com/?utm_source=gmb",
+        "adresse": "Za Le Poirier, 3 Rue de la Tourelle, 22400 Saint-Alban",
+        "note": 5,
+        "avis": 21,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2662116129234673349",
+        "nom": "L'Artisan Menuisier Breton",
+        "slug": "lartisan-menuisier-breton",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "22400 Saint-Alban",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "13256367866184030060",
+        "nom": "montjarret menuiserie",
+        "slug": "montjarret-menuiserie",
+        "telephone": "06 75 49 09 38",
+        "site_web": "https://www.facebook.com/montjarretmenuiserie",
+        "adresse": "Chem. des Clos, 22400 Saint-Alban",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7840668167735598031",
+        "nom": "SARL Aignel",
+        "slug": "sarl-aignel",
+        "telephone": "06 63 44 25 99",
+        "site_web": null,
+        "adresse": "2 rue du Clos Pansard, 22400 Saint-Alban",
+        "note": 3,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10561742724431893100",
+        "nom": "PosElite",
+        "slug": "poselite",
+        "telephone": "06 50 76 14 66",
+        "site_web": "http://www.poselite.fr/?utm_source=gmb",
+        "adresse": "4 Le Closset, 22400 Saint-Alban",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12034812589456547887",
+        "nom": "SARL KERGOURLAY",
+        "slug": "sarl-kergourlay",
+        "telephone": "06 25 79 19 55",
+        "site_web": null,
+        "adresse": "9 Rue du Poirier, 22400 Saint-Alban",
+        "note": 3,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-barnabe": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-brandan": {
+    "artisans": [
+      {
+        "id": "16276672638512091604",
+        "nom": "STYL'BAIES Distributeur Calibaie",
+        "slug": "stylbaies-distributeur-calibaie",
+        "telephone": "02 96 32 55 55",
+        "site_web": "http://www.calibaie.com/",
+        "adresse": null,
+        "note": 3.3,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8174610014976894505",
+        "nom": "Quémard Patrice",
+        "slug": "quemard-patrice",
+        "telephone": "02 96 58 14 26",
+        "site_web": "http://www.menuiserie-quemard.com/",
+        "adresse": "21 Rue du Manoir, 22800 Saint-Brandan",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14846282402445020001",
+        "nom": "Denoual Thierry",
+        "slug": "denoual-thierry",
+        "telephone": "02 96 79 65 90",
+        "site_web": "https://www.escaliers-denoual.fr/",
+        "adresse": "25 Bis Rue de la Gare, 22800 Saint-Brandan",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Société de fabrication d'escaliers"
+      },
+      {
+        "id": "7554620209120132593",
+        "nom": "Seven",
+        "slug": "seven",
+        "telephone": "06 79 33 21 40",
+        "site_web": "https://www.facebook.com/103736256083382",
+        "adresse": "49 lieu-dit St Eutrope, 22800 Saint-Brandan",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8824680688608186858",
+        "nom": "Menuiserie Talibart",
+        "slug": "menuiserie-talibart",
+        "telephone": "06 18 12 39 04",
+        "site_web": "https://www.facebook.com/Menuiserie-TALIBART-Fabien-SARL-1631885383770563",
+        "adresse": "61 Le Coudray, 22800 Saint-Brandan",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-brieuc": {
+    "artisans": [
+      {
+        "id": "720441919083818439",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 96 33 46 46",
+        "site_web": "https://magasins.lapeyre.fr/bretagne/cotes-darmor/lapeyre-saint-brieuc-54",
+        "adresse": "34 Rue Chaptal, 22000 Saint-Brieuc",
+        "note": 3.7,
+        "avis": 221,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "1104965313425932798",
+        "nom": "OuvertureS - Saint-Brieuc - FLC 22",
+        "slug": "ouvertures-saint-brieuc-flc-22",
+        "telephone": "02 96 69 21 92",
+        "site_web": "https://flc22.fr/",
+        "adresse": "22 Bd Carnot, 22000 Saint-Brieuc",
+        "note": 4.8,
+        "avis": 115,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-caradec": {
+    "artisans": [
+      {
+        "id": "8304304887719402680",
+        "nom": "BRITTANY PVC",
+        "slug": "brittany-pvc",
+        "telephone": "02 96 66 08 27",
+        "site_web": "http://brittanypvc.com/",
+        "adresse": "18 Rue de la Gare, 22530 Guerlédan",
+        "note": 5,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "9748028394681159147",
+        "nom": "Idéal Confort Menuisier Loudéac",
+        "slug": "ideal-confort-menuisier-loudeac",
+        "telephone": "02 96 66 18 22",
+        "site_web": "http://www.idealconfort22.fr/",
+        "adresse": "1 Rue Glais Bizoin, 22600 Loudéac",
+        "note": 4.9,
+        "avis": 153,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5046713280664908562",
+        "nom": "Menuiserie Josse",
+        "slug": "menuiserie-josse",
+        "telephone": "02 96 28 92 12",
+        "site_web": "https://loudeacmenuiserie.fr/",
+        "adresse": "12 Rue Glais Bizoin, 22600 Loudéac",
+        "note": 4.4,
+        "avis": 40,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "quessoy": {
+    "artisans": [
+      {
+        "id": "814996751035627382",
+        "nom": "Couverture-Zinguerie-Etancheite RBR",
+        "slug": "couverture-zinguerie-etancheite-rbr",
+        "telephone": "06 23 32 44 37",
+        "site_web": "https://rbr.mystrikingly.com/",
+        "adresse": "12 La ville Garnier, 22120 Quessoy",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5913139820886063220",
+        "nom": "Breizh Toiture Renove – Couvreur, Réparation & Isolation",
+        "slug": "breizh-toiture-renove-couvreur-reparation-isolation",
+        "telephone": "07 78 20 57 38",
+        "site_web": "https://www.breizh-toiture-renove.fr/",
+        "adresse": "18 Rue du Pilon, 22120 Quessoy",
+        "note": 4.3,
+        "avis": 43,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3619041256108732230",
+        "nom": "RC Couverture",
+        "slug": "rc-couverture",
+        "telephone": "06 66 41 82 51",
+        "site_web": null,
+        "adresse": "8 Vieux Saint-Blaise, 22120 Quessoy",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8663484592925129732",
+        "nom": "Rouxel charpente ossature menuiserie",
+        "slug": "rouxel-charpente-ossature-menuiserie",
+        "telephone": "06 73 33 12 04",
+        "site_web": null,
+        "adresse": "11 Rue de la Doucine, 22120 Quessoy",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13712427854590051572",
+        "nom": "Quémard Ets",
+        "slug": "quemard-ets",
+        "telephone": "02 96 33 30 65",
+        "site_web": "http://www.quemard.com/",
+        "adresse": "6 Rue de l'Araire, 22120 Quessoy",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-carne": {
+    "artisans": [
+      {
+        "id": "3706007218250872551",
+        "nom": "Multigranits",
+        "slug": "multigranits",
+        "telephone": "06 73 32 95 32",
+        "site_web": "http://multigranits.fr/",
+        "adresse": "2 All. des Couturiers, 22100 Saint-Carné",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans le marbre"
+      },
+      {
+        "id": "10650202629450815513",
+        "nom": "Edg Ebénisterie du Guinefort",
+        "slug": "edg-ebenisterie-du-guinefort",
+        "telephone": "02 96 83 51 12",
+        "site_web": "http://ebenisterieduguinefort.com/",
+        "adresse": "ZA, 22100 Saint-Carné",
+        "note": 4.2,
+        "avis": 15,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "5225417766818705406",
+        "nom": "Miroiterie du guinefort",
+        "slug": "miroiterie-du-guinefort",
+        "telephone": "02 96 83 59 45",
+        "site_web": "http://miroiterieduguinefort.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "ZA, 22100 Saint-Carné",
+        "note": 3.3,
+        "avis": 6,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "plounevez-moedec": {
+    "artisans": [
+      {
+        "id": "13329709256896662161",
+        "nom": "Poles Didier",
+        "slug": "poles-didier",
+        "telephone": "02 96 38 64 64",
+        "site_web": null,
+        "adresse": "1 Le Cléours, 22810 Plounévez-Moëdec",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14450158436099971117",
+        "nom": "Boisliveau Couverture",
+        "slug": "boisliveau-couverture",
+        "telephone": "02 96 23 20 33",
+        "site_web": "https://www.facebook.com/152660742035496",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plounevez-quintin": {
+    "artisans": [
+      {
+        "id": "6091971001703058802",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/morbihan/installateur-expert-en-pose-velux-a-vannes",
+        "adresse": "81 Av. de la Marne, 56000 Vannes",
+        "note": 4.6,
+        "avis": 56,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17632038002966815713",
+        "nom": "Costa Menuiseries",
+        "slug": "costa-menuiseries",
+        "telephone": "02 96 74 54 30",
+        "site_web": "https://www.costa-menuiseries-plerin.fr/",
+        "adresse": "ZA des Longs Réages, Rue François Jégou, 22190 Plérin",
+        "note": 4.6,
+        "avis": 90,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "plourhan": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-cast-le-guildo": {
+    "artisans": [
+      {
+        "id": "3029092947691418726",
+        "nom": "Tavet Bruno",
+        "slug": "tavet-bruno",
+        "telephone": "06 07 04 83 25",
+        "site_web": "https://couverturebrunotavet.fr/",
+        "adresse": "ZA Hte Lande, 22380 Saint-Cast-le-Guildo",
+        "note": 3.3,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4741942580140170439",
+        "nom": "Lemarchand François",
+        "slug": "lemarchand-francois",
+        "telephone": "06 82 66 36 20",
+        "site_web": "https://www.lemarchandfrancoiscouverture.fr/",
+        "adresse": "23 Rue de Saint-Eniguet, 22380 Saint-Cast-le-Guildo",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9519985072125479742",
+        "nom": "SAS Broussouloux - Agencement Menuiserie",
+        "slug": "sas-broussouloux-agencement-menuiserie",
+        "telephone": "06 66 77 24 79",
+        "site_web": "http://menuiserie-broussouloux.fr/",
+        "adresse": "ZA, La Haute Lande, 22380 Saint-Cast-le-Guildo",
+        "note": 5,
+        "avis": 21,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5509143806447682839",
+        "nom": "Menuiserie Pilard",
+        "slug": "menuiserie-pilard",
+        "telephone": "02 96 41 01 84",
+        "site_web": "http://www.menuiserie-pilard.fr/",
+        "adresse": "Rue de Haute Lande, 22380 Saint-Cast-le-Guildo",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-donan": {
+    "artisans": [
+      {
+        "id": "9865657222780638507",
+        "nom": "Clément Paul-François",
+        "slug": "clement-paul-francois",
+        "telephone": "02 96 73 80 39",
+        "site_web": null,
+        "adresse": "8 Pahouet Billiet, 22800 Saint-Donan",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "3932960516274034993",
+        "nom": "Bidault",
+        "slug": "bidault",
+        "telephone": "02 96 73 96 12",
+        "site_web": "https://www.bidault-batiment.fr/",
+        "adresse": "6 Rue des Quartiers, 22800 Saint-Donan",
+        "note": 3.8,
+        "avis": 12,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8993345606198443114",
+        "nom": "Guégan Dominique",
+        "slug": "guegan-dominique",
+        "telephone": "09 70 35 50 57",
+        "site_web": "https://www.guegandominique.fr/",
+        "adresse": "Kergrois, 22800 Saint-Donan",
+        "note": 3,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "929417976441196309",
+        "nom": "RENOV INTERIEUR",
+        "slug": "renov-interieur",
+        "telephone": "07 49 24 23 26",
+        "site_web": null,
+        "adresse": "Le Clos Blanc, 22800 Saint-Donan",
+        "note": 0,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "12858597166619134298",
+        "nom": "Matthieu Serandour partenaire Velux",
+        "slug": "matthieu-serandour-partenaire-velux",
+        "telephone": "02 96 79 25 65",
+        "site_web": "http://www.matthieu-serandour.fr/",
+        "adresse": "22170 Plélo",
+        "note": 4.8,
+        "avis": 29,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-carreuc": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plourivo": {
+    "artisans": [
+      {
+        "id": "8999334424870943266",
+        "nom": "Skiff - travaux en hauteur - cordiste",
+        "slug": "skiff-travaux-en-hauteur-cordiste",
+        "telephone": "06 50 15 69 96",
+        "site_web": null,
+        "adresse": "21 Av. du Trieux, 22860 Plourivo",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux en hauteur"
+      },
+      {
+        "id": "8575297108294525911",
+        "nom": "Concept Richard Couverture",
+        "slug": "concept-richard-couverture",
+        "telephone": "06 17 34 38 06",
+        "site_web": null,
+        "adresse": "15 Rte de Toul Lan, 22860 Plourivo",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4442238889184272359",
+        "nom": "Menuiserie Meliard Denis",
+        "slug": "menuiserie-meliard-denis",
+        "telephone": "06 71 76 30 20",
+        "site_web": "http://menuiseriemeliarddenis.site-solocal.com/",
+        "adresse": "3 Rte François Prigent, 22860 Plourivo",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-helen": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plouvara": {
+    "artisans": [
+      {
+        "id": "4982622636643228008",
+        "nom": "PPF Saint Brieuc",
+        "slug": "ppf-saint-brieuc",
+        "telephone": "02 85 52 19 98",
+        "site_web": "https://ppf.fr/reseau-ppf/ppf-ou-nous-trouver/agence-ppf-22-saint-brieuc/",
+        "adresse": "3 Rue de la Cassoire, 22170 Plerneuf",
+        "note": 4.7,
+        "avis": 267,
+        "type": "Solutions et équipement énergétiques"
+      }
+    ]
+  },
+  "pluduno": {
+    "artisans": [
+      {
+        "id": "8156817145403527562",
+        "nom": "EG Couverture",
+        "slug": "eg-couverture",
+        "telephone": "06 83 50 13 99",
+        "site_web": "https://www.eg-couverture.bzh/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "La ville Échet, 22550 Saint-Pôtan",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2333857659775288261",
+        "nom": "Cornillet Jacky Sarl",
+        "slug": "cornillet-jacky-sarl",
+        "telephone": "02 96 84 49 64",
+        "site_web": "http://menuiseriecornillet.fr/",
+        "adresse": "Zone des Trois Croix, 22130 Val-d'Arguenon",
+        "note": 3.3,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14707466062140887557",
+        "nom": "LE BALC'H FV2P (menuiserie, fermeture)",
+        "slug": "le-balch-fv2p-menuiserie-fermeture",
+        "telephone": "02 96 84 24 66",
+        "site_web": "http://www.lebalch-fv2p.fr/",
+        "adresse": "ZA La Millière Pluduno, 22130 Plancoët",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "plumaudan": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-quay-perros": {
+    "artisans": [
+      {
+        "id": "5769447846740334519",
+        "nom": "ENTREPRISE DE MENUISERIE SALIOU",
+        "slug": "entreprise-de-menuiserie-saliou",
+        "telephone": "02 96 49 05 40",
+        "site_web": "http://www.menuiseriesaliou.fr/",
+        "adresse": "zone artisanale Balaneyer, 22700 Saint-Quay-Perros",
+        "note": 4.6,
+        "avis": 35,
+        "type": "Charpentier"
+      },
+      {
+        "id": "587000005822013954",
+        "nom": "Vérandas & Extensions du Trégor",
+        "slug": "verandas-extensions-du-tregor",
+        "telephone": "02 96 48 42 71",
+        "site_web": "https://www.verandas-du-tregor.fr/",
+        "adresse": "Crec’h Quillé, 22700 Saint-Quay-Perros",
+        "note": 4,
+        "avis": 62,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9655782375442484654",
+        "nom": "Monsieur Store Perros-Guirec - SOFATIS",
+        "slug": "monsieur-store-perros-guirec-sofatis",
+        "telephone": "02 96 91 05 04",
+        "site_web": "https://monsieurstore.com/magasin/perros-guirec-22700/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "2 Rue de la Chapelle de Saint-Méen, 22700 Saint-Quay-Perros",
+        "note": 4.3,
+        "avis": 43,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-quay-portrieux": {
+    "artisans": [
+      {
+        "id": "18157710347168768502",
+        "nom": "Kiclos Armor",
+        "slug": "kiclos-armor",
+        "telephone": "02 96 52 50 62",
+        "site_web": "https://agence.kiclos.fr/2-kiclos-armor?utm_source=gmb",
+        "adresse": "Rond Point de Brézillet, 6 Av. Pierre Mendès France, 22950 Trégueux",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16620730246582325540",
+        "nom": "Menuiserie MORIN",
+        "slug": "menuiserie-morin",
+        "telephone": "02 96 16 17 79",
+        "site_web": "http://menuiserie-morin.fr/",
+        "adresse": "34 Rue Charles le Goffic, 22580 Plouha",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17620369178273795170",
+        "nom": "Menuiseries Chapelet",
+        "slug": "menuiseries-chapelet",
+        "telephone": "02 96 73 68 53",
+        "site_web": "https://menuiserie-chapelet.com/",
+        "adresse": "Zac des, Rue des Prés Calans, 22520",
+        "note": 4.8,
+        "avis": 65,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2855576501711696319",
+        "nom": "CBH Saint-Brieuc 22",
+        "slug": "cbh-saint-brieuc-22",
+        "telephone": "02 96 61 78 93",
+        "site_web": "https://www.centrebretonhabitat.com/",
+        "adresse": "3 Rue Ambroise Paré, 22680 Binic-Étables-sur-Mer",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "saint-julien": {
+    "artisans": [
+      {
+        "id": "1792873446586475438",
+        "nom": "DI22",
+        "slug": "di22",
+        "telephone": "06 16 81 71 10",
+        "site_web": null,
+        "adresse": "6 Rue de la Bruyère, 22940 Saint-Julien",
+        "note": 5,
+        "avis": 1,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "plumieux": {
+    "artisans": [
+      {
+        "id": "1442473736287000658",
+        "nom": "Établissements CHARPENTIER SARL",
+        "slug": "etablissements-charpentier-sarl",
+        "telephone": "02 96 25 54 76",
+        "site_web": null,
+        "adresse": "61 Rue de l'Argoat, 22210 Plumieux",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4491920716216171505",
+        "nom": "Gautier Bat Bzh",
+        "slug": "gautier-bat-bzh",
+        "telephone": "06 79 18 24 47",
+        "site_web": "https://www.gautier-bat-bzh.fr/",
+        "adresse": "5 Ham. des Lavandières, 22210 Plumieux",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plumaugat": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-nicolas-du-pelem": {
+    "artisans": [
+      {
+        "id": "17194537167112519232",
+        "nom": "SARL Le Clec'h Julien",
+        "slug": "sarl-le-clech-julien",
+        "telephone": "06 85 74 52 22",
+        "site_web": "https://www.facebook.com/sarlleclechjulien?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-samson-sur-rance": {
+    "artisans": [
+      {
+        "id": "3735486155933969725",
+        "nom": "CBH Dinan 22",
+        "slug": "cbh-dinan-22",
+        "telephone": "02 96 83 15 00",
+        "site_web": "https://www.centrebretonhabitat.com/",
+        "adresse": "4 rue des Avoiries, ZA, 22100 Saint-Samson-sur-Rance",
+        "note": 4.9,
+        "avis": 85,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "15790285244530246464",
+        "nom": "AMEX MENUISERIES",
+        "slug": "amex-menuiseries",
+        "telephone": "06 45 24 96 74",
+        "site_web": "https://amex-menuiseries.fr/",
+        "adresse": "6 Rue du Vent d'Autan, 22100 Taden",
+        "note": 4,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sevignac": {
+    "artisans": [
+      {
+        "id": "14157082801838066538",
+        "nom": "EMJ menuiserie SAS",
+        "slug": "emj-menuiserie-sas",
+        "telephone": "06 69 06 86 48",
+        "site_web": "http://emj-menuiserie.fr/",
+        "adresse": "5 Rue du Stade, 22250 Sévignac",
+        "note": 5,
+        "avis": 25,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "plurien": {
+    "artisans": [
+      {
+        "id": "8636691815174195040",
+        "nom": "Eurl dabo thomas",
+        "slug": "eurl-dabo-thomas",
+        "telephone": "06 27 29 45 02",
+        "site_web": "http://www.couverture-bardage-dabo.fr/",
+        "adresse": "Zone de la Grande Abbaye, Rue de la Prairie du Pont Neuf, 22240 Fréhel",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pommeret": {
+    "artisans": [
+      {
+        "id": "17241299765027659349",
+        "nom": "Alu Bretagne service - Actipose Saint Brieuc",
+        "slug": "alu-bretagne-service-actipose-saint-brieuc",
+        "telephone": "02 96 51 11 77",
+        "site_web": "http://www.alu-bretagne-service.fr/",
+        "adresse": "8 Rue Fulgence Bienvenue Za, 22120 Pommeret",
+        "note": 3.7,
+        "avis": 45,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "taden": {
+    "artisans": [
+      {
+        "id": "8232682328620090510",
+        "nom": "B'PLAST ST MALO",
+        "slug": "bplast-st-malo",
+        "telephone": "02 99 21 36 36",
+        "site_web": "https://www.bplast.fr/agence/bplast-saint-malo/?utm_source=gmb",
+        "adresse": "7 Rue du Grand Jardin ZI Sud, 35400 Saint-Malo",
+        "note": 4.6,
+        "avis": 116,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15120592957879366838",
+        "nom": "Habitalia Menuiseries - Art & Fenêtres Dinan - Bureau d'étude - sur rendez-vous",
+        "slug": "habitalia-menuiseries-art-fenetres-dinan-bureau-detude-sur-rendez-vous",
+        "telephone": "02 96 87 96 35",
+        "site_web": "https://www.artetfenetres-habitalia-menuiseries.fr/",
+        "adresse": "ZA des Alleux Taden, 7 Rue de la Tramontane, 22100 Dinan",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6929163580126533155",
+        "nom": "ID Stores et Fermetures",
+        "slug": "id-stores-et-fermetures",
+        "telephone": "02 96 85 43 86",
+        "site_web": "http://www.id-stores.fr/",
+        "adresse": "3 Rue du Zef, 22100 Taden",
+        "note": 4.7,
+        "avis": 55,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16644974023149979151",
+        "nom": "Egide by Normabaie - portails et clôtures",
+        "slug": "egide-by-normabaie-portails-et-clotures",
+        "telephone": "02 96 87 01 44",
+        "site_web": "http://www.normabaie.fr/portail-cloture/",
+        "adresse": "11 Rue du Vent d'Autan, 22100 Taden",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2548101993803249879",
+        "nom": "SLB Menuiserie ( SARL LOMINÉ Bernard )",
+        "slug": "slb-menuiserie-sarl-lomine-bernard",
+        "telephone": "02 96 83 03 67",
+        "site_web": "http://www.slb-menuiserie.com/",
+        "adresse": "ZA des Alleux, 2 Rue du Vent d'Autan, 22100 Taden",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "prat": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pommerit-le-vicomte": {
+    "artisans": [
+      {
+        "id": "1754515107959310438",
+        "nom": "Am couvreur",
+        "slug": "am-couvreur",
+        "telephone": "06 50 73 74 50",
+        "site_web": "https://couvreur22.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 122,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13078015429683393666",
+        "nom": "Elite menuiserie agencement",
+        "slug": "elite-menuiserie-agencement",
+        "telephone": "06 25 77 23 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "quemper-guezennec": {
+    "artisans": [
+      {
+        "id": "18176276493413092202",
+        "nom": "Qualiréno",
+        "slug": "qualireno",
+        "telephone": "02 96 68 09 35",
+        "site_web": "http://www.qualireno.bzh/",
+        "adresse": "5 rue Héol, 22120 Hillion",
+        "note": 3.7,
+        "avis": 69,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15388906033800751266",
+        "nom": "Le Saint Horticulture",
+        "slug": "le-saint-horticulture",
+        "telephone": "02 96 95 07 72",
+        "site_web": "https://www.artisanduvegetal-quemper-guezennec.fr/",
+        "adresse": "1 All. Junter, 22260 Quemper-Guézennec",
+        "note": 4.9,
+        "avis": 26,
+        "type": "Pépinière"
+      },
+      {
+        "id": "14475334257472566106",
+        "nom": "Defin Couverture",
+        "slug": "defin-couverture",
+        "telephone": "02 96 72 54 64",
+        "site_web": "http://www.defincouverture.fr/",
+        "adresse": "5 Rue du Bois, 22120 Yffiniac",
+        "note": 4.4,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3213750919871374762",
+        "nom": "ASP RENOV",
+        "slug": "asp-renov",
+        "telephone": "06 38 67 20 20",
+        "site_web": "https://www.asprenov22.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4214093919519942097",
+        "nom": "Miroiterie Glaverouest 22",
+        "slug": "miroiterie-glaverouest-22",
+        "telephone": "02 96 34 41 71",
+        "site_web": "http://www.glaverouest.fr/",
+        "adresse": "3 bis Rue de l'Écluse, 22120 Yffiniac",
+        "note": 4.8,
+        "avis": 28,
+        "type": "Miroiterie"
+      }
+    ]
+  },
+  "tonquedec": {
+    "artisans": [
+      {
+        "id": "6189579440209555946",
+        "nom": "Château et Domaine de Tonquédec",
+        "slug": "chateau-et-domaine-de-tonquedec",
+        "telephone": "02 96 37 05 69",
+        "site_web": "https://www.tonquedec.com/",
+        "adresse": "Accès Réservé aux horaires d'ouverture Parking Réservé Visiteurs du Château, Le Château, 22140 Tonquédec",
+        "note": 4.5,
+        "avis": 1691,
+        "type": "Château"
+      }
+    ]
+  },
+  "pordic": {
+    "artisans": [
+      {
+        "id": "1875740636505489358",
+        "nom": "Arbois menuiserie",
+        "slug": "arbois-menuiserie",
+        "telephone": "06 42 48 36 41",
+        "site_web": "https://www.arbois-menuiserie22.fr/",
+        "adresse": "La Fosse au Loup, 22590 Pordic",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11669316642920456325",
+        "nom": "Malenfant SARL",
+        "slug": "malenfant-sarl",
+        "telephone": "02 96 79 06 85",
+        "site_web": "http://menuiserie-malenfant.fr/",
+        "adresse": "10 Rue Pierre et Marie Curie, 22590 Pordic",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12353951788944412497",
+        "nom": "Menuiserie Malenfant",
+        "slug": "menuiserie-malenfant",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Pierre et Marie Curie, 22590 Pordic",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "563249010444912083",
+        "nom": "Armor Couverture 22",
+        "slug": "armor-couverture-22",
+        "telephone": "07 45 09 09 05",
+        "site_web": "https://www.armorcouverture.fr/?utm_source=gmb",
+        "adresse": "12 lieu-dit Point du Jour, 22590 Pordic",
+        "note": 4.9,
+        "avis": 81,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7710965743216189292",
+        "nom": "ARMOR NET TOITURE",
+        "slug": "armor-net-toiture",
+        "telephone": "06 67 96 46 10",
+        "site_web": null,
+        "adresse": "8 Ven. du Clos Sec, 22590 Pordic",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plouisy": {
+    "artisans": [
+      {
+        "id": "4913162998310770206",
+        "nom": "JT RÉNOVATION",
+        "slug": "jt-renovation",
+        "telephone": "06 10 24 09 12",
+        "site_web": "https://jt-renovation.fr/",
+        "adresse": "47 bis Rte de Bourbriac, 22200 Guingamp",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11503356687718414131",
+        "nom": "KL Couverture Saint-Brieuc : Artisan Couvreur Zinguerie Charpente étanchéité nettoyage toiture - St Brieuc Côtes d'Armor (22)",
+        "slug": "kl-couverture-saint-brieuc-artisan-couvreur-zinguerie-charpente-etancheite-nettoyage-toiture-st-brieuc-cotes-darmor-22",
+        "telephone": "06 04 07 32 58",
+        "site_web": "https://www.klcouverture.com/",
+        "adresse": "79 c, Rue Voltaire, 22190 Plérin",
+        "note": 4.9,
+        "avis": 42,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13761307393650701871",
+        "nom": "Connan Couverture",
+        "slug": "connan-couverture",
+        "telephone": "06 85 55 65 38",
+        "site_web": null,
+        "adresse": "10 Impasse des Buis, 22970 Ploumagoar",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13300357609906361326",
+        "nom": "Le Guen Toiture",
+        "slug": "le-guen-toiture",
+        "telephone": "02 96 21 10 27",
+        "site_web": "http://www.leguen-toiture.fr/",
+        "adresse": "7 Stang Marec, 22200 Grâces",
+        "note": 4.4,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2100046368755997079",
+        "nom": "ER Toiture Expert",
+        "slug": "er-toiture-expert",
+        "telephone": "07 61 47 10 04",
+        "site_web": "https://www.er-toiture-expert.fr/",
+        "adresse": "1 Pl. du Champ au Roy, 22200 Guingamp",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "trebeurden": {
+    "artisans": [
+      {
+        "id": "11629360367855518494",
+        "nom": "Couvreur Trébeurden : Réparation Toiture, Peinture Façade, Démoussage Toit, Pose Gouttières",
+        "slug": "couvreur-trebeurden-reparation-toiture-peinture-facade-demoussage-toit-pose-gouttieres",
+        "telephone": "09 72 14 14 26",
+        "site_web": "http://couvreurtrebeurdentoiturefacade.ovh/",
+        "adresse": "22 Rue de Kerwenet, 22560 Trébeurden",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plouguiel": {
+    "artisans": [
+      {
+        "id": "12730743026006867671",
+        "nom": "Couvreur Penvénan Services Toitures",
+        "slug": "couvreur-penvenan-services-toitures",
+        "telephone": "02 57 63 07 96",
+        "site_web": "http://couvreur-penvenan-services-toitures.ovh/",
+        "adresse": "5 Rue Hent Dall ar Ruselan, 22710 Penvénan",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tredarzec": {
+    "artisans": [
+      {
+        "id": "2426611080100221208",
+        "nom": "l'Atelier de la Menuiserie",
+        "slug": "latelier-de-la-menuiserie",
+        "telephone": "06 47 25 25 52",
+        "site_web": "https://www.facebook.com/Latelier-de-la-Menuiserie-101133949197720/",
+        "adresse": "14 La Corderie, 22220 Minihy-Tréguier",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "plouha": {
+    "artisans": [
+      {
+        "id": "3798162403670734106",
+        "nom": "Les Clôtures d'Armor",
+        "slug": "les-clotures-darmor",
+        "telephone": "02 96 20 32 52",
+        "site_web": "http://www.clotures-darmor.com/",
+        "adresse": "Zone Artisanale du Grand Etang, 22580 Plouha",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12292432261046421947",
+        "nom": "L'artizan",
+        "slug": "lartizan",
+        "telephone": "02 96 20 32 52",
+        "site_web": "https://www.lartizan.bzh/",
+        "adresse": "Zone Artisanale du, Imp. du Grand Étang, 22580 Plouha",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14830058982439837970",
+        "nom": "Entreprise Foezon EURL",
+        "slug": "entreprise-foezon-eurl",
+        "telephone": "02 96 20 20 34",
+        "site_web": null,
+        "adresse": "36 Rue du Général de Gaulle, 22580 Plouha",
+        "note": 5,
+        "avis": 6,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "15894233543929293047",
+        "nom": "SARL Le Roy",
+        "slug": "sarl-le-roy",
+        "telephone": "02 96 22 49 66",
+        "site_web": "http://leroy-plouha22.fr/",
+        "adresse": "ZA du Grand Étang, Kerohan, 22580 Plouha",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "907572852344635525",
+        "nom": "Jlb Renovation",
+        "slug": "jlb-renovation",
+        "telephone": "06 60 84 48 53",
+        "site_web": "https://www.jlb-renovations.fr/",
+        "adresse": "1 Camblac H, 22580 Plouha",
+        "note": 5,
+        "avis": 12,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "ploumagoar": {
+    "artisans": [
+      {
+        "id": "11583077033634231959",
+        "nom": "KB Couverture (Couverture & Ravalement De Façade)",
+        "slug": "kb-couverture-couverture-ravalement-de-facade",
+        "telephone": "06 69 42 05 57",
+        "site_web": "https://www.kb-couverture.fr/",
+        "adresse": "Rue des 3 Chênes, 22970 Ploumagoar",
+        "note": 5,
+        "avis": 86,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9023304203806530820",
+        "nom": "TN couverture",
+        "slug": "tn-couverture",
+        "telephone": "07 83 64 11 62",
+        "site_web": "https://www.tncouverture.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "52 Rue Louis Aragon, 22970 Ploumagoar",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11296201599029980201",
+        "nom": "Toiture 22",
+        "slug": "toiture-22",
+        "telephone": "07 80 42 43 46",
+        "site_web": "https://toiture-innov.fr/",
+        "adresse": "42 Rue de l'Argoat, 22970 Ploumagoar",
+        "note": 5,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10743903213292777346",
+        "nom": "Tryba TFP",
+        "slug": "tryba-tfp",
+        "telephone": "02 96 35 46 48",
+        "site_web": "http://www.tryba.com/menuiserie/tryba-ploumagoar/?utm_source=gmb",
+        "adresse": "5 ZA de Kergré, 22970 Ploumagoar",
+        "note": 4.4,
+        "avis": 64,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16459845780629294793",
+        "nom": "ROBIN Extension",
+        "slug": "robin-extension",
+        "telephone": "02 96 44 94 55",
+        "site_web": "http://www.robin-verandas.fr/",
+        "adresse": "ZI de Kergre, 22970 Ploumagoar",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7548900510417525275",
+        "nom": "Guelat Loïc",
+        "slug": "guelat-loic",
+        "telephone": "02 96 11 90 40",
+        "site_web": "http://guelat-menuiserie-guingamp.fr/",
+        "adresse": "2 Rue des Châtaigniers, 22970 Ploumagoar",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tregueux": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tremorel": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "treguier": {
+    "artisans": [
+      {
+        "id": "7470898103369909565",
+        "nom": "Couvreur Tréguier - Entreprise de Couverture : Pose et Réparation de Toiture, Démoussage Toit, Pose Gouttières",
+        "slug": "couvreur-treguier-entreprise-de-couverture-pose-et-reparation-de-toiture-demoussage-toit-pose-gouttieres",
+        "telephone": "02 57 63 08 25",
+        "site_web": "http://couvreur-treguier-entretien-toit.eu/",
+        "adresse": "1 Rue Poul Raoul, 22220 Tréguier",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17062243554056773926",
+        "nom": "La Trécoroise Menuiserie",
+        "slug": "la-trecoroise-menuiserie",
+        "telephone": "02 96 92 14 04",
+        "site_web": "http://www.latrecoroisemenuiserie.net/",
+        "adresse": "Kerfolic, 22220 Minihy-Tréguier",
+        "note": 4.2,
+        "avis": 37,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tremuson": {
+    "artisans": [
+      {
+        "id": "14412931880162912270",
+        "nom": "Vitel Menuiseries",
+        "slug": "vitel-menuiseries",
+        "telephone": "02 96 78 37 36",
+        "site_web": "http://www.vitel.fr/",
+        "adresse": "1 Rue Robert Schuman, 22190 Plérin",
+        "note": 4.8,
+        "avis": 228,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12835908805631485235",
+        "nom": "Avenir Rénovations 22 Saint Brieuc",
+        "slug": "avenir-renovations-22-saint-brieuc",
+        "telephone": "02 49 88 36 17",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-22-saint-brieuc/",
+        "adresse": "3 Rue de la Cassoire, 22170 Plerneuf",
+        "note": 5,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "4785704517485488659",
+        "nom": "LES TOITURES D'ARMOR Eirl Moizo Stephane",
+        "slug": "les-toitures-darmor-eirl-moizo-stephane",
+        "telephone": "06 66 90 78 25",
+        "site_web": null,
+        "adresse": "11 Rue des Frères Lumière, 22440 Trémuson",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "yvignac-la-tour": {
+    "artisans": [
+      {
+        "id": "3619041256108732230",
+        "nom": "RC Couverture",
+        "slug": "rc-couverture",
+        "telephone": "06 66 41 82 51",
+        "site_web": null,
+        "adresse": "8 Vieux Saint-Blaise, 22120 Quessoy",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14199886903839021624",
+        "nom": "Besoin de toit",
+        "slug": "besoin-de-toit",
+        "telephone": "06 70 30 12 29",
+        "site_web": "https://besoindetoit.com/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 47,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8638523623691564821",
+        "nom": "Histoire de Ciel - Installateur Conseil Velux Bretagne",
+        "slug": "histoire-de-ciel-installateur-conseil-velux-bretagne",
+        "telephone": "07 82 30 45 55",
+        "site_web": "https://www.histoiredeciel.fr/",
+        "adresse": "19 Rue Léon Durocher, 56300 Pontivy",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Couvreur"
+      },
+      {
+        "id": "321187772620406034",
+        "nom": "Quelqu'un sur le Toit",
+        "slug": "quelquun-sur-le-toit",
+        "telephone": "06 36 45 12 57",
+        "site_web": "https://www.fenetresurletoit.com/",
+        "adresse": "14 Rue du Noyer, 35000 Rennes",
+        "note": 4.7,
+        "avis": 62,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17132308273873343941",
+        "nom": "MJ menuiserie",
+        "slug": "mj-menuiserie",
+        "telephone": "02 23 22 00 87",
+        "site_web": "http://www.allo-jm-vitrerie-saint-malo.fr/",
+        "adresse": "Launay Thual, 35720 Pleugueneuc",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13849852121695050974",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/ille-et-vilaine/installateur-expert-en-pose-velux-a-saint-jacques-de-la-lande",
+        "adresse": "1 Rue du Capitaine Dreyfus, 35136 Saint-Jacques-de-la-Lande",
+        "note": 4.6,
+        "avis": 102,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5497259810295590416",
+        "nom": "Fenêtres2toit",
+        "slug": "fenetres2toit",
+        "telephone": "06 63 98 51 01",
+        "site_web": "http://fenetres2toit.com/",
+        "adresse": "5 Rue Emmanuel Philipot, 35230 Saint-Erblon",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      },
+      {
+        "id": "12858597166619134298",
+        "nom": "Matthieu Serandour partenaire Velux",
+        "slug": "matthieu-serandour-partenaire-velux",
+        "telephone": "02 96 79 25 65",
+        "site_web": "http://www.matthieu-serandour.fr/",
+        "adresse": "22170 Plélo",
+        "note": 4.8,
+        "avis": 29,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3029092947691418726",
+        "nom": "Tavet Bruno",
+        "slug": "tavet-bruno",
+        "telephone": "06 07 04 83 25",
+        "site_web": "https://couverturebrunotavet.fr/",
+        "adresse": "ZA Hte Lande, 22380 Saint-Cast-le-Guildo",
+        "note": 3.3,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "trelevern": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "treglamus": {
+    "artisans": [
+      {
+        "id": "17492012260301253523",
+        "nom": "OUEST ECO-LOGIS 22",
+        "slug": "ouest-eco-logis-22",
+        "telephone": "02 98 30 37 62",
+        "site_web": "http://www.ouest-eco-logis.fr/?utm_source=gmb",
+        "adresse": "2 lieu-dit Keranfeuillen, 22540 Tréglamus",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "16198965896133479498",
+        "nom": "SKLER fenêtre de toit",
+        "slug": "skler-fenetre-de-toit",
+        "telephone": null,
+        "site_web": "https://skler-fenetre-de-toit.fr/",
+        "adresse": "11 Rue Chapelle Maudez, 22540 Pédernec",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6024394390264501058",
+        "nom": "Oriance",
+        "slug": "oriance",
+        "telephone": "02 96 60 75 98",
+        "site_web": "https://www.oriance-fenetres.com/",
+        "adresse": "9 Rue Jean Marie Baudet, 22360 Langueux",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "trelivan": {
+    "artisans": [
+      {
+        "id": "7392490002309579408",
+        "nom": "Techni Habitat VB couvreur couverture",
+        "slug": "techni-habitat-vb-couvreur-couverture",
+        "telephone": "07 80 91 52 37",
+        "site_web": "http://techni-habitat-vb.fr/",
+        "adresse": "56 La Bouvrais, 22100 Trélivan",
+        "note": 5,
+        "avis": 363,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "trevou-treguignec": {
+    "artisans": [
+      {
+        "id": "585316637722525479",
+        "nom": "Bihannic Michel & Yann SARL",
+        "slug": "bihannic-michel-yann-sarl",
+        "telephone": "02 96 23 77 96",
+        "site_web": "http://www.couverture-bihannic-michel.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-vieux-marche": {
+    "artisans": [
+      {
+        "id": "291790376680170448",
+        "nom": "Le Vieux-Marché",
+        "slug": "le-vieux-marche",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "22420 Le Vieux-Marché",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "uzel": {
+    "artisans": [
+      {
+        "id": "12357038317764212043",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-bretagne/cotes-d-armor/installateur-expert-en-pose-velux-a-saint-brieuc",
+        "adresse": "29 Rue de Gouédic, 22000 Saint-Brieuc",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-vicomte-sur-rance": {
+    "artisans": [
+      {
+        "id": "16506390194790648336",
+        "nom": "Atelier le Beau Chêne",
+        "slug": "atelier-le-beau-chene",
+        "telephone": "02 96 83 20 12",
+        "site_web": null,
+        "adresse": "ZA, 22690 La Vicomté-sur-Rance",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "yffiniac": {
+    "artisans": [
+      {
+        "id": "8407193386968715630",
+        "nom": "SNEKKER",
+        "slug": "snekker",
+        "telephone": "02 96 33 29 43",
+        "site_web": "https://www.snekker.fr/",
+        "adresse": "Rue de la Bourdinière, 22120 Yffiniac",
+        "note": 3.6,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4214093919519942097",
+        "nom": "Miroiterie Glaverouest 22",
+        "slug": "miroiterie-glaverouest-22",
+        "telephone": "02 96 34 41 71",
+        "site_web": "http://www.glaverouest.fr/",
+        "adresse": "3 bis Rue de l'Écluse, 22120 Yffiniac",
+        "note": 4.8,
+        "avis": 28,
+        "type": "Miroiterie"
+      },
+      {
+        "id": "9210585395795417428",
+        "nom": "Ruellan Les Ateliers",
+        "slug": "ruellan-les-ateliers",
+        "telephone": "02 96 33 06 79",
+        "site_web": "https://www.serrurerie-ruellan.fr/",
+        "adresse": "12 bis Rue de Brest, 22120 Hillion",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5700819323453132166",
+        "nom": "Miroiterie d'Armor",
+        "slug": "miroiterie-darmor",
+        "telephone": "02 96 72 62 47",
+        "site_web": "http://www.miroiterie-darmor.com/",
+        "adresse": "4 Rue de l'Écluse, 22120 Yffiniac",
+        "note": 3,
+        "avis": 6,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9800344092033242095",
+        "nom": "Les Clôtures de la Baie",
+        "slug": "les-clotures-de-la-baie",
+        "telephone": "02 96 72 64 02",
+        "site_web": "https://www.lescloturesdelabaie.fr/",
+        "adresse": "Zone Artisanale de l'Ecluse, Av. d'Armorique, 22120 Yffiniac",
+        "note": 5,
+        "avis": 8,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "10265664256670348229",
+        "nom": "Technitoit Saint-Brieuc",
+        "slug": "technitoit-saint-brieuc",
+        "telephone": "02 49 88 34 37",
+        "site_web": "https://www.technitoit.com/agence/cotes-d-armor-22-saint-brieuc?utm_source=google&utm_medium=gmb",
+        "adresse": "ZA Les Bas Champs, 4 rue Lucie et Raymond Aubrac, 22120 Yffiniac",
+        "note": 4.7,
+        "avis": 184,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18157710347168768502",
+        "nom": "Kiclos Armor",
+        "slug": "kiclos-armor",
+        "telephone": "02 96 52 50 62",
+        "site_web": "https://agence.kiclos.fr/2-kiclos-armor?utm_source=gmb",
+        "adresse": "Rond Point de Brézillet, 6 Av. Pierre Mendès France, 22950 Trégueux",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9749850396900856863",
+        "nom": "Eiffage Route - Agence Yffiniac",
+        "slug": "eiffage-route-agence-yffiniac",
+        "telephone": "02 96 72 78 78",
+        "site_web": "https://www.eiffageroute.com/",
+        "adresse": "Parc d'activité La Ferrère, Rue de la Ferrere BP 29, 22120 Yffiniac",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "2049752416945228497",
+        "nom": "Société RADENAC",
+        "slug": "societe-radenac",
+        "telephone": "02 96 33 10 79",
+        "site_web": "http://radenac.pro/",
+        "adresse": "25 Rue de Bretagne, 22360 Langueux",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7116444960145602010",
+        "nom": "Belles Baies",
+        "slug": "belles-baies",
+        "telephone": "02 96 52 03 03",
+        "site_web": "http://www.belles-baies.fr/?utm_source=gmb",
+        "adresse": "14 Rue Ampère, 22000 Saint-Brieuc",
+        "note": 4.4,
+        "avis": 164,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  }
+}

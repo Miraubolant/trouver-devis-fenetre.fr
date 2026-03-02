@@ -1,0 +1,870 @@
+{
+  "ville-di-pietrabugno": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "furiani": {
+    "artisans": [
+      {
+        "id": "11851932599448850645",
+        "nom": "Alu Confort - Menuiserie",
+        "slug": "alu-confort-menuiserie",
+        "telephone": "04 95 30 76 25",
+        "site_web": "https://www.aluconfort.fr/",
+        "adresse": "Centre Commercial Le Polygone, Av. Sampiero Corso, 20600 Bastia",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12849273859930242597",
+        "nom": "CASÉO Bastia",
+        "slug": "caseo-bastia",
+        "telephone": "04 95 30 20 36",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-bastia-furiani-43",
+        "adresse": "Avenue Sampiero Corso RN 193, Bastia, 20600 Furiani",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6333722480561801362",
+        "nom": "SOLUTION MENUISERIES",
+        "slug": "solution-menuiseries",
+        "telephone": "04 20 40 60 82",
+        "site_web": null,
+        "adresse": "1554 Av. de Rasignani, 20290 Borgo",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cervione": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ghisonaccia": {
+    "artisans": [
+      {
+        "id": "9324386340934437511",
+        "nom": "West Alu 2B",
+        "slug": "west-alu-2b",
+        "telephone": null,
+        "site_web": "https://westalu2b.webador.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1104203120580101715",
+        "nom": "Menuiserie Stoyanovitch",
+        "slug": "menuiserie-stoyanovitch",
+        "telephone": "04 95 46 24 39",
+        "site_web": null,
+        "adresse": "Alzitone, 20240 Ghisonaccia",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3215720162492479516",
+        "nom": "CORSE DIFFUSION Menuiseries",
+        "slug": "corse-diffusion-menuiseries",
+        "telephone": "04 95 56 13 91",
+        "site_web": "https://corsediffusion.com/",
+        "adresse": "di Fium'orbu, Z.A Migliacciaru, 20243 Prunelli",
+        "note": 4.4,
+        "avis": 27,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "brando": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "corte": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "calvi": {
+    "artisans": [
+      {
+        "id": "13586199455445835687",
+        "nom": "Balagne Menuiserie Concept",
+        "slug": "balagne-menuiserie-concept",
+        "telephone": "04 95 31 82 89",
+        "site_web": "https://bmc.corsica/",
+        "adresse": "ZA CANTONE, VOIE N° 3, 20260 Calvi",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6707187854367102621",
+        "nom": "Alu MVM Jean Pierre Palle",
+        "slug": "alu-mvm-jean-pierre-palle",
+        "telephone": "04 95 65 38 94",
+        "site_web": null,
+        "adresse": "35 (VIA N°4 Zone Industrielle, Cantone, 20260 Calvi",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9094269367313082624",
+        "nom": "CMB - ETS RANDAZZO",
+        "slug": "cmb-ets-randazzo",
+        "telephone": "04 95 55 76 02",
+        "site_web": "https://www.menuiserierandazzo.fr/",
+        "adresse": "Zone Industriel, 11 Cantone, 20260 Calvi",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14155472571232262471",
+        "nom": "SAS PRO MC",
+        "slug": "sas-pro-mc",
+        "telephone": "06 09 52 37 57",
+        "site_web": "https://www.pro-mc.fr/",
+        "adresse": "50 ZONE INDUSTRIELLE DU, Cantone, 20260 Calvi",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7615588992352456359",
+        "nom": "WOOD WORK MENUISERIE",
+        "slug": "wood-work-menuiserie",
+        "telephone": "06 24 38 11 14",
+        "site_web": "https://www.wood-work-menuiserie.fr/",
+        "adresse": "Zone Industriel, Cantone, 20260 Calvi",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "calenzana": {
+    "artisans": [
+      {
+        "id": "6707187854367102621",
+        "nom": "Alu MVM Jean Pierre Palle",
+        "slug": "alu-mvm-jean-pierre-palle",
+        "telephone": "04 95 65 38 94",
+        "site_web": null,
+        "adresse": "35 (VIA N°4 Zone Industrielle, Cantone, 20260 Calvi",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "l-ile-rousse": {
+    "artisans": [
+      {
+        "id": "2107822828902342469",
+        "nom": "Emmanuelli C.M.A",
+        "slug": "emmanuelli-cma",
+        "telephone": "04 95 63 01 00",
+        "site_web": "http://www.emmanuelli-cma.com/",
+        "adresse": "Zone Artisanale de Corbara, RT 30, 20220 L'Île-Rousse",
+        "note": 4.7,
+        "avis": 29,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8301669621890251464",
+        "nom": "Gedimat Balagne Matériaux - L'ile Rousse",
+        "slug": "gedimat-balagne-materiaux-lile-rousse",
+        "telephone": "04 95 63 02 80",
+        "site_web": "https://www.gedimat.fr/2177-magasin-gedimat-balagne-materiaux-l-ile-rousse.htm",
+        "adresse": "Allée Charles de Gaulle, 20220 L'Île-Rousse",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1323891696525378456",
+        "nom": "2B Balagne - Maison du Menuisier",
+        "slug": "2b-balagne-maison-du-menuisier",
+        "telephone": "04 95 57 16 20",
+        "site_web": "http://ile-rousse.maisondumenuisier.fr/",
+        "adresse": "24 Bis Av. Paul Doumer, 20220 L'Île-Rousse",
+        "note": 4,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lumio": {
+    "artisans": [
+      {
+        "id": "6707187854367102621",
+        "nom": "Alu MVM Jean Pierre Palle",
+        "slug": "alu-mvm-jean-pierre-palle",
+        "telephone": "04 95 65 38 94",
+        "site_web": null,
+        "adresse": "35 (VIA N°4 Zone Industrielle, Cantone, 20260 Calvi",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "linguizzetta": {
+    "artisans": [
+      {
+        "id": "17296918976731485423",
+        "nom": "Terra Corsa Couvreur",
+        "slug": "terra-corsa-couvreur",
+        "telephone": "06 70 32 01 04",
+        "site_web": "http://www.terra-corsa-couvreur.fr/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 64,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6224659547430082879",
+        "nom": "Technirenove Corse SARL",
+        "slug": "technirenove-corse-sarl",
+        "telephone": "06 11 58 73 96",
+        "site_web": "https://www.techni-renove-isolation-toiture.fr/?utm_source=gmb",
+        "adresse": "61 Chemin a Suera, 20230 Santa-Lucia-di-Moriani",
+        "note": 5,
+        "avis": 10,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "lucciana": {
+    "artisans": [
+      {
+        "id": "6476512400340985049",
+        "nom": "Bastialutechnie",
+        "slug": "bastialutechnie",
+        "telephone": "04 95 30 62 01",
+        "site_web": "http://www.bastialutechnie.fr/",
+        "adresse": "ZA Petre Turchine, RN 193, Av. de Valrose, 20290 Borgo",
+        "note": 3.4,
+        "avis": 8,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7402836428449303155",
+        "nom": "A Stazzona",
+        "slug": "a-stazzona",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Route Aéroport, 20290 Lucciana",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "penta-di-casinca": {
+    "artisans": [
+      {
+        "id": "11985430251887288611",
+        "nom": "BigMat Matériaux de Casinca",
+        "slug": "bigmat-materiaux-de-casinca",
+        "telephone": "04 95 54 82 00",
+        "site_web": "https://www.bigmat.fr/bronzini/penta-di-casinca/",
+        "adresse": "route nationale 198, 20213 Penta-di-Casinca",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "monticello": {
+    "artisans": [
+      {
+        "id": "12667289151069750828",
+        "nom": "Menuiserie Bandini",
+        "slug": "menuiserie-bandini",
+        "telephone": "09 60 08 09 87",
+        "site_web": null,
+        "adresse": "Route Bastia, 20220 Monticello",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8939148139729235783",
+        "nom": "SARL Menuiserie Balagne",
+        "slug": "sarl-menuiserie-balagne",
+        "telephone": "06 80 00 91 01",
+        "site_web": null,
+        "adresse": "20220 Monticello",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "9471306053158789364",
+        "nom": "Etanchéité Guidicelli",
+        "slug": "etancheite-guidicelli",
+        "telephone": "06 44 10 91 72",
+        "site_web": "https://www.xn--etanchitguidicelli-gwbc.com/",
+        "adresse": "lieu dit orniccio, Route de, 20220 Monticello",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise d'étanchéité"
+      }
+    ]
+  },
+  "oletta": {
+    "artisans": [
+      {
+        "id": "2642499838458977889",
+        "nom": "Nebbio Matériaux",
+        "slug": "nebbio-materiaux",
+        "telephone": "04 95 39 00 44",
+        "site_web": null,
+        "adresse": "Route de Saint-Florent, 20232 Oletta",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1541183532321940120",
+        "nom": "Nebbio Préfa Béton",
+        "slug": "nebbio-prefa-beton",
+        "telephone": "04 95 39 01 21",
+        "site_web": null,
+        "adresse": "Lieu-dit, Torra, 20232 Oletta",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6067288968715920220",
+        "nom": "BigMat MATERIAUX DE LA CONCA D'ORO",
+        "slug": "bigmat-materiaux-de-la-conca-doro",
+        "telephone": "04 95 39 00 44",
+        "site_web": "https://www.bigmat.fr/points-de-vente/materiaux-de-la-conca-doro/",
+        "adresse": "Torra lieu dit, 20232 Oletta",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "4454052549599863410",
+        "nom": "Politano & Fils EURL",
+        "slug": "politano-fils-eurl",
+        "telephone": "04 95 39 02 11",
+        "site_web": "https://www.politanoetfils.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Lieu-dit Palmola, 20232 Oletta",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "prunelli-di-fiumorbo": {
+    "artisans": [
+      {
+        "id": "4791332774922766690",
+        "nom": "BigMat Meoni",
+        "slug": "bigmat-meoni",
+        "telephone": "04 95 31 06 09",
+        "site_web": "https://www.bigmat.fr/meoni/prunelli-di-fiumorbo/",
+        "adresse": "198 lieu dit, Baldanaccia, 20243 Prunelli-di-Fiumorbo",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "12075044573501290717",
+        "nom": "Weldom Prunelli",
+        "slug": "weldom-prunelli",
+        "telephone": "04 95 56 06 16",
+        "site_web": "https://www.weldom.fr/m/weldom-prunelli",
+        "adresse": "Rt10, 198 Baldanaccia, 20243 Prunelli-di-Fiumorbo",
+        "note": 4.2,
+        "avis": 224,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "13024931066860791542",
+        "nom": "ROLLET HABITAT",
+        "slug": "rollet-habitat",
+        "telephone": "04 95 72 02 41",
+        "site_web": "https://www.rollet-habitat.fr/",
+        "adresse": "Centre médicale Zone (nord, Migliacciaru Bâtiment 3, 20243 Prunelli-di-Fiumorbo",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-florent": {
+    "artisans": [
+      {
+        "id": "4325325130321715116",
+        "nom": "Couverture Démouss'Toiture Saint-Florent",
+        "slug": "couverture-demousstoiture-saint-florent",
+        "telephone": "02 18 81 07 76",
+        "site_web": "https://couverturedemousstoituresaintflorent.fr/",
+        "adresse": "6 Rue du Commandant Charcot, 18400 Saint-Florent-sur-Cher",
+        "note": 5,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13856510650126044551",
+        "nom": "BELAROUCHI TERRASSEMENT",
+        "slug": "belarouchi-terrassement",
+        "telephone": "04 95 56 30 60",
+        "site_web": "https://www.belarouchiterrassement.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "14729773490762857025",
+        "nom": "CF Alu",
+        "slug": "cf-alu",
+        "telephone": "06 79 34 49 64",
+        "site_web": "https://cfalu-corse.fr/",
+        "adresse": "Petracolo LIEU DIT, 20215 Vescovato",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3177686621490508156",
+        "nom": "Société Nouvelle Corse Vitrage",
+        "slug": "societe-nouvelle-corse-vitrage",
+        "telephone": "04 95 33 31 67",
+        "site_web": "http://facebook.com/SN-Corse-Vitrage-1841158302807372/",
+        "adresse": "N 193, 20620 Biguglia",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "borgo": {
+    "artisans": [
+      {
+        "id": "12386656366975378512",
+        "nom": "3P Menuiserie - Maison du Menuisier",
+        "slug": "3p-menuiserie-maison-du-menuisier",
+        "telephone": "06 81 49 51 06",
+        "site_web": "https://borgo.maisondumenuisier.fr/",
+        "adresse": "Lieu-dit, Strada Vecchia N°4, 20290 Borgo",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sisco": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "san-martino-di-lota": {
+    "artisans": [
+      {
+        "id": "18206813388487348946",
+        "nom": "Boulangerie Patisserie Ventura Pietranera",
+        "slug": "boulangerie-patisserie-ventura-pietranera",
+        "telephone": "04 95 32 34 81",
+        "site_web": null,
+        "adresse": "55 Rte du Cap, 20200 San-Martino-di-Lota",
+        "note": 4.4,
+        "avis": 464,
+        "type": "Boulangerie"
+      }
+    ]
+  },
+  "santa-maria-di-lota": {
+    "artisans": [
+      {
+        "id": "6224659547430082879",
+        "nom": "Technirenove Corse SARL",
+        "slug": "technirenove-corse-sarl",
+        "telephone": "06 11 58 73 96",
+        "site_web": "https://www.techni-renove-isolation-toiture.fr/?utm_source=gmb",
+        "adresse": "61 Chemin a Suera, 20230 Santa-Lucia-di-Moriani",
+        "note": 5,
+        "avis": 10,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "santa-lucia-di-moriani": {
+    "artisans": [
+      {
+        "id": "14882621861614837346",
+        "nom": "SARL È TRÈ PIEVE",
+        "slug": "sarl-e-tre-pieve",
+        "telephone": "06 70 20 34 44",
+        "site_web": "https://www.e-tre-pieve.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "san-nicolao": {
+    "artisans": [
+      {
+        "id": "6224659547430082879",
+        "nom": "Technirenove Corse SARL",
+        "slug": "technirenove-corse-sarl",
+        "telephone": "06 11 58 73 96",
+        "site_web": "https://www.techni-renove-isolation-toiture.fr/?utm_source=gmb",
+        "adresse": "61 Chemin a Suera, 20230 Santa-Lucia-di-Moriani",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "venzolasca": {
+    "artisans": [
+      {
+        "id": "12005029552840990849",
+        "nom": "Paoli Pierre-François",
+        "slug": "paoli-pierre-francois",
+        "telephone": "04 95 36 47 07",
+        "site_web": null,
+        "adresse": "Lieu-dit Scampurnaccia, 20215 Venzolasca",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5220796192864328003",
+        "nom": "Menuiserie Antonetti",
+        "slug": "menuiserie-antonetti",
+        "telephone": "04 95 36 58 52",
+        "site_web": null,
+        "adresse": "Quartier Saint Antoine, 20215 Venzolasca",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "bastia": {
+    "artisans": [
+      {
+        "id": "12686830445039663013",
+        "nom": "La Boutique du Menuisier BASTIA 2B Menuiserie",
+        "slug": "la-boutique-du-menuisier-bastia-2b-menuiserie",
+        "telephone": "04 95 33 20 44",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/2b-menuiserie",
+        "adresse": "Avenue Sampiero Corso, Rond Point de Montesoro, 20600 Bastia",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13009349159285400652",
+        "nom": "ALU 2B",
+        "slug": "alu-2b",
+        "telephone": "04 95 56 29 75",
+        "site_web": null,
+        "adresse": "PARKING MAGIC STOCK RN 193, 20290 Borgo",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16891763258893146569",
+        "nom": "Art et fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "04 95 36 13 13",
+        "site_web": "https://probatiment.artetfenetres.com/adresses-magasins.php?utm_source=gmb",
+        "adresse": "Rn 193 Centre Commercial Rive Droite, 20620 Biguglia",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12451028760385493575",
+        "nom": "Leroy Merlin Furiani - Bastia",
+        "slug": "leroy-merlin-furiani-bastia",
+        "telephone": "04 95 30 90 70",
+        "site_web": "https://www.leroymerlin.fr/magasins/furiani-bastia.html",
+        "adresse": "Centre commercial la Rocade RN 193, 20600 Furiani",
+        "note": 3.9,
+        "avis": 1779,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "1444153332344899373",
+        "nom": "Simalu",
+        "slug": "simalu",
+        "telephone": "04 95 30 36 87",
+        "site_web": "http://www.simalu.fr/",
+        "adresse": "Lieu dit Dragone, RN 193, 20620 Biguglia",
+        "note": 3,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3060774468256051205",
+        "nom": "Gérin Frères",
+        "slug": "gerin-freres",
+        "telephone": "04 95 31 00 78",
+        "site_web": "http://www.gerin-freres.com/",
+        "adresse": "421, rue François Lota Zone Industrielle de Pastoreccia, 20600 Bastia",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "santa-reparata-di-balagna": {
+    "artisans": [
+      {
+        "id": "2107822828902342469",
+        "nom": "Emmanuelli C.M.A",
+        "slug": "emmanuelli-cma",
+        "telephone": "04 95 63 01 00",
+        "site_web": "http://www.emmanuelli-cma.com/",
+        "adresse": "Zone Artisanale de Corbara, RT 30, 20220 L'Île-Rousse",
+        "note": 4.7,
+        "avis": 29,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "vescovato": {
+    "artisans": [
+      {
+        "id": "4815670944646934164",
+        "nom": "MP Menuiserie",
+        "slug": "mp-menuiserie",
+        "telephone": "04 95 55 80 67",
+        "site_web": "https://mpmenuiserie.wordpress.com/",
+        "adresse": "Bacajola, 20215 Vescovato",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ventiseri": {
+    "artisans": [
+      {
+        "id": "12330045433395417790",
+        "nom": "electricien-ventiseri-gualtieri-electricite",
+        "slug": "electricien-ventiseri-gualtieri-electricite",
+        "telephone": "04 84 81 61 11",
+        "site_web": "http://electricien-ventiseri-gualtieri-electricite-hager.fr/",
+        "adresse": "Lieu Dit, 20240 Ventiseri",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "2966947090717308517",
+        "nom": "Utile VENTISERI",
+        "slug": "utile-ventiseri",
+        "telephone": "04 95 44 91 03",
+        "site_web": "https://magasins.utile-upf.fr/251-utile-ventiseri?utm_source=gmb",
+        "adresse": "Utile, 20240 Ventiseri",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Supérette"
+      },
+      {
+        "id": "11813887497123723149",
+        "nom": "Boucherie Giudicelli Ventiseri",
+        "slug": "boucherie-giudicelli-ventiseri",
+        "telephone": "04 95 57 84 23",
+        "site_web": null,
+        "adresse": "Travo, 20240 Ventiseri",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Boucherie-charcuterie"
+      },
+      {
+        "id": "1444878037260431808",
+        "nom": "PROFIL ACA",
+        "slug": "profil-aca",
+        "telephone": "06 26 04 73 89",
+        "site_web": "https://www.profil-aca.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "biguglia": {
+    "artisans": [
+      {
+        "id": "12082011571334622051",
+        "nom": "Carlotti Alu Menuiserie",
+        "slug": "carlotti-alu-menuiserie",
+        "telephone": "04 95 34 12 88",
+        "site_web": null,
+        "adresse": "N 193, 20620 Biguglia",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "4561192296823460165",
+        "nom": "Si.al. Sarl",
+        "slug": "sial-sarl",
+        "telephone": "04 95 58 80 35",
+        "site_web": null,
+        "adresse": "Lieu-dit Purettone, 20290 Borgo",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5291875573008202257",
+        "nom": "DI Meglio Serge",
+        "slug": "di-meglio-serge",
+        "telephone": "04 95 33 56 80",
+        "site_web": "http://www.dimeglio-fermetures-batiment.fr/?utm_source=gmb",
+        "adresse": "69 Lot. Bevinco, 20620 Biguglia",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "17030625078005987720",
+        "nom": "Travaux Etancheité Corse",
+        "slug": "travaux-etancheite-corse",
+        "telephone": "04 95 32 64 58",
+        "site_web": "https://www.tecorse.com/?utm_source=gmb",
+        "adresse": "ZIC de Campo Vallone, Lot n°2, 20620 Biguglia",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "aleria": {
+    "artisans": [
+      {
+        "id": "17583914907598413829",
+        "nom": "France Matériaux - Pifferini Matériaux",
+        "slug": "france-materiaux-pifferini-materiaux",
+        "telephone": "04 95 57 14 05",
+        "site_web": "https://negoce.france-materiaux.fr/171-france-materiaux-pifferini-materiaux?utm_source=gmb",
+        "adresse": "RN 200, 20270 Aléria",
+        "note": 3.6,
+        "avis": 5,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "17969299393303133824",
+        "nom": "Pifferini Materiaux",
+        "slug": "pifferini-materiaux",
+        "telephone": "04 95 32 42 08",
+        "site_web": null,
+        "adresse": "120 Avenue Santa Laurina, 20270 Aléria",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "14735002851081322060",
+        "nom": "ENTREPRISE VINCENSINI",
+        "slug": "entreprise-vincensini",
+        "telephone": "06 61 43 45 04",
+        "site_web": "https://www.sasvincensini.fr/",
+        "adresse": "Rés de Diana, 20270 Aléria",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "9633451021132995638",
+        "nom": "Camping Capfun - Marina d'Aléria",
+        "slug": "camping-capfun-marina-daleria",
+        "telephone": "04 95 57 01 42",
+        "site_web": "https://www.capfun.com/camping-france-corse-marina_aleria-FR.html",
+        "adresse": "Padulone Plage de, 20270 Aléria",
+        "note": 4.1,
+        "avis": 1305,
+        "type": "Terrain de camping"
+      }
+    ]
+  }
+}

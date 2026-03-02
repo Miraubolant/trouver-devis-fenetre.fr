@@ -1,0 +1,4198 @@
+{
+  "chaleins": {
+    "artisans": [
+      {
+        "id": "18204510738228488705",
+        "nom": "SCOP SARL Menuiserie Sandron",
+        "slug": "scop-sarl-menuiserie-sandron",
+        "telephone": "04 74 00 73 92",
+        "site_web": "https://www.menuiserie-sandron-ain.fr/?utm_source=Google_My_Buisness&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "Z.A de la Bare, 66 Imp. du Chêne, 01480 Chaleins",
+        "note": 4.1,
+        "avis": 25,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "chateau-gaillard": {
+    "artisans": [
+      {
+        "id": "10116571224868874817",
+        "nom": "Confort De L'habitat",
+        "slug": "confort-de-lhabitat",
+        "telephone": "04 74 34 53 08",
+        "site_web": "http://www.confort-de-l-habitat.com/?utm_source=gmb",
+        "adresse": "Za En Beauvoir, 150 Rue de la Outarde, 01500 Château-Gaillard",
+        "note": 4,
+        "avis": 8,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "challex": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8444700974528886951",
+        "nom": "Un service BTP de qualité chez Hofer Frères, entreprise située à Challex",
+        "slug": "un-service-btp-de-qualite-chez-hofer-freres-entreprise-situee-a-challex",
+        "telephone": "06 80 72 51 25",
+        "site_web": null,
+        "adresse": "335 Rte de Pergy, 01630 Challex",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "799912706509522461",
+        "nom": "VELUX Expert - BATI Fenêtre de toit Sàrl",
+        "slug": "velux-expert-bati-fenetre-de-toit-sarl",
+        "telephone": "+41 21 888 90 06",
+        "site_web": "https://www.batifenetredetoit.ch/",
+        "adresse": "Rte de Sorge 2, 1030 Bussigny, Suisse",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Entrepreneur spécialisé dans l'éclairage zénithal"
+      },
+      {
+        "id": "15450457164347373924",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/haute-savoie/installateur-expert-en-pose-velux-a-annecy",
+        "adresse": "129 Av. de Genève, 74000 Annecy",
+        "note": 4.9,
+        "avis": 101,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2748378640007266535",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/ain/installateur-expert-en-pose-velux-a-ferney-voltaire",
+        "adresse": "10 Rue de Versoix, 01210 Ferney-Voltaire",
+        "note": 5,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chatillon-sur-chalaronne": {
+    "artisans": [
+      {
+        "id": "7553259727210384209",
+        "nom": "La Boutique du Menuisier - 123 MENUISERIES",
+        "slug": "la-boutique-du-menuisier-123-menuiseries",
+        "telephone": "04 74 32 94 68",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/123-menuiseries",
+        "adresse": "262 Rue Pierre et Marie Curie, 01400 Châtillon-sur-Chalaronne",
+        "note": 5,
+        "avis": 60,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vonnas": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chatillon-la-palud": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chaneins": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chaveyriat": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "coligny": {
+    "artisans": [
+      {
+        "id": "1025060543426192105",
+        "nom": "Ain Couvreur",
+        "slug": "ain-couvreur",
+        "telephone": "07 83 06 11 73",
+        "site_web": "https://aincouvreur.com/",
+        "adresse": "456 Rte du Moulin Revel, 01270 Coligny",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "collonges": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chazey-bons": {
+    "artisans": [
+      {
+        "id": "2924298391270007279",
+        "nom": "KparK La Tour du Pin",
+        "slug": "kpark-la-tour-du-pin",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/32-kpark-la-tour-du-pin?utm_source=gmb",
+        "adresse": "13 Bd Gambetta, 38110 La Tour-du-Pin",
+        "note": 4.6,
+        "avis": 134,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2552121839724968402",
+        "nom": "MCB Menuiserie",
+        "slug": "mcb-menuiserie",
+        "telephone": "04 79 87 80 15",
+        "site_web": "http://www.mcbmenuiserie.fr/",
+        "adresse": "Rue du Chatet, 01300 Chazey-Bons",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "911500861218229530",
+        "nom": "Chazey-Bons Préfa",
+        "slug": "chazey-bons-prefa",
+        "telephone": "04 79 81 72 07",
+        "site_web": "http://www.chazey-bons-prefa.fr/",
+        "adresse": "681 Rte de Bourg, 01300 Chazey-Bons",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Constructeur de structures en béton"
+      },
+      {
+        "id": "15952536185435752838",
+        "nom": "Dam conception",
+        "slug": "dam-conception",
+        "telephone": "06 89 86 25 56",
+        "site_web": "https://www.facebook.com/DAM-conception-2548887728461658/?ref=page_internal&utm_source=gmb",
+        "adresse": "358 Rte de Rignieu, 01150 Chazey-sur-Ain",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5117159461765498977",
+        "nom": "Ain Ratable Fermetures à CHAZEY SUR AIN",
+        "slug": "ain-ratable-fermetures-a-chazey-sur-ain",
+        "telephone": "06 85 08 81 17",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6966264860028416049",
+        "nom": "Arteba",
+        "slug": "arteba",
+        "telephone": "04 74 35 36 62",
+        "site_web": "http://www.arteba.fr/",
+        "adresse": "246 Chem. des Vignes, 01500 Château-Gaillard",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14794240957098001024",
+        "nom": "MENUISOL - SOLABAIE",
+        "slug": "menuisol-solabaie",
+        "telephone": "04 79 42 04 66",
+        "site_web": "https://menuisol-belley.fr/",
+        "adresse": "320 Rue Denis Papin, 01300 Belley",
+        "note": 4.4,
+        "avis": 25,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "chazey-sur-ain": {
+    "artisans": [
+      {
+        "id": "11773789849941931450",
+        "nom": "Rom'Ain Des Bois",
+        "slug": "romain-des-bois",
+        "telephone": "06 27 89 30 27",
+        "site_web": "https://menuisier-romaindesbois-ain.fr/",
+        "adresse": "39 All. de Sament, 01150 Chazey-sur-Ain",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "corbonod": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "civrieux": {
+    "artisans": [
+      {
+        "id": "10471432333417885309",
+        "nom": "SERVIT serrurier vitrier artisan à Lyon",
+        "slug": "servit-serrurier-vitrier-artisan-a-lyon",
+        "telephone": "06 07 39 44 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service de serrurerie d'urgence"
+      }
+    ]
+  },
+  "confrancon": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chevry": {
+    "artisans": [
+      {
+        "id": "17404585387361263534",
+        "nom": "MRG HABITAT",
+        "slug": "mrg-habitat",
+        "telephone": "04 50 59 85 35",
+        "site_web": "https://www.mrghabitat.com/",
+        "adresse": "21 Rue de l'Artisanat, 01710 Thoiry",
+        "note": 4.4,
+        "avis": 68,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "crottet": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cormoranche-sur-saone": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bresse-vallons": {
+    "artisans": [
+      {
+        "id": "17638900826704208517",
+        "nom": "B.MORE MENUISERIE (MOREL)",
+        "slug": "bmore-menuiserie-morel",
+        "telephone": "04 74 30 81 05",
+        "site_web": "http://bmore.fr/",
+        "adresse": "237 Rue des Treize Vents, 01340 Montrevel-en-Bresse",
+        "note": 4.1,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11310841013786275448",
+        "nom": "Elite Fermetures",
+        "slug": "elite-fermetures",
+        "telephone": "04 74 14 71 80",
+        "site_web": "http://www.elite-fermetures.fr/",
+        "adresse": "105 Bd de Brou, 01000 Bourg-en-Bresse",
+        "note": 5,
+        "avis": 74,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12012379276432522615",
+        "nom": "Glass'inov",
+        "slug": "glassinov",
+        "telephone": "04 74 21 49 68",
+        "site_web": "http://www.glassinov.fr/",
+        "adresse": "466 Chem. des Cent Sillons, 01340 Bresse Vallons",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11670150839015172826",
+        "nom": "Menuiserie fenêtre",
+        "slug": "menuiserie-fenetre",
+        "telephone": "04 69 19 21 00",
+        "site_web": "https://menuiserie-fenetre.fr/contactez-nous/",
+        "adresse": "1487 Rte Prosper Convert, 01340 Bresse Vallons",
+        "note": 4.9,
+        "avis": 71,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "18129981848470199046",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/ain/installateur-expert-en-pose-velux-a-bourg-en-bresse",
+        "adresse": "3 Rue Xavier Privas, 01000 Bourg-en-Bresse",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4569676504678359405",
+        "nom": "KparK Bourg en Bresse",
+        "slug": "kpark-bourg-en-bresse",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/1-kpark-bourg-en-bresse?utm_source=gmb",
+        "adresse": "3 Av. Jean Jaurès, 01000 Bourg-en-Bresse",
+        "note": 4.7,
+        "avis": 150,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "divonne-les-bains": {
+    "artisans": [
+      {
+        "id": "16371980957727902063",
+        "nom": "FR Menuiseries",
+        "slug": "fr-menuiseries",
+        "telephone": "04 50 20 21 79",
+        "site_web": "https://www.frmenuiseries.com/",
+        "adresse": "146 Rue des Entrepreneurs Z.A de, 01170 Gex",
+        "note": 5,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8577140207321656132",
+        "nom": "Div-toiture",
+        "slug": "div-toiture",
+        "telephone": "06 33 75 19 48",
+        "site_web": "https://div-toiture.wixsite.com/div-toiture-1",
+        "adresse": "358 Chem. des Marais, 01220 Divonne-les-Bains",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6759284263279016273",
+        "nom": "Bois Et Fils SARL",
+        "slug": "bois-et-fils-sarl",
+        "telephone": "04 50 20 71 77",
+        "site_web": "http://www.bois-toiture.com/",
+        "adresse": "1211 Chem. de Recredoz, 01220 Divonne-les-Bains",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "crozet": {
+    "artisans": [
+      {
+        "id": "7099818189727200183",
+        "nom": "Fermetures Crozet",
+        "slug": "fermetures-crozet",
+        "telephone": "04 72 65 04 26",
+        "site_web": "https://www.f-crozet.fr/?utm_source=gmb",
+        "adresse": "Parc Brignais 2000, 22 Rte de Lyon, 69530 Brignais",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16960207810880541819",
+        "nom": "Saint Genis Menuiseries",
+        "slug": "saint-genis-menuiseries",
+        "telephone": "04 50 42 60 60",
+        "site_web": "http://www.saint-genis-menuiseries.fr/",
+        "adresse": "Chatelaine, ZAC de la Vie, 211 Rue des Étangs, 01170 Crozet",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "culoz-beon": {
+    "artisans": [
+      {
+        "id": "7403603384659363108",
+        "nom": "Menuiserie Terrier",
+        "slug": "menuiserie-terrier",
+        "telephone": "04 79 87 14 49",
+        "site_web": null,
+        "adresse": "740 Rue de Luyrieux, 01350 Culoz-Béon",
+        "note": 5,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15793390193079250927",
+        "nom": "LA BOUTIQUE DU MENUISIER - RAFFAELLI ESPACE OUVERTURE",
+        "slug": "la-boutique-du-menuisier-raffaelli-espace-ouverture",
+        "telephone": "04 79 52 03 62",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/raffaelli-espace-ouverture",
+        "adresse": "7 Pl. Gabriel Pérouse, 73100 Aix-les-Bains",
+        "note": 4.7,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16557831786438283230",
+        "nom": "Bricomarché Beon / Culoz",
+        "slug": "bricomarche-beon-culoz",
+        "telephone": "04 79 87 33 05",
+        "site_web": "https://www.bricomarche.com/magasin/beon-culoz/0566605666?store=05666&utm_source=gmb",
+        "adresse": "4 Rue de la Roselière, 01350 Culoz-Béon",
+        "note": 3.7,
+        "avis": 322,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "dagneux": {
+    "artisans": [
+      {
+        "id": "10377708423845038951",
+        "nom": "ASEO",
+        "slug": "aseo",
+        "telephone": "04 78 55 36 24",
+        "site_web": "http://www.stores-aseo.com/",
+        "adresse": "981 Rue de Genève, 01120 Dagneux",
+        "note": 5,
+        "avis": 106,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "dompierre-sur-veyle": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "dortan": {
+    "artisans": [
+      {
+        "id": "9032619216483985757",
+        "nom": "FMS Fermetures Menuiseries OYONNAX - AIN - JURA - TLB Habitat",
+        "slug": "fms-fermetures-menuiseries-oyonnax-ain-jura-tlb-habitat",
+        "telephone": "04 74 73 45 65",
+        "site_web": "https://fmsgroupe.fr/",
+        "adresse": "28 Rte de Dortan, 01100 Oyonnax",
+        "note": 4.8,
+        "avis": 181,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7371409675197589199",
+        "nom": "LEFEVRE",
+        "slug": "lefevre",
+        "telephone": "06 51 43 64 95",
+        "site_web": "https://lefevresas.fr/",
+        "adresse": "4 Rue du Lioux, 01590 Dortan",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "druillat": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "fareins": {
+    "artisans": [
+      {
+        "id": "4477355810070154313",
+        "nom": "Acecam",
+        "slug": "acecam",
+        "telephone": "04 74 60 87 49",
+        "site_web": "http://www.acecam.fr/",
+        "adresse": "Zone Artisanale, Chem. de la Gravière, 01480 Fareins",
+        "note": 3.7,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "echenevex": {
+    "artisans": [
+      {
+        "id": "3782880457036782968",
+        "nom": "SEPPmenuiserie SARL",
+        "slug": "seppmenuiserie-sarl",
+        "telephone": "06 82 64 20 47",
+        "site_web": null,
+        "adresse": "6 Rue de la Fruitière, 01170 Échenevex",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ferney-voltaire": {
+    "artisans": [
+      {
+        "id": "2748378640007266535",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/ain/installateur-expert-en-pose-velux-a-ferney-voltaire",
+        "adresse": "10 Rue de Versoix, 01210 Ferney-Voltaire",
+        "note": 5,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "feillens": {
+    "artisans": [
+      {
+        "id": "11444745711687905304",
+        "nom": "Fenêtres Mâconnaises",
+        "slug": "fenetres-maconnaises",
+        "telephone": "03 85 22 91 83",
+        "site_web": "https://www.fenetres-maconnaises.com/",
+        "adresse": "1065 Grande Rue, 01570 Feillens",
+        "note": 4.9,
+        "avis": 119,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "douvres": {
+    "artisans": [
+      {
+        "id": "290670376680296480",
+        "nom": "Douvres",
+        "slug": "douvres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01500 Douvres",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "farges": {
+    "artisans": [
+      {
+        "id": "290670376680296336",
+        "nom": "Farges",
+        "slug": "farges",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01550 Farges",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "foissiat": {
+    "artisans": [
+      {
+        "id": "9189976820236541702",
+        "nom": "Billaudy Menuiserie",
+        "slug": "billaudy-menuiserie",
+        "telephone": "06 88 02 31 33",
+        "site_web": "https://billaudy-menuiserie.fr/",
+        "adresse": "Les Vavres Route de Condamnas 149, 01340 Malafretaz",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6049791011572258164",
+        "nom": "AIN SOLUTIONS HABITAT",
+        "slug": "ain-solutions-habitat",
+        "telephone": "04 50 71 51 39",
+        "site_web": "https://www.ainsolutionshabitat.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "30 Rue François Rochaix, 01100 Oyonnax",
+        "note": 4.9,
+        "avis": 73,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "frans": {
+    "artisans": [
+      {
+        "id": "18283809174775290433",
+        "nom": "Belvue - Installateur ROTO et VELUX Villefranche sur Saône",
+        "slug": "belvue-installateur-roto-et-velux-villefranche-sur-saone",
+        "telephone": "06 80 83 36 92",
+        "site_web": "https://www.belvue.fr/trouver-son-artisan/villefranche-sur-saone/",
+        "adresse": "44 Rue de l'Industrie, 69830 Saint-Georges-de-Reneins",
+        "note": 5,
+        "avis": 32,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "francheleins": {
+    "artisans": [
+      {
+        "id": "17486517194309506760",
+        "nom": "La Boutique du Menuisier MGP",
+        "slug": "la-boutique-du-menuisier-mgp",
+        "telephone": "04 74 66 32 59",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/mgp",
+        "adresse": "15 Rte nationale 6, 69220 Belleville",
+        "note": 4.7,
+        "avis": 36,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12553806744565185307",
+        "nom": "As & Fenêtres",
+        "slug": "as-fenetres",
+        "telephone": "04 74 06 69 59",
+        "site_web": "http://www.asetfenetres.fr/",
+        "adresse": "73 impasse du bois, 01090 Montmerle-sur-Saône",
+        "note": 4.6,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "groissiat": {
+    "artisans": [
+      {
+        "id": "6530545583116435227",
+        "nom": "OKNEO HABITAT",
+        "slug": "okneo-habitat",
+        "telephone": "06 08 33 23 99",
+        "site_web": "https://okneo-habitat.fr/",
+        "adresse": "295 Rue de la Prairie, 01100 Groissiat",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7757174438575417080",
+        "nom": "Morand Bellignat - Groupe Morand",
+        "slug": "morand-bellignat-groupe-morand",
+        "telephone": "04 74 73 99 46",
+        "site_web": "https://societe-morand.fr/morand-bellignat/?utm_source=gmb",
+        "adresse": "21 Rte d'Alex, 01100 Bellignat",
+        "note": 4.7,
+        "avis": 129,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11364937989541016799",
+        "nom": "M-C-Z Lionel Aupoil Menuiserie / Charpente / Zinguerie",
+        "slug": "m-c-z-lionel-aupoil-menuiserie-charpente-zinguerie",
+        "telephone": "06 18 70 00 57",
+        "site_web": null,
+        "adresse": "Rue Castellion, 01100 Oyonnax",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5364976701948155021",
+        "nom": "Haut Bugey Fermetures",
+        "slug": "haut-bugey-fermetures",
+        "telephone": "04 74 49 05 49",
+        "site_web": null,
+        "adresse": "950 Rue de l'Ange, 01100 Bellignat",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "beard-geovreissiat": {
+    "artisans": [
+      {
+        "id": "3308159617654406859",
+        "nom": "Béard",
+        "slug": "beard",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01460 Béard-Géovreissiat",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "290670376680296192",
+        "nom": "Béard-Géovreissiat",
+        "slug": "beard-geovreissiat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01460 Béard-Géovreissiat",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "grieges": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gex": {
+    "artisans": [
+      {
+        "id": "643632167792117376",
+        "nom": "Les Fermetures Gessiennes",
+        "slug": "les-fermetures-gessiennes",
+        "telephone": "06 79 68 52 89",
+        "site_web": "https://lesfermeturesgessiennes.fr/",
+        "adresse": "290 Rue des Entrepreneurs, 01170 Gex",
+        "note": 5,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3526300537013548997",
+        "nom": "Court Miroiterie Vitrerie",
+        "slug": "court-miroiterie-vitrerie",
+        "telephone": "04 50 41 46 11",
+        "site_web": "https://www.courtetsmiroiterievitrerie.fr/contact",
+        "adresse": "74 Rue de Parozet, 01170 Gex",
+        "note": 5,
+        "avis": 1,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "guereins": {
+    "artisans": [
+      {
+        "id": "3560172865520299057",
+        "nom": "Ain Rhône fermetures",
+        "slug": "ain-rhone-fermetures",
+        "telephone": "06 09 69 57 52",
+        "site_web": "https://www.ain-rhone-fermetures.fr/?utm_source=gmb",
+        "adresse": "160 Rue de l'Industrie, 01090 Guéreins",
+        "note": 4.6,
+        "avis": 58,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "injoux-genissiat": {
+    "artisans": [
+      {
+        "id": "16204301758341293688",
+        "nom": "Concept Pose",
+        "slug": "concept-pose",
+        "telephone": "07 76 09 79 91",
+        "site_web": "https://www.concept-pose.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "plateau-d-hauteville": {
+    "artisans": [
+      {
+        "id": "15118762569415601228",
+        "nom": "Opticien Hauteville-Lompnes - Rue Mas - Le Collectif des Lunetiers",
+        "slug": "opticien-hauteville-lompnes-rue-mas-le-collectif-des-lunetiers",
+        "telephone": "04 74 35 75 27",
+        "site_web": "https://www.lecollectifdeslunetiers.fr/opticien/france/ain/opticien-plateau-d-hauteville/hauteville-masonod",
+        "adresse": "75 Rue Masonod, 01110 Plateau d'Hauteville",
+        "note": 5,
+        "avis": 49,
+        "type": "Opticien"
+      },
+      {
+        "id": "975270461492299444",
+        "nom": "Roch beaux-bois menuiserie ébénisterie",
+        "slug": "roch-beaux-bois-menuiserie-ebenisterie",
+        "telephone": "06 50 52 66 74",
+        "site_web": "http://rochbeauxbois.wixsite.com/monsite",
+        "adresse": "561 Rue Joseph Viallaz, 01110 Plateau d'Hauteville",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15852493485612324029",
+        "nom": "ALBOTOIT",
+        "slug": "albotoit",
+        "telephone": "06 14 08 52 66",
+        "site_web": "http://albotoit-charpente.fr/",
+        "adresse": "790 Rue de Sainte-Blaizine, 01110 Plateau d'Hauteville",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4623931940741191255",
+        "nom": "Cimeo Concept",
+        "slug": "cimeo-concept",
+        "telephone": "06 23 73 69 14",
+        "site_web": "https://cimeo-concept.fr/",
+        "adresse": "143 Trépont, 01110 Plateau d'Hauteville",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "jassans-riottier": {
+    "artisans": [
+      {
+        "id": "2825006530035213638",
+        "nom": "SAS MARTIALU",
+        "slug": "sas-martialu",
+        "telephone": "09 83 45 51 94",
+        "site_web": null,
+        "adresse": "224 Rue du Beaujolais, 01480 Jassans-Riottier",
+        "note": 5,
+        "avis": 44,
+        "type": "Menuisier"
+      },
+      {
+        "id": "855505206493622398",
+        "nom": "Point Aluminium SAS",
+        "slug": "point-aluminium-sas",
+        "telephone": "04 74 66 69 19",
+        "site_web": "http://www.pointaluminium.fr/",
+        "adresse": "621 Rue de la Liberté, 01480 Jassans-Riottier",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "belley": {
+    "artisans": [
+      {
+        "id": "17005946199694133539",
+        "nom": "La menuiserie de castor",
+        "slug": "la-menuiserie-de-castor",
+        "telephone": "07 81 05 21 40",
+        "site_web": "http://www.lamenuiseriedecastor.fr/",
+        "adresse": "207 route de magnieu, ZA de l'Ousson, 01300 Belley",
+        "note": 5,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13901924867044194722",
+        "nom": "Entreprise Cartier",
+        "slug": "entreprise-cartier",
+        "telephone": "04 50 60 50 87",
+        "site_web": "http://www.entreprise-cartier.fr/",
+        "adresse": "221 Rte de Vallières, 74150 Hauteville-sur-Fier",
+        "note": 4.9,
+        "avis": 49,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13508044467512080248",
+        "nom": "LT Services Menuiseries",
+        "slug": "lt-services-menuiseries",
+        "telephone": "06 20 80 60 20",
+        "site_web": "https://menuiseries-lt-services.fr/",
+        "adresse": "ZAC de l'Ousson, 01300 Belley",
+        "note": 5,
+        "avis": 8,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9834299246602124249",
+        "nom": "Menuiserie BENAT",
+        "slug": "menuiserie-benat",
+        "telephone": "06 64 38 47 42",
+        "site_web": "http://www.menuiserie-benat.fr/",
+        "adresse": "Ugiparc, 01300 Belley",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "amberieux-en-dombes": {
+    "artisans": [
+      {
+        "id": "10116571224868874817",
+        "nom": "Confort De L'habitat",
+        "slug": "confort-de-lhabitat",
+        "telephone": "04 74 34 53 08",
+        "site_web": "http://www.confort-de-l-habitat.com/?utm_source=gmb",
+        "adresse": "Za En Beauvoir, 150 Rue de la Outarde, 01500 Château-Gaillard",
+        "note": 4,
+        "avis": 8,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "8822318016294356084",
+        "nom": "Art Deco Habitat - Art et Fenêtres - Ambérieu-en-Bugey",
+        "slug": "art-deco-habitat-art-et-fenetres-amberieu-en-bugey",
+        "telephone": "04 74 38 32 54",
+        "site_web": "https://art-deco-habitat.artetfenetres.com/adresses-magasins/amberieu-en-bugey-01500.php",
+        "adresse": "ZAC EN POINT BOEUF, Rue du Commandant Jacquin, 01500 Ambérieu-en-Bugey",
+        "note": 4.2,
+        "avis": 63,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10665553885576437929",
+        "nom": "Dombes Bresse Agencement",
+        "slug": "dombes-bresse-agencement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "268 Rte du Gouverneur, 01330 Ambérieux-en-Dombes",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "izernore": {
+    "artisans": [
+      {
+        "id": "13632135071642784278",
+        "nom": "L'Expert Fenêtre Confort et Fermetures",
+        "slug": "lexpert-fenetre-confort-et-fermetures",
+        "telephone": "04 74 76 60 12",
+        "site_web": null,
+        "adresse": "2 Rue de Fouilleuse, 01460 Montréal-la-Cluse",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "635490981206626462",
+        "nom": "AML Fermetures",
+        "slug": "aml-fermetures",
+        "telephone": "04 74 49 04 73",
+        "site_web": "http://amlfermetures.com/",
+        "adresse": null,
+        "note": 4,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "amberieu-en-bugey": {
+    "artisans": [
+      {
+        "id": "18081685178811419751",
+        "nom": "Accès Rénov",
+        "slug": "acces-renov",
+        "telephone": "06 50 67 61 99",
+        "site_web": "https://www.acces-renov.fr/",
+        "adresse": "56 Rue de la République, 01500 Ambérieu-en-Bugey",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6966264860028416049",
+        "nom": "Arteba",
+        "slug": "arteba",
+        "telephone": "04 74 35 36 62",
+        "site_web": "http://www.arteba.fr/",
+        "adresse": "246 Chem. des Vignes, 01500 Château-Gaillard",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12570747376189155787",
+        "nom": "Morand Ambérieu - Groupe Morand",
+        "slug": "morand-amberieu-groupe-morand",
+        "telephone": "04 74 46 75 07",
+        "site_web": "https://societe-morand.fr/morand-amberieu/?utm_source=gmb",
+        "adresse": "69 Imp. des Perdrix, 01500 Château-Gaillard",
+        "note": 4.4,
+        "avis": 28,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5841954097969252292",
+        "nom": "Winea",
+        "slug": "winea",
+        "telephone": "04 74 76 39 34",
+        "site_web": null,
+        "adresse": "79 Av. de la Libération, 01500 Ambérieu-en-Bugey",
+        "note": 4.3,
+        "avis": 21,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "jasseron": {
+    "artisans": [
+      {
+        "id": "311094776015801180",
+        "nom": "EURL CURT NICOLAS",
+        "slug": "eurl-curt-nicolas",
+        "telephone": "06 88 30 19 42",
+        "site_web": "http://eurl-nicolascurt.fr/",
+        "adresse": "Zone des plans, 40 Rue Paul Berliet, 01250 Ceyzériat",
+        "note": 4.3,
+        "avis": 36,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14401903255358484854",
+        "nom": "Habitat Composite",
+        "slug": "habitat-composite",
+        "telephone": "04 74 30 07 42",
+        "site_web": "http://www.habitat-composite.fr/",
+        "adresse": "230 Rue Albert Métras, 01250 Ceyzériat",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3070314453539634712",
+        "nom": "SARL JUILLARD Jean Louis & Fils",
+        "slug": "sarl-juillard-jean-louis-fils",
+        "telephone": "04 74 21 48 65",
+        "site_web": null,
+        "adresse": "Chem. des Bruyères, 01250 Jasseron",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "11173808082328787208",
+        "nom": "S.S.B.",
+        "slug": "ssb",
+        "telephone": "04 74 42 62 92",
+        "site_web": "http://www.ssb.fr/?utm_source=gmb",
+        "adresse": "120 Chemin du Mln de Noirefontaine, 01250 Montagnat",
+        "note": 4.7,
+        "avis": 38,
+        "type": "Façadier"
+      },
+      {
+        "id": "6116410232045383589",
+        "nom": "a juillard sarl",
+        "slug": "a-juillard-sarl",
+        "telephone": "04 74 21 48 65",
+        "site_web": "https://a-juillard.fr/",
+        "adresse": "za les bruyères, 01250 Jasseron",
+        "note": 0,
+        "avis": 0,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "jayat": {
+    "artisans": [
+      {
+        "id": "373604355217967764",
+        "nom": "France Materiaux",
+        "slug": "france-materiaux",
+        "telephone": "04 74 25 40 23",
+        "site_web": null,
+        "adresse": "01340 Jayat",
+        "note": 4,
+        "avis": 41,
+        "type": "Magasin"
+      },
+      {
+        "id": "10178266821697742532",
+        "nom": "Berthilier Raoul Etablissements SARL",
+        "slug": "berthilier-raoul-etablissements-sarl",
+        "telephone": "04 74 25 40 23",
+        "site_web": "https://negoce.france-materiaux.fr/34-france-materiaux-berthilier",
+        "adresse": "2180 A Rte de Bourg, 01340 Jayat",
+        "note": 4,
+        "avis": 122,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15139522831959773819",
+        "nom": "Artisan Enzo Pauvil couvreur rénovation",
+        "slug": "artisan-enzo-pauvil-couvreur-renovation",
+        "telephone": "06 08 08 28 57",
+        "site_web": "https://www.entreprise-couverture-71.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10672898435884515687",
+        "nom": "Belvue - Installateur ROTO et VELUX Nancy",
+        "slug": "belvue-installateur-roto-et-velux-nancy",
+        "telephone": "03 59 28 32 29",
+        "site_web": "https://www.belvue.fr/",
+        "adresse": "8 Rue Pierre Crémel, 54410 Laneuveville-devant-Nancy",
+        "note": 4.9,
+        "avis": 104,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "laiz": {
+    "artisans": [
+      {
+        "id": "15567756342335550194",
+        "nom": "SARL CLTF",
+        "slug": "sarl-cltf",
+        "telephone": "03 85 31 54 32",
+        "site_web": "http://www.cltf.fr/",
+        "adresse": "144 Chem. des Artisans, 01290 Laiz",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12058905023547981552",
+        "nom": "Rem'S Toiture",
+        "slug": "rems-toiture",
+        "telephone": "06 60 09 50 81",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "lent": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "loyettes": {
+    "artisans": [
+      {
+        "id": "3368457731186937227",
+        "nom": "Alu-Style",
+        "slug": "alu-style",
+        "telephone": "09 53 56 21 59",
+        "site_web": null,
+        "adresse": "1262 Rte de Meximieux, 01360 Loyettes",
+        "note": 3,
+        "avis": 12,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "lagnieu": {
+    "artisans": [
+      {
+        "id": "14570702423125220584",
+        "nom": "Ain Pose ta Fenêtre",
+        "slug": "ain-pose-ta-fenetre",
+        "telephone": "06 60 45 46 68",
+        "site_web": "https://ain-pose-ta-fenetre.fr/",
+        "adresse": "660 Rte du Port, 01150 Lagnieu",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3091000540765829903",
+        "nom": "Ain Pose Ta Fenêtre ( APF)",
+        "slug": "ain-pose-ta-fenetre-apf",
+        "telephone": "06 60 45 46 68",
+        "site_web": "https://ain-pose-ta-fenetre.fr/",
+        "adresse": "ZAC de Juyeres, 01150 Vaux-en-Bugey",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ambronay": {
+    "artisans": [
+      {
+        "id": "2318219454690678258",
+        "nom": "Ambronay",
+        "slug": "ambronay",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01500 Ambronay",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "leyment": {
+    "artisans": [
+      {
+        "id": "17506629326528947762",
+        "nom": "Judiverre",
+        "slug": "judiverre",
+        "telephone": "04 74 46 04 12",
+        "site_web": "https://www.menuiserie-judiverre01.com/",
+        "adresse": "Zone Artisanale, Les Granges, 01150 Leyment",
+        "note": 4.7,
+        "avis": 52,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "4221988826982776151",
+        "nom": "WEEEZE",
+        "slug": "weeeze",
+        "telephone": "04 74 34 99 45",
+        "site_web": "http://weeeze.com/",
+        "adresse": "Les Granges, 01150 Leyment",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "jujurieux": {
+    "artisans": [
+      {
+        "id": "7763410942960603561",
+        "nom": "Jujurieux",
+        "slug": "jujurieux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01640 Jujurieux",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "malafretaz": {
+    "artisans": [
+      {
+        "id": "14052484231974146569",
+        "nom": "Louvet Yannick",
+        "slug": "louvet-yannick",
+        "telephone": "06 88 75 61 73",
+        "site_web": null,
+        "adresse": "190 Rue des Acacias, 01340 Malafretaz",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "marboz": {
+    "artisans": [
+      {
+        "id": "17439458049546140620",
+        "nom": "fr zinguerie couverture",
+        "slug": "fr-zinguerie-couverture",
+        "telephone": "06 03 59 77 86",
+        "site_web": "https://facebook.com/profile.php?id=100085175365113",
+        "adresse": "52 Rue Françoise de la Baume, 01851 Marboz",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "marsonnas": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "manziat": {
+    "artisans": [
+      {
+        "id": "11734491744634348820",
+        "nom": "Clairbaie",
+        "slug": "clairbaie",
+        "telephone": "03 85 30 14 94",
+        "site_web": "https://www.clairbaie.fr/",
+        "adresse": "205 Rue de Lavy, 01570 Manziat",
+        "note": 4.4,
+        "avis": 64,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "martignat": {
+    "artisans": [
+      {
+        "id": "6567922454751817733",
+        "nom": "Bois 2000",
+        "slug": "bois-2000",
+        "telephone": "04 74 81 16 41",
+        "site_web": "https://bois2000.fr/",
+        "adresse": "1173 Rte d'Evron, 01100 Martignat",
+        "note": 3.9,
+        "avis": 19,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8099087984700616325",
+        "nom": "Technitoit Bourg-en-Bresse",
+        "slug": "technitoit-bourg-en-bresse",
+        "telephone": "04 81 68 25 96",
+        "site_web": "https://www.technitoit.com/agence/ain-01-bourg-en-bresse-renovation/?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Z.A. Les Métrillots, 2295 RN 75, 01250 Montagnat",
+        "note": 4.6,
+        "avis": 242,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11021667158086947824",
+        "nom": "Revais Montage",
+        "slug": "revais-montage",
+        "telephone": "06 47 50 03 77",
+        "site_web": "https://revais.fr/",
+        "adresse": "9 Rte de Talour, 01100 Martignat",
+        "note": 0,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "10463147793001344503",
+        "nom": "Les Electrici'Ain",
+        "slug": "les-electriciain",
+        "telephone": "06 46 24 50 05",
+        "site_web": "http://www.leselectrici-ain.fr/",
+        "adresse": "49 Rue des Peupliers, 01100 Martignat",
+        "note": 5,
+        "avis": 20,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "marlieux": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "massieux": {
+    "artisans": [
+      {
+        "id": "3004130456771144606",
+        "nom": "Accès Création Fermetures - fenêtres - portails - portes d'entrée - alu - pvc",
+        "slug": "acces-creation-fermetures-fenetres-portails-portes-dentree-alu-pvc",
+        "telephone": "04 78 98 37 80",
+        "site_web": "http://www.accescreationfermetures.fr/",
+        "adresse": "360 Av. Lavoisier, 01600 Massieux",
+        "note": 4.8,
+        "avis": 439,
+        "type": "Fournisseur de portes de garage"
+      }
+    ]
+  },
+  "meillonnas": {
+    "artisans": [
+      {
+        "id": "2127913229279332059",
+        "nom": "Stores et Fermetures de l'Ain",
+        "slug": "stores-et-fermetures-de-lain",
+        "telephone": "04 74 42 35 11",
+        "site_web": null,
+        "adresse": "Chem. de la Berlotte, 01370 Meillonnas",
+        "note": 4,
+        "avis": 2,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "1539327153126625978",
+        "nom": "BATIMAN TLB",
+        "slug": "batiman-tlb",
+        "telephone": "04 74 21 01 79",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-tlb-menuiseries-bourg-en-bresse-peronnas",
+        "adresse": "652 Av. de Lyon, 01960 Péronnas",
+        "note": 4.5,
+        "avis": 77,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "arbent": {
+    "artisans": [
+      {
+        "id": "2126023928102067506",
+        "nom": "Groupe GROSFILLEX",
+        "slug": "groupe-grosfillex",
+        "telephone": "04 74 73 30 30",
+        "site_web": "http://www.grosfillex.com/",
+        "adresse": "20 Rue du Lac, 01100 Arbent",
+        "note": 4,
+        "avis": 207,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4075902952942789586",
+        "nom": "ELB Menuiseries",
+        "slug": "elb-menuiseries",
+        "telephone": "06 86 16 66 01",
+        "site_web": "https://www.facebook.com/ELB-Menuiseries-467936480635441/?utm_source=gmb",
+        "adresse": "7 Rue François Rochaix, 01100 Arbent",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9994379709537140126",
+        "nom": "Quincaillerie Angles",
+        "slug": "quincaillerie-angles",
+        "telephone": "04 74 49 23 61",
+        "site_web": "https://www.quincaillerie-angles.fr/",
+        "adresse": "1 Imp. Paul Golliat, 01100 Arbent",
+        "note": 5,
+        "avis": 1,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "2583618823877748814",
+        "nom": "Grosfillex Usine de la Plaine",
+        "slug": "grosfillex-usine-de-la-plaine",
+        "telephone": null,
+        "site_web": "https://www.grosfillex.com/",
+        "adresse": "503 Rue du Point B, 01100 Arbent",
+        "note": 3.5,
+        "avis": 34,
+        "type": "Fabricant"
+      },
+      {
+        "id": "1865827393345484574",
+        "nom": "Hauer Loïc",
+        "slug": "hauer-loic",
+        "telephone": "06 21 09 52 60",
+        "site_web": null,
+        "adresse": "Rue André Crétin, 01100 Oyonnax",
+        "note": 5,
+        "avis": 44,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "anglefort": {
+    "artisans": [
+      {
+        "id": "290670376680298528",
+        "nom": "Anglefort",
+        "slug": "anglefort",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01350 Anglefort",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "messimy-sur-saone": {
+    "artisans": [
+      {
+        "id": "18283809174775290433",
+        "nom": "Belvue - Installateur ROTO et VELUX Villefranche sur Saône",
+        "slug": "belvue-installateur-roto-et-velux-villefranche-sur-saone",
+        "telephone": "06 80 83 36 92",
+        "site_web": "https://www.belvue.fr/trouver-son-artisan/villefranche-sur-saone/",
+        "adresse": "44 Rue de l'Industrie, 69830 Saint-Georges-de-Reneins",
+        "note": 5,
+        "avis": 32,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ars-sur-formans": {
+    "artisans": [
+      {
+        "id": "290670376680298384",
+        "nom": "Ars-sur-Formans",
+        "slug": "ars-sur-formans",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01480 Ars-sur-Formans",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "meximieux": {
+    "artisans": [
+      {
+        "id": "4917114329230046899",
+        "nom": "cmps",
+        "slug": "cmps",
+        "telephone": "07 60 29 45 22",
+        "site_web": "https://cmpspergolastore.fr/",
+        "adresse": "170 Chem. de Mas Gentet, 01800 Villieu-Loyes-Mollon",
+        "note": 5,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "701943582958988786",
+        "nom": "Mex Menuiseries",
+        "slug": "mex-menuiseries",
+        "telephone": "06 64 88 14 35",
+        "site_web": "http://www.mexmenuiseries.fr/",
+        "adresse": "4 Rue René Hyvert, 01800 Meximieux",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14438248968734933501",
+        "nom": "Gonzalez Menuiserie",
+        "slug": "gonzalez-menuiserie",
+        "telephone": "06 67 81 73 98",
+        "site_web": "https://www.gonzalez-menuiserie.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "659717148925574478",
+        "nom": "Fourquet Richard EURL",
+        "slug": "fourquet-richard-eurl",
+        "telephone": "04 74 61 34 12",
+        "site_web": "http://www.fourquet-richard-meximieux.fr/?utm_source=gmb",
+        "adresse": "22 Pl. Vaugelas, 01800 Meximieux",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10135414058172207197",
+        "nom": "Mex Fermetures",
+        "slug": "mex-fermetures",
+        "telephone": "04 74 35 31 43",
+        "site_web": "https://mex-fermetures.fr/",
+        "adresse": "5 Rue de Genève, 01800 Meximieux",
+        "note": 5,
+        "avis": 51,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "mionnay": {
+    "artisans": [
+      {
+        "id": "10471432333417885309",
+        "nom": "SERVIT serrurier vitrier artisan à Lyon",
+        "slug": "servit-serrurier-vitrier-artisan-a-lyon",
+        "telephone": "06 07 39 44 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service de serrurerie d'urgence"
+      }
+    ]
+  },
+  "miribel": {
+    "artisans": [
+      {
+        "id": "14582244958359596707",
+        "nom": "Mickael renovation entreprise couvreur zingueur nettoyage de toiture démoussage de toiture habillage alu PVC",
+        "slug": "mickael-renovation-entreprise-couvreur-zingueur-nettoyage-de-toiture-demoussage-de-toiture-habillage-alu-pvc",
+        "telephone": "04 78 97 02 55",
+        "site_web": "http://mickaelrenovation.fr/",
+        "adresse": "2320 Rte nationale, 01120 La Boisse",
+        "note": 4.9,
+        "avis": 167,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "attignat": {
+    "artisans": [
+      {
+        "id": "638228694009338447",
+        "nom": "La Boutique du Menuisier MENUISERIE CONVERT",
+        "slug": "la-boutique-du-menuisier-menuiserie-convert",
+        "telephone": "04 74 14 81 97",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/menuiserie-convert",
+        "adresse": "144 Imp. Chilleys, 01440 Viriat",
+        "note": 4.9,
+        "avis": 104,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mezeriat": {
+    "artisans": [
+      {
+        "id": "290670376680295088",
+        "nom": "Mézériat",
+        "slug": "mezeriat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01660 Mézériat",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "miserieux": {
+    "artisans": [
+      {
+        "id": "4100744697643883524",
+        "nom": "Canet Menuiserie",
+        "slug": "canet-menuiserie",
+        "telephone": "06 22 41 14 49",
+        "site_web": "https://canet-menuiserie.fr/",
+        "adresse": "103 Route D'Ars les combes, RD 904, 01600 Misérieux",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "artemare": {
+    "artisans": [
+      {
+        "id": "290670376680298368",
+        "nom": "Artemare",
+        "slug": "artemare",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01510 Artemare",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "bage-dommartin": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montagnat": {
+    "artisans": [
+      {
+        "id": "8099087984700616325",
+        "nom": "Technitoit Bourg-en-Bresse",
+        "slug": "technitoit-bourg-en-bresse",
+        "telephone": "04 81 68 25 96",
+        "site_web": "https://www.technitoit.com/agence/ain-01-bourg-en-bresse-renovation/?utm_source=gmb&utm_medium=gmb",
+        "adresse": "Z.A. Les Métrillots, 2295 RN 75, 01250 Montagnat",
+        "note": 4.6,
+        "avis": 242,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "balan": {
+    "artisans": [
+      {
+        "id": "3175674899801161091",
+        "nom": "TRYBA Balan",
+        "slug": "tryba-balan",
+        "telephone": "04 20 98 13 42",
+        "site_web": "https://www.tryba.com/espace-conseil/01/tryba-balan/?utm_campaign=Tryba_balan&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "1114 Rte de Lyon, 01360 Balan",
+        "note": 4.3,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11766993734873557749",
+        "nom": "DMF - BALAN",
+        "slug": "dmf-balan",
+        "telephone": "04 78 04 36 64",
+        "site_web": "http://dmfweb.fr/",
+        "adresse": "582 Rte de Lyon, 01360 Balan",
+        "note": 3.7,
+        "avis": 55,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17330906825739413190",
+        "nom": "les couvreurs de l'Ain - couvreur à balan - réparation toiture - charpentier couvreur zingueur - devis toiture - déplacement sous 24h - meximieux - dagneux - beynost - miribel - la valbonne",
+        "slug": "les-couvreurs-de-lain-couvreur-a-balan-reparation-toiture-charpentier-couvreur-zingueur-devis-toiture-deplacement-sous-24h-meximieux-dagneux-beynost-miribel-la-valbonne",
+        "telephone": "06 68 99 07 24",
+        "site_web": "https://www.charpentier-couvreur-01.fr/",
+        "adresse": "1924 Rue Centrale, 01360 Balan",
+        "note": 4.9,
+        "avis": 178,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montluel": {
+    "artisans": [
+      {
+        "id": "3352445037524779086",
+        "nom": "Montluel",
+        "slug": "montluel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01120 Montluel",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "valserhone": {
+    "artisans": [
+      {
+        "id": "15662876483246637930",
+        "nom": "Khall Menuiserie",
+        "slug": "khall-menuiserie",
+        "telephone": null,
+        "site_web": "https://chatillon-en-michaille.surmesure-menuiserie.fr/",
+        "adresse": "2 Rue Clément Ader, 01200 Valserhône",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1854639882348261903",
+        "nom": "ELFE SERVICES HABITAT",
+        "slug": "elfe-services-habitat",
+        "telephone": "06 85 21 50 17",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 43,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "beligneux": {
+    "artisans": [
+      {
+        "id": "8542398338475546780",
+        "nom": "Béligneux",
+        "slug": "beligneux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01360 Béligneux",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "montreal-la-cluse": {
+    "artisans": [
+      {
+        "id": "2834036680281233845",
+        "nom": "Fenêtres Plus",
+        "slug": "fenetres-plus",
+        "telephone": "07 67 13 68 75",
+        "site_web": null,
+        "adresse": "14 Rue du Lyonnais, 01460 Montréal-la-Cluse",
+        "note": 3,
+        "avis": 16,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "blyes": {
+    "artisans": [
+      {
+        "id": "7575835635987586331",
+        "nom": "SUNNY GLASS laveur de vitres",
+        "slug": "sunny-glass-laveur-de-vitres",
+        "telephone": "06 41 24 10 68",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 43,
+        "type": "Entreprise de nettoyage de vitres"
+      }
+    ]
+  },
+  "neuville-les-dames": {
+    "artisans": [
+      {
+        "id": "2209066159120915627",
+        "nom": "MENUISERIE MONTBARBON",
+        "slug": "menuiserie-montbarbon",
+        "telephone": "04 74 55 12 93",
+        "site_web": "https://www.menuiserie-montbarbon.com/",
+        "adresse": "28 Les Comtes, 01400 Neuville-les-Dames",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17715569425413244517",
+        "nom": "Romain Perrier TP",
+        "slug": "romain-perrier-tp",
+        "telephone": "04 74 42 22 25",
+        "site_web": "https://www.romainperrier-tp.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 20,
+        "type": "Entreprise de génie civil"
+      },
+      {
+        "id": "764826627539799828",
+        "nom": "LV Création Bois",
+        "slug": "lv-creation-bois",
+        "telephone": "06 63 67 18 24",
+        "site_web": "https://www.lvcreationbois.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Artisanat"
+      }
+    ]
+  },
+  "montrevel-en-bresse": {
+    "artisans": [
+      {
+        "id": "2396675745387545900",
+        "nom": "Menuiserie BEAL",
+        "slug": "menuiserie-beal",
+        "telephone": "04 74 25 42 05",
+        "site_web": "http://www.sarl-menuiserie-beal-montrevel-en-bresse.com/",
+        "adresse": "76 Chem. des Curtils, 01340 Montrevel-en-Bresse",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "neyron": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nievroz": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "beynost": {
+    "artisans": [
+      {
+        "id": "4853992726266227503",
+        "nom": "BPI La Boutique du Menuisier",
+        "slug": "bpi-la-boutique-du-menuisier",
+        "telephone": "04 78 06 95 81",
+        "site_web": "http://www.laboutiquedumenuisier-beynost.fr/",
+        "adresse": "735 Rue des Barronnières, 01700 Beynost",
+        "note": 4.9,
+        "avis": 218,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "nantua": {
+    "artisans": [
+      {
+        "id": "12594655948896312716",
+        "nom": "SARL DOY FRERES",
+        "slug": "sarl-doy-freres",
+        "telephone": "04 74 75 02 52",
+        "site_web": "http://www.doyfreres.com/",
+        "adresse": "22 Rte de Genève, 01130 Nantua",
+        "note": 5,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17753198056506319056",
+        "nom": "GB Menuiserie",
+        "slug": "gb-menuiserie",
+        "telephone": "06 46 83 37 65",
+        "site_web": "https://www.menuiserie-gb.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10104362606204918004",
+        "nom": "BP Charpente Menuiserie",
+        "slug": "bp-charpente-menuiserie",
+        "telephone": "07 48 77 34 47",
+        "site_web": "https://www.facebook.com/profile.php?id=61570844330234",
+        "adresse": null,
+        "note": 5,
+        "avis": 28,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4699826679605866980",
+        "nom": "TOURNIER Menuiserie Charpente Ossature-Bois",
+        "slug": "tournier-menuiserie-charpente-ossature-bois",
+        "telephone": "04 74 75 77 37",
+        "site_web": "http://www.sarl-tournier.fr/",
+        "adresse": "ZA Les Pellants, 01430 Saint-Martin-du-Frêne",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1587230968687424366",
+        "nom": "M2 Fermetures",
+        "slug": "m2-fermetures",
+        "telephone": "06 24 29 13 66",
+        "site_web": "https://www.m2fermetures.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6149905952811101570",
+        "nom": "SOLABAIE PORT NANTUA",
+        "slug": "solabaie-port-nantua",
+        "telephone": "04 74 76 66 23",
+        "site_web": "http://www.solabaie.fr/",
+        "adresse": "8 Rue de l'Industrie, 01460 Port",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Magasin"
+      }
+    ]
+  },
+  "certines": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "neuville-sur-ain": {
+    "artisans": [
+      {
+        "id": "11512107031540981055",
+        "nom": "Art Deco Habitat - Art et Fenêtres - Bourg-en-Bresse",
+        "slug": "art-deco-habitat-art-et-fenetres-bourg-en-bresse",
+        "telephone": "04 74 38 32 54",
+        "site_web": "https://art-deco-habitat.artetfenetres.com/adresses-magasins/bourg-en-bresse-01000.php",
+        "adresse": "40 Av. Jean Jaurès, 01000 Bourg-en-Bresse",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15564662150861703308",
+        "nom": "Bourg Menuiserie",
+        "slug": "bourg-menuiserie",
+        "telephone": "04 74 23 59 09",
+        "site_web": "http://www.bourg-menuiserie.com/",
+        "adresse": "172 Av. Amédée Mercier, 01000 Bourg-en-Bresse",
+        "note": 4.4,
+        "avis": 160,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2010658653685926929",
+        "nom": "Ronzat Menuiseries Extérieures",
+        "slug": "ronzat-menuiseries-exterieures",
+        "telephone": "04 74 34 54 87",
+        "site_web": "http://www.ronzat-menuiseries-exterieures.fr/?utm_source=gmb",
+        "adresse": "63 Rue Alexandre Bérard, 01500 Ambérieu-en-Bugey",
+        "note": 4.9,
+        "avis": 93,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "16018236130513987249",
+        "nom": "Meurenand Sarl",
+        "slug": "meurenand-sarl",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "300 Rte de Pont d'Ain, 01160 Neuville-sur-Ain",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les revêtements de sol"
+      },
+      {
+        "id": "12428434512022528938",
+        "nom": "ESPRIT-FENÊTRES spécialisé dans la pose de menuiries PVC, BOIS, ALU dans les départements 69, 38, 01 & 42",
+        "slug": "esprit-fenetres-specialise-dans-la-pose-de-menuiries-pvc-bois-alu-dans-les-departements-69-38-01-42",
+        "telephone": "04 69 00 14 38",
+        "site_web": "https://www.espritfenetres.com/",
+        "adresse": "31 Rue Wilson, 69150 Décines-Charpieu",
+        "note": 4.9,
+        "avis": 73,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3221626916319482498",
+        "nom": "Domaine de Thol",
+        "slug": "domaine-de-thol",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "21 Rue des Associations, 01160 Neuville-sur-Ain",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Site historique"
+      }
+    ]
+  },
+  "ornex": {
+    "artisans": [
+      {
+        "id": "2748378640007266535",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/ain/installateur-expert-en-pose-velux-a-ferney-voltaire",
+        "adresse": "10 Rue de Versoix, 01210 Ferney-Voltaire",
+        "note": 5,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "oyonnax": {
+    "artisans": [
+      {
+        "id": "2648434240588386496",
+        "nom": "Global Menuiseries",
+        "slug": "global-menuiseries",
+        "telephone": "06 71 27 87 66",
+        "site_web": "http://www.globalmenuiserie.com/",
+        "adresse": "6 bis Rte de Dortan, 01100 Oyonnax",
+        "note": 3.9,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3560764311910676651",
+        "nom": "Menuiserie Goncalves",
+        "slug": "menuiserie-goncalves",
+        "telephone": "04 74 73 74 28",
+        "site_web": "https://www.menuiserie-goncalves-oyonnax.fr/",
+        "adresse": "18 Rue Gabriel Péri, 01100 Oyonnax",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1078033529869900683",
+        "nom": "M2R",
+        "slug": "m2r",
+        "telephone": "06 34 11 76 60",
+        "site_web": null,
+        "adresse": "130 Rue de Vey, 01100 Oyonnax",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "834336515924318386",
+        "nom": "Ranneaud SAS",
+        "slug": "ranneaud-sas",
+        "telephone": "04 74 77 49 76",
+        "site_web": "https://ranneaud.fr/",
+        "adresse": "173 Rue Anatole France, 01100 Oyonnax",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "briord": {
+    "artisans": [
+      {
+        "id": "11309439860597409898",
+        "nom": "Julien GUIFFRAY Toitures",
+        "slug": "julien-guiffray-toitures",
+        "telephone": "06 82 39 95 96",
+        "site_web": "https://www.guiffray-toitures.fr/",
+        "adresse": "12 Rue du Bugey, 01470 Serrières-de-Briord",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "buellas": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-marcel": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "parcieux": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-martin-du-mont": {
+    "artisans": [
+      {
+        "id": "5628021368127635862",
+        "nom": "Ain Bâti Nature",
+        "slug": "ain-bati-nature",
+        "telephone": "06 73 85 78 63",
+        "site_web": null,
+        "adresse": "245 Chem. du Pavillon, 01160 Saint-Martin-du-Mont",
+        "note": 0,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "10319606043326231712",
+        "nom": "Charpente Mortier",
+        "slug": "charpente-mortier",
+        "telephone": "04 74 35 51 43",
+        "site_web": "http://www.charpente-mortier.com/",
+        "adresse": "60 Chem. de la Maison Chêne, 01160 Saint-Martin-du-Mont",
+        "note": 5,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3958345947064620197",
+        "nom": "M2R",
+        "slug": "m2r",
+        "telephone": "06 34 11 76 60",
+        "site_web": "https://www.m-2-r.fr/",
+        "adresse": "139 Rte des Creuses, 01160 Druillat",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10467533861892364308",
+        "nom": "Confort Menuiserie | Menuiserie intérieure & Extérieure",
+        "slug": "confort-menuiserie-menuiserie-interieure-exterieure",
+        "telephone": "04 74 25 94 48",
+        "site_web": "https://www.confort-menuiserie.fr/",
+        "adresse": "41 Imp. de Calidon, 01000 Saint-Denis-lès-Bourg",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4251024720354213042",
+        "nom": "FALAISE TP",
+        "slug": "falaise-tp",
+        "telephone": "04 74 37 77 75",
+        "site_web": "https://falaise-tp.fr/",
+        "adresse": "105 Chem. de l'Éperon, 01160 Saint-Martin-du-Mont",
+        "note": 3.3,
+        "avis": 6,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "10682885894184430565",
+        "nom": "Farges Christian",
+        "slug": "farges-christian",
+        "telephone": "04 74 39 09 23",
+        "site_web": null,
+        "adresse": "250 Chem. de la Maison Chêne, 01160 Saint-Martin-du-Mont",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "14734528344150006745",
+        "nom": "M2R",
+        "slug": "m2r",
+        "telephone": "06 34 11 76 60",
+        "site_web": "https://www.m-2-r.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-martin-du-frene": {
+    "artisans": [
+      {
+        "id": "8820674167137737531",
+        "nom": "CI FERMETURE",
+        "slug": "ci-fermeture",
+        "telephone": "04 74 76 29 08",
+        "site_web": null,
+        "adresse": "6 Rue de Longeville, 01430 Saint-Martin-du-Frêne",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "peron": {
+    "artisans": [
+      {
+        "id": "6440622176163061993",
+        "nom": "Garnier-charpentes",
+        "slug": "garnier-charpentes",
+        "telephone": "06 52 71 01 41",
+        "site_web": "https://garnier-charpentes.fr/",
+        "adresse": "241 Grand Rue, 01630 Péron",
+        "note": 5,
+        "avis": 34,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4140349060050876006",
+        "nom": "CARGLASS Pare-Brise Peron",
+        "slug": "carglass-pare-brise-peron",
+        "telephone": "04 20 10 20 19",
+        "site_web": "https://www.carglass.fr/centre/01630-100000001334358/peron-pp-2851#utm_source=googlemybusiness&utm_medium=local&utm_campaign=peron&utm_content=cta-lien-page-centre",
+        "adresse": "245 Rue de Pré Munny, 01630 Péron",
+        "note": 4.2,
+        "avis": 196,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "2943960700561805024",
+        "nom": "PERRIERE CHARPENTE",
+        "slug": "perriere-charpente",
+        "telephone": "04 50 56 33 16",
+        "site_web": "https://www.perriere-charpente.fr/",
+        "adresse": "82 Grand Rue, 01630 Péron",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10875960401932703866",
+        "nom": "GSE HABITAT",
+        "slug": "gse-habitat",
+        "telephone": "07 61 04 41 67",
+        "site_web": "https://www.gse-habitat.fr/",
+        "adresse": "223 chemin du four a chaux, 01630 Péron",
+        "note": 4.5,
+        "avis": 24,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "la-boisse": {
+    "artisans": [
+      {
+        "id": "11812768556696199154",
+        "nom": "BEL’MAISON",
+        "slug": "belmaison",
+        "telephone": "06 18 16 28 72",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "bourg-en-bresse": {
+    "artisans": [
+      {
+        "id": "2522697450641855060",
+        "nom": "MURPROTEC BOURG EN BRESSE",
+        "slug": "murprotec-bourg-en-bresse",
+        "telephone": "04 74 50 72 94",
+        "site_web": "https://www.murprotec.fr/agence/murprotec-bourg-en-bresse?utm_source=gmb&utm_medium=annuaire&utm_campaign=ain",
+        "adresse": "30 Av. Jean Jaurès, 01000 Bourg-en-Bresse",
+        "note": 4.9,
+        "avis": 35,
+        "type": "Centre de diagnostic"
+      },
+      {
+        "id": "603692159644465706",
+        "nom": "C2M Morand Bourg-en-Bresse - Groupe Morand",
+        "slug": "c2m-morand-bourg-en-bresse-groupe-morand",
+        "telephone": "04 74 22 48 70",
+        "site_web": "https://societe-morand.fr/c2m-morand-bourg-en-bresse/?utm_source=gmb",
+        "adresse": "205 Rue Marius Berliet, 01000 Bourg-en-Bresse",
+        "note": 4.8,
+        "avis": 87,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4569676504678359405",
+        "nom": "KparK Bourg en Bresse",
+        "slug": "kpark-bourg-en-bresse",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/1-kpark-bourg-en-bresse?utm_source=gmb",
+        "adresse": "3 Av. Jean Jaurès, 01000 Bourg-en-Bresse",
+        "note": 4.7,
+        "avis": 150,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2723642889285830779",
+        "nom": "Menuiseries de l'Ain",
+        "slug": "menuiseries-de-lain",
+        "telephone": "04 74 22 22 44",
+        "site_web": "http://www.lesmenuiseriesdelain.sitew.fr/",
+        "adresse": "2 Rue des Ormeaux, 01000 Bourg-en-Bresse",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5406843115147316395",
+        "nom": "Ombré Fenêtre",
+        "slug": "ombre-fenetre",
+        "telephone": "04 74 22 43 11",
+        "site_web": "http://ombre-fenetre.fr/",
+        "adresse": "ZA la Teppe, 01250 Ceyzériat",
+        "note": 4.8,
+        "avis": 92,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2501333983556224897",
+        "nom": "Fournier Miroiterie",
+        "slug": "fournier-miroiterie",
+        "telephone": "04 74 22 69 48",
+        "site_web": "http://www.lexpertfenetre.fr/",
+        "adresse": "Zac, 384 Avenue de San Severo, Rdpt des Belouzes, 01000 Bourg-en-Bresse",
+        "note": 4.3,
+        "avis": 16,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11825075521808936213",
+        "nom": "TRYBA Bourg-En-Bresse",
+        "slug": "tryba-bourg-en-bresse",
+        "telephone": "04 20 98 13 16",
+        "site_web": "https://www.tryba.com/espace-conseil/01/tryba-bourg-en-bresse/?utm_campaign=Tryba_bourg_en_bresse&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "3 bis Av. des Sports, 01000 Bourg-en-Bresse",
+        "note": 5,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "peronnas": {
+    "artisans": [
+      {
+        "id": "14437265344322682565",
+        "nom": "Bresse Dombes Toitures BDT",
+        "slug": "bresse-dombes-toitures-bdt",
+        "telephone": "04 74 21 84 16",
+        "site_web": "http://bresse-dombes-toitures.fr/",
+        "adresse": "88 Chem. de la Garenne, 01960 Péronnas",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18092600106784962922",
+        "nom": "Menuiserie Guichardan",
+        "slug": "menuiserie-guichardan",
+        "telephone": "04 74 21 46 79",
+        "site_web": "https://www.menuiserie-guichardan.fr/",
+        "adresse": "Porte Sud, 407 Rue Lavoisier, 01960 Péronnas",
+        "note": 4,
+        "avis": 50,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "3780794105884457617",
+        "nom": "Prévost Toiture SARL",
+        "slug": "prevost-toiture-sarl",
+        "telephone": "06 58 79 69 75",
+        "site_web": "https://www.prevost-toiture.fr/?utm_source=gmb",
+        "adresse": "652 Av. de Lyon, 01960 Péronnas",
+        "note": 5,
+        "avis": 15,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4266802951177762779",
+        "nom": "tlbmenuiseries",
+        "slug": "tlbmenuiseries",
+        "telephone": "04 88 91 94 26",
+        "site_web": "http://tlbmenuiseries.fr/",
+        "adresse": "652 Av. de Lyon, 01960 Péronnas",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "7697117049077387121",
+        "nom": "Mondial Pare-Brise",
+        "slug": "mondial-pare-brise",
+        "telephone": "04 74 24 68 96",
+        "site_web": "https://www.mondialparebrise.fr/trouver-mon-centre/mondial-pare-brise-peronnas?utm_campaign=store-locator&utm_medium=google-my-business&utm_source=gmb",
+        "adresse": "842 Av. de Lyon, 01960 Péronnas",
+        "note": 4.7,
+        "avis": 106,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "805910974468685255",
+        "nom": "MB FERMETURE",
+        "slug": "mb-fermeture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "99 All. d'Eternaz, 01960 Péronnas",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "brens": {
+    "artisans": [
+      {
+        "id": "290670376680297776",
+        "nom": "Brens",
+        "slug": "brens",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01300 Brens",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-maurice-de-gourdans": {
+    "artisans": [
+      {
+        "id": "4853992726266227503",
+        "nom": "BPI La Boutique du Menuisier",
+        "slug": "bpi-la-boutique-du-menuisier",
+        "telephone": "04 78 06 95 81",
+        "site_web": "http://www.laboutiquedumenuisier-beynost.fr/",
+        "adresse": "735 Rue des Barronnières, 01700 Beynost",
+        "note": 4.9,
+        "avis": 218,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-maurice-de-beynost": {
+    "artisans": [
+      {
+        "id": "290670376680293168",
+        "nom": "Saint-Maurice-de-Beynost",
+        "slug": "saint-maurice-de-beynost",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01700 Saint-Maurice-de-Beynost",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-paul-de-varax": {
+    "artisans": [
+      {
+        "id": "290670376680293072",
+        "nom": "Saint-Paul-de-Varax",
+        "slug": "saint-paul-de-varax",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01240 Saint-Paul-de-Varax",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-cyr-sur-menthon": {
+    "artisans": [
+      {
+        "id": "3380856820937876571",
+        "nom": "Maison Parfaite",
+        "slug": "maison-parfaite",
+        "telephone": "06 52 41 15 36",
+        "site_web": "https://www.maisonparfaite01.fr/contact1",
+        "adresse": "269 Rte de la Mulatière, 01380 Saint-Cyr-sur-Menthon",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "saint-rambert-en-bugey": {
+    "artisans": [
+      {
+        "id": "8345468021895607135",
+        "nom": "Framea Menuisier à Saint Rambert en Bugey",
+        "slug": "framea-menuisier-a-saint-rambert-en-bugey",
+        "telephone": "06 60 66 65 38",
+        "site_web": "https://framea.fr/",
+        "adresse": "Les Pres d'Argis, 01230 Argis",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2674486517170201133",
+        "nom": "BCM Metallerie",
+        "slug": "bcm-metallerie",
+        "telephone": "04 74 36 24 93",
+        "site_web": "http://bcm-metallerie.com/",
+        "adresse": "ZA Moulin à Papier, 01230 Saint-Rambert-en-Bugey",
+        "note": 4.3,
+        "avis": 13,
+        "type": "Entreprise de transformation des métaux"
+      },
+      {
+        "id": "5181888520991011364",
+        "nom": "SAS PONCEBLANC NANS Charpente Couverture Zinguerie",
+        "slug": "sas-ponceblanc-nans-charpente-couverture-zinguerie",
+        "telephone": "06 83 68 20 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16852852281312036480",
+        "nom": "Eurl Eric Nesme",
+        "slug": "eurl-eric-nesme",
+        "telephone": "04 74 34 10 92",
+        "site_web": null,
+        "adresse": "ZA, Moulin À Papier, 01230 Saint-Rambert-en-Bugey",
+        "note": 5,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13772664403917780103",
+        "nom": "Desvignes Fabrice",
+        "slug": "desvignes-fabrice",
+        "telephone": "06 16 88 09 27",
+        "site_web": null,
+        "adresse": "Blanaz, 01230 Saint-Rambert-en-Bugey",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "881309908230933612",
+        "nom": "Romain Clement Couverture Zinguerie",
+        "slug": "romain-clement-couverture-zinguerie",
+        "telephone": "06 47 08 08 76",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "replonges": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cessy": {
+    "artisans": [
+      {
+        "id": "13735549013087711014",
+        "nom": "Vitrerie Gessienne SAS",
+        "slug": "vitrerie-gessienne-sas",
+        "telephone": "04 50 41 76 51",
+        "site_web": "http://www.vitrerie-miroiterie-cessy.fr/",
+        "adresse": "2750 Rte de Genève, 01170 Cessy",
+        "note": 4.4,
+        "avis": 20,
+        "type": "Miroiterie"
+      }
+    ]
+  },
+  "perouges": {
+    "artisans": [
+      {
+        "id": "7119702292085434708",
+        "nom": "Pérouges",
+        "slug": "perouges",
+        "telephone": null,
+        "site_web": "http://www.perouges.org/",
+        "adresse": "01800 Pérouges",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "chalamont": {
+    "artisans": [
+      {
+        "id": "3399387538735871441",
+        "nom": "SARL Siffré",
+        "slug": "sarl-siffre",
+        "telephone": "06 17 02 03 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-andre-de-corcy": {
+    "artisans": [
+      {
+        "id": "6423470381107186868",
+        "nom": "Saint-André-de-Corcy",
+        "slug": "saint-andre-de-corcy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01390 Saint-André-de-Corcy",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-trivier-de-courtes": {
+    "artisans": [
+      {
+        "id": "18265910945406285977",
+        "nom": "Intérieur Extérieur - Terres De Fenêtre - Spécialiste menuiseries et stores",
+        "slug": "interieur-exterieur-terres-de-fenetre-specialiste-menuiseries-et-stores",
+        "telephone": "04 74 24 27 09",
+        "site_web": "https://www.interieur-exterieur.pro/",
+        "adresse": "36 Rte de Curciat, 01560 Saint-Trivier-de-Courtes",
+        "note": 5,
+        "avis": 30,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "segny": {
+    "artisans": [
+      {
+        "id": "2748378640007266535",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/ain/installateur-expert-en-pose-velux-a-ferney-voltaire",
+        "adresse": "10 Rue de Versoix, 01210 Ferney-Voltaire",
+        "note": 5,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sergy": {
+    "artisans": [
+      {
+        "id": "900951888062241790",
+        "nom": "BGS Serrurerie Sécurité",
+        "slug": "bgs-serrurerie-securite",
+        "telephone": "06 49 53 50 25",
+        "site_web": "http://www.bgs-serrurerie-securite.com/",
+        "adresse": "181 Rue des Prêles, 01630 Sergy",
+        "note": 5,
+        "avis": 38,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "1195859194385277992",
+        "nom": "SAMSE",
+        "slug": "samse",
+        "telephone": "04 50 42 24 40",
+        "site_web": "https://www.samse.fr/agences/saint-genis-pouilly",
+        "adresse": "Zone Artisanale de l’Allondon, 5 Rue du Salève, 01630 Saint-Genis-Pouilly",
+        "note": 3.9,
+        "avis": 141,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-trivier-sur-moignans": {
+    "artisans": [
+      {
+        "id": "2160852925245989812",
+        "nom": "Menuiserie Roux Alain",
+        "slug": "menuiserie-roux-alain",
+        "telephone": "04 74 55 80 72",
+        "site_web": "https://menuiseriealainroux.fr/",
+        "adresse": "214 Rue de la République, 01990 Saint-Trivier-sur-Moignans",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "reyssouze": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-didier-de-formans": {
+    "artisans": [
+      {
+        "id": "13794426167034385191",
+        "nom": "Menuiserie Sandron SARL",
+        "slug": "menuiserie-sandron-sarl",
+        "telephone": "04 74 00 73 92",
+        "site_web": "http://www.menuiserie-sandron-ain.fr/",
+        "adresse": "Chem. des Gillards, 01480 Ars-sur-Formans",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18204510738228488705",
+        "nom": "SCOP SARL Menuiserie Sandron",
+        "slug": "scop-sarl-menuiserie-sandron",
+        "telephone": "04 74 00 73 92",
+        "site_web": "https://www.menuiserie-sandron-ain.fr/?utm_source=Google_My_Buisness&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "Z.A de la Bare, 66 Imp. du Chêne, 01480 Chaleins",
+        "note": 4.1,
+        "avis": 25,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-didier-sur-chalaronne": {
+    "artisans": [
+      {
+        "id": "758219469817299319",
+        "nom": "Ets Loron",
+        "slug": "ets-loron",
+        "telephone": "04 74 04 90 73",
+        "site_web": null,
+        "adresse": "20 Rue du Plt de Challes, 01140 Saint-Didier-sur-Chalaronne",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-denis-en-bugey": {
+    "artisans": [
+      {
+        "id": "4749784388523756501",
+        "nom": "Gp Services",
+        "slug": "gp-services",
+        "telephone": "06 81 26 40 93",
+        "site_web": "http://www.gpservices-renov.fr/",
+        "adresse": "41 Rue Victor Hugo, 01500 Saint-Denis-en-Bugey",
+        "note": 5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "414600162282293136",
+        "nom": "Ainfluence Construction",
+        "slug": "ainfluence-construction",
+        "telephone": "06 47 33 07 59",
+        "site_web": "http://www.ainfluence-construction.fr/",
+        "adresse": "2 bis All. des Acacias, 01500 Saint-Denis-en-Bugey",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "saint-genis-pouilly": {
+    "artisans": [
+      {
+        "id": "6335672372705593110",
+        "nom": "Melanno Zinguerie",
+        "slug": "melanno-zinguerie",
+        "telephone": "06 09 35 18 33",
+        "site_web": "https://www.melanno-zinguerie.fr/",
+        "adresse": "165 Rue Clément Ader, 01630 Saint-Genis-Pouilly",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7805339470062489669",
+        "nom": "MENUI-STORE",
+        "slug": "menui-store",
+        "telephone": "06 24 40 72 96",
+        "site_web": "http://www.menui-store.fr/",
+        "adresse": "15 Rue Jean Charnoz, 01630 Saint-Genis-Pouilly",
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13199650712715296506",
+        "nom": "Heytens Saint-Genis-Pouilly",
+        "slug": "heytens-saint-genis-pouilly",
+        "telephone": "04 50 13 98 22",
+        "site_web": "https://www.heytens.com/fr/showrooms/heytens-saint-genis-pouilly/",
+        "adresse": "45 Rue du Mont Blanc, 01630 Saint-Genis-Pouilly",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "12329554572513849551",
+        "nom": "Alliance Multi-services",
+        "slug": "alliance-multi-services",
+        "telephone": "06 51 19 03 69",
+        "site_web": null,
+        "adresse": "65 Rue de la Liberté, 01630 Saint-Genis-Pouilly",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7213200474105480484",
+        "nom": "EUROPE FERMETURE",
+        "slug": "europe-fermeture",
+        "telephone": "04 50 41 87 77",
+        "site_web": "https://europe-fermeture.com/",
+        "adresse": "211 Rue du Mont Rond, 01630 Saint-Genis-Pouilly",
+        "note": 3.8,
+        "avis": 16,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "tenay": {
+    "artisans": [
+      {
+        "id": "290670376680292576",
+        "nom": "Tenay",
+        "slug": "tenay",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01230 Tenay",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-etienne-du-bois": {
+    "artisans": [
+      {
+        "id": "14001179787882603635",
+        "nom": "Gros Frères Menuiserie Ebénisterie Agencement",
+        "slug": "gros-freres-menuiserie-ebenisterie-agencement",
+        "telephone": "04 74 30 50 58",
+        "site_web": "http://grosfreres-menuiseries-01.com/",
+        "adresse": "221 Chem. de la Bergaderie, 01370 Saint-Étienne-du-Bois",
+        "note": 4,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "servas": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "seyssel": {
+    "artisans": [
+      {
+        "id": "12890864051146510853",
+        "nom": "Les Menuiseries Seysselanes",
+        "slug": "les-menuiseries-seysselanes",
+        "telephone": "04 50 59 26 97",
+        "site_web": null,
+        "adresse": "692 Rte de Chautagne, 74910 Seyssel",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5156992014268650960",
+        "nom": "OM POSE",
+        "slug": "om-pose",
+        "telephone": "06 28 94 34 37",
+        "site_web": "https://www.om-pose.fr/",
+        "adresse": "3 Rte de Genève, 74910 Seyssel",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "reyrieux": {
+    "artisans": [
+      {
+        "id": "16843821238154061581",
+        "nom": "KparK Limonest",
+        "slug": "kpark-limonest",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/65-kpark-limonest?utm_source=gmb",
+        "adresse": "18 D306, 69760 Limonest",
+        "note": 4.4,
+        "avis": 108,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3004130456771144606",
+        "nom": "Accès Création Fermetures - fenêtres - portails - portes d'entrée - alu - pvc",
+        "slug": "acces-creation-fermetures-fenetres-portails-portes-dentree-alu-pvc",
+        "telephone": "04 78 98 37 80",
+        "site_web": "http://www.accescreationfermetures.fr/",
+        "adresse": "360 Av. Lavoisier, 01600 Massieux",
+        "note": 4.8,
+        "avis": 439,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "18266558226839884003",
+        "nom": "Calad Bois",
+        "slug": "calad-bois",
+        "telephone": "04 74 68 32 72",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/calad-bois",
+        "adresse": "715 Rue de la Farnière, 69400 Gleizé",
+        "note": 4.3,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7089405819281326568",
+        "nom": "Gousset Menuisier Charpentier",
+        "slug": "gousset-menuisier-charpentier",
+        "telephone": "04 74 08 82 73",
+        "site_web": "http://gousset-menuisier-charpentier.fr/",
+        "adresse": "Rue des Genêts, 01600 Reyrieux",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villieu-loyes-mollon": {
+    "artisans": [
+      {
+        "id": "17435412760341924363",
+        "nom": "Clarté Confort Isolation",
+        "slug": "clarte-confort-isolation",
+        "telephone": "06 14 18 80 84",
+        "site_web": "http://clarteconfortisolation.site-solocal.com/?utm_source=gmb",
+        "adresse": "313 Av. Charles de Gaulle, 01800 Villieu-Loyes-Mollon",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "thoiry": {
+    "artisans": [
+      {
+        "id": "4438329923554125053",
+        "nom": "Menuiserie Guichardan",
+        "slug": "menuiserie-guichardan",
+        "telephone": "04 50 99 77 46",
+        "site_web": "https://www.menuiserie-guichardan.fr/",
+        "adresse": "54 Chem. de la Praille, 01710 Thoiry",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5810529259739796669",
+        "nom": "TRYBA Thoiry",
+        "slug": "tryba-thoiry",
+        "telephone": "04 20 98 13 45",
+        "site_web": "https://www.tryba.com/espace-conseil/01/tryba-thoiry/?utm_campaign=Tryba_Thoiry&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "117 Chem. de la Praille, 01710 Thoiry",
+        "note": 4.3,
+        "avis": 125,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15241546176386441613",
+        "nom": "Vie & Véranda",
+        "slug": "vie-veranda",
+        "telephone": "04 50 42 35 85",
+        "site_web": "https://www.vie-veranda.com/agences/veranda-geneve",
+        "adresse": "ZI de la Praille, 57 Rue de l'Artisanat, 01710 Thoiry",
+        "note": 4.5,
+        "avis": 58,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-bernard": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villebois": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "thil": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "rignieux-le-franc": {
+    "artisans": [
+      {
+        "id": "17082357797416398296",
+        "nom": "APF-Ain Pro Fermeture",
+        "slug": "apf-ain-pro-fermeture",
+        "telephone": "06 71 36 99 45",
+        "site_web": "http://apfermeture.fr/",
+        "adresse": "Rue du Champ Fleuri, 01800 Rignieux-le-Franc",
+        "note": 5,
+        "avis": 43,
+        "type": "Serrurier"
+      },
+      {
+        "id": "17435412760341924363",
+        "nom": "Clarté Confort Isolation",
+        "slug": "clarte-confort-isolation",
+        "telephone": "06 14 18 80 84",
+        "site_web": "http://clarteconfortisolation.site-solocal.com/?utm_source=gmb",
+        "adresse": "313 Av. Charles de Gaulle, 01800 Villieu-Loyes-Mollon",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "villeneuve": {
+    "artisans": [
+      {
+        "id": "5924252768262998694",
+        "nom": "Villeneuve",
+        "slug": "villeneuve",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01480 Villeneuve",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "villereversure": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-jean-le-vieux": {
+    "artisans": [
+      {
+        "id": "3531993951669680871",
+        "nom": "Perraud Et Associés",
+        "slug": "perraud-et-associes",
+        "telephone": "04 74 36 91 55",
+        "site_web": "https://www.perraud-associes.com/?utm_source=gmb",
+        "adresse": "590 Rte de Genève, 01640 Saint-Jean-le-Vieux",
+        "note": 3,
+        "avis": 4,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "14478212681827199559",
+        "nom": "Maillet Benjamin",
+        "slug": "maillet-benjamin",
+        "telephone": "04 74 36 85 36",
+        "site_web": null,
+        "adresse": "Rue de la Menuiserie, 01640 Saint-Jean-le-Vieux",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-andre-sur-vieux-jonc": {
+    "artisans": [
+      {
+        "id": "290670376680293808",
+        "nom": "Saint-André-sur-Vieux-Jonc",
+        "slug": "saint-andre-sur-vieux-jonc",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01960 Saint-André-sur-Vieux-Jonc",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "saint-benigne": {
+    "artisans": [
+      {
+        "id": "7813432925843357145",
+        "nom": "Solabaie CN fermeture Distributeur Agrée",
+        "slug": "solabaie-cn-fermeture-distributeur-agree",
+        "telephone": "03 85 22 96 25",
+        "site_web": "http://cnfermeture.site-solocal.com/",
+        "adresse": "Le Grand Mollard, 01190 Saint-Bénigne",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16084682397642093920",
+        "nom": "BS Charpente Construction Bois",
+        "slug": "bs-charpente-construction-bois",
+        "telephone": "06 34 23 61 63",
+        "site_web": "http://www.bs-charpente.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "poncin": {
+    "artisans": [
+      {
+        "id": "3556635689612746807",
+        "nom": "ELCC Terres de Fenêtre",
+        "slug": "elcc-terres-de-fenetre",
+        "telephone": "04 74 37 22 67",
+        "site_web": "http://www.elcc-bois.fr/?utm_source=gmb",
+        "adresse": "189 Sous la Côte, 01450 Poncin",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6452158328017138401",
+        "nom": "Rom'Ain Charpente",
+        "slug": "romain-charpente",
+        "telephone": "06 47 52 53 23",
+        "site_web": "https://www.romaincharpente.fr/",
+        "adresse": "178 Rue de la Résistance, 01450 Poncin",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "thoissey": {
+    "artisans": [
+      {
+        "id": "758219469817299319",
+        "nom": "Ets Loron",
+        "slug": "ets-loron",
+        "telephone": "04 74 04 90 73",
+        "site_web": null,
+        "adresse": "20 Rue du Plt de Challes, 01140 Saint-Didier-sur-Chalaronne",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-jean-de-gonville": {
+    "artisans": [
+      {
+        "id": "11862387022951942355",
+        "nom": "JL TP",
+        "slug": "jl-tp",
+        "telephone": "06 23 86 02 94",
+        "site_web": null,
+        "adresse": "1681 Rue Grand Route, 01630 Saint-Jean-de-Gonville",
+        "note": 4.5,
+        "avis": 19,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "16121963959636270897",
+        "nom": "Dura Menuiserie",
+        "slug": "dura-menuiserie",
+        "telephone": "07 83 41 66 91",
+        "site_web": "http://dura-menuiserie.fr/",
+        "adresse": "411 Rue du Bourg, 01630 Saint-Jean-de-Gonville",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "546302444037972131",
+        "nom": "Ferblanterie Gessienne",
+        "slug": "ferblanterie-gessienne",
+        "telephone": "04 50 59 15 30",
+        "site_web": "http://www.couvreur-zingueur-gex.fr/",
+        "adresse": "zone artisanale de, 120 Chem. de Baritella, 01630 Saint-Jean-de-Gonville",
+        "note": 4.7,
+        "avis": 44,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11953972020673826001",
+        "nom": "Leger Agencement",
+        "slug": "leger-agencement",
+        "telephone": "07 82 64 07 02",
+        "site_web": null,
+        "adresse": "291 Chem. de Baritella, 01630 Saint-Jean-de-Gonville",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "8325592488396690488",
+        "nom": "ETS NABAFFA - Travaux publics",
+        "slug": "ets-nabaffa-travaux-publics",
+        "telephone": "04 50 56 31 80",
+        "site_web": null,
+        "adresse": "647 Rte du Chêne, 01630 Saint-Jean-de-Gonville",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13463233160835293812",
+        "nom": "Humbert Sébastien",
+        "slug": "humbert-sebastien",
+        "telephone": "04 50 59 42 24",
+        "site_web": null,
+        "adresse": "33 Rue de la Louvatière, 01630 Saint-Jean-de-Gonville",
+        "note": 4,
+        "avis": 133,
+        "type": "Boulangerie"
+      }
+    ]
+  },
+  "saint-jean-de-niost": {
+    "artisans": [
+      {
+        "id": "7575835635987586331",
+        "nom": "SUNNY GLASS laveur de vitres",
+        "slug": "sunny-glass-laveur-de-vitres",
+        "telephone": "06 41 24 10 68",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 43,
+        "type": "Entreprise de nettoyage de vitres"
+      },
+      {
+        "id": "10708522899987192622",
+        "nom": "Menuiserie Beraud",
+        "slug": "menuiserie-beraud",
+        "telephone": "06 61 98 66 66",
+        "site_web": "https://www.menuiserie-beraud.com/",
+        "adresse": "57 Rue du Buyat, 01800 Saint-Jean-de-Niost",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "835741202664028058",
+        "nom": "LudiLUX - Art et Fenêtres - Pergolas RENSON - Bourgoin Jallieu",
+        "slug": "ludilux-art-et-fenetres-pergolas-renson-bourgoin-jallieu",
+        "telephone": "04 74 90 02 02",
+        "site_web": "http://www.ludilux.fr/",
+        "adresse": "225 Av. des Marronniers, 38300 Bourgoin-Jallieu",
+        "note": 4.7,
+        "avis": 233,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10091130618148327191",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "04 72 50 95 52",
+        "site_web": "https://www.acielouvert.com/",
+        "adresse": "2 Rue Gabriel Bourdarias, 69200 Vénissieux",
+        "note": 5,
+        "avis": 155,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13937777891316426628",
+        "nom": "Guillaume MAHIN",
+        "slug": "guillaume-mahin",
+        "telephone": "06 73 56 07 18",
+        "site_web": "http://www.guillaumemahin.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "3404630032805757895",
+        "nom": "LudiLUX - Art et Fenêtres - Les Abrets En Dauphiné",
+        "slug": "ludilux-art-et-fenetres-les-abrets-en-dauphine",
+        "telephone": "04 58 15 07 00",
+        "site_web": "https://ludilux.artetfenetres.com/adresses-magasins/les-abrets-38490.php?utm_campaign=GMB_les_abrets_en_dauphine&utm_medium=organic&utm_source=GMB",
+        "adresse": "32 Rue Gambetta, 38490 Les Abrets en Dauphiné",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7755742424572631124",
+        "nom": "Installux Aluminium & Partenaires",
+        "slug": "installux-aluminium-partenaires",
+        "telephone": "04 72 48 31 31",
+        "site_web": "http://www.installux-aluminium.com/",
+        "adresse": "28 Chem. de la Motte, 69720 Saint-Bonnet-de-Mure",
+        "note": 3.9,
+        "avis": 36,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "pont-d-ain": {
+    "artisans": [
+      {
+        "id": "6419257735196394214",
+        "nom": "Morel Services SAS",
+        "slug": "morel-services-sas",
+        "telephone": "04 74 39 15 55",
+        "site_web": "http://www.facebook.com/reseau.decostory?utm_source=gmb",
+        "adresse": "19 Rue Gabriel Vicaire, 01160 Pont-d'Ain",
+        "note": 3.9,
+        "avis": 32,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "villars-les-dombes": {
+    "artisans": [
+      {
+        "id": "13235892790361695988",
+        "nom": "Artisan Bailly",
+        "slug": "artisan-bailly",
+        "telephone": "06 77 74 35 16",
+        "site_web": "https://www.artisanbailly.fr/",
+        "adresse": "Rue du Bény, 01330 Villars-les-Dombes",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2790308442576500934",
+        "nom": "Film-pour-vitre.com",
+        "slug": "film-pour-vitrecom",
+        "telephone": "04 85 80 03 26",
+        "site_web": "https://www.film-pour-vitre.com/",
+        "adresse": "La Tuilerie, 587 Rue Pierre Poivre ZAC de, 01330 Villars-les-Dombes",
+        "note": 3.4,
+        "avis": 32,
+        "type": "Prestataire spécialisé dans les vitres teintées"
+      },
+      {
+        "id": "7243498121374774824",
+        "nom": "MFA Travaux - Maison Française De L'Artisanat - Rénovation habitat maison & appartement",
+        "slug": "mfa-travaux-maison-francaise-de-lartisanat-renovation-habitat-maison-appartement",
+        "telephone": "04 78 55 29 03",
+        "site_web": "https://www.mfatravaux.fr/",
+        "adresse": "550 Av. Charles de Gaulle, 01330 Villars-les-Dombes",
+        "note": 4.5,
+        "avis": 94,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1782724249784139867",
+        "nom": "JAM Difus'",
+        "slug": "jam-difus",
+        "telephone": "04 27 85 30 71",
+        "site_web": "https://www.jam-difus.com/",
+        "adresse": "ZAC de La Tuilerie, 587 Rue Pierre Poivre, 01330 Villars-les-Dombes",
+        "note": 3.2,
+        "avis": 21,
+        "type": "Prestataire spécialisé dans les vitres teintées"
+      },
+      {
+        "id": "13291683656008432421",
+        "nom": "Variance Store",
+        "slug": "variance-store",
+        "telephone": "04 27 85 30 73",
+        "site_web": "https://www.variance-store.com/",
+        "adresse": "La Tuilerie, 587 Rue Pierre Poivre ZAC de, 01330 Villars-les-Dombes",
+        "note": 2.7,
+        "avis": 7,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "7096665307705872582",
+        "nom": "Variance Auto : N°1 FR des vitres teintées/covering",
+        "slug": "variance-auto-n1-fr-des-vitres-teinteescovering",
+        "telephone": "04 27 85 30 71",
+        "site_web": "https://www.variance-auto.com/",
+        "adresse": "La Tuilerie, 587 Rue Pierre Poivre ZAC de, 01330 Villars-les-Dombes",
+        "note": 3.1,
+        "avis": 352,
+        "type": "Prestataire spécialisé dans les vitres teintées"
+      }
+    ]
+  },
+  "saint-vulbas": {
+    "artisans": [
+      {
+        "id": "2616585128146283636",
+        "nom": "K.LINE LIMA",
+        "slug": "kline-lima",
+        "telephone": "04 37 61 63 00",
+        "site_web": null,
+        "adresse": "01150 Saint-Vulbas",
+        "note": 3.8,
+        "avis": 41,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "toussieux": {
+    "artisans": [
+      {
+        "id": "18283809174775290433",
+        "nom": "Belvue - Installateur ROTO et VELUX Villefranche sur Saône",
+        "slug": "belvue-installateur-roto-et-velux-villefranche-sur-saone",
+        "telephone": "06 80 83 36 92",
+        "site_web": "https://www.belvue.fr/trouver-son-artisan/villefranche-sur-saone/",
+        "adresse": "44 Rue de l'Industrie, 69830 Saint-Georges-de-Reneins",
+        "note": 5,
+        "avis": 32,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "tramoyes": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "prevessin-moens": {
+    "artisans": [
+      {
+        "id": "2748378640007266535",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/ain/installateur-expert-en-pose-velux-a-ferney-voltaire",
+        "adresse": "10 Rue de Versoix, 01210 Ferney-Voltaire",
+        "note": 5,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "val-revermont": {
+    "artisans": [
+      {
+        "id": "8102354204780578213",
+        "nom": "SAVOIR VERRE",
+        "slug": "savoir-verre",
+        "telephone": "06 46 74 58 18",
+        "site_web": "http://www.savoirverre.fr/",
+        "adresse": "ZA de lucinges 450 VAL-REVERMONT, Grand Pré de l'Étang, 01370",
+        "note": 5,
+        "avis": 4,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "3954631976356475056",
+        "nom": "Verre et Ombre",
+        "slug": "verre-et-ombre",
+        "telephone": "06 70 06 09 92",
+        "site_web": "https://www.verre-et-ombre.fr/",
+        "adresse": "695 Chem. du Mas Girard, 01370 Val-Revermont",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17643932789728851731",
+        "nom": "VP Menuiserie",
+        "slug": "vp-menuiserie",
+        "telephone": "06 78 87 51 99",
+        "site_web": null,
+        "adresse": "171 Chemin du Bois des Pommiers, 01370 Val-Revermont",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13038966319383204898",
+        "nom": "GAVAND CHATARD",
+        "slug": "gavand-chatard",
+        "telephone": "04 74 21 70 86",
+        "site_web": null,
+        "adresse": "55 Chemin des Communaux ZI de LUCINGES, 01370 Val-Revermont",
+        "note": 5,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "trevoux": {
+    "artisans": [
+      {
+        "id": "14352357990844621611",
+        "nom": "ABP Menuiserie",
+        "slug": "abp-menuiserie",
+        "telephone": "06 24 54 62 02",
+        "site_web": "https://www.abp-menuiserie.fr/",
+        "adresse": "415 All. de Fétan, 01600 Trévoux",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17642309892674740659",
+        "nom": "Didier Villancher",
+        "slug": "didier-villancher",
+        "telephone": "06 07 57 70 77",
+        "site_web": null,
+        "adresse": "138 Rte de Lyon, 01600 Trévoux",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10051999318792958107",
+        "nom": "Menuiserie Dombes Horizon",
+        "slug": "menuiserie-dombes-horizon",
+        "telephone": "07 55 23 62 55",
+        "site_web": "https://menuiserie-dombes-horizon.fr/",
+        "adresse": "348 All. des Filieristes, 01600 Trévoux",
+        "note": 5,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9529618059979734128",
+        "nom": "Inext Création",
+        "slug": "inext-creation",
+        "telephone": "07 45 29 01 87",
+        "site_web": "https://www.pagesjaunes.fr/pros/62875990",
+        "adresse": "26 Mnt de Beluizon, 01600 Trévoux",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-laurent-sur-saone": {
+    "artisans": [
+      {
+        "id": "16122295769989882355",
+        "nom": "JD Confort et Baies",
+        "slug": "jd-confort-et-baies",
+        "telephone": "06 40 63 72 50",
+        "site_web": "http://jdconfortetbaies.fr/",
+        "adresse": "47 Rue Jean Jaurès, 01750 Saint-Laurent-sur-Saône",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "viriat": {
+    "artisans": [
+      {
+        "id": "5558937455231316345",
+        "nom": "NV menuiserie",
+        "slug": "nv-menuiserie",
+        "telephone": "07 55 64 54 03",
+        "site_web": "http://nv-menuiserie.fr/",
+        "adresse": "30 All. des Oiseaux, 01960 Péronnas",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6301929182139172054",
+        "nom": "Avenir Rénovations Bourg-en-Bresse",
+        "slug": "avenir-renovations-bourg-en-bresse",
+        "telephone": "03 53 64 11 67",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-01-bourg-en-bresse/",
+        "adresse": "Bâtiment Mob, Z.I.Cenord, 12 Rue Barthélémy Thimonnier, 01000 Bourg-en-Bresse",
+        "note": 5,
+        "avis": 2,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3860860965254479205",
+        "nom": "Félix Toiture Père et Fils",
+        "slug": "felix-toiture-pere-et-fils",
+        "telephone": "06 03 11 47 40",
+        "site_web": null,
+        "adresse": "135 Bis Rue de la Barre, 01440 Viriat",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-jean-sur-veyle": {
+    "artisans": [
+      {
+        "id": "290670376680293344",
+        "nom": "Saint-Jean-sur-Veyle",
+        "slug": "saint-jean-sur-veyle",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01290 Saint-Jean-sur-Veyle",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "virignin": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "versonnex": {
+    "artisans": [
+      {
+        "id": "7111416892000556018",
+        "nom": "Entreprise Couverture Toitures Solutions Versonnex",
+        "slug": "entreprise-couverture-toitures-solutions-versonnex",
+        "telephone": "04 85 29 03 45",
+        "site_web": "https://entreprise-couverture-toitures-solutions.ovh/",
+        "adresse": "25 Imp. de la vendée, 01210 Versonnex",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "priay": {
+    "artisans": [
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vaux-en-bugey": {
+    "artisans": [
+      {
+        "id": "5213446947798010057",
+        "nom": "Vaux-en-Bugey",
+        "slug": "vaux-en-bugey",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01150 Vaux-en-Bugey",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "pont-de-vaux": {
+    "artisans": [
+      {
+        "id": "17207247773619772930",
+        "nom": "2MP Fermetures Pont-de-Vaux - Groupe Morand",
+        "slug": "2mp-fermetures-pont-de-vaux-groupe-morand",
+        "telephone": "03 85 30 34 90",
+        "site_web": "https://societe-morand.fr/2mp-fermetures-pont-de-vaux/?utm_source=gmb",
+        "adresse": "53 Le Grand Faubourg, 01190 Pont-de-Vaux",
+        "note": 4.9,
+        "avis": 139,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "virieu-le-grand": {
+    "artisans": [
+      {
+        "id": "16510174824292547222",
+        "nom": "Genc Maçonnerie",
+        "slug": "genc-maconnerie",
+        "telephone": "06 24 36 62 20",
+        "site_web": "https://www.genc-maconnerie.fr/",
+        "adresse": "Z.A, En Sauvy, 01510 Virieu-le-Grand",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "pont-de-veyle": {
+    "artisans": [
+      {
+        "id": "4326632904290926505",
+        "nom": "CEF01",
+        "slug": "cef01",
+        "telephone": "03 85 30 52 20",
+        "site_web": "https://cef01.fr/",
+        "adresse": "1 Pl. de la Samiane, 01290 Pont-de-Veyle",
+        "note": 3.9,
+        "avis": 88,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "sainte-julie": {
+    "artisans": [
+      {
+        "id": "290670376680293328",
+        "nom": "Sainte-Julie",
+        "slug": "sainte-julie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01150 Sainte-Julie",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "serrieres-de-briord": {
+    "artisans": [
+      {
+        "id": "11309439860597409898",
+        "nom": "Julien GUIFFRAY Toitures",
+        "slug": "julien-guiffray-toitures",
+        "telephone": "06 82 39 95 96",
+        "site_web": "https://www.guiffray-toitures.fr/",
+        "adresse": "12 Rue du Bugey, 01470 Serrières-de-Briord",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "savigneux": {
+    "artisans": [
+      {
+        "id": "290670376680292864",
+        "nom": "Savigneux",
+        "slug": "savigneux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01480 Savigneux",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "polliat": {
+    "artisans": [
+      {
+        "id": "3599091073809627091",
+        "nom": "Page-Balfin Charpente",
+        "slug": "page-balfin-charpente",
+        "telephone": "04 74 42 57 32",
+        "site_web": "http://www.charpente-pagebalfin.fr/?utm_source=gmb",
+        "adresse": "391 Rue de Presle, 01310 Polliat",
+        "note": 4.4,
+        "avis": 15,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5354172689240005014",
+        "nom": "Couvreur Viriat Polliat Montrevel-en-Bresse 01 Nettoyage Toiture démoussage Traitement hydrofuge - Lucien Pierrot Services",
+        "slug": "couvreur-viriat-polliat-montrevel-en-bresse-01-nettoyage-toiture-demoussage-traitement-hydrofuge-lucien-pierrot-services",
+        "telephone": "07 65 65 60 70",
+        "site_web": "https://pierrot-services.fr/",
+        "adresse": "779 Chem. du Peloux, 01310 Polliat",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-sorlin-en-bugey": {
+    "artisans": [
+      {
+        "id": "290670376680293024",
+        "nom": "Saint-Sorlin-en-Bugey",
+        "slug": "saint-sorlin-en-bugey",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "01150 Saint-Sorlin-en-Bugey",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "tossiat": {
+    "artisans": [
+      {
+        "id": "9845139471106942241",
+        "nom": "Tossiat",
+        "slug": "tossiat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Tossiat",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "ceyzeriat": {
+    "artisans": [
+      {
+        "id": "17271990900765766674",
+        "nom": "Alu Service - Guillet Sylvain",
+        "slug": "alu-service-guillet-sylvain",
+        "telephone": "04 74 25 03 90",
+        "site_web": "http://01aluservice.fr/",
+        "adresse": "341 Chem. de la ZA, 01250 Ceyzériat",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-denis-les-bourg": {
+    "artisans": [
+      {
+        "id": "3192808219586221380",
+        "nom": "Menuiserie Raffin Rouge",
+        "slug": "menuiserie-raffin-rouge",
+        "telephone": "04 74 24 24 95",
+        "site_web": null,
+        "adresse": "216 Chem. vers le Mont, 01000 Saint-Denis-lès-Bourg",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18141228821917530192",
+        "nom": "Miroiterie Josserand SAS",
+        "slug": "miroiterie-josserand-sas",
+        "telephone": "04 74 24 35 03",
+        "site_web": "https://www.miroiteriejosserand.com/",
+        "adresse": "2086 Av. de Trévoux, 01000 Saint-Denis-lès-Bourg",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9167093878061839996",
+        "nom": "Eden Habitat",
+        "slug": "eden-habitat",
+        "telephone": "04 74 21 54 47",
+        "site_web": "https://www.eden-habitat.net/",
+        "adresse": "375 Imp. de Calidon, 01000 Saint-Denis-lès-Bourg",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

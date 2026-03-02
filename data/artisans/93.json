@@ -1,0 +1,2131 @@
+{
+  "la-courneuve": {
+    "artisans": [
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 59,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4133320673182882036",
+        "nom": "Fenetres plus",
+        "slug": "fenetres-plus",
+        "telephone": "09 80 42 94 04",
+        "site_web": "http://www.fenetresplus.fr/",
+        "adresse": "92 Rue La Fayette, 75009 Paris",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin"
+      },
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7702673322381122390",
+        "nom": "Marseille Verrière",
+        "slug": "marseille-verriere",
+        "telephone": "06 30 81 80 11",
+        "site_web": "http://marseille-verriere.fr/",
+        "adresse": "10 Rue de la Paix, 75002 Paris",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7226301193733021327",
+        "nom": "Paris Verrière",
+        "slug": "paris-verriere",
+        "telephone": "06 30 81 80 11",
+        "site_web": "https://www.parisverriere.fr/",
+        "adresse": "10 Rue de la Paix, 75002 Paris",
+        "note": 1,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "393094641864557431",
+        "nom": "Reparation Fenetre Paris toute marque: cremone,poignee",
+        "slug": "reparation-fenetre-paris-toute-marque-cremonepoignee",
+        "telephone": "06 51 85 75 38",
+        "site_web": "https://www.paris-fenetre.fr/",
+        "adresse": "102 Av. des Champs-Élysées, 75008 Paris",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1906460800485617886",
+        "nom": "CreaFermeture - Installateur Agréé Velux",
+        "slug": "creafermeture-installateur-agree-velux",
+        "telephone": "07 88 62 09 37",
+        "site_web": "https://creafermeture.fr/",
+        "adresse": "5 Rue des Suisses, 75014 Paris",
+        "note": 4.9,
+        "avis": 79,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16266137627625845620",
+        "nom": "L'Atelier Du Service - Dépannage Volet Roulant",
+        "slug": "latelier-du-service-depannage-volet-roulant",
+        "telephone": "06 50 62 00 69",
+        "site_web": "https://monartisanvolets.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16234959911460329511",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/seine-saint-denis/installateur-expert-en-pose-velux-a-saint-denis",
+        "adresse": "Zac du Stade de France, Pl. du Cornillon Porte E, 93210 Saint-Denis",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11149952402893473059",
+        "nom": "Bricorome",
+        "slug": "bricorome",
+        "telephone": "01 44 90 08 89",
+        "site_web": "https://vitrier-paris-75008.fr/",
+        "adresse": "64 Rue de Rome, 75008 Paris",
+        "note": 4.6,
+        "avis": 78,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "dugny": {
+    "artisans": [
+      {
+        "id": "10863357828826084073",
+        "nom": "ETS Tamarys plomberie serrurerie Paris 10",
+        "slug": "ets-tamarys-plomberie-serrurerie-paris-10",
+        "telephone": "01 43 26 36 16",
+        "site_web": "https://ets-tamarys.com/",
+        "adresse": "4 Rue Saint-Vincent de Paul, 75010 Paris",
+        "note": 5,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "9761952798559613780",
+        "nom": "Expert Menuiseries - Art & Fenêtres - Le Pré-Saint-Gervais",
+        "slug": "expert-menuiseries-art-fenetres-le-pre-saint-gervais",
+        "telephone": "01 41 50 11 00",
+        "site_web": "https://expertmenuiseries.artetfenetres.com/?utm_campaign=GMB_le-pre-saint-gervais&utm_medium=organic&utm_source=GMB",
+        "adresse": "Le, 52 Rue d'Estienne d'Orves, 93310 Le Pré-Saint-Gervais",
+        "note": 4.8,
+        "avis": 206,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2923713275372396362",
+        "nom": "Roofnow",
+        "slug": "roofnow",
+        "telephone": "01 85 09 72 64",
+        "site_web": "https://roofnow.fr/",
+        "adresse": "26 Rue Bosquet, 75007 Paris",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12352016167919407716",
+        "nom": "Couvreur Paris 75 - Couverture Toiture Paris",
+        "slug": "couvreur-paris-75-couverture-toiture-paris",
+        "telephone": "06 09 03 87 73",
+        "site_web": "https://www.couvreur-95.com/demoussage-toiture-95",
+        "adresse": null,
+        "note": 3.2,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7685114009621884262",
+        "nom": "BALIN BAT",
+        "slug": "balin-bat",
+        "telephone": "01 48 35 66 20",
+        "site_web": "http://entreprisebalin.com/",
+        "adresse": "17 Av. Louis Larivière, 93440 Dugny",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6830449324575443713",
+        "nom": "Velux BTP Osec",
+        "slug": "velux-btp-osec",
+        "telephone": "01 41 51 25 25",
+        "site_web": "http://www.btposec.fr/",
+        "adresse": "Le, 10 Av. Flore Lot 4, 95500 Le Thillay",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villetaneuse": {
+    "artisans": [
+      {
+        "id": "3275340455022102809",
+        "nom": "ART & FENETRES PARISIENNES COURBEVOIE",
+        "slug": "art-fenetres-parisiennes-courbevoie",
+        "telephone": "01 49 97 92 10",
+        "site_web": "https://qualiso.artetfenetres.com/adresses-magasins/courbevoie-92400.php",
+        "adresse": "82 Rue de Colombes, 92400 Courbevoie",
+        "note": 4.4,
+        "avis": 115,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2508635765786773166",
+        "nom": "La fermeture parisienne",
+        "slug": "la-fermeture-parisienne",
+        "telephone": "01 30 80 51 05",
+        "site_web": "https://www.lafermetureparisienne.fr/",
+        "adresse": "Cour intérieure, 15 Bis Rue de Marignan, 75008 Paris",
+        "note": 4.7,
+        "avis": 30,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "clichy-sous-bois": {
+    "artisans": [
+      {
+        "id": "922554995976544746",
+        "nom": "Vitrier Levallois Perret",
+        "slug": "vitrier-levallois-perret",
+        "telephone": "01 87 21 11 87",
+        "site_web": "https://temp-gsyppvvhcscvhbxxwhwr.webadorsite.com/",
+        "adresse": "3 Rue Louise Michel, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 6,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "4856096790768592511",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "01 55 28 95 55",
+        "site_web": "https://magasins.lapeyre.fr/ile-de-france/paris/lapeyre-bhv-marais-138",
+        "adresse": "52 Rue de Rivoli, 75004 Paris",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "10392638707901967057",
+        "nom": "E V A D' SERVICES",
+        "slug": "e-v-a-d-services",
+        "telephone": "06 65 72 60 00",
+        "site_web": "https://www.evad-multi-travaux.com/",
+        "adresse": "100 bis Av. Michelet, 93400 Saint-Ouen-sur-Seine",
+        "note": 4.8,
+        "avis": 110,
+        "type": "Service de serrurerie d'urgence"
+      }
+    ]
+  },
+  "le-bourget": {
+    "artisans": [
+      {
+        "id": "8018460391110423458",
+        "nom": "Bolboceanu Toiture",
+        "slug": "bolboceanu-toiture",
+        "telephone": "06 05 91 08 16",
+        "site_web": "https://bolboceanu.fr/?utm_source=gmb",
+        "adresse": "16 Rue du Bon Houdart, 93700 Drancy",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15337213240521312705",
+        "nom": "SB Couverture Artisan Couvreur Drancy 93 : Entreprise de Couverture Seine Saint Denis 93",
+        "slug": "sb-couverture-artisan-couvreur-drancy-93-entreprise-de-couverture-seine-saint-denis-93",
+        "telephone": "06 13 15 39 05",
+        "site_web": "https://www.sb-multiservices-93.fr/",
+        "adresse": "25 Bd Paul Vaillant Couturier, 93700 Drancy",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "430807474244053269",
+        "nom": "Couvreur 93 – Couverture Charles – Urgence Fuite & Rénovation Toiture",
+        "slug": "couvreur-93-couverture-charles-urgence-fuite-renovation-toiture",
+        "telephone": "07 53 31 40 31",
+        "site_web": "https://www.couvreur-charles.fr/couvreur-93-seine-saint-denis?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+        "adresse": "37 Rue Voltaire, 93700 Drancy",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "epinay-sur-seine": {
+    "artisans": [
+      {
+        "id": "1267649837291486834",
+        "nom": "Dépannage & Pose de Fenêtre, Baie et Volet : Société Prévost",
+        "slug": "depannage-pose-de-fenetre-baie-et-volet-societe-prevost",
+        "telephone": "01 71 04 73 83",
+        "site_web": "https://societeprevost.fr/",
+        "adresse": "12 Rue des Alouettes, 95600 Eaubonne",
+        "note": 4.8,
+        "avis": 65,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "5870794873107471196",
+        "nom": "CARGLASS Pare-Brise Epinay sur Seine",
+        "slug": "carglass-pare-brise-epinay-sur-seine",
+        "telephone": "01 70 39 22 23",
+        "site_web": "https://www.carglass.fr/centre/93800-83399/epinay-sur-seine#utm_source=googlemybusiness&utm_medium=local&utm_campaign=epinay-sur-seine&utm_content=cta-lien-page-centre",
+        "adresse": "57-65 Av. Joffre, 93800 Épinay-sur-Seine",
+        "note": 4.3,
+        "avis": 468,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "13365475702590533258",
+        "nom": "A+Glass Épinay-sur-Seine | Pare-brise | Glaces Latérales | Lunette arrière | Vitres teintées | Recharge de climatisation |",
+        "slug": "aglass-epinay-sur-seine-pare-brise-glaces-laterales-lunette-arriere-vitres-teintees-recharge-de-climatisation",
+        "telephone": "01 48 22 14 22",
+        "site_web": "https://www.aplusglassepinay.fr/?utm_source=gmb",
+        "adresse": "72 Av. de la République, 93800 Épinay-sur-Seine",
+        "note": 4.8,
+        "avis": 206,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "8517790229607410399",
+        "nom": "AMD Fermetures - val d'Oise - Fenêtres- portes - volets",
+        "slug": "amd-fermetures-val-doise-fenetres-portes-volets",
+        "telephone": "01 78 70 66 53",
+        "site_web": "http://www.amdfermetures.fr/",
+        "adresse": "3 Av. des Noyers, 95230 Soisy-sous-Montmorency",
+        "note": 5,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16885221944853832990",
+        "nom": "Couvreur 95 - Couverture toiture Charles val oise",
+        "slug": "couvreur-95-couverture-toiture-charles-val-oise",
+        "telephone": "07 53 31 40 31",
+        "site_web": "https://www.couvreur-charles.fr/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+        "adresse": "1 Bd Cotte, 95880 Enghien-les-Bains",
+        "note": 4.8,
+        "avis": 57,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3207788480950028401",
+        "nom": "CA ISOL'",
+        "slug": "ca-isol",
+        "telephone": "01 30 76 36 35",
+        "site_web": "http://www.ca-isol.com/",
+        "adresse": "3 Av. Damiette, 95110 Sannois",
+        "note": 5,
+        "avis": 125,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6315022487278074809",
+        "nom": "VERRE SOLUTIONS PARIS",
+        "slug": "verre-solutions-paris",
+        "telephone": "01 46 13 94 26",
+        "site_web": "https://agence.verre-solutions.com/21-verre-solutions-paris?utm_source=gmb",
+        "adresse": "8 Rte des Champs Fourgons, 92230 Gennevilliers",
+        "note": 4.9,
+        "avis": 73,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "17069455995135040719",
+        "nom": "SARL Toits et Moi",
+        "slug": "sarl-toits-et-moi",
+        "telephone": "01 43 97 80 92",
+        "site_web": "http://toitsetmoi.com/",
+        "adresse": "1 bis Bd Cotte, 95880 Enghien-les-Bains",
+        "note": 4.5,
+        "avis": 33,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10310920984688104485",
+        "nom": "Seneca Couverture | Couvreur Sannois | Couvreur 95",
+        "slug": "seneca-couverture-couvreur-sannois-couvreur-95",
+        "telephone": "01 39 81 78 14",
+        "site_web": "http://www.couvreur-mseneca-95.fr/?utm_source=gmb",
+        "adresse": "97 Blvd Maurice Berteaux, 95110 Sannois",
+        "note": 4.8,
+        "avis": 25,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1889096288117677807",
+        "nom": "Leroy Merlin Gennevilliers",
+        "slug": "leroy-merlin-gennevilliers",
+        "telephone": "01 41 47 71 00",
+        "site_web": "https://www.leroymerlin.fr/magasins/gennevilliers.html",
+        "adresse": "121 Av. du Vieux Chemin de Saint-Denis, 92230 Gennevilliers",
+        "note": 3.8,
+        "avis": 5675,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "drancy": {
+    "artisans": [
+      {
+        "id": "15958018642834236000",
+        "nom": "MPO Fenêtres - Drancy",
+        "slug": "mpo-fenetres-drancy",
+        "telephone": "01 48 95 94 98",
+        "site_web": "http://www.mpofenetres.com/",
+        "adresse": "30 Rue Roger Salengro, 93700 Drancy",
+        "note": 4.2,
+        "avis": 65,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "coubron": {
+    "artisans": [
+      {
+        "id": "6556336347981494512",
+        "nom": "Pro'pose Fermetures",
+        "slug": "propose-fermetures",
+        "telephone": "07 60 49 77 70",
+        "site_web": "https://propose-fermetures.fr/",
+        "adresse": "2 bis Av. Sylvie, 77500 Chelles",
+        "note": 4,
+        "avis": 167,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "15419130988751836835",
+        "nom": "Menuiserie Thioux",
+        "slug": "menuiserie-thioux",
+        "telephone": "01 43 32 91 48",
+        "site_web": "http://www.menuiseriethioux.fr/",
+        "adresse": "3 Rue de la Source, 93470 Coubron",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14689186854644880414",
+        "nom": "DOCTB Installateur Expert VELUX / POUJOULAT Poêle à granulés",
+        "slug": "doctb-installateur-expert-velux-poujoulat-poele-a-granules",
+        "telephone": "01 64 66 72 05",
+        "site_web": "http://www.doctb.fr/",
+        "adresse": "9 Av. Jean Monnet, 77270 Villeparisis",
+        "note": 4.9,
+        "avis": 476,
+        "type": "Siège social"
+      },
+      {
+        "id": "1920590009657523344",
+        "nom": "Entreprise CHEVALLIER COUVERTURE - Couvreur Zingueur 93",
+        "slug": "entreprise-chevallier-couverture-couvreur-zingueur-93",
+        "telephone": "06 28 33 12 18",
+        "site_web": "https://www.chevalliercouverture.fr/",
+        "adresse": "56 Av. des Pâquerettes, 93370 Montfermeil",
+        "note": 4.7,
+        "avis": 69,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11033242050580550097",
+        "nom": "TRYBA Livry Gargan - Ecotherme",
+        "slug": "tryba-livry-gargan-ecotherme",
+        "telephone": "01 41 70 10 95",
+        "site_web": "https://www.tryba.com/espace-conseil/93/tryba-livry-gargan/?utm_campaign=Tryba_Ecotherme&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "147-149 Av. Aristide Briand, 93190 Livry-Gargan",
+        "note": 4.9,
+        "avis": 80,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17443140698029772925",
+        "nom": "Les Couvreurs de Seine -Saint-Denis",
+        "slug": "les-couvreurs-de-seine-saint-denis",
+        "telephone": "06 09 17 60 90",
+        "site_web": "http://les-couvreurs-de-seine-saint-denis.fr/",
+        "adresse": "85 Bd du Temple, 93390 Clichy-sous-Bois",
+        "note": 4.9,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15557224716208675803",
+        "nom": "Isotop FL",
+        "slug": "isotop-fl",
+        "telephone": "01 60 20 79 01",
+        "site_web": "http://www.couverture-isotop.fr/?utm_source=gmb",
+        "adresse": "23 bis Rue Henri Becquerel, 77500 Chelles",
+        "note": 5,
+        "avis": 22,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13739743899916986802",
+        "nom": "TRYBA Aulnay sous Bois - Ecotherme",
+        "slug": "tryba-aulnay-sous-bois-ecotherme",
+        "telephone": "01 48 19 92 15",
+        "site_web": "https://www.tryba.com/espace-conseil/93/tryba-aulnay-sous-bois/?utm_campaign=Tryba_Ecotherme&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "53 Bd de Strasbourg, 93600 Aulnay-sous-Bois",
+        "note": 4.2,
+        "avis": 55,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18213786770812496990",
+        "nom": "Mouredon Couvreur Charpentier",
+        "slug": "mouredon-couvreur-charpentier",
+        "telephone": "06 22 58 34 22",
+        "site_web": "https://ets-mouredon.fr/",
+        "adresse": "74 Av. des sciences, 93370 Montfermeil",
+        "note": 4.9,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "996245878778239125",
+        "nom": "Les Fidèles compagnons du toit",
+        "slug": "les-fideles-compagnons-du-toit",
+        "telephone": "01 89 70 69 41",
+        "site_web": "https://les-fideles-compagnons-du-toit.fr/",
+        "adresse": "8 Bd Roy, 93320 Les Pavillons-sous-Bois",
+        "note": 4.9,
+        "avis": 87,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gagny": {
+    "artisans": [
+      {
+        "id": "13004956339032887582",
+        "nom": "Maison Dujardin",
+        "slug": "maison-dujardin",
+        "telephone": "06 67 57 21 11",
+        "site_web": "https://www.couvreur-maison-dujardin.fr/",
+        "adresse": "27 Av. des Charmilles, 93220 Gagny",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7538362649071143789",
+        "nom": "Fermetures de la Brie - Gagny",
+        "slug": "fermetures-de-la-brie-gagny",
+        "telephone": "01 43 02 34 26",
+        "site_web": "https://www.fermeturesdelabrie.com/",
+        "adresse": "1 Av. Léon Bry, 93220 Gagny",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11405191173699373705",
+        "nom": "Cap Fenêtres",
+        "slug": "cap-fenetres",
+        "telephone": "06 22 35 28 08",
+        "site_web": "http://www.facebook.com/pages/Cap-Fen%C3%AAtres/622211237843789?utm_source=gmb",
+        "adresse": "133 bis Grande Rue, 93250 Villemomble",
+        "note": 4.4,
+        "avis": 27,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14323901312652183553",
+        "nom": "Couvreur93",
+        "slug": "couvreur93",
+        "telephone": "06 34 63 89 87",
+        "site_web": "https://www.couvreur93.fr/",
+        "adresse": "10 Av. Paul de Kock, 93220 Gagny",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8017864233339656508",
+        "nom": "Hornec Couverture à Gagny - Couvreur Toiture",
+        "slug": "hornec-couverture-a-gagny-couvreur-toiture",
+        "telephone": "01 78 78 91 52",
+        "site_web": "https://www.entreprise-couverture-toiture.com/contact",
+        "adresse": "10 Rue du Dr Vaillant, 93220 Gagny",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6957460716528579396",
+        "nom": "Vitrier Assurance par Ets Zen",
+        "slug": "vitrier-assurance-par-ets-zen",
+        "telephone": "01 76 54 48 79",
+        "site_web": "https://vitrierassurance.fr/",
+        "adresse": "2 bis Avenue du N, 93360 Neuilly-Plaisance",
+        "note": 5,
+        "avis": 122,
+        "type": "Vitrier"
+      },
+      {
+        "id": "14365421609034249010",
+        "nom": "Toiture Jacquin",
+        "slug": "toiture-jacquin",
+        "telephone": null,
+        "site_web": "http://jacquin-renovation.com/",
+        "adresse": "10 Av. Paul de Kock, 93220 Gagny",
+        "note": 5,
+        "avis": 131,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13212646268184642366",
+        "nom": "WL Toiture",
+        "slug": "wl-toiture",
+        "telephone": "01 88 49 28 89",
+        "site_web": null,
+        "adresse": "13 Bd d'Aulnay, 93250 Villemomble",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18221492168587423283",
+        "nom": "HSP Habitat Sécurité Protection",
+        "slug": "hsp-habitat-securite-protection",
+        "telephone": "06 83 23 32 82",
+        "site_web": "https://www.hsp-serrurier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 377,
+        "type": "Serrurier"
+      },
+      {
+        "id": "1257858693143892975",
+        "nom": "BP Couverture : Couvreur - Zingueur",
+        "slug": "bp-couverture-couvreur-zingueur",
+        "telephone": "01 84 80 35 27",
+        "site_web": "https://bpcouverture.fr/",
+        "adresse": "32 All. Gambetta, 93340 Le Raincy",
+        "note": 5,
+        "avis": 21,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gournay-sur-marne": {
+    "artisans": [
+      {
+        "id": "1550308477411674996",
+        "nom": "Baie Concept Fermetures",
+        "slug": "baie-concept-fermetures",
+        "telephone": "06 15 39 13 62",
+        "site_web": "https://www.bcfermetures.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8324977575471092191",
+        "nom": "AF Pose - Les Pavillons-sous-Bois",
+        "slug": "af-pose-les-pavillons-sous-bois",
+        "telephone": "07 89 52 43 10",
+        "site_web": "https://www.af-pose.com/",
+        "adresse": "34 All. Monthyon, 93320 Les Pavillons-sous-Bois",
+        "note": 4.9,
+        "avis": 96,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "l-ile-saint-denis": {
+    "artisans": [
+      {
+        "id": "9954451564811509246",
+        "nom": "Installateur Velux Paris",
+        "slug": "installateur-velux-paris",
+        "telephone": "01 86 61 76 21",
+        "site_web": "https://www.couvreur-paris.net/lucarnes-et-velux",
+        "adresse": null,
+        "note": 3,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8071922286945235718",
+        "nom": "LTZ couverture",
+        "slug": "ltz-couverture",
+        "telephone": "06 62 06 34 03",
+        "site_web": null,
+        "adresse": "38 Rue Gabriel Péri, 93200 Saint-Denis",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "livry-gargan": {
+    "artisans": [
+      {
+        "id": "11953359700510785475",
+        "nom": "Artisan Fermetures et Stores AFS",
+        "slug": "artisan-fermetures-et-stores-afs",
+        "telephone": "01 43 51 99 73",
+        "site_web": "https://instagram.com/sarlafs?igshid=YmMyMTA2M2Y=",
+        "adresse": "90 Av. Aristide Briand, 93190 Livry-Gargan",
+        "note": 4.8,
+        "avis": 33,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12448672818928804074",
+        "nom": "Artisan France Fenêtre",
+        "slug": "artisan-france-fenetre",
+        "telephone": "01 43 51 80 16",
+        "site_web": "https://www.artisan-france-fenetre.fr/",
+        "adresse": "6 Av. du Maréchal Leclerc, 93190 Livry-Gargan",
+        "note": 4.6,
+        "avis": 93,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6722400216111899622",
+        "nom": "Renostyles Livry-Gargan",
+        "slug": "renostyles-livry-gargan",
+        "telephone": "01 49 36 21 17",
+        "site_web": "https://www.renostyles.com/",
+        "adresse": "19 Rue Eugène Masse, 93190 Livry-Gargan",
+        "note": 4.7,
+        "avis": 80,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "17706814036314674794",
+        "nom": "Fontana Fils",
+        "slug": "fontana-fils",
+        "telephone": "01 43 85 08 14",
+        "site_web": "http://www.fontanafils.fr/",
+        "adresse": "6 Rue Charles Vaillant, 93190 Livry-Gargan",
+        "note": 4.7,
+        "avis": 53,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "les-lilas": {
+    "artisans": [
+      {
+        "id": "2888605420466504595",
+        "nom": "TRYBA Les Lilas",
+        "slug": "tryba-les-lilas",
+        "telephone": "01 59 30 14 31",
+        "site_web": "https://www.tryba.com/espace-conseil/93/tryba-les-lilas/?utm_campaign=Tryba_les-lilas&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "152 Rue de Paris, 93260 Les Lilas",
+        "note": 4.3,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13232588634721005331",
+        "nom": "Ruben Dario renovation",
+        "slug": "ruben-dario-renovation",
+        "telephone": "06 05 85 87 33",
+        "site_web": "https://www.rubendariorenov.fr/",
+        "adresse": "167 Rue de Paris, 93260 Les Lilas",
+        "note": 5,
+        "avis": 68,
+        "type": "Entrepreneur en construction intérieure"
+      },
+      {
+        "id": "9306737106459828646",
+        "nom": "Best Fenêtres Les Lilas",
+        "slug": "best-fenetres-les-lilas",
+        "telephone": "01 43 73 36 36",
+        "site_web": "https://www.bestfenetres.fr/",
+        "adresse": "98 Rue Saint-Germain, 93260 Les Lilas",
+        "note": 5,
+        "avis": 26,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16309490775355009196",
+        "nom": "OuvertureS - AF POSE - Les Lilas",
+        "slug": "ouvertures-af-pose-les-lilas",
+        "telephone": "01 48 36 51 44",
+        "site_web": "https://les-lilas.ouvertures.com/?utm_campaign=GMB_les_lilas&utm_medium=organic&utm_source=GMB",
+        "adresse": "6 Rue du Pré Saint-Gervais, 93260 Les Lilas",
+        "note": 4.8,
+        "avis": 71,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11893781426241806925",
+        "nom": "Valden Couverture",
+        "slug": "valden-couverture",
+        "telephone": "06 68 74 29 49",
+        "site_web": "https://www.valdencouverture.fr/contacter-estimation/",
+        "adresse": "47 Rue du Tapis Vert, 93260 Les Lilas",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "875589080346280896",
+        "nom": "AS Services - Serrurier",
+        "slug": "as-services-serrurier",
+        "telephone": "01 48 35 45 49",
+        "site_web": "https://serrurerie-as-services.fr/",
+        "adresse": "24 Av. Faidherbe, 93260 Les Lilas",
+        "note": 4.8,
+        "avis": 69,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5351354917533290632",
+        "nom": "Lilas Fenêtre BTP",
+        "slug": "lilas-fenetre-btp",
+        "telephone": "06 15 72 01 49",
+        "site_web": null,
+        "adresse": "100 Av. Pasteur, 93260 Les Lilas",
+        "note": 4,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9249240133558848444",
+        "nom": "Les Artisans du Bâtiment",
+        "slug": "les-artisans-du-batiment",
+        "telephone": "01 43 60 02 08",
+        "site_web": "https://www.les-artisans-du-batiment.com/",
+        "adresse": "28 Bd de la Liberté, 93260 Les Lilas",
+        "note": 4.4,
+        "avis": 93,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montfermeil": {
+    "artisans": [
+      {
+        "id": "13716729765913355696",
+        "nom": "Couvreur 93 - Les Toitures de Jacques en Seine-Saint-Denis",
+        "slug": "couvreur-93-les-toitures-de-jacques-en-seine-saint-denis",
+        "telephone": "06 34 67 56 12",
+        "site_web": "https://www.les-toitures-de-jacques.fr/index.html?utm_source=gmb",
+        "adresse": "30 Av. des Coquelicots, 93370 Montfermeil",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8618295642765076405",
+        "nom": "METAL 2000 Seine-Saint-Denis - Réparation porte de garage, rideau métallique et maintenance fermetures industrielles 93",
+        "slug": "metal-2000-seine-saint-denis-reparation-porte-de-garage-rideau-metallique-et-maintenance-fermetures-industrielles-93",
+        "telephone": "01 83 64 62 54",
+        "site_web": "https://www.metal2000.fr/nos-agences/clichy-sous-bois/",
+        "adresse": "8 All. de la Fossé Maussoin, 93190 Clichy-sous-Bois",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "7279720966532034536",
+        "nom": "ARCHANGE COUVERTURE",
+        "slug": "archange-couverture",
+        "telephone": "01 60 08 21 16",
+        "site_web": "https://www.archange-couverture.com/",
+        "adresse": "29 Av. des 7 Îles, 93370 Montfermeil",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4949779564859525066",
+        "nom": "ENTREPRISE LUC Couvreur Montfermeil 93",
+        "slug": "entreprise-luc-couvreur-montfermeil-93",
+        "telephone": "06 51 33 04 50",
+        "site_web": "https://www.luccouverture.fr/",
+        "adresse": "88 Av. des Perdrix, 93370 Montfermeil",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18250886543518771892",
+        "nom": "M. François - Couvreur",
+        "slug": "m-francois-couvreur",
+        "telephone": "06 79 05 32 16",
+        "site_web": "https://www.m-francois.fr/",
+        "adresse": "23 Av. des Perdrix, 93370 Montfermeil",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2481296972657232836",
+        "nom": "Entreprise Baptiste",
+        "slug": "entreprise-baptiste",
+        "telephone": "06 70 82 81 03",
+        "site_web": null,
+        "adresse": "101 Av. Daniel Perdrigé, 93370 Montfermeil",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17229615733724545537",
+        "nom": "LAMARE BTP",
+        "slug": "lamare-btp",
+        "telephone": "09 74 56 71 24",
+        "site_web": "https://www.lamare-couverture.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "25 Bis Av. des Tulipes, 93370 Montfermeil",
+        "note": 5,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6981492433940255749",
+        "nom": "RB Couverture",
+        "slug": "rb-couverture",
+        "telephone": "06 28 01 24 02",
+        "site_web": "https://rbcouverture-charpente.fr/",
+        "adresse": "128 Rue de Coubron, 93370 Montfermeil",
+        "note": 5,
+        "avis": 12,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6796509560597219805",
+        "nom": "Cmr",
+        "slug": "cmr",
+        "telephone": null,
+        "site_web": "https://www.cmr-maconnerie.fr/",
+        "adresse": "28 Av. Victor Hugo, 93370 Montfermeil",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montreuil": {
+    "artisans": [
+      {
+        "id": "12301155716126851004",
+        "nom": "Florquin Couverture",
+        "slug": "florquin-couverture",
+        "telephone": "01 45 28 67 48",
+        "site_web": "http://www.florquincouverture.fr/",
+        "adresse": "157 Rue Edouard Branly, 93100 Montreuil",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5954846137447896309",
+        "nom": "IRIS Fenêtres Agence Seine Saint Denis",
+        "slug": "iris-fenetres-agence-seine-saint-denis",
+        "telephone": "01 41 72 06 20",
+        "site_web": "https://iris-fenetres.com/",
+        "adresse": "41 Rue Douy Délcupe, 93100 Montreuil",
+        "note": 3.6,
+        "avis": 117,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "15448296108318818710",
+        "nom": "Kit de Fenetres SARL",
+        "slug": "kit-de-fenetres-sarl",
+        "telephone": "01 70 37 62 87",
+        "site_web": "https://www.kitdefenetre.fr/",
+        "adresse": "51 Bd Chanzy, 93100 Montreuil",
+        "note": 4.8,
+        "avis": 279,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15115026813124281052",
+        "nom": "Ets Phienboupha Serrurier",
+        "slug": "ets-phienboupha-serrurier",
+        "telephone": "01 42 87 17 18",
+        "site_web": "https://myservices77.com/",
+        "adresse": "104 Rue de Paris, 93100 Montreuil",
+        "note": 4.9,
+        "avis": 258,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8244186260692261484",
+        "nom": "Miroiterie Duffault & Fils",
+        "slug": "miroiterie-duffault-fils",
+        "telephone": "01 40 79 52 75",
+        "site_web": "http://www.miroiterie-duffault.com/",
+        "adresse": "278 Rue de Rosny, 93100 Montreuil",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9623118403570641422",
+        "nom": "Marto Isolation",
+        "slug": "marto-isolation",
+        "telephone": "01 48 70 94 94",
+        "site_web": "https://www.facebook.com/people/Marto-isolation/61568551145057/?utm_source=gmb",
+        "adresse": "26 bis Rue de l'Ermitage, 93100 Montreuil",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13259674798006127832",
+        "nom": "Msc Toitures 93 - Couvreur 93 - Fuite 93 - Entreprise couverture Montreuil - Couvreur Montreuil",
+        "slug": "msc-toitures-93-couvreur-93-fuite-93-entreprise-couverture-montreuil-couvreur-montreuil",
+        "telephone": "06 46 30 03 91",
+        "site_web": "https://www.msc-toitures.fr/couvreur-93-Seine-Saint-Denis?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+        "adresse": "95 Av. du Président Wilson, 93100 Montreuil",
+        "note": 5,
+        "avis": 57,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9304856922248294000",
+        "nom": "Couverture Ragot",
+        "slug": "couverture-ragot",
+        "telephone": "06 23 38 53 14",
+        "site_web": "https://www.ragot-couverture.fr/",
+        "adresse": "17 Rue Carnot, 93100 Montreuil",
+        "note": 5,
+        "avis": 40,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3930404000473378449",
+        "nom": "Les Compagnons d'île de france",
+        "slug": "les-compagnons-dile-de-france",
+        "telephone": "07 79 23 98 60",
+        "site_web": "https://les-compagnons-d-ile-de-france.fr/",
+        "adresse": "57 Rue de Saint-Antoine, 93100 Montreuil",
+        "note": 5,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10140992732321397934",
+        "nom": "moustiquair.fr",
+        "slug": "moustiquairfr",
+        "telephone": "07 50 88 05 76",
+        "site_web": "https://www.moustiquair.fr/",
+        "adresse": "2 Rue Henri Martin, 93100 Montreuil",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Artisanat"
+      }
+    ]
+  },
+  "neuilly-plaisance": {
+    "artisans": [
+      {
+        "id": "14356206445397548344",
+        "nom": "Mr Dujardin Bruno | Couvreur Neuilly Plaisance | Couvreur Île-de-France",
+        "slug": "mr-dujardin-bruno-couvreur-neuilly-plaisance-couvreur-ile-de-france",
+        "telephone": "06 30 95 73 96",
+        "site_web": "https://www.ets-dujardin.fr/",
+        "adresse": "64 Rue des Cahouettes, 93360 Neuilly-Plaisance",
+        "note": 4.7,
+        "avis": 62,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "neuilly-sur-marne": {
+    "artisans": [
+      {
+        "id": "5592286845939197025",
+        "nom": "Ad Miroiterie",
+        "slug": "ad-miroiterie",
+        "telephone": "07 66 96 57 76",
+        "site_web": "https://admiroiterie.fr/",
+        "adresse": "Le, 2 Rue des Bateliers, 94170 Le Perreux-sur-Marne",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "4930143379023433551",
+        "nom": "BM Couverture",
+        "slug": "bm-couverture",
+        "telephone": "01 60 26 32 06",
+        "site_web": "https://bm-couverture.fr/",
+        "adresse": "1 Av. Aristide Briand, 93160 Noisy-le-Grand",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13839195362882495308",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/val-de-marne/installateur-expert-en-pose-velux-a-saint-maur-des-fosses",
+        "adresse": "Bd de Créteil, 94100 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12512988101024107922",
+        "nom": "CDH Entreprise — Couverture, Toiture Le Peureux, sur Marne",
+        "slug": "cdh-entreprise-couverture-toiture-le-peureux-sur-marne",
+        "telephone": "07 56 82 66 24",
+        "site_web": "https://www.cdhentreprise.com/",
+        "adresse": "194 Av. du Maréchal Joffre, 94170 Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 101,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14443114526651903744",
+        "nom": "Les Fidèles Compagnons Du Toit",
+        "slug": "les-fideles-compagnons-du-toit",
+        "telephone": "06 14 71 05 62",
+        "site_web": "https://les-fideles-compagnons-du-toit.fr/",
+        "adresse": "14 Av. du Général de Gaulle, 94160 Saint-Mandé",
+        "note": 4.7,
+        "avis": 73,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "noisy-le-grand": {
+    "artisans": [
+      {
+        "id": "15810091605655052955",
+        "nom": "Entreprise Denys père et fils - Votre artisan de proximité",
+        "slug": "entreprise-denys-pere-et-fils-votre-artisan-de-proximite",
+        "telephone": "06 51 44 18 71",
+        "site_web": "https://ets-denys.com/",
+        "adresse": "Imp. des Roitelets, 94350 Villiers-sur-Marne",
+        "note": 5,
+        "avis": 22,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "17416925657164175657",
+        "nom": "Fenêtre Roubaix",
+        "slug": "fenetre-roubaix",
+        "telephone": "01 83 63 93 95",
+        "site_web": "http://etsroubaix.fr/",
+        "adresse": "94500 Champigny-sur-Marne",
+        "note": 5,
+        "avis": 15,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "8567047395022084507",
+        "nom": "Cholet Bâtiment : Couverture - Ravalement - Isolation - gros oeuvre - surélévation",
+        "slug": "cholet-batiment-couverture-ravalement-isolation-gros-oeuvre-surelevation",
+        "telephone": "01 47 06 29 39",
+        "site_web": "https://choletbatiment.fr/?utm_source=gmb",
+        "adresse": "33 Rue du Sergent Hoff, 94360 Bry-sur-Marne",
+        "note": 4.7,
+        "avis": 81,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "863120136503578733",
+        "nom": "Couvreur Stephane H 94 le perreux sur Marne |",
+        "slug": "couvreur-stephane-h-94-le-perreux-sur-marne",
+        "telephone": "06 59 33 39 58",
+        "site_web": "https://www.helfrich-couverture.fr/",
+        "adresse": "120 Av. Pierre Brossolette, 94170 Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 32,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "noisy-le-sec": {
+    "artisans": [
+      {
+        "id": "18169567029184232715",
+        "nom": "Ouverture de porte à 69 euros",
+        "slug": "ouverture-de-porte-a-69-euros",
+        "telephone": "06 52 92 81 36",
+        "site_web": "https://sc-serrurier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "pantin": {
+    "artisans": [
+      {
+        "id": "17797801858216406012",
+        "nom": "Vitrier CHOC GLASS Paris 19",
+        "slug": "vitrier-choc-glass-paris-19",
+        "telephone": "07 68 00 30 69",
+        "site_web": null,
+        "adresse": "13 All. des Eiders, 75019 Paris",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Vitrier"
+      },
+      {
+        "id": "9761952798559613780",
+        "nom": "Expert Menuiseries - Art & Fenêtres - Le Pré-Saint-Gervais",
+        "slug": "expert-menuiseries-art-fenetres-le-pre-saint-gervais",
+        "telephone": "01 41 50 11 00",
+        "site_web": "https://expertmenuiseries.artetfenetres.com/?utm_campaign=GMB_le-pre-saint-gervais&utm_medium=organic&utm_source=GMB",
+        "adresse": "Le, 52 Rue d'Estienne d'Orves, 93310 Le Pré-Saint-Gervais",
+        "note": 4.8,
+        "avis": 206,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15756080787103366569",
+        "nom": "R2S Bâtiment",
+        "slug": "r2s-batiment",
+        "telephone": "01 41 71 20 68",
+        "site_web": "https://r2sbat.fr/",
+        "adresse": "55 Rue Cartier Bresson, 93500 Pantin",
+        "note": 5,
+        "avis": 32,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "le-pre-saint-gervais": {
+    "artisans": [
+      {
+        "id": "9761952798559613780",
+        "nom": "Expert Menuiseries - Art & Fenêtres - Le Pré-Saint-Gervais",
+        "slug": "expert-menuiseries-art-fenetres-le-pre-saint-gervais",
+        "telephone": "01 41 50 11 00",
+        "site_web": "https://expertmenuiseries.artetfenetres.com/?utm_campaign=GMB_le-pre-saint-gervais&utm_medium=organic&utm_source=GMB",
+        "adresse": "Le, 52 Rue d'Estienne d'Orves, 93310 Le Pré-Saint-Gervais",
+        "note": 4.8,
+        "avis": 206,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pierrefitte-sur-seine": {
+    "artisans": [
+      {
+        "id": "16900200940539673892",
+        "nom": "Entreprise CARNEIRO",
+        "slug": "entreprise-carneiro",
+        "telephone": "01 39 85 62 27",
+        "site_web": null,
+        "adresse": "136 Av. Charles Vaillant, 95400 Arnouville",
+        "note": 4.4,
+        "avis": 59,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11526453899684869738",
+        "nom": "Entreprise A2B - Réparation de store et volet-roulant",
+        "slug": "entreprise-a2b-reparation-de-store-et-volet-roulant",
+        "telephone": "01 58 92 93 81",
+        "site_web": "https://www.abb-reparations.fr/",
+        "adresse": "32 Av. Laennec, 93380 Saint-Denis",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Vitrier"
+      },
+      {
+        "id": "7732452949460273996",
+        "nom": "Mikapen",
+        "slug": "mikapen",
+        "telephone": "01 77 80 20 00",
+        "site_web": null,
+        "adresse": "12 Rue Théodore Bullier, 95200 Sarcelles",
+        "note": 4.7,
+        "avis": 46,
+        "type": "Vitrier"
+      },
+      {
+        "id": "10421439158458923384",
+        "nom": "Valden Couverture",
+        "slug": "valden-couverture",
+        "telephone": "06 68 74 29 49",
+        "site_web": "https://www.valdencouverture.com/",
+        "adresse": "204 Av. Elisée Reclus, 93380 Saint-Denis",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5747137639845906356",
+        "nom": "IDÉE STORE / VITRIER DE VILLIERS",
+        "slug": "idee-store-vitrier-de-villiers",
+        "telephone": "09 52 68 61 68",
+        "site_web": null,
+        "adresse": "8 Av. des Entrepreneurs, 95400 Villiers-le-Bel",
+        "note": 4.2,
+        "avis": 21,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "5589072528150968777",
+        "nom": "QUESTION FENETRE",
+        "slug": "question-fenetre",
+        "telephone": "01 56 87 20 19",
+        "site_web": "http://www.questionfenetre.com/",
+        "adresse": "17 Parc d’Activite de la Calarde, 95500 Gonesse",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2267987562752950663",
+        "nom": "btdeqalit pierrefite installation vmc pro",
+        "slug": "btdeqalit-pierrefite-installation-vmc-pro",
+        "telephone": "01 85 40 33 13",
+        "site_web": "https://btdeqalit-pierrefite-vmc-pro.com/",
+        "adresse": "16 Rue de Paris, 93380 Saint-Denis",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "les-pavillons-sous-bois": {
+    "artisans": [
+      {
+        "id": "13186572503455658304",
+        "nom": "Couvreur Lagrin - Réparation toiture - Rénovation toiture - Nettoyage toiture - Charpentier Aulnay 93",
+        "slug": "couvreur-lagrin-reparation-toiture-renovation-toiture-nettoyage-toiture-charpentier-aulnay-93",
+        "telephone": "01 48 68 67 68",
+        "site_web": "http://www.couvreur-lagrin.fr/",
+        "adresse": "18 Av. du Cottage, 93600 Aulnay-sous-Bois",
+        "note": 5,
+        "avis": 42,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11755553701991785066",
+        "nom": "Ad Coat Fermetures",
+        "slug": "ad-coat-fermetures",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "70 All. Jules Auffret, 93320 Les Pavillons-sous-Bois",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "5153221929228202290",
+        "nom": "Angle Menuiserie - Pvc, Alu et Acier sur mesure",
+        "slug": "angle-menuiserie-pvc-alu-et-acier-sur-mesure",
+        "telephone": "01 84 60 12 82",
+        "site_web": "https://anglemenuiserie.fr/",
+        "adresse": "26 All. de Luxembourg, 93320 Les Pavillons-sous-Bois",
+        "note": 5,
+        "avis": 20,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9979303904093453356",
+        "nom": "Entreprise Fays | Couvreur en Seine-Saint-Denis (93)",
+        "slug": "entreprise-fays-couvreur-en-seine-saint-denis-93",
+        "telephone": "01 82 88 83 76",
+        "site_web": "https://www.artisan-couvreur93.fr/",
+        "adresse": "13 Rue de Berne, 93150 Le Blanc-Mesnil",
+        "note": 5,
+        "avis": 85,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16196217751208589391",
+        "nom": "Couvreur 93 Idf Zepp",
+        "slug": "couvreur-93-idf-zepp",
+        "telephone": "06 20 76 60 36",
+        "site_web": "https://www.couvreur-zepp.fr/",
+        "adresse": "81 Av. Turgot, 93190 Livry-Gargan",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12005728701086770625",
+        "nom": "Serrurerie et plomberie",
+        "slug": "serrurerie-et-plomberie",
+        "telephone": "01 80 27 20 63",
+        "site_web": "https://ouvrierdefrance.fr/",
+        "adresse": "103 All. de Rosny, 93190 Livry-Gargan",
+        "note": 4.8,
+        "avis": 62,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10317627536515637903",
+        "nom": "Artisan Couvreur Fabulet Jean Marc -couvreur Bondy",
+        "slug": "artisan-couvreur-fabulet-jean-marc-couvreur-bondy",
+        "telephone": "06 10 64 04 34",
+        "site_web": "https://www.artisan-couvreur-fab.fr/",
+        "adresse": "16 All. Raspail, 93140 Bondy",
+        "note": 4.8,
+        "avis": 80,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7125424471287207862",
+        "nom": "Schtenegry Woldy Couvreur 93 Seine-Saint-Denis",
+        "slug": "schtenegry-woldy-couvreur-93-seine-saint-denis",
+        "telephone": "06 21 32 54 52",
+        "site_web": "https://www.couvreur-idf-schtenegry.com/",
+        "adresse": "2 Av. Thiers, 93340 Le Raincy",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-raincy": {
+    "artisans": [
+      {
+        "id": "18159712466863668903",
+        "nom": "L’atelier du toit",
+        "slug": "latelier-du-toit",
+        "telephone": "06 99 82 47 34",
+        "site_web": "https://www.couvreur-le-raincy-93.fr/",
+        "adresse": "7 All. du Bel air, 93340 Le Raincy",
+        "note": 5,
+        "avis": 110,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6200964742178517681",
+        "nom": "MV Menuiserie Vicente",
+        "slug": "mv-menuiserie-vicente",
+        "telephone": "01 43 01 83 73",
+        "site_web": "https://www.menuiserievicente.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "92 Av. de la Résistance, 93340 Le Raincy",
+        "note": 4.1,
+        "avis": 39,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18148139232646691730",
+        "nom": "Nova fenetre",
+        "slug": "nova-fenetre",
+        "telephone": "06 22 37 21 95",
+        "site_web": "https://novafenetres.com/",
+        "adresse": "85 Av. de la Résistance, 93340 Le Raincy",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "12438157010507202846",
+        "nom": "MCD Couverture | Couvreur le raincy 93-",
+        "slug": "mcd-couverture-couvreur-le-raincy-93",
+        "telephone": "06 28 89 51 47",
+        "site_web": "https://www.mcd-couverture.fr/",
+        "adresse": "7 All. du Bel air, 93340 Le Raincy",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3698832094725572609",
+        "nom": "Mbc",
+        "slug": "mbc",
+        "telephone": "06 14 50 83 44",
+        "site_web": "https://www.mbc-couverture.fr/",
+        "adresse": "13 Bd d'Aulnay, 93250 Villemomble",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2733748950038211874",
+        "nom": "Pro Couverture",
+        "slug": "pro-couverture",
+        "telephone": "07 67 62 18 96",
+        "site_web": "https://procouverture93.fr/",
+        "adresse": "13 Bd d'Aulnay, 93250 Villemomble",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-denis": {
+    "artisans": [
+      {
+        "id": "16234959911460329511",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/seine-saint-denis/installateur-expert-en-pose-velux-a-saint-denis",
+        "adresse": "Zac du Stade de France, Pl. du Cornillon Porte E, 93210 Saint-Denis",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "romainville": {
+    "artisans": [
+      {
+        "id": "15824226044035316163",
+        "nom": "Les Menuiseries IDF",
+        "slug": "les-menuiseries-idf",
+        "telephone": "01 41 71 20 57",
+        "site_web": null,
+        "adresse": "66 Rue du Trou Vassou, 93230 Romainville",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14557819319098172682",
+        "nom": "Romainville Habitat",
+        "slug": "romainville-habitat",
+        "telephone": "01 49 15 58 00",
+        "site_web": null,
+        "adresse": "2/8 Rue de la Fraternité, 93230 Romainville",
+        "note": 2.3,
+        "avis": 15,
+        "type": "Conseiller en gestion des affaires"
+      },
+      {
+        "id": "6973507599785558579",
+        "nom": "Couvreur Romainville - D.Falck Couverture",
+        "slug": "couvreur-romainville-dfalck-couverture",
+        "telephone": "06 68 34 99 62",
+        "site_web": "http://couverture-romainville.fr/",
+        "adresse": "14B Bd de la Boissière, 93230 Romainville",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3692928214558712962",
+        "nom": "Fenêtre PVC - Romainville - | Mondial fenêtres",
+        "slug": "fenetre-pvc-romainville-mondial-fenetres",
+        "telephone": "0 800 12 12 34",
+        "site_web": "http://www.mondialfenetres.fr/",
+        "adresse": null,
+        "note": 1.4,
+        "avis": 9,
+        "type": "Service establishment"
+      },
+      {
+        "id": "1130592691892168352",
+        "nom": "L.L. Menuiserie",
+        "slug": "ll-menuiserie",
+        "telephone": "01 48 59 52 88",
+        "site_web": null,
+        "adresse": "2 Rue Arago, 93230 Romainville",
+        "note": 4.6,
+        "avis": 56,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6711297599376996817",
+        "nom": "Mondial Fenêtres",
+        "slug": "mondial-fenetres",
+        "telephone": "01 41 72 12 12",
+        "site_web": "https://www.mondialfenetres.fr/",
+        "adresse": "75 Rue Racine, 93230 Romainville",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "rosny-sous-bois": {
+    "artisans": [
+      {
+        "id": "10857902701694603854",
+        "nom": "Miroiterie Winter",
+        "slug": "miroiterie-winter",
+        "telephone": "07 83 38 68 24",
+        "site_web": null,
+        "adresse": "141 Rue du Général Leclerc, 93110 Rosny-sous-Bois",
+        "note": 5,
+        "avis": 13,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "7910799921701066499",
+        "nom": "Mr Vees | Couvreur Rosny Sous Bois | Couvreur Seine Saint Denis 93",
+        "slug": "mr-vees-couvreur-rosny-sous-bois-couvreur-seine-saint-denis-93",
+        "telephone": "06 63 51 64 13",
+        "site_web": "http://www.vees-couverture-93.fr/",
+        "adresse": "7 Rue Jules Guesde, 93110 Rosny-sous-Bois",
+        "note": 4.9,
+        "avis": 35,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8336428073719076958",
+        "nom": "Hoffmann Couverture",
+        "slug": "hoffmann-couverture",
+        "telephone": "09 54 53 87 78",
+        "site_web": "https://hoffmanncouverture.com/",
+        "adresse": "14 Rue des Cerisiers, 93110 Rosny-sous-Bois",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6202299412480203878",
+        "nom": "COUVREUR SCHNEIDER - COUVREUR ROSNY SOUS BOIS",
+        "slug": "couvreur-schneider-couvreur-rosny-sous-bois",
+        "telephone": "07 69 78 82 83",
+        "site_web": "https://www.couvreur-schneider-93.fr/couvreur-93.html",
+        "adresse": "69 Rue Victor Hugo, 93110 Rosny-sous-Bois",
+        "note": 4.9,
+        "avis": 98,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4026433782819403095",
+        "nom": "M julian artisan",
+        "slug": "m-julian-artisan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "13 Rue Jules Guesde, 93110 Rosny-sous-Bois",
+        "note": 5,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7962557312708713599",
+        "nom": "Leroy Merlin Rosny-Sous-Bois",
+        "slug": "leroy-merlin-rosny-sous-bois",
+        "telephone": "01 48 94 76 76",
+        "site_web": "https://www.leroymerlin.fr/magasins/rosny-sous-bois.html",
+        "adresse": "7 Rue de Lisbonne, 93110 Rosny-sous-Bois",
+        "note": 3.9,
+        "avis": 7829,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "17312950133418484426",
+        "nom": "MEGADA Entreprise",
+        "slug": "megada-entreprise",
+        "telephone": "06 50 30 30 94",
+        "site_web": "http://www.megada-charpente.fr/",
+        "adresse": "3 Rue Niépce, 93110 Rosny-sous-Bois",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8785349453155730948",
+        "nom": "Lecoq Rudy | Couvreur 93 | Couvreur Rosny sous bois",
+        "slug": "lecoq-rudy-couvreur-93-couvreur-rosny-sous-bois",
+        "telephone": "06 61 22 99 52",
+        "site_web": "https://www.couverture-lecoq-rudy.fr/",
+        "adresse": "12 Pl. Carnot, 93110 Rosny-sous-Bois",
+        "note": 5,
+        "avis": 34,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-ouen-sur-seine": {
+    "artisans": [
+      {
+        "id": "17790169827766693484",
+        "nom": "Expert Menuiseries - Art & Fenêtres - Saint-Ouen",
+        "slug": "expert-menuiseries-art-fenetres-saint-ouen",
+        "telephone": "01 40 12 52 53",
+        "site_web": "https://expertmenuiseries.artetfenetres.com/?utm_campaign=GMB_saint-ouen&utm_medium=organic&utm_source=GMB",
+        "adresse": "1 Rue de Saint-Denis, 93400 Saint-Ouen-sur-Seine",
+        "note": 4.9,
+        "avis": 53,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sevran": {
+    "artisans": [
+      {
+        "id": "16833259559628958145",
+        "nom": "Ets Legrain Couverture",
+        "slug": "ets-legrain-couverture",
+        "telephone": "01 85 53 44 50",
+        "site_web": "https://www.ets-legrain-couverture.fr/",
+        "adresse": "34 Rue des Ramiers, 93270 Sevran",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3054589021281248447",
+        "nom": "T c T Couverture Sevran - Couvreur",
+        "slug": "t-c-t-couverture-sevran-couvreur",
+        "telephone": "06 42 29 04 02",
+        "site_web": "https://tct-couverture93.fr/",
+        "adresse": "48 Av. de Clignancourt, 93270 Sevran",
+        "note": 5,
+        "avis": 34,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5286118151187331304",
+        "nom": "bcz couverture 93",
+        "slug": "bcz-couverture-93",
+        "telephone": "06 37 09 08 95",
+        "site_web": null,
+        "adresse": "30 Rue Gabriel Péri, 93270 Sevran",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4542920634335959817",
+        "nom": "Rondage Couverture | Maître Couvreur en Seine-Saint-Denis (93)",
+        "slug": "rondage-couverture-maitre-couvreur-en-seine-saint-denis-93",
+        "telephone": "01 59 30 08 29",
+        "site_web": "https://couvreur-zingueur93.fr/",
+        "adresse": "7 Pl. de l'Hôtel de ville, 93600 Aulnay-sous-Bois",
+        "note": 4.9,
+        "avis": 80,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17029750830929783172",
+        "nom": "MJN Couverture Installateur Expert VELUX",
+        "slug": "mjn-couverture-installateur-expert-velux",
+        "telephone": "06 80 98 32 28",
+        "site_web": "https://www.facebook.com/profile.php?id=61560145871737",
+        "adresse": "2 Rue de Villeparisis, 77290 Mitry-Mory",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1773646170944991642",
+        "nom": "Jean Charles Couverture",
+        "slug": "jean-charles-couverture",
+        "telephone": "06 03 74 60 68",
+        "site_web": "https://www.jean-charles-couverture.fr/",
+        "adresse": "28 All. du Maréchal Vallée, 93270 Sevran",
+        "note": 4.9,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8573241626913603358",
+        "nom": "MILA RENOV",
+        "slug": "mila-renov",
+        "telephone": "06 52 37 98 04",
+        "site_web": "https://www.mila-renov.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 All. la Boétie, 93270 Sevran",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "stains": {
+    "artisans": [
+      {
+        "id": "10151009139129490527",
+        "nom": "France Pare-Brise",
+        "slug": "france-pare-brise",
+        "telephone": "01 48 21 17 60",
+        "site_web": "https://centre.franceparebrise.fr/reparation-pare-brise/ile-de-france/seine-saint-denis/stains/stains",
+        "adresse": "80 Bd Maxime Gorki, 93240 Stains",
+        "note": 4.6,
+        "avis": 160,
+        "type": "Service de réparation de pare-brise"
+      }
+    ]
+  },
+  "tremblay-en-france": {
+    "artisans": [
+      {
+        "id": "14611444101534317331",
+        "nom": "KREATION FENETRES",
+        "slug": "kreation-fenetres",
+        "telephone": "01 34 07 12 70",
+        "site_web": "http://www.kreation-fenetres.fr/",
+        "adresse": "2 Rue du Général Leclerc, 95500 Gonesse",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "492748989634114408",
+        "nom": "L'Expert Fenêtre Henriet F.A.S.E.",
+        "slug": "lexpert-fenetre-henriet-fase",
+        "telephone": "01 48 83 76 67",
+        "site_web": "http://www.henriet-fase.fr/",
+        "adresse": "7 Av. Clément Ader, 94420 Le Plessis-Trévise",
+        "note": 4.7,
+        "avis": 72,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7452374962022241101",
+        "nom": "vitribaie",
+        "slug": "vitribaie",
+        "telephone": "01 48 68 60 04",
+        "site_web": "http://vitribaie.com/",
+        "adresse": "73 Rue Henri Farman, 93290 Tremblay-en-France",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14887328323687448990",
+        "nom": "Les Laveurs de Vitres - David Mourizard",
+        "slug": "les-laveurs-de-vitres-david-mourizard",
+        "telephone": "06 12 99 50 36",
+        "site_web": "https://www.leslaveursdevitres.com/",
+        "adresse": "57 Rue des Ardennes, 93290 Tremblay-en-France",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de nettoyage de vitres"
+      },
+      {
+        "id": "14854136137926127745",
+        "nom": "ALVES PEREIRA FERMETURES",
+        "slug": "alves-pereira-fermetures",
+        "telephone": "06 13 10 18 76",
+        "site_web": "https://www.facebook.com/p/ALVES-PEREIRA-FERMETURES-100064058232230/",
+        "adresse": "12 Av. Lamartine, 77270 Villeparisis",
+        "note": 4.9,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1348879725746635088",
+        "nom": "DOCTB - Agence commerciale VERRIERE-PRO",
+        "slug": "doctb-agence-commerciale-verriere-pro",
+        "telephone": "01 89 29 19 80",
+        "site_web": "https://www.verriere-pro.fr/",
+        "adresse": "9 Av. Jean Monnet, 77270 Villeparisis",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bondy": {
+    "artisans": [
+      {
+        "id": "15638475548842056346",
+        "nom": "Qualiferm | Rideau métallique | Volet roulant | Persienne",
+        "slug": "qualiferm-rideau-metallique-volet-roulant-persienne",
+        "telephone": "01 84 21 08 24",
+        "site_web": "https://www.qualiferm.com/",
+        "adresse": "73 Av. du 14 Juillet, 93140 Bondy",
+        "note": 4.8,
+        "avis": 172,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "10281782437119887988",
+        "nom": "Secu'Fermeture - Rideau métallique - Volet Roulant - Atelier métallique",
+        "slug": "secufermeture-rideau-metallique-volet-roulant-atelier-metallique",
+        "telephone": "01 48 49 10 92",
+        "site_web": "https://www.secufermeture.fr/",
+        "adresse": "8 Av. Maurice Benhamou, 93140 Bondy",
+        "note": 4.8,
+        "avis": 43,
+        "type": "Entreprise de métallurgie"
+      }
+    ]
+  },
+  "vaujours": {
+    "artisans": [
+      {
+        "id": "3210871835061475693",
+        "nom": "JMC COUVERTURE",
+        "slug": "jmc-couverture",
+        "telephone": "01 64 21 38 37",
+        "site_web": "https://jmccouverture.com/",
+        "adresse": "97 Rue Charles Van Wyngene, 77181 Courtry",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1228351301068085268",
+        "nom": "COUVREUR LES LILAS 93 - Lanoy",
+        "slug": "couvreur-les-lilas-93-lanoy",
+        "telephone": "01 84 21 12 98",
+        "site_web": "https://www.sj-couverture-93.fr/",
+        "adresse": "5 Rue Romain Rolland, 93260 Les Lilas",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villemomble": {
+    "artisans": [
+      {
+        "id": "10439087606185257986",
+        "nom": "Renostyles Villemomble",
+        "slug": "renostyles-villemomble",
+        "telephone": "01 49 36 21 17",
+        "site_web": "http://www.renostyles.com/",
+        "adresse": "15/17 Grande Rue, 93250 Villemomble",
+        "note": 4.6,
+        "avis": 156,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "1644394182605119151",
+        "nom": "Isopen - Ouverture S ® Fenetres - Volets Roulants - Porte d'entrée - Portail - Pergolas - Porte de Garage - Garde corps",
+        "slug": "isopen-ouverture-s-fenetres-volets-roulants-porte-dentree-portail-pergolas-porte-de-garage-garde-corps",
+        "telephone": "01 48 12 17 10",
+        "site_web": "https://www.isopen-ouvertures.com/",
+        "adresse": "2 Rue de Neuilly, 93250 Villemomble",
+        "note": 4.7,
+        "avis": 129,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13099869518229878369",
+        "nom": "Couvreur Villemomble | Fernand Toiture",
+        "slug": "couvreur-villemomble-fernand-toiture",
+        "telephone": "07 69 18 30 61",
+        "site_web": "https://www.fernand-toiture.fr/index.html",
+        "adresse": "13 Bd d'Aulnay, 93250 Villemomble",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16772002651959675061",
+        "nom": "Les Menuiseries Parisiennes Villemomble",
+        "slug": "les-menuiseries-parisiennes-villemomble",
+        "telephone": "01 70 28 86 23",
+        "site_web": "https://www.lesmenuiseriesparisiennes.com/",
+        "adresse": "15 Av. Outrebon, 93250 Villemomble",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villepinte": {
+    "artisans": [
+      {
+        "id": "11918075713698696889",
+        "nom": "Huzler Couverture",
+        "slug": "huzler-couverture",
+        "telephone": "06 42 87 22 06",
+        "site_web": "https://www.couvreur-huzler-93.fr/",
+        "adresse": "18 Av. des Bons Enfants, 93420 Villepinte",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bagnolet": {
+    "artisans": [
+      {
+        "id": "13812183987693822102",
+        "nom": "Avenir Rénovations Saint-Denis (93)",
+        "slug": "avenir-renovations-saint-denis-93",
+        "telephone": "01 86 26 68 84",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-93-saint-denis/",
+        "adresse": "8-10 Rue des Bles, 93200 Saint-Denis",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "4244255082073721695",
+        "nom": "JM SERRURES - Point Fort Fichet",
+        "slug": "jm-serrures-point-fort-fichet",
+        "telephone": "01 43 49 72 01",
+        "site_web": "https://jmserrures.fr/",
+        "adresse": "145 Rue de Bagnolet, 75020 Paris",
+        "note": 4.6,
+        "avis": 45,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "aulnay-sous-bois": {
+    "artisans": [
+      {
+        "id": "8067553674026133573",
+        "nom": "Adel Marcellin Charles Couvreur",
+        "slug": "adel-marcellin-charles-couvreur",
+        "telephone": "01 85 53 07 03",
+        "site_web": "https://www.amc-couverture.fr/",
+        "adresse": "21 Rue Jacques Duclos, 93600 Aulnay-sous-Bois",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Couvreur"
+      },
+      {
+        "id": "249959451677710923",
+        "nom": "Fermetures de La Brie / Art et fenêtres",
+        "slug": "fermetures-de-la-brie-art-et-fenetres",
+        "telephone": "01 77 35 60 14",
+        "site_web": "https://www.fermeturesdelabrie.com/",
+        "adresse": "9 Pl. du Général Leclerc, 93600 Aulnay-sous-Bois",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14738398326664646440",
+        "nom": "JMB Habitat Mr Boucq Jean Marcelin",
+        "slug": "jmb-habitat-mr-boucq-jean-marcelin",
+        "telephone": "01 72 51 76 74",
+        "site_web": "http://www.couvreur-jmb-habitat-93.fr/",
+        "adresse": "7 Av. de Gargan, 93600 Aulnay-sous-Bois",
+        "note": 4.8,
+        "avis": 30,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11969478556700859863",
+        "nom": "Renard Couverture - Couvreur Aulnay-sous-bois",
+        "slug": "renard-couverture-couvreur-aulnay-sous-bois",
+        "telephone": "06 69 05 72 03",
+        "site_web": "https://www.couvreur-renard.com/",
+        "adresse": "24 Rue d'Alembert, 93600 Aulnay-sous-Bois",
+        "note": 4.6,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11976884011161559171",
+        "nom": "PRO TECH SYSTEM",
+        "slug": "pro-tech-system",
+        "telephone": "01 43 30 10 10",
+        "site_web": "https://www.protechsystem.fr/",
+        "adresse": "19-21 Rue Isaac Newton, 93600 Aulnay-sous-Bois",
+        "note": 3.8,
+        "avis": 17,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "8790144007019687980",
+        "nom": "ENTREPRISE ROBY",
+        "slug": "entreprise-roby",
+        "telephone": "06 99 08 59 92",
+        "site_web": "https://www.expert-toitures.fr/",
+        "adresse": "7 Pl. de l'Hôtel de ville, 93600 Aulnay-sous-Bois",
+        "note": 5,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-blanc-mesnil": {
+    "artisans": [
+      {
+        "id": "13218696728793921265",
+        "nom": "Etincel",
+        "slug": "etincel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI du Coudray, 20 Av. Albert Einstein, 93150 Le Blanc-Mesnil",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "13878193462929620033",
+        "nom": "SPF MENUISERIE",
+        "slug": "spf-menuiserie",
+        "telephone": "06 99 59 66 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 19,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bobigny": {
+    "artisans": [
+      {
+        "id": "11864297015612628625",
+        "nom": "TRANSALU PARIS",
+        "slug": "transalu-paris",
+        "telephone": "01 43 93 17 88",
+        "site_web": "http://www.transalu.fr/",
+        "adresse": "143 Rue de Paris, 93000 Bobigny",
+        "note": 4.4,
+        "avis": 47,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7959152477441413061",
+        "nom": "Falux",
+        "slug": "falux",
+        "telephone": "01 57 42 54 14",
+        "site_web": null,
+        "adresse": "45 Chem. des Vignes, 93000 Bobigny",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur d'aluminium"
+      }
+    ]
+  },
+  "aubervilliers": {
+    "artisans": [
+      {
+        "id": "9738388863386161522",
+        "nom": "Fabre & Lebeau Aubervilliers",
+        "slug": "fabre-lebeau-aubervilliers",
+        "telephone": "01 53 56 38 38",
+        "site_web": "https://www.fabre-lebeau.fr/",
+        "adresse": "114 Rue Léopold Rechossière, 93300 Aubervilliers",
+        "note": 4,
+        "avis": 96,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9789060287434361348",
+        "nom": "InterFenetre Aubervilliers",
+        "slug": "interfenetre-aubervilliers",
+        "telephone": "01 48 34 47 25",
+        "site_web": "http://www.interfenetre.com/",
+        "adresse": "88 Bd Félix Faure, 93300 Aubervilliers",
+        "note": 3.6,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3265 @@
+{
+  "billom": {
+    "artisans": [
+      {
+        "id": "1120299474873328255",
+        "nom": "Boisson Store & Menuiseries Aubière",
+        "slug": "boisson-store-menuiseries-aubiere",
+        "telephone": "04 73 28 63 50",
+        "site_web": "https://boisson-stores.com/",
+        "adresse": "14 Rue Jacqueline Auriol, 63170 Aubière",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2734678579473392818",
+        "nom": "Domreno SAS",
+        "slug": "domreno-sas",
+        "telephone": "06 52 22 29 20",
+        "site_web": "https://www.domreno.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13109993745675409400",
+        "nom": "SOLABAIE – Clermont Ferrand : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-clermont-ferrand-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/",
+        "adresse": "59 Av. d'Aubière, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 91,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "lempdes": {
+    "artisans": [
+      {
+        "id": "3201793754658900645",
+        "nom": "Auvergne Fenêtres",
+        "slug": "auvergne-fenetres",
+        "telephone": "04 73 88 22 96",
+        "site_web": "https://auvergne-fenetres.fr/",
+        "adresse": "Zac Du Petit Clos, 2 Rue du Petit Clos, 63100 Clermont-Ferrand",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13873028371027653525",
+        "nom": "Le Verre et l'Ouverture",
+        "slug": "le-verre-et-louverture",
+        "telephone": "04 73 61 72 22",
+        "site_web": "https://leverre-et-louverture.fr/",
+        "adresse": "23 Rue de Milan, 63370 Lempdes",
+        "note": 4.5,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2382673758897034129",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/puy-de-dome/installateur-expert-en-pose-velux-a-clermont-ferrand",
+        "adresse": "27 Rue Raynaud, 63000 Clermont-Ferrand",
+        "note": 5,
+        "avis": 9,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "aydat": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "beauregard-vendon": {
+    "artisans": [
+      {
+        "id": "10511096305733389002",
+        "nom": "Auvergne Eco Habitat",
+        "slug": "auvergne-eco-habitat",
+        "telephone": "04 73 64 38 71",
+        "site_web": "http://www.fenetre-auvergne.fr/",
+        "adresse": "67 Av. Jean Jaurès, 63200 Mozac",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10638294958960222747",
+        "nom": "Lorenove Montlucon",
+        "slug": "lorenove-montlucon",
+        "telephone": "04 70 05 32 59",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/montlucon?utm_source=gmb",
+        "adresse": "3 Rue du Commerce, 03410 Saint-Victor",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8343575592484782887",
+        "nom": "L'atelier Julien Bois et zinc ( menuisier, couvreur, zingueur )",
+        "slug": "latelier-julien-bois-et-zinc-menuisier-couvreur-zingueur",
+        "telephone": "06 60 11 21 64",
+        "site_web": null,
+        "adresse": "17 Rue des Chevreuils, 63460 Beauregard-Vendon",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5203323065125846108",
+        "nom": "Atouts Toits",
+        "slug": "atouts-toits",
+        "telephone": "04 73 67 04 30",
+        "site_web": "http://atoutstoits.site-solocal.com/",
+        "adresse": null,
+        "note": 3.3,
+        "avis": 14,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "blanzat": {
+    "artisans": [
+      {
+        "id": "2880410726066940085",
+        "nom": "SOLABAIE – Mozac : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-mozac-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/nos-magasins/solabaie-mozac-riom/",
+        "adresse": "59 Av. Jean Jaurès, 63200 Mozac",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9232061591777461136",
+        "nom": "SPL Couverture",
+        "slug": "spl-couverture",
+        "telephone": "07 49 18 05 56",
+        "site_web": "https://spl-couverture.fr/",
+        "adresse": "55 Rue du Cheval, 63100 Clermont-Ferrand",
+        "note": 5,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16134432786996150509",
+        "nom": "ATTILA Clermont-Ferrand",
+        "slug": "attila-clermont-ferrand",
+        "telephone": "04 73 14 95 83",
+        "site_web": "https://www.attila.fr/nos-agences/attila-clermont-ferrand?utm_source=gmb",
+        "adresse": "32 Rue Jules Verne, 63100 Clermont-Ferrand",
+        "note": 4.1,
+        "avis": 39,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11194349712609249882",
+        "nom": "Lacroix couvreur",
+        "slug": "lacroix-couvreur",
+        "telephone": "06 44 77 15 73",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "beaumont": {
+    "artisans": [
+      {
+        "id": "1587036681558545886",
+        "nom": "Tous Toits",
+        "slug": "tous-toits",
+        "telephone": "07 76 78 92 40",
+        "site_web": "https://www.toustoits.fr/?utm_source=gmb",
+        "adresse": "35 Rue Alexandre Varenne, 63110 Beaumont",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14359215738200203498",
+        "nom": "Fermetures Confort",
+        "slug": "fermetures-confort",
+        "telephone": "04 73 23 12 12",
+        "site_web": "http://www.fermetures-confort.fr/",
+        "adresse": "1000 Rte de Romagnat, 63110 Beaumont",
+        "note": 4.2,
+        "avis": 57,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10858729659970229492",
+        "nom": "Haullard et fils",
+        "slug": "haullard-et-fils",
+        "telephone": "07 68 40 21 55",
+        "site_web": "https://haullard-et-fils.fr/",
+        "adresse": "112 Av. du Mont Dore, 63110 Beaumont",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "besse-et-saint-anastaise": {
+    "artisans": [
+      {
+        "id": "18121810399825766327",
+        "nom": "Besse Jacques",
+        "slug": "besse-jacques",
+        "telephone": "05 55 96 70 98",
+        "site_web": null,
+        "adresse": "181 Rue Jules Ferry, 19110 Bort-les-Orgues",
+        "note": 3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13847729859314324432",
+        "nom": "BATI RENO Terres de Fenêtre",
+        "slug": "bati-reno-terres-de-fenetre",
+        "telephone": "04 73 19 31 26",
+        "site_web": "https://bati-reno.fr/",
+        "adresse": "18 Rue du Clos Notre Dame, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 136,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9100473921717437328",
+        "nom": "Office de tourisme de Besse - Massif du Sancy",
+        "slug": "office-de-tourisme-de-besse-massif-du-sancy",
+        "telephone": "04 73 79 52 84",
+        "site_web": "https://www.sancy.com/decouvrir/toutes-les-communes/besse-saint-anastaise/?utm_source=Google&utm_medium=site+web&utm_campaign=Suivi+fiche+Google+OT+Besse",
+        "adresse": "13 Rue Notre Dame, 63610 Besse-et-Saint-Anastaise",
+        "note": 4.2,
+        "avis": 272,
+        "type": "Office de tourisme"
+      }
+    ]
+  },
+  "beauregard-l-eveque": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-bourboule": {
+    "artisans": [
+      {
+        "id": "4166364637185359048",
+        "nom": "SARL BRUGIERE FRERES",
+        "slug": "sarl-brugiere-freres",
+        "telephone": "04 73 81 10 18",
+        "site_web": "https://www.menuiserie-brugiere.com/",
+        "adresse": "133 Chemin des Cascades, 63150 La Bourboule",
+        "note": 5,
+        "avis": 1,
+        "type": "Siège social"
+      },
+      {
+        "id": "8875482756904670675",
+        "nom": "Gatiniol Art et Fenêtres La Bourboule",
+        "slug": "gatiniol-art-et-fenetres-la-bourboule",
+        "telephone": "04 73 22 29 45",
+        "site_web": "http://www.gatiniol.fr/",
+        "adresse": "1325 Bd des Vernières, 63150 La Bourboule",
+        "note": 4.1,
+        "avis": 12,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4715036483013397966",
+        "nom": "FAROUX EURL Menuisier",
+        "slug": "faroux-eurl-menuisier",
+        "telephone": "04 73 21 81 95",
+        "site_web": "https://www.menuisier-la-bourboule.fr/",
+        "adresse": "18 Rue Michelet, 63150 La Bourboule",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15717198490732789790",
+        "nom": "Lafaix - Terres de fenêtre",
+        "slug": "lafaix-terres-de-fenetre",
+        "telephone": "04 73 65 57 25",
+        "site_web": "http://www.lafaix.com/",
+        "adresse": "Pré du Château, 63150 Murat-le-Quaire",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "brassac-les-mines": {
+    "artisans": [
+      {
+        "id": "15986151177512002640",
+        "nom": "Dome Couverture",
+        "slug": "dome-couverture",
+        "telephone": "06 79 42 37 60",
+        "site_web": "https://www.domecouverture63.fr/",
+        "adresse": "10 lotissement le colombier, 63570 Brassac-les-Mines",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9873487748136397681",
+        "nom": "Thomas CERES",
+        "slug": "thomas-ceres",
+        "telephone": "06 38 56 17 51",
+        "site_web": "https://www.thomas-ceres.fr/",
+        "adresse": "Chem. du Port de Bouxhors, 63570 Brassac-les-Mines",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9456145761113035071",
+        "nom": "Pescador Alex - Entreprise Maçonnerie Charpente Couverture toiture",
+        "slug": "pescador-alex-entreprise-maconnerie-charpente-couverture-toiture",
+        "telephone": "06 65 53 45 28",
+        "site_web": "https://www.alexpescador.fr/",
+        "adresse": "38 Av. de Charbonnier, 63570 Brassac-les-Mines",
+        "note": 4.9,
+        "avis": 53,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13109605225627268785",
+        "nom": "OCE TOITURES",
+        "slug": "oce-toitures",
+        "telephone": "06 41 06 79 48",
+        "site_web": "https://www.oce-toitures.fr/",
+        "adresse": "21 Lot. Arverne, 63570 Brassac-les-Mines",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cebazat": {
+    "artisans": [
+      {
+        "id": "5747720001549717007",
+        "nom": "Auvergne Protection Solaire Partenaire Arcades & Baies (APS63)",
+        "slug": "auvergne-protection-solaire-partenaire-arcades-baies-aps63",
+        "telephone": "04 73 23 24 24",
+        "site_web": "http://www.aps63.com/",
+        "adresse": "26 Rue des Coutils, 63118 Cébazat",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10498947811729414454",
+        "nom": "Bartolomeu SAS",
+        "slug": "bartolomeu-sas",
+        "telephone": "04 73 25 24 70",
+        "site_web": "http://www.vitrerie-bartolomeu.fr/?utm_source=gmb",
+        "adresse": "9020 RN 9, 63118 Cébazat",
+        "note": 4.6,
+        "avis": 64,
+        "type": "Vitrier"
+      },
+      {
+        "id": "676263392462742211",
+        "nom": "Clair de Baie Clermont – Menuiseries PVC - Alu - bois - Fenêtres, Portes, Volets...",
+        "slug": "clair-de-baie-clermont-menuiseries-pvc-alu-bois-fenetres-portes-volets",
+        "telephone": "04 15 54 00 30",
+        "site_web": "https://www.clairdebaie.fr/",
+        "adresse": "zi de ladoux, 16 Rue Orange, 63118 Cébazat",
+        "note": 4.4,
+        "avis": 86,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "6852000809415505002",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "04 73 15 12 97",
+        "site_web": "https://magasins.lapeyre.fr/auvergne-rhone-alpes/puy-de-dome/lapeyre-clermont-ferrand-34",
+        "adresse": "6 Av. du Roussillon, 63170 Aubière",
+        "note": 3.5,
+        "avis": 729,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11817179990918325881",
+        "nom": "SAINT-GOBAIN VITRAGE BÂTIMENT Clermont-Ferrand",
+        "slug": "saint-gobain-vitrage-batiment-clermont-ferrand",
+        "telephone": "04 73 23 48 00",
+        "site_web": "http://www.saint-gobain-vitrage.fr/",
+        "adresse": "6 Rue Bleue, 63118 Cébazat",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "chabreloche": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-cendre": {
+    "artisans": [
+      {
+        "id": "2299333512514217376",
+        "nom": "NP Rénovation",
+        "slug": "np-renovation",
+        "telephone": "06 58 50 46 92",
+        "site_web": "https://www.nprenovation-le-cendre.fr/",
+        "adresse": "6 Rue Mariotte, 63670 Le Cendre",
+        "note": 4.8,
+        "avis": 73,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "celles-sur-durolle": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "champeix": {
+    "artisans": [
+      {
+        "id": "16031346210842523804",
+        "nom": "MV Gory Et Fils",
+        "slug": "mv-gory-et-fils",
+        "telephone": "04 73 96 25 68",
+        "site_web": null,
+        "adresse": "Rte de Montaigut, 63320 Champeix",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10154676554026975476",
+        "nom": "Alu Vision",
+        "slug": "alu-vision",
+        "telephone": "04 73 96 29 89",
+        "site_web": "https://www.aluvision63320.com/",
+        "adresse": "Rte de Ludesse, 63320 Champeix",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chanonat": {
+    "artisans": [
+      {
+        "id": "17700326903299351601",
+        "nom": "Vitr'home",
+        "slug": "vitrhome",
+        "telephone": "06 95 94 26 31",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 18,
+        "type": "Entreprise de nettoyage de vitres"
+      }
+    ]
+  },
+  "charbonnieres-les-vieilles": {
+    "artisans": [
+      {
+        "id": "15786021579682060633",
+        "nom": "Féenix Rénov",
+        "slug": "feenix-renov",
+        "telephone": "06 07 98 19 20",
+        "site_web": "http://www.feenix-renov.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "6989477887498122604",
+        "nom": "Toit et bois",
+        "slug": "toit-et-bois",
+        "telephone": "06 50 99 36 61",
+        "site_web": "https://www.toitetbois63.fr/",
+        "adresse": "2 impasses de l’étang, Beaunit Lieu-dit, 63410 Charbonnières-les-Varennes",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13272169300634873825",
+        "nom": "Elba",
+        "slug": "elba",
+        "telephone": "04 73 33 53 08",
+        "site_web": "http://www.saselba.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8425928897611003339",
+        "nom": "Sibillotte Bruce",
+        "slug": "sibillotte-bruce",
+        "telephone": "04 73 86 67 35",
+        "site_web": null,
+        "adresse": "Laisles, 63410 Charbonnières-les-Vieilles",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8508908255254272536",
+        "nom": "BatiTerr63",
+        "slug": "batiterr63",
+        "telephone": "06 60 57 77 31",
+        "site_web": "http://www.batiterr63.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "charbonnieres-les-varennes": {
+    "artisans": [
+      {
+        "id": "16794521374452976063",
+        "nom": "Menuiserie des Puys",
+        "slug": "menuiserie-des-puys",
+        "telephone": "06 65 04 56 94",
+        "site_web": "https://m.facebook.com/61575163104265/",
+        "adresse": "60 Rte de Volvic, 63410 Charbonnières-les-Varennes",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chapdes-beaufort": {
+    "artisans": [
+      {
+        "id": "13045047465757899699",
+        "nom": "SARL tixier couverture",
+        "slug": "sarl-tixier-couverture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "29 Rue du Tiollet, 63230 Chapdes-Beaufort",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepôt"
+      },
+      {
+        "id": "4064643552470126451",
+        "nom": "Tixier Jean-Michel",
+        "slug": "tixier-jean-michel",
+        "telephone": "04 73 79 24 06",
+        "site_web": "http://societetixier.site-solocal.com/",
+        "adresse": "31 Rue du Tiollet, 63230 Chapdes-Beaufort",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "auzat-la-combelle": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chamalieres": {
+    "artisans": [
+      {
+        "id": "5916452309951308512",
+        "nom": "WL Couvreur Chamalières Royat Puy-de-Dôme 63",
+        "slug": "wl-couvreur-chamalieres-royat-puy-de-dome-63",
+        "telephone": "06 69 25 07 69",
+        "site_web": "https://lagreneewesley.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chappes": {
+    "artisans": [
+      {
+        "id": "7699024327502200268",
+        "nom": "Alexandre Menuiserie",
+        "slug": "alexandre-menuiserie",
+        "telephone": "04 73 86 12 89",
+        "site_web": "https://www.alexandremenuiserie63.fr/",
+        "adresse": "9 Rte de Lussat, 63720 Chappes",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "combronde": {
+    "artisans": [
+      {
+        "id": "8049080761387013983",
+        "nom": "BATIMAN TTMB Menuiserie Combronde",
+        "slug": "batiman-ttmb-menuiserie-combronde",
+        "telephone": "04 73 97 13 69",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-t-t-m-b-combronde-63460-experts-en-menuiserie",
+        "adresse": "ZA La Varenne, Rue de Bretagne, 63460 Combronde, Puy-de-Dôme, Auvergne-Rhône-Alpes",
+        "note": 4.6,
+        "avis": 173,
+        "type": "Menuisier"
+      },
+      {
+        "id": "28186510683423748",
+        "nom": "FB Fermetures Du Bâtiment",
+        "slug": "fb-fermetures-du-batiment",
+        "telephone": "04 73 33 05 46",
+        "site_web": "http://www.fb-fermeture-batiment.fr/?utm_source=gmb",
+        "adresse": "51 Av. Etienne Clémentel, 63460 Combronde",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "coudes": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chauriat": {
+    "artisans": [
+      {
+        "id": "5887537924153263166",
+        "nom": "Menuiserie Bertheol",
+        "slug": "menuiserie-bertheol",
+        "telephone": "06 41 36 01 92",
+        "site_web": null,
+        "adresse": "26 Bd de la République, 63117 Chauriat",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "clermont-ferrand": {
+    "artisans": [
+      {
+        "id": "6197210052944266787",
+        "nom": "Miroiterie Daguillon",
+        "slug": "miroiterie-daguillon",
+        "telephone": "04 73 92 51 95",
+        "site_web": "http://www.daguillon.com/?utm_source=gmb",
+        "adresse": "Zone Industrielle Du Brezet, 12 Rue Nicolas Joseph Cugnot, 63100 Clermont-Ferrand",
+        "note": 3.3,
+        "avis": 38,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18266696464342395030",
+        "nom": "GP Menuiseries",
+        "slug": "gp-menuiseries",
+        "telephone": "04 73 19 40 06",
+        "site_web": "http://www.gpmenuiseries.fr/",
+        "adresse": "23 Rue Newton, 63100 Clermont-Ferrand",
+        "note": 5,
+        "avis": 348,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9400427698517080354",
+        "nom": "ALUtec Menuiseries | Menuiseries intérieures, extérieurs de la maison, cuisine, dressings ...",
+        "slug": "alutec-menuiseries-menuiseries-interieures-exterieurs-de-la-maison-cuisine-dressings",
+        "telephone": "04 73 74 48 60",
+        "site_web": "https://alutec-menuiseries.fr/",
+        "adresse": "36 Rue Jules Verne, 63100 Clermont-Ferrand",
+        "note": 4.1,
+        "avis": 38,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12806148810604736202",
+        "nom": "AUVERDOOR – Menuiseries sur mesure à Cournon (63) Pose de fenêtres, portes, garages, stores & plus | Partenaire Hörmann",
+        "slug": "auverdoor-menuiseries-sur-mesure-a-cournon-63-pose-de-fenetres-portes-garages-stores-plus-partenaire-hormann",
+        "telephone": "04 73 24 81 96",
+        "site_web": "https://www.auverdoor.com/",
+        "adresse": "5 Rue des Acilloux, 63800 Cournon-d'Auvergne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14144707643300496741",
+        "nom": "Menuiserie VERDES",
+        "slug": "menuiserie-verdes",
+        "telephone": "04 73 90 43 96",
+        "site_web": null,
+        "adresse": "22 Rue Alain Chartier, 63000 Clermont-Ferrand",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15463537455210119235",
+        "nom": "ARTI 2000 La Boutique du Menuisier",
+        "slug": "arti-2000-la-boutique-du-menuisier",
+        "telephone": "04 73 74 61 50",
+        "site_web": "http://www.arti2000.fr/",
+        "adresse": "9 Rue Newton, 63100 Clermont-Ferrand",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3033954033124284220",
+        "nom": "SN REPAR VITRES",
+        "slug": "sn-repar-vitres",
+        "telephone": "06 42 29 68 38",
+        "site_web": "https://www.repar-vitres.fr/",
+        "adresse": "16 Rue Maurice Bellonte, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 130,
+        "type": "Vitrier"
+      },
+      {
+        "id": "917211686636349141",
+        "nom": "Les Fermetures d'Auvergne",
+        "slug": "les-fermetures-dauvergne",
+        "telephone": "04 73 75 75 00",
+        "site_web": "http://www.lesfermeturesdauvergne.fr/?utm_source=gmb",
+        "adresse": "54 Av. Marx Dormoy, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cournon-d-auvergne": {
+    "artisans": [
+      {
+        "id": "7537016338935767623",
+        "nom": "GPM Menuiserie",
+        "slug": "gpm-menuiserie",
+        "telephone": "04 73 69 43 93",
+        "site_web": "https://www.gpmmenuiserie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "24 Rue de la Sioule, 63800 Cournon-d'Auvergne",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13109993745675409400",
+        "nom": "SOLABAIE – Clermont Ferrand : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-clermont-ferrand-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/",
+        "adresse": "59 Av. d'Aubière, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 91,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3834538192578066065",
+        "nom": "Aprobat - Art&Fenêtres - Cournon",
+        "slug": "aprobat-artfenetres-cournon",
+        "telephone": "04 73 25 61 36",
+        "site_web": "http://www.aprobat.com/",
+        "adresse": "20 Av. d'Aubière, 63800 Cournon-d'Auvergne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16021302517750708794",
+        "nom": "Entreprise Pironin",
+        "slug": "entreprise-pironin",
+        "telephone": "04 73 26 00 42",
+        "site_web": "http://www.pironin.com/",
+        "adresse": "1 Rue Hector Guimard, 63800 Cournon-d'Auvergne",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15436906925776607299",
+        "nom": "TRYBA Cournon",
+        "slug": "tryba-cournon",
+        "telephone": "04 20 98 14 35",
+        "site_web": "https://www.tryba.com/espace-conseil/63/tryba-cournon/?utm_campaign=Tryba_Cournon&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "129 Av. d'Aubière, 63800 Cournon-d'Auvergne",
+        "note": 4.1,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14975693922805793857",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "04 73 69 32 09",
+        "site_web": "https://www.gustaverideau.com/agences/clermont-ferrand-cournon-dauvergne-aloa/?utm_campaign=cournondauvergne&utm_medium=GMB&utm_source=google",
+        "adresse": "5 Rue Hector Guimard, 63800 Cournon-d'Auvergne",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13286959128679488493",
+        "nom": "Auverglace",
+        "slug": "auverglace",
+        "telephone": "04 73 69 40 44",
+        "site_web": "https://www.auverglace.fr/",
+        "adresse": "11 Rue Jean Mermoz, 63800 Cournon-d'Auvergne",
+        "note": 5,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13160493568241932095",
+        "nom": "AD Couverture Zinguerie",
+        "slug": "ad-couverture-zinguerie",
+        "telephone": "06 58 17 31 81",
+        "site_web": "http://www.facebook.com/ADcouverturezinguerie63/",
+        "adresse": "10 Rue Eugène Rénaux, 63800 Cournon-d'Auvergne",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "779195248071316474",
+        "nom": "SIEGRIST SAS",
+        "slug": "siegrist-sas",
+        "telephone": "04 73 26 34 80",
+        "site_web": "https://www.siegrist-sas.fr/",
+        "adresse": "7 ter Rue de l'Industrie, 63800 Cournon-d'Auvergne",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12637834563153699682",
+        "nom": "Aloa véranda et abris de piscine RIDEAU",
+        "slug": "aloa-veranda-et-abris-de-piscine-rideau",
+        "telephone": "04 73 69 32 09",
+        "site_web": "http://www.aloa.fr/",
+        "adresse": "5 Rue Hector Guimard, 63800 Cournon-d'Auvergne",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "courpiere": {
+    "artisans": [
+      {
+        "id": "17108985103008191054",
+        "nom": "Courpière Bricolage",
+        "slug": "courpiere-bricolage",
+        "telephone": "04 73 51 24 12",
+        "site_web": "http://courpierebricolage.site-solocal.com/",
+        "adresse": "9 Rue des Percières, 63120 Courpière",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "culhat": {
+    "artisans": [
+      {
+        "id": "10341979893345853255",
+        "nom": "Vulc Imper",
+        "slug": "vulc-imper",
+        "telephone": "04 73 70 22 83",
+        "site_web": "http://www.vulc-imper.fr/",
+        "adresse": "Zone Artisanale Champ Moutier, 63350 Maringues",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5866909001796434642",
+        "nom": "Meister Fermetures",
+        "slug": "meister-fermetures",
+        "telephone": "06 22 58 81 38",
+        "site_web": "http://meisterfermetures.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15433806419071238111",
+        "nom": "SOS Couvreur & Rénovation",
+        "slug": "sos-couvreur-renovation",
+        "telephone": "09 74 56 41 57",
+        "site_web": "https://www.sos-couvreur63.fr/",
+        "adresse": "8 Rte de Mezel, 63910 Vertaizon",
+        "note": 5,
+        "avis": 57,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-crest": {
+    "artisans": [
+      {
+        "id": "17349549200095556485",
+        "nom": "Axibât63 - Couvreur, Isolation, Sarking, Velux, Zinguerie",
+        "slug": "axibat63-couvreur-isolation-sarking-velux-zinguerie",
+        "telephone": "04 73 39 04 97",
+        "site_web": "http://www.axibat63.com/",
+        "adresse": "14 Rue Georges Charpak, 63960 Veyre-Monton",
+        "note": 4.4,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cunlhat": {
+    "artisans": [
+      {
+        "id": "13218932685871263287",
+        "nom": "Gedimat Dufrançais - Cunlhat",
+        "slug": "gedimat-dufrancais-cunlhat",
+        "telephone": "04 73 72 22 14",
+        "site_web": "https://www.gedimat.fr/1305-magasin-gedimat-dufrancais-cunlhat.htm",
+        "adresse": "1 Rte de Domaize, 63590 Cunlhat",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "effiat": {
+    "artisans": [
+      {
+        "id": "11429708092602865357",
+        "nom": "Les Fermetures De Limagne",
+        "slug": "les-fermetures-de-limagne",
+        "telephone": "06 61 70 02 76",
+        "site_web": null,
+        "adresse": "10 Rue de la Font Denone, 63260 Effiat",
+        "note": 5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6806914985207015167",
+        "nom": "Romain Menuiseries",
+        "slug": "romain-menuiseries",
+        "telephone": "06 48 92 31 90",
+        "site_web": "https://www.facebook.com/RomainMenuiseries",
+        "adresse": "16 Rue de Marchezat Bethueix, 63260 Effiat",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "enval": {
+    "artisans": [
+      {
+        "id": "7372337929458082960",
+        "nom": "BJPM",
+        "slug": "bjpm",
+        "telephone": "06 82 82 81 25",
+        "site_web": "https://www.sarl-bjpm.fr/contact/",
+        "adresse": "9 Chem. de la Perille, 63530 Enval",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3681981672574276733",
+        "nom": "CASÉO Riom",
+        "slug": "caseo-riom",
+        "telephone": "04 73 63 36 33",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-riom-enval-95",
+        "adresse": "4 Rocade Chanliera, 63530 Enval",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11929234408514387500",
+        "nom": "Frans Bonhomme Riom - Enval",
+        "slug": "frans-bonhomme-riom-enval",
+        "telephone": "04 73 64 73 30",
+        "site_web": "https://www.fransbonhomme.fr/store-finder/63530-enval-346",
+        "adresse": "Rte de Volvic ZI D, 63530 Enval",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "ennezat": {
+    "artisans": [
+      {
+        "id": "16506394409082839391",
+        "nom": "Artidome",
+        "slug": "artidome",
+        "telephone": "06 26 21 56 49",
+        "site_web": "http://www.artidome.fr/",
+        "adresse": "8 Rue Jean Ferrat, 63720 Ennezat",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12867012085727853830",
+        "nom": "Menuiserie du Marais",
+        "slug": "menuiserie-du-marais",
+        "telephone": "04 73 97 78 43",
+        "site_web": null,
+        "adresse": "10 Rue de l'Ambène, 63720 Ennezat",
+        "note": 4,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15215482173940140645",
+        "nom": "Atouts toit",
+        "slug": "atouts-toit",
+        "telephone": "04 73 67 04 30",
+        "site_web": null,
+        "adresse": "1 Pl. des Champiaux, 63720 Ennezat",
+        "note": 1,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "escoutoux": {
+    "artisans": [
+      {
+        "id": "9257583408308471274",
+        "nom": "AS FAÇADES",
+        "slug": "as-facades",
+        "telephone": "06 18 82 39 47",
+        "site_web": null,
+        "adresse": "56 Lamouroux, 63300 Escoutoux",
+        "note": 5,
+        "avis": 6,
+        "type": "Façadier"
+      },
+      {
+        "id": "11787124185864179170",
+        "nom": "MCA LAZARO SAS",
+        "slug": "mca-lazaro-sas",
+        "telephone": "04 73 80 20 90",
+        "site_web": "http://www.mca-lazaro.com/",
+        "adresse": "10 Rue du Forez, 63300 Thiers",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Constructeur de maisons en bois"
+      }
+    ]
+  },
+  "gerzat": {
+    "artisans": [
+      {
+        "id": "17786846413498057477",
+        "nom": "Alliance Menuiseries 63",
+        "slug": "alliance-menuiseries-63",
+        "telephone": "04 63 79 03 25",
+        "site_web": "https://www.alliance-menuiseries-63.com/",
+        "adresse": "5 Rue Clément Ader, 63360 Gerzat",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11021865414241004867",
+        "nom": "Gauthier Menuiseries",
+        "slug": "gauthier-menuiseries",
+        "telephone": "04 73 77 55 10",
+        "site_web": "https://www.gauthier-menuiserie.fr/choisir-gauthier/nous-trouver-agences-habitat/",
+        "adresse": "Zone Artisanale Gerzat Sud, 2 Rue Robert Estienne, 63360 Gerzat",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14215554185798331140",
+        "nom": "Lagrenee Couverture 63",
+        "slug": "lagrenee-couverture-63",
+        "telephone": "04 82 29 66 15",
+        "site_web": "https://www.lagrenee-couverture-63.fr/realisations",
+        "adresse": "4 Pl. Dr Pommerol place du, 63360 Gerzat",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "issoire": {
+    "artisans": [
+      {
+        "id": "16288088917566122448",
+        "nom": "TRYBA Issoire",
+        "slug": "tryba-issoire",
+        "telephone": "04 20 98 14 36",
+        "site_web": "https://www.tryba.com/espace-conseil/63/tryba-issoire/?utm_campaign=Tryba_Issoire&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "20 Pl. du Foirail, 63500 Issoire",
+        "note": 4.6,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9282837388353582809",
+        "nom": "L'Ouverture Menuiseries & Fermetures",
+        "slug": "louverture-menuiseries-fermetures",
+        "telephone": "04 43 12 81 25",
+        "site_web": "http://l-ouverture-menuiserie-fermeture.fr/",
+        "adresse": "ZA le Chapeau Rouge le broc, 63500 Issoire",
+        "note": 4.7,
+        "avis": 86,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2305664591639144192",
+        "nom": "BATIMAN Multibois Issoire",
+        "slug": "batiman-multibois-issoire",
+        "telephone": "04 73 54 45 40",
+        "site_web": "https://www.batiman.fr/magasin-menuiserie-cuisine-63-issoire/batiman-multibois-issoire",
+        "adresse": "19 Rue Denise Trouillard, 63500 Issoire",
+        "note": 5,
+        "avis": 193,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13178551047311785661",
+        "nom": "Clair de Baie Issoire – Menuiseries PVC - Alu - bois, Fenêtres, Portes, Volets...",
+        "slug": "clair-de-baie-issoire-menuiseries-pvc-alu-bois-fenetres-portes-volets",
+        "telephone": "04 63 47 99 10",
+        "site_web": "https://www.clairdebaie.fr/",
+        "adresse": "50 Bd Triozon Bayle, 63500 Issoire",
+        "note": 4.9,
+        "avis": 59,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5207970027263398173",
+        "nom": "De A A Z Fermetures",
+        "slug": "de-a-a-z-fermetures",
+        "telephone": "04 73 89 36 84",
+        "site_web": "http://www.az-fermetures.fr/",
+        "adresse": "Z. I. Lavaur La Bechade, Imp. Marie Marvingt, 63500 Issoire",
+        "note": 4.9,
+        "avis": 164,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8693388044528031335",
+        "nom": "Steinmetz Etablissements",
+        "slug": "steinmetz-etablissements",
+        "telephone": "04 73 89 17 49",
+        "site_web": "http://www.steinmetz-ortigier.com/",
+        "adresse": "45 Rue des Chapelles, 63500 Issoire",
+        "note": 3.4,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6633018327304536730",
+        "nom": "LES FERMETURES D'AUVERGNE",
+        "slug": "les-fermetures-dauvergne",
+        "telephone": "04 73 75 75 00",
+        "site_web": "https://www.lesfermeturesdauvergne.fr/",
+        "adresse": "13 Pl. Chancelier Duprat, 63500 Issoire",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5999405915136092067",
+        "nom": "Monsieur Store Issoire - Sacherie d'Auvergne",
+        "slug": "monsieur-store-issoire-sacherie-dauvergne",
+        "telephone": "04 73 55 22 22",
+        "site_web": "https://monsieurstore.com/magasin/issoire-63500/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "face à rouchy et cavagna, 24b rue du chapeau rouge, 63500 Le Broc",
+        "note": 3.8,
+        "avis": 12,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "11665629840698105023",
+        "nom": "Menuiserie BOUZON",
+        "slug": "menuiserie-bouzon",
+        "telephone": "04 73 89 12 97",
+        "site_web": "http://www.bouzon.fr/",
+        "adresse": "68 Rte de Perrier, 63500 Issoire",
+        "note": 3.1,
+        "avis": 16,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "joze": {
+    "artisans": [
+      {
+        "id": "13304753993066207623",
+        "nom": "Barcelos François",
+        "slug": "barcelos-francois",
+        "telephone": "06 67 72 79 45",
+        "site_web": null,
+        "adresse": "6 Rue du Bouillat, 63350 Joze",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2738472526483833539",
+        "nom": "Chic Renovation",
+        "slug": "chic-renovation",
+        "telephone": "04 73 70 29 08",
+        "site_web": null,
+        "adresse": "20 Rue de la Croix des Rameaux, 63350 Joze",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "aubiere": {
+    "artisans": [
+      {
+        "id": "12806148810604736202",
+        "nom": "AUVERDOOR – Menuiseries sur mesure à Cournon (63) Pose de fenêtres, portes, garages, stores & plus | Partenaire Hörmann",
+        "slug": "auverdoor-menuiseries-sur-mesure-a-cournon-63-pose-de-fenetres-portes-garages-stores-plus-partenaire-hormann",
+        "telephone": "04 73 24 81 96",
+        "site_web": "https://www.auverdoor.com/",
+        "adresse": "5 Rue des Acilloux, 63800 Cournon-d'Auvergne",
+        "note": 4.5,
+        "avis": 123,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7241239595573695294",
+        "nom": "Komilfo Luxastore Déco à Clermont-Ferrand - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-luxastore-deco-a-clermont-ferrand-pergolas-stores-fenetres-menuiseries",
+        "telephone": "04 73 90 07 00",
+        "site_web": "http://www.komilfo.fr/magasins/luxastore-clermont-ferrand-63?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "36 Av. Lavoisier, 63170 Aubière",
+        "note": 4.5,
+        "avis": 47,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "arlanc": {
+    "artisans": [
+      {
+        "id": "17096575385631479288",
+        "nom": "Granulés Puy-de-Dôme - VEYRIERE BOIS ENERGIE",
+        "slug": "granules-puy-de-dome-veyriere-bois-energie",
+        "telephone": "04 73 95 00 40",
+        "site_web": "https://www.granules-puydedome.fr/",
+        "adresse": "14 Rue de l'Industrie, 63220 Arlanc",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8880063141098632716",
+        "nom": "Veyriere Matériaux - TOUT FAIRE",
+        "slug": "veyriere-materiaux-tout-faire",
+        "telephone": "04 73 95 04 62",
+        "site_web": "https://www.toutfaire.fr/veyriere-arlanc.html",
+        "adresse": "1 Rue des Usines, 63220 Arlanc",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "12679174046938436682",
+        "nom": "SGA - Société de Granulés d'Arlanc",
+        "slug": "sga-societe-de-granules-darlanc",
+        "telephone": "04 73 72 26 32",
+        "site_web": "http://www.sgarlanc.fr/",
+        "adresse": "Rue de l'Industrie, 63220 Arlanc",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "18024124924282613728",
+        "nom": "Scierie Veyriere",
+        "slug": "scierie-veyriere",
+        "telephone": "04 73 95 00 40",
+        "site_web": "http://www.veyriere.com/",
+        "adresse": "Vaureil, 63220 Arlanc",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "ambert": {
+    "artisans": [
+      {
+        "id": "10503836464852223561",
+        "nom": "Atelier Chevarin",
+        "slug": "atelier-chevarin",
+        "telephone": "04 73 82 08 06",
+        "site_web": "http://www.menuiserie-chevarin.fr/",
+        "adresse": "7 Chem. d'Aubignat, 63600 Ambert",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4818875121518489087",
+        "nom": "Ambert Fermetures",
+        "slug": "ambert-fermetures",
+        "telephone": "04 73 82 33 61",
+        "site_web": null,
+        "adresse": "1151 Rte du Puy, 63600 Saint-Ferréol-des-Côtes",
+        "note": 4,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "1730601308894058584",
+        "nom": "Rg réno couverture, charpentier, démoussage, planche de rive alu.",
+        "slug": "rg-reno-couverture-charpentier-demoussage-planche-de-rive-alu",
+        "telephone": "07 66 53 63 15",
+        "site_web": "https://www.rg-reno.com/",
+        "adresse": "Rue de l'Industrie Zi 3, 63600 Ambert",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "aigueperse": {
+    "artisans": [
+      {
+        "id": "18384230742069244384",
+        "nom": "MENUISERIES GUILLAUME",
+        "slug": "menuiseries-guillaume",
+        "telephone": "04 73 33 06 78",
+        "site_web": null,
+        "adresse": "201 Grande Rue, 63260 Aigueperse",
+        "note": 5,
+        "avis": 102,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8093011335412605684",
+        "nom": "Dompose Sarl",
+        "slug": "dompose-sarl",
+        "telephone": "04 73 63 69 56",
+        "site_web": "https://dompose-63.fr/",
+        "adresse": "4 Rte de Riom, 63260 Aigueperse",
+        "note": 3.7,
+        "avis": 10,
+        "type": "Siège social"
+      },
+      {
+        "id": "2279384139015484296",
+        "nom": "Ciel d'Auvergne",
+        "slug": "ciel-dauvergne",
+        "telephone": "04 73 38 58 74",
+        "site_web": "http://www.ciel-auvergne.fr/?utm_source=gmb",
+        "adresse": "ZAC de Julhiat, 63260 Aigueperse",
+        "note": 4.5,
+        "avis": 71,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-ancizes-comps": {
+    "artisans": [
+      {
+        "id": "6210704071147542559",
+        "nom": "Meubles et Cuisines MOUTARDE",
+        "slug": "meubles-et-cuisines-moutarde",
+        "telephone": "04 73 86 86 51",
+        "site_web": "http://www.agencement-moutarde.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "28 Av. du Plan d'Eau, 63770 Les Ancizes-Comps",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "1298155279612989751",
+        "nom": "Les Ancizes-Comps",
+        "slug": "les-ancizes-comps",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "63770 Les Ancizes-Comps",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "6747872638212796439",
+        "nom": "Transports Meunier",
+        "slug": "transports-meunier",
+        "telephone": "04 73 86 81 31",
+        "site_web": "http://transports-meunier.fr/",
+        "adresse": "Rue des Forgerons, 63770 Les Ancizes-Comps",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Société de transport routier"
+      },
+      {
+        "id": "2900367292169768866",
+        "nom": "Tournobois - Couverture Charpente",
+        "slug": "tournobois-couverture-charpente",
+        "telephone": "06 83 40 06 97",
+        "site_web": "http://www.tournobois.fr/",
+        "adresse": "Tournobert, 63770 Les Ancizes-Comps",
+        "note": 4,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17285357561497606449",
+        "nom": "Pradier BTP",
+        "slug": "pradier-btp",
+        "telephone": "06 87 72 91 00",
+        "site_web": null,
+        "adresse": "Rue de la Plaine des Champs, 63770 Les Ancizes-Comps",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "loubeyrat": {
+    "artisans": [
+      {
+        "id": "12806148810604736202",
+        "nom": "AUVERDOOR – Menuiseries sur mesure à Cournon (63) Pose de fenêtres, portes, garages, stores & plus | Partenaire Hörmann",
+        "slug": "auverdoor-menuiseries-sur-mesure-a-cournon-63-pose-de-fenetres-portes-garages-stores-plus-partenaire-hormann",
+        "telephone": "04 73 24 81 96",
+        "site_web": "https://www.auverdoor.com/",
+        "adresse": "5 Rue des Acilloux, 63800 Cournon-d'Auvergne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2880410726066940085",
+        "nom": "SOLABAIE – Mozac : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-mozac-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/nos-magasins/solabaie-mozac-riom/",
+        "adresse": "59 Av. Jean Jaurès, 63200 Mozac",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10511096305733389002",
+        "nom": "Auvergne Eco Habitat",
+        "slug": "auvergne-eco-habitat",
+        "telephone": "04 73 64 38 71",
+        "site_web": "http://www.fenetre-auvergne.fr/",
+        "adresse": "67 Av. Jean Jaurès, 63200 Mozac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2382673758897034129",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/puy-de-dome/installateur-expert-en-pose-velux-a-clermont-ferrand",
+        "adresse": "27 Rue Raynaud, 63000 Clermont-Ferrand",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5203323065125846108",
+        "nom": "Atouts Toits",
+        "slug": "atouts-toits",
+        "telephone": "04 73 67 04 30",
+        "site_web": "http://atoutstoits.site-solocal.com/",
+        "adresse": null,
+        "note": 3.3,
+        "avis": 14,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "malintrat": {
+    "artisans": [
+      {
+        "id": "7070510921597983834",
+        "nom": "MALEO Couverture",
+        "slug": "maleo-couverture",
+        "telephone": "04 73 91 64 60",
+        "site_web": null,
+        "adresse": "19 Av. de la Joselle, 63510 Malintrat",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "luzillat": {
+    "artisans": [
+      {
+        "id": "10341979893345853255",
+        "nom": "Vulc Imper",
+        "slug": "vulc-imper",
+        "telephone": "04 73 70 22 83",
+        "site_web": "http://www.vulc-imper.fr/",
+        "adresse": "Zone Artisanale Champ Moutier, 63350 Maringues",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13109993745675409400",
+        "nom": "SOLABAIE – Clermont Ferrand : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-clermont-ferrand-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/",
+        "adresse": "59 Av. d'Aubière, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 91,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-saturnin": {
+    "artisans": [
+      {
+        "id": "7649409496097535851",
+        "nom": "CASÉO Le Mans",
+        "slug": "caseo-le-mans",
+        "telephone": "02 43 85 54 57",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-le-mans-saint-saturnin-103",
+        "adresse": "Bd de Maule, 72650 Saint-Saturnin",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "malauzat": {
+    "artisans": [
+      {
+        "id": "3201793754658900645",
+        "nom": "Auvergne Fenêtres",
+        "slug": "auvergne-fenetres",
+        "telephone": "04 73 88 22 96",
+        "site_web": "https://auvergne-fenetres.fr/",
+        "adresse": "Zac Du Petit Clos, 2 Rue du Petit Clos, 63100 Clermont-Ferrand",
+        "note": 4.7,
+        "avis": 110,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12948259598811158560",
+        "nom": "CARGLASS Pare-Brise Malauzat",
+        "slug": "carglass-pare-brise-malauzat",
+        "telephone": "09 77 40 24 81",
+        "site_web": "https://www.carglass.fr/centre/63200-100000001750500/riom-malauzat-co-3082-connect#utm_source=googlemybusiness&utm_medium=local&utm_campaign=carglass-connect-riom-malauzat&utm_content=cta-lien-page-centre",
+        "adresse": "Norauto, ZA Les, Imp. des Gardelles, 63200 Malauzat",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "5747720001549717007",
+        "nom": "Auvergne Protection Solaire Partenaire Arcades & Baies (APS63)",
+        "slug": "auvergne-protection-solaire-partenaire-arcades-baies-aps63",
+        "telephone": "04 73 23 24 24",
+        "site_web": "http://www.aps63.com/",
+        "adresse": "26 Rue des Coutils, 63118 Cébazat",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "lezoux": {
+    "artisans": [
+      {
+        "id": "15646599262008402058",
+        "nom": "Guinot Menuiserie",
+        "slug": "guinot-menuiserie",
+        "telephone": "07 83 65 55 54",
+        "site_web": "https://www.guinotmenuiserie.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "755091510865865782",
+        "nom": "Manu Rénove",
+        "slug": "manu-renove",
+        "telephone": "09 87 02 83 54",
+        "site_web": "https://manu-renove.fr/",
+        "adresse": "7 Rue du Potier Paternus, 63190 Lezoux",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5866909001796434642",
+        "nom": "Meister Fermetures",
+        "slug": "meister-fermetures",
+        "telephone": "06 22 58 81 38",
+        "site_web": "http://meisterfermetures.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2686476561908037728",
+        "nom": "HF Renovation",
+        "slug": "hf-renovation",
+        "telephone": "06 46 66 24 54",
+        "site_web": "https://h-f-renovation.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13574453072007901399",
+        "nom": "Ngel Fenêtre - SARL GUGLER LYON EST",
+        "slug": "ngel-fenetre-sarl-gugler-lyon-est",
+        "telephone": "04 72 37 87 04",
+        "site_web": null,
+        "adresse": "11 Rue Maréchal de Lattre de Tassigny, 63190 Lezoux",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8479236826765513747",
+        "nom": "SAS ABRECOBOIS",
+        "slug": "sas-abrecobois",
+        "telephone": "06 86 16 06 20",
+        "site_web": "http://www.maisonsbois63.fr/",
+        "adresse": "92 Rte de Billom, 63190 Lezoux",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "1647246823754303260",
+        "nom": "Wood & co - Charpentier | Couvreur | Zingueur | Ossature bois",
+        "slug": "wood-co-charpentier-couvreur-zingueur-ossature-bois",
+        "telephone": "04 63 22 89 82",
+        "site_web": "https://www.wood-and-co.fr/",
+        "adresse": "21 Rte de Ravel, 63190 Lezoux",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "manzat": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "maringues": {
+    "artisans": [
+      {
+        "id": "10341979893345853255",
+        "nom": "Vulc Imper",
+        "slug": "vulc-imper",
+        "telephone": "04 73 70 22 83",
+        "site_web": "http://www.vulc-imper.fr/",
+        "adresse": "Zone Artisanale Champ Moutier, 63350 Maringues",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "marsac-en-livradois": {
+    "artisans": [
+      {
+        "id": "4541330854248979720",
+        "nom": "André Afchain",
+        "slug": "andre-afchain",
+        "telephone": "06 81 50 10 91",
+        "site_web": "https://www.andre-afchain.com/",
+        "adresse": "Riols Lieu dit, 63940 Marsac-en-Livradois",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "les-martres-de-veyre": {
+    "artisans": [
+      {
+        "id": "10307795166887170236",
+        "nom": "Bruno Paudrat Menuiserie",
+        "slug": "bruno-paudrat-menuiserie",
+        "telephone": "04 73 39 28 55",
+        "site_web": "https://www.instagram.com/bruno_paudrat_menuiserie/?utm_source=gmb",
+        "adresse": "51 Le Lot, 63730 Les Martres-de-Veyre",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17349549200095556485",
+        "nom": "Axibât63 - Couvreur, Isolation, Sarking, Velux, Zinguerie",
+        "slug": "axibat63-couvreur-isolation-sarking-velux-zinguerie",
+        "telephone": "04 73 39 04 97",
+        "site_web": "http://www.axibat63.com/",
+        "adresse": "14 Rue Georges Charpak, 63960 Veyre-Monton",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2299333512514217376",
+        "nom": "NP Rénovation",
+        "slug": "np-renovation",
+        "telephone": "06 58 50 46 92",
+        "site_web": "https://www.nprenovation-le-cendre.fr/",
+        "adresse": "6 Rue Mariotte, 63670 Le Cendre",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14971718279459097111",
+        "nom": "PUYS MOBILIER",
+        "slug": "puys-mobilier",
+        "telephone": "06 58 58 87 50",
+        "site_web": "http://www.puys-mobilier.fr/",
+        "adresse": "44 Rue Pierre et Marie Curie, 63730 Les Martres-de-Veyre",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "17035540757350707300",
+        "nom": "IMT Couverture Zinguerie",
+        "slug": "imt-couverture-zinguerie",
+        "telephone": "06 38 78 81 33",
+        "site_web": "https://www.facebook.com/109102781977749?utm_source=gmb",
+        "adresse": "5 Rue Saint-Martial, 63730 Les Martres-de-Veyre",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "les-martres-d-artiere": {
+    "artisans": [
+      {
+        "id": "16434160704727175884",
+        "nom": "HOME ETANCHE",
+        "slug": "home-etanche",
+        "telephone": "06 09 85 64 99",
+        "site_web": null,
+        "adresse": "31 Lot. Bellevue, 63430 Les Martres-d'Artière",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15030847560460919035",
+        "nom": "Toko et fils - Fermetures",
+        "slug": "toko-et-fils-fermetures",
+        "telephone": "06 67 81 42 85",
+        "site_web": "http://www.toko-et-fils.fr/",
+        "adresse": "3 Rue du Lin, 63430 Les Martres-d'Artière",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "menetrol": {
+    "artisans": [
+      {
+        "id": "6852000809415505002",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "04 73 15 12 97",
+        "site_web": "https://magasins.lapeyre.fr/auvergne-rhone-alpes/puy-de-dome/lapeyre-clermont-ferrand-34",
+        "adresse": "6 Av. du Roussillon, 63170 Aubière",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "9091731042936886619",
+        "nom": "LACOMBAT Elit'sun",
+        "slug": "lacombat-elitsun",
+        "telephone": "04 73 38 05 01",
+        "site_web": "https://www.lacombat.fr/",
+        "adresse": "3 Rue Averroes, 63200 Riom",
+        "note": 4.6,
+        "avis": 43,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "marsat": {
+    "artisans": [
+      {
+        "id": "1120299474873328255",
+        "nom": "Boisson Store & Menuiseries Aubière",
+        "slug": "boisson-store-menuiseries-aubiere",
+        "telephone": "04 73 28 63 50",
+        "site_web": "https://boisson-stores.com/",
+        "adresse": "14 Rue Jacqueline Auriol, 63170 Aubière",
+        "note": 4.7,
+        "avis": 162,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "messeix": {
+    "artisans": [
+      {
+        "id": "17557752479891069156",
+        "nom": "Roussel SARL",
+        "slug": "roussel-sarl",
+        "telephone": "04 73 88 74 04",
+        "site_web": "https://www.couvertureroussel.com/",
+        "adresse": "Petit Chambois, 63230 Mazaye",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8020592666607870685",
+        "nom": "LC MENUISERIE",
+        "slug": "lc-menuiserie",
+        "telephone": "06 66 38 40 06",
+        "site_web": "https://www.lc-menuiserie.fr/",
+        "adresse": "5 Rue Jules Verne, 63750 Messeix",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13825036979467469820",
+        "nom": "Messeix",
+        "slug": "messeix",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "63750 Messeix",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "15986151177512002640",
+        "nom": "Dome Couverture",
+        "slug": "dome-couverture",
+        "telephone": "06 79 42 37 60",
+        "site_web": "https://www.domecouverture63.fr/",
+        "adresse": "10 lotissement le colombier, 63570 Brassac-les-Mines",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "155105415503594303",
+        "nom": "DOME TOITURE",
+        "slug": "dome-toiture",
+        "telephone": "04 73 77 74 09",
+        "site_web": "http://www.dome-toiture-auvergne.fr/",
+        "adresse": null,
+        "note": 3.8,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mur-sur-allier": {
+    "artisans": [
+      {
+        "id": "15433806419071238111",
+        "nom": "SOS Couvreur & Rénovation",
+        "slug": "sos-couvreur-renovation",
+        "telephone": "09 74 56 41 57",
+        "site_web": "https://www.sos-couvreur63.fr/",
+        "adresse": "8 Rte de Mezel, 63910 Vertaizon",
+        "note": 5,
+        "avis": 57,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9441380664391274001",
+        "nom": "TH Menuiserie",
+        "slug": "th-menuiserie",
+        "telephone": "06 22 87 49 58",
+        "site_web": "https://thmenuiserie.fr/",
+        "adresse": "14 Rue des Vignes, 63430 Pont-du-Château",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mirefleurs": {
+    "artisans": [
+      {
+        "id": "532434263300714764",
+        "nom": "Toitureo | Rénovation de l'habitat",
+        "slug": "toitureo-renovation-de-lhabitat",
+        "telephone": "04 43 97 64 99",
+        "site_web": "https://toitureo.fr/",
+        "adresse": "18 Bis Rue de Vic le Comté, 63730 Mirefleurs",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14820616708280858235",
+        "nom": "Etablissements Da Silva José & Fils",
+        "slug": "etablissements-da-silva-jose-fils",
+        "telephone": "04 73 39 86 34",
+        "site_web": "https://www.dasilva63.fr/?utm_source=gmb",
+        "adresse": "6 Le Daillard Zone Artisanale, 63730 Mirefleurs",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "moissat": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mont-dore": {
+    "artisans": [
+      {
+        "id": "6134125691507645439",
+        "nom": "Atelier Md",
+        "slug": "atelier-md",
+        "telephone": "04 63 55 82 30",
+        "site_web": "http://www.daguillon.com/",
+        "adresse": "62 Av. de Clermont, 63240 Mont-Dore",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "mozac": {
+    "artisans": [
+      {
+        "id": "2378326272909040685",
+        "nom": "Komilfo Luxastore Déco à Riom - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-luxastore-deco-a-riom-pergolas-stores-fenetres-menuiseries",
+        "telephone": "04 73 64 58 58",
+        "site_web": "https://www.komilfo.fr/magasins/luxastore-riom-63?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "ZA des Gardelles, 63203 Riom",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3681981672574276733",
+        "nom": "CASÉO Riom",
+        "slug": "caseo-riom",
+        "telephone": "04 73 63 36 33",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-riom-enval-95",
+        "adresse": "4 Rocade Chanliera, 63530 Enval",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2880410726066940085",
+        "nom": "SOLABAIE – Mozac : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-mozac-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/nos-magasins/solabaie-mozac-riom/",
+        "adresse": "59 Av. Jean Jaurès, 63200 Mozac",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "la-monnerie-le-montel": {
+    "artisans": [
+      {
+        "id": "11288705139063299496",
+        "nom": "Fernandès Manuel",
+        "slug": "fernandes-manuel",
+        "telephone": "04 73 51 52 36",
+        "site_web": null,
+        "adresse": "8 Chazeau, 63650 La Monnerie-le-Montel",
+        "note": 2,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4351239575632846348",
+        "nom": "GIRY ET FILS",
+        "slug": "giry-et-fils",
+        "telephone": "04 73 51 48 18",
+        "site_web": "https://giry-maison-bois.com/",
+        "adresse": "Chez Racine, 63650 La Monnerie-le-Montel",
+        "note": 4.4,
+        "avis": 12,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15977594945701834174",
+        "nom": "SN BOIS",
+        "slug": "sn-bois",
+        "telephone": "06 68 45 19 78",
+        "site_web": "http://www.sn-bois.fr/",
+        "adresse": "ZA POMMIER CHANSONNIERE, 63650 La Monnerie-le-Montel",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "nohanent": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "orcet": {
+    "artisans": [
+      {
+        "id": "2279254234905279044",
+        "nom": "Système Baie",
+        "slug": "systeme-baie",
+        "telephone": "04 73 79 89 00",
+        "site_web": "http://systeme-baie.com/",
+        "adresse": "15 Rue de Bourdelas, 63670 Orcet",
+        "note": 4.8,
+        "avis": 43,
+        "type": "Vitrier"
+      },
+      {
+        "id": "13109993745675409400",
+        "nom": "SOLABAIE – Clermont Ferrand : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-clermont-ferrand-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/",
+        "adresse": "59 Av. d'Aubière, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 91,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "orleat": {
+    "artisans": [
+      {
+        "id": "9814830147272103375",
+        "nom": "Menuiserie Serveille",
+        "slug": "menuiserie-serveille",
+        "telephone": "06 35 94 24 58",
+        "site_web": null,
+        "adresse": "18 Rte de Lezoux, 63190 Orléat",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-beauzire": {
+    "artisans": [
+      {
+        "id": "4275034537347024729",
+        "nom": "MK RENOV 63",
+        "slug": "mk-renov-63",
+        "telephone": "06 10 86 38 75",
+        "site_web": null,
+        "adresse": "3 Chem. de Malintrat - Épinet, 63360 Saint-Beauzire",
+        "note": 5,
+        "avis": 52,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-genes-champanelle": {
+    "artisans": [
+      {
+        "id": "10483331467150689229",
+        "nom": "SN POSE",
+        "slug": "sn-pose",
+        "telephone": "07 62 89 74 77",
+        "site_web": "http://snpose-auvergne.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-eloy-les-mines": {
+    "artisans": [
+      {
+        "id": "5528440315539483494",
+        "nom": "Perrin Patrick",
+        "slug": "perrin-patrick",
+        "telephone": "04 73 85 01 45",
+        "site_web": null,
+        "adresse": "46 Rue de la Basse-Vernade, 63700 Saint-Éloy-les-Mines",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1267160159936678873",
+        "nom": "Combraille Habitat",
+        "slug": "combraille-habitat",
+        "telephone": "04 73 52 53 96",
+        "site_web": "https://www.combraillehabitat.com/",
+        "adresse": "Rue Eugène Pannetier, 63700 Saint-Éloy-les-Mines",
+        "note": 4.3,
+        "avis": 17,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10123781203636868762",
+        "nom": "Saint Eloy Menuiserie - SARL Machado",
+        "slug": "saint-eloy-menuiserie-sarl-machado",
+        "telephone": "04 73 85 12 03",
+        "site_web": "http://www.menuiserie-saint-eloy.fr/",
+        "adresse": "Za des, Puits Du Manoir, All. des Charbonnies, 63700 Saint-Éloy-les-Mines",
+        "note": 3.8,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6403931378679067654",
+        "nom": "Point.P - Saint Eloy les Mines",
+        "slug": "pointp-saint-eloy-les-mines",
+        "telephone": "04 73 85 05 84",
+        "site_web": "https://www.pointp.fr/infos-agence/st-eloy-les-mines-point-p-1351",
+        "adresse": "38 Rue Jules Guesde, 63700 Saint-Éloy-les-Mines",
+        "note": 4.4,
+        "avis": 76,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "paslieres": {
+    "artisans": [
+      {
+        "id": "2951410027513815643",
+        "nom": "Matussière Stores et Habitat",
+        "slug": "matussiere-stores-et-habitat",
+        "telephone": "04 73 61 61 70",
+        "site_web": "http://www.matussiere-stores-habitat.fr/",
+        "adresse": "Rue du Fangeas, 63370 Lempdes",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-georges-sur-allier": {
+    "artisans": [
+      {
+        "id": "7537016338935767623",
+        "nom": "GPM Menuiserie",
+        "slug": "gpm-menuiserie",
+        "telephone": "04 73 69 43 93",
+        "site_web": "https://www.gpmmenuiserie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "24 Rue de la Sioule, 63800 Cournon-d'Auvergne",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13847729859314324432",
+        "nom": "BATI RENO Terres de Fenêtre",
+        "slug": "bati-reno-terres-de-fenetre",
+        "telephone": "04 73 19 31 26",
+        "site_web": "https://bati-reno.fr/",
+        "adresse": "18 Rue du Clos Notre Dame, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 136,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-georges-de-mons": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-bonnet-pres-riom": {
+    "artisans": [
+      {
+        "id": "8615061872629167251",
+        "nom": "BATI ALU",
+        "slug": "bati-alu",
+        "telephone": "04 73 63 52 61",
+        "site_web": "https://bati-alu.fr/",
+        "adresse": "6 Rte de Gimeaux, 63200 Saint-Bonnet-près-Riom",
+        "note": 3.8,
+        "avis": 28,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-gervais-d-auvergne": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-julien-de-coppel": {
+    "artisans": [
+      {
+        "id": "230321446738965708",
+        "nom": "Carrière de Saint Julien Coppel",
+        "slug": "carriere-de-saint-julien-coppel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Racloux, 63270 Laps",
+        "note": 0,
+        "avis": 0,
+        "type": "Carrière"
+      },
+      {
+        "id": "18242158170347259820",
+        "nom": "Atelier Wood Concept",
+        "slug": "atelier-wood-concept",
+        "telephone": "07 61 15 41 56",
+        "site_web": "https://www.atelier-wood-concept.fr/",
+        "adresse": "Le Magnant, 63160 Saint-Julien-de-Coppel",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17123879027461727941",
+        "nom": "Auvergne Metal Alu",
+        "slug": "auvergne-metal-alu",
+        "telephone": "06 73 90 08 34",
+        "site_web": null,
+        "adresse": "Boisseret, 63160 Saint-Julien-de-Coppel",
+        "note": 5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "14002228438667884874",
+        "nom": "Barbier Jerome",
+        "slug": "barbier-jerome",
+        "telephone": "06 69 32 18 61",
+        "site_web": null,
+        "adresse": "La Rouveyre, 63160 Saint-Julien-de-Coppel",
+        "note": 5,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "2734678579473392818",
+        "nom": "Domreno SAS",
+        "slug": "domreno-sas",
+        "telephone": "06 52 22 29 20",
+        "site_web": "https://www.domreno.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "saint-germain-lembron": {
+    "artisans": [
+      {
+        "id": "9527284467729738933",
+        "nom": "Kenzai St Germain",
+        "slug": "kenzai-st-germain",
+        "telephone": "04 73 96 37 35",
+        "site_web": "https://www.instagram.com/kenzai_materiaux_ecologiques/?utm_source=gmb",
+        "adresse": "4 Imp. du Cézallier, 63340 Saint-Germain-Lembron",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "12966852936705640848",
+        "nom": "HL Couvreur",
+        "slug": "hl-couvreur",
+        "telephone": "06 62 62 96 18",
+        "site_web": "https://www.hl-couverture-63.fr/",
+        "adresse": "23 Rue Geneviève Moneret, 63340 Saint-Germain-Lembron",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8478204032565611764",
+        "nom": "Deco Lembron",
+        "slug": "deco-lembron",
+        "telephone": "04 73 96 55 61",
+        "site_web": null,
+        "adresse": "4 Rue Alphonse Daudet, 63340 Saint-Germain-Lembron",
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "14128208555707027775",
+        "nom": "BPRENOVHABITAT",
+        "slug": "bprenovhabitat",
+        "telephone": "07 50 51 35 84",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 7,
+        "type": "Façadier"
+      },
+      {
+        "id": "7499650978402542200",
+        "nom": "Avenir Rénovations Clermont-Ferrand (63)",
+        "slug": "avenir-renovations-clermont-ferrand-63",
+        "telephone": "04 20 98 41 47",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-63-clermont-ferrand/",
+        "adresse": "3 Rue de la Motte, 63340 Saint-Germain-Lembron",
+        "note": 5,
+        "avis": 5,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-remy-sur-durolle": {
+    "artisans": [
+      {
+        "id": "16903044874807534464",
+        "nom": "MB Easy Renov",
+        "slug": "mb-easy-renov",
+        "telephone": "09 86 43 01 87",
+        "site_web": null,
+        "adresse": "17 Pl. du Commerce, 63550 Saint-Rémy-sur-Durolle",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "13242430509095050518",
+        "nom": "Auvergne TSB",
+        "slug": "auvergne-tsb",
+        "telephone": "06 78 73 64 61",
+        "site_web": null,
+        "adresse": "13 La Motte Rue de, 63550 Saint-Rémy-sur-Durolle",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "5331656284349750387",
+        "nom": "Girard Frères | Charpente - Couverture - Zinguerie - Menuiserie",
+        "slug": "girard-freres-charpente-couverture-zinguerie-menuiserie",
+        "telephone": "04 73 94 30 31",
+        "site_web": "http://www.girard-freres.com/",
+        "adresse": "Z.I, Les Goyons, 63550 Saint-Rémy-sur-Durolle",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-amant-tallende": {
+    "artisans": [
+      {
+        "id": "7571883644569010683",
+        "nom": "andrades agencement",
+        "slug": "andrades-agencement",
+        "telephone": "07 70 03 37 37",
+        "site_web": "http://www.andrades-agencement.com/",
+        "adresse": "34 Rue du Suzot, 63450 Saint-Amant-Tallende",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17700326903299351601",
+        "nom": "Vitr'home",
+        "slug": "vitrhome",
+        "telephone": "06 95 94 26 31",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de nettoyage de vitres"
+      }
+    ]
+  },
+  "la-roche-blanche": {
+    "artisans": [
+      {
+        "id": "12806148810604736202",
+        "nom": "AUVERDOOR – Menuiseries sur mesure à Cournon (63) Pose de fenêtres, portes, garages, stores & plus | Partenaire Hörmann",
+        "slug": "auverdoor-menuiseries-sur-mesure-a-cournon-63-pose-de-fenetres-portes-garages-stores-plus-partenaire-hormann",
+        "telephone": "04 73 24 81 96",
+        "site_web": "https://www.auverdoor.com/",
+        "adresse": "5 Rue des Acilloux, 63800 Cournon-d'Auvergne",
+        "note": 4.5,
+        "avis": 123,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4777072291097551759",
+        "nom": "BATIMAN Multibois La Roche Blanche Zac de la Novialle",
+        "slug": "batiman-multibois-la-roche-blanche-zac-de-la-novialle",
+        "telephone": "04 73 73 10 10",
+        "site_web": "https://www.batiman.fr/magasin-menuiserie-cuisine-63-clermont-ferrand-la-roche-blanche/batiman-multibois-la-novialle",
+        "adresse": "ZAC de la Novialle, All. du Montel, 63670 La Roche-Blanche",
+        "note": 4.9,
+        "avis": 231,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11068789594311041415",
+        "nom": "DELIXE SERVICES",
+        "slug": "delixe-services",
+        "telephone": "04 73 78 23 74",
+        "site_web": null,
+        "adresse": "24 Rue de la Serre, 63670 La Roche-Blanche",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5542412495602000503",
+        "nom": "Les Ateliers Christian Perret",
+        "slug": "les-ateliers-christian-perret",
+        "telephone": "04 73 79 12 69",
+        "site_web": "https://www.christianperret.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Zone la Noviale, 63670 La Roche-Blanche",
+        "note": 4.2,
+        "avis": 54,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "3033954033124284220",
+        "nom": "SN REPAR VITRES",
+        "slug": "sn-repar-vitres",
+        "telephone": "06 42 29 68 38",
+        "site_web": "https://www.repar-vitres.fr/",
+        "adresse": "16 Rue Maurice Bellonte, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 130,
+        "type": "Vitrier"
+      },
+      {
+        "id": "7662640877695680220",
+        "nom": "Constant Perret",
+        "slug": "constant-perret",
+        "telephone": "04 73 93 45 21",
+        "site_web": "https://www.constantperret-clermont.fr/",
+        "adresse": "4 Rue des Salins, 63000 Clermont-Ferrand",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "674685114108975029",
+        "nom": "Zac De La Novialle",
+        "slug": "zac-de-la-novialle",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17 Rue de la Serre, 63670 La Roche-Blanche",
+        "note": 5,
+        "avis": 1,
+        "type": "Boucherie"
+      }
+    ]
+  },
+  "romagnat": {
+    "artisans": [
+      {
+        "id": "2456710146822140496",
+        "nom": "Ouvrage Métal Alu - OMA",
+        "slug": "ouvrage-metal-alu-oma",
+        "telephone": "04 73 28 03 38",
+        "site_web": "https://ouvrage-metal-alu.odoo.com/",
+        "adresse": "10 rue des Pâles ZA de l'artière, 63540 Romagnat",
+        "note": 5,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11523389743979954569",
+        "nom": "Domatisme",
+        "slug": "domatisme",
+        "telephone": "04 73 15 31 96",
+        "site_web": "http://www.domatisme.fr/",
+        "adresse": "10 Rue Cugnot, 63540 Romagnat",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8410831060157533828",
+        "nom": "ATELIER 22",
+        "slug": "atelier-22",
+        "telephone": "04 73 26 89 91",
+        "site_web": "http://www.atelier-22.fr/",
+        "adresse": "14 Rue Bernard Palissy, 63540 Romagnat",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14359215738200203498",
+        "nom": "Fermetures Confort",
+        "slug": "fermetures-confort",
+        "telephone": "04 73 23 12 12",
+        "site_web": "http://www.fermetures-confort.fr/",
+        "adresse": "1000 Rte de Romagnat, 63110 Beaumont",
+        "note": 4.2,
+        "avis": 57,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "13836108322352754495",
+        "nom": "Les Fenetres Vulcain",
+        "slug": "les-fenetres-vulcain",
+        "telephone": "04 73 75 92 14",
+        "site_web": "http://www.lesfenetresvulcain.fr/",
+        "adresse": "33 Chem. du Pré du Camp, 63170 Aubière",
+        "note": 4.6,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7241239595573695294",
+        "nom": "Komilfo Luxastore Déco à Clermont-Ferrand - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-luxastore-deco-a-clermont-ferrand-pergolas-stores-fenetres-menuiseries",
+        "telephone": "04 73 90 07 00",
+        "site_web": "http://www.komilfo.fr/magasins/luxastore-clermont-ferrand-63?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "36 Av. Lavoisier, 63170 Aubière",
+        "note": 4.5,
+        "avis": 47,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "puy-guillaume": {
+    "artisans": [
+      {
+        "id": "18384230742069244384",
+        "nom": "MENUISERIES GUILLAUME",
+        "slug": "menuiseries-guillaume",
+        "telephone": "04 73 33 06 78",
+        "site_web": null,
+        "adresse": "201 Grande Rue, 63260 Aigueperse",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pionsat": {
+    "artisans": [
+      {
+        "id": "6244520726410127994",
+        "nom": "LOPITAUX",
+        "slug": "lopitaux",
+        "telephone": "04 73 85 63 03",
+        "site_web": "http://www.lopitaux-lecuyer.fr/",
+        "adresse": "Zone Artisanale, Les Fayes, 63330 Pionsat",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "peschadoires": {
+    "artisans": [
+      {
+        "id": "2630792543116883887",
+        "nom": "Mpr 63 LA BOUTIQUE DU MENUISIER",
+        "slug": "mpr-63-la-boutique-du-menuisier",
+        "telephone": "04 73 53 95 17",
+        "site_web": null,
+        "adresse": "15 Rte de Clermont, 63920 Peschadoires",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "perignat-sur-allier": {
+    "artisans": [
+      {
+        "id": "15029419087977820807",
+        "nom": "Auvergne Toitures Vulcain",
+        "slug": "auvergne-toitures-vulcain",
+        "telephone": "06 07 53 35 66",
+        "site_web": "https://www.auvergnetoitures.com/",
+        "adresse": "8 Rue de Pérignat, 63800 Cournon-d'Auvergne",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "plauzat": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pont-du-chateau": {
+    "artisans": [
+      {
+        "id": "4805012068486292308",
+        "nom": "Chambon-Gauthier",
+        "slug": "chambon-gauthier",
+        "telephone": "04 73 14 03 10",
+        "site_web": "http://www.chambon-gauthier.fr/",
+        "adresse": "Rue André Citroën, 63430 Pont-du-Château",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11513771072579060932",
+        "nom": "GAUTHIER MENUISERIE",
+        "slug": "gauthier-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D2089, 63430 Pont-du-Château",
+        "note": 1,
+        "avis": 1,
+        "type": null
+      },
+      {
+        "id": "1251516796621420404",
+        "nom": "Auvergne Vitrerie Menuiserie",
+        "slug": "auvergne-vitrerie-menuiserie",
+        "telephone": "04 73 73 75 75",
+        "site_web": "https://www.menuiserie-vitrerie63.fr/",
+        "adresse": "ZA Du Gros Chêne Chignat, Le Gros Chêne, 63910 Vertaizon",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "445050925155850739",
+        "nom": "Auvergne Alu SA",
+        "slug": "auvergne-alu-sa",
+        "telephone": "04 73 83 71 71",
+        "site_web": "https://www.auvergne-alu.fr/auvergne-alu/presentation",
+        "adresse": "Chem. de Picou, 63430 Pont-du-Château",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11021865414241004867",
+        "nom": "Gauthier Menuiseries",
+        "slug": "gauthier-menuiseries",
+        "telephone": "04 73 77 55 10",
+        "site_web": "https://www.gauthier-menuiserie.fr/choisir-gauthier/nous-trouver-agences-habitat/",
+        "adresse": "Zone Artisanale Gerzat Sud, 2 Rue Robert Estienne, 63360 Gerzat",
+        "note": 4.6,
+        "avis": 28,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "riom": {
+    "artisans": [
+      {
+        "id": "14648459583403467316",
+        "nom": "Auvergne Espace Veranda Menuiserie",
+        "slug": "auvergne-espace-veranda-menuiserie",
+        "telephone": "04 73 97 47 24",
+        "site_web": "https://www.auvergneverandas.fr/",
+        "adresse": "1 Av. Vercingétorix, 63200 Riom",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10706113669380943072",
+        "nom": "TRYBA Riom",
+        "slug": "tryba-riom",
+        "telephone": "04 20 98 14 34",
+        "site_web": "https://www.tryba.com/espace-conseil/63/tryba-riom/?utm_campaign=Tryba_riom&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "7 Av. du Commandant Madeline rue du, 63200 Riom",
+        "note": 3,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "randan": {
+    "artisans": [
+      {
+        "id": "6386484388909262914",
+        "nom": "SAS GAMELIN et Fils",
+        "slug": "sas-gamelin-et-fils",
+        "telephone": "06 14 94 03 44",
+        "site_web": "http://menuiserie-gamelin.com/",
+        "adresse": "37 Av. de Vichy, 63310 Randan",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2216124783377899489",
+        "nom": "Randier Sarl",
+        "slug": "randier-sarl",
+        "telephone": "04 70 41 51 60",
+        "site_web": null,
+        "adresse": "Rue des Forges, 63310 Randan",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "vertaizon": {
+    "artisans": [
+      {
+        "id": "1251516796621420404",
+        "nom": "Auvergne Vitrerie Menuiserie",
+        "slug": "auvergne-vitrerie-menuiserie",
+        "telephone": "04 73 73 75 75",
+        "site_web": "https://www.menuiserie-vitrerie63.fr/",
+        "adresse": "ZA Du Gros Chêne Chignat, Le Gros Chêne, 63910 Vertaizon",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13109993745675409400",
+        "nom": "SOLABAIE – Clermont Ferrand : Pergola, Fenêtre, Volet, Portail",
+        "slug": "solabaie-clermont-ferrand-pergola-fenetre-volet-portail",
+        "telephone": "04 73 79 67 58",
+        "site_web": "https://www.solabaie-clermontferrand.fr/",
+        "adresse": "59 Av. d'Aubière, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 91,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17800201297526933421",
+        "nom": "BATIBOIS 63 Ossature bois Charpente Couverture Zinguerie Extension Surélèvation",
+        "slug": "batibois-63-ossature-bois-charpente-couverture-zinguerie-extension-surelevation",
+        "telephone": "06 27 73 11 51",
+        "site_web": null,
+        "adresse": "13 Rue Rossini, 63430 Pont-du-Château",
+        "note": 5,
+        "avis": 18,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11976339755603926077",
+        "nom": "Arvergne toiture",
+        "slug": "arvergne-toiture",
+        "telephone": "09 87 72 85 92",
+        "site_web": "https://arvergnetoiture.business.site/?utm_source=gmb",
+        "adresse": "1 All. des Gobies, 63910 Vertaizon",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2382673758897034129",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/puy-de-dome/installateur-expert-en-pose-velux-a-clermont-ferrand",
+        "adresse": "27 Rue Raynaud, 63000 Clermont-Ferrand",
+        "note": 5,
+        "avis": 9,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sauxillanges": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "thiers": {
+    "artisans": [
+      {
+        "id": "1997090142426391180",
+        "nom": "THIERS GLACE",
+        "slug": "thiers-glace",
+        "telephone": "04 73 80 49 49",
+        "site_web": "https://www.thiers-glace.fr/",
+        "adresse": "ZAC GEOFFROY, 9 Rue Adrien Legay, 63300 Thiers",
+        "note": 4.4,
+        "avis": 42,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10304418359553259129",
+        "nom": "Ngel Fenêtre Thiers",
+        "slug": "ngel-fenetre-thiers",
+        "telephone": "04 73 51 98 27",
+        "site_web": "https://www.ngelfenetre.com/",
+        "adresse": "32 Zac La Varenne, 63300 Thiers",
+        "note": 4.6,
+        "avis": 39,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-sauves-d-auvergne": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "volvic": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-sylvestre-pragoulin": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10341979893345853255",
+        "nom": "Vulc Imper",
+        "slug": "vulc-imper",
+        "telephone": "04 73 70 22 83",
+        "site_web": "http://www.vulc-imper.fr/",
+        "adresse": "Zone Artisanale Champ Moutier, 63350 Maringues",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10511096305733389002",
+        "nom": "Auvergne Eco Habitat",
+        "slug": "auvergne-eco-habitat",
+        "telephone": "04 73 64 38 71",
+        "site_web": "http://www.fenetre-auvergne.fr/",
+        "adresse": "67 Av. Jean Jaurès, 63200 Mozac",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5203323065125846108",
+        "nom": "Atouts Toits",
+        "slug": "atouts-toits",
+        "telephone": "04 73 67 04 30",
+        "site_web": "http://atoutstoits.site-solocal.com/",
+        "adresse": null,
+        "note": 3.3,
+        "avis": 14,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9232061591777461136",
+        "nom": "SPL Couverture",
+        "slug": "spl-couverture",
+        "telephone": "07 49 18 05 56",
+        "site_web": "https://spl-couverture.fr/",
+        "adresse": "55 Rue du Cheval, 63100 Clermont-Ferrand",
+        "note": 5,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9441380664391274001",
+        "nom": "TH Menuiserie",
+        "slug": "th-menuiserie",
+        "telephone": "06 22 87 49 58",
+        "site_web": "https://thmenuiserie.fr/",
+        "adresse": "14 Rue des Vignes, 63430 Pont-du-Château",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8927545693765142627",
+        "nom": "Cn menuiserie",
+        "slug": "cn-menuiserie",
+        "telephone": "06 81 18 41 99",
+        "site_web": null,
+        "adresse": "429 Route de Rocles, 03240 Tronget",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1120267688601313802",
+        "nom": "Daubannay Gaël",
+        "slug": "daubannay-gael",
+        "telephone": "04 70 41 55 49",
+        "site_web": null,
+        "adresse": "7 Rue de la Bascule, 63310 Saint-Sylvestre-Pragoulin",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17349549200095556485",
+        "nom": "Axibât63 - Couvreur, Isolation, Sarking, Velux, Zinguerie",
+        "slug": "axibat63-couvreur-isolation-sarking-velux-zinguerie",
+        "telephone": "04 73 39 04 97",
+        "site_web": "http://www.axibat63.com/",
+        "adresse": "14 Rue Georges Charpak, 63960 Veyre-Monton",
+        "note": 4.4,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3033954033124284220",
+        "nom": "SN REPAR VITRES",
+        "slug": "sn-repar-vitres",
+        "telephone": "06 42 29 68 38",
+        "site_web": "https://www.repar-vitres.fr/",
+        "adresse": "16 Rue Maurice Bellonte, 63800 Cournon-d'Auvergne",
+        "note": 4.9,
+        "avis": 130,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "sayat": {
+    "artisans": [
+      {
+        "id": "8982483637352695810",
+        "nom": "Velux by C2l Createur de Lumière",
+        "slug": "velux-by-c2l-createur-de-lumiere",
+        "telephone": "09 51 73 72 68",
+        "site_web": "http://www.c2l-63.fr/",
+        "adresse": "60 Rue Champfleuri, 63000 Clermont-Ferrand",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tallende": {
+    "artisans": [
+      {
+        "id": "8831813525504326722",
+        "nom": "Avenir Rénovations 63 Romagnat",
+        "slug": "avenir-renovations-63-romagnat",
+        "telephone": "04 81 68 02 56",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-63-romagnat/",
+        "adresse": "5 Rue des Vignes, 63540 Romagnat",
+        "note": 5,
+        "avis": 2,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16344089706541684356",
+        "nom": "Le Store Auvergnat",
+        "slug": "le-store-auvergnat",
+        "telephone": "04 73 88 41 38",
+        "site_web": "http://www.lestoreauvergnat.fr/?utm_source=gmb",
+        "adresse": "3 ZA les Rasés, 63450 Tallende",
+        "note": 4.8,
+        "avis": 39,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "vic-le-comte": {
+    "artisans": [
+      {
+        "id": "7453902312673008314",
+        "nom": "Berioux Menuiserie / La Boutique Du Menuisier",
+        "slug": "berioux-menuiserie-la-boutique-du-menuisier",
+        "telephone": "04 73 28 03 48",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/berioux-menuiserie",
+        "adresse": "402 rue Des Meuliers, 63270 Vic-le-Comte",
+        "note": 4.7,
+        "avis": 39,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "veyre-monton": {
+    "artisans": [
+      {
+        "id": "1120299474873328255",
+        "nom": "Boisson Store & Menuiseries Aubière",
+        "slug": "boisson-store-menuiseries-aubiere",
+        "telephone": "04 73 28 63 50",
+        "site_web": "https://boisson-stores.com/",
+        "adresse": "14 Rue Jacqueline Auriol, 63170 Aubière",
+        "note": 4.7,
+        "avis": 162,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11414469457878803825",
+        "nom": "AESM",
+        "slug": "aesm",
+        "telephone": "09 70 35 82 89",
+        "site_web": "https://www.menuiserie-exterieure-63.fr/",
+        "adresse": "9 Rue Edme Mariotte, 63960 Veyre-Monton",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12072920863858847013",
+        "nom": "Novadomes",
+        "slug": "novadomes",
+        "telephone": "06 50 85 78 90",
+        "site_web": "http://www.novadomes.fr/",
+        "adresse": "1 Rue Marie Curie, 63960 Veyre-Monton",
+        "note": 5,
+        "avis": 8,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  }
+}

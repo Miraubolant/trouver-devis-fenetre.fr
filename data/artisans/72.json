@@ -1,0 +1,4592 @@
+{
+  "le-bailleul": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "arconnay": {
+    "artisans": [
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "ballon-saint-mars": {
+    "artisans": [
+      {
+        "id": "1798887048369221045",
+        "nom": "Forp Fenêtres",
+        "slug": "forp-fenetres",
+        "telephone": "02 43 82 40 52",
+        "site_web": "https://www.fenetres-forp.com/",
+        "adresse": "ZAC de l'Epine, ZAC de l'Épine, 72460 Savigné-l'Évêque",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4561068802823699944",
+        "nom": "Volets roulants solaires & Menuiserie PVC / ALU Sarthe – PEAN Julien SARL",
+        "slug": "volets-roulants-solaires-menuiserie-pvc-alu-sarthe-pean-julien-sarl",
+        "telephone": "06 44 18 69 39",
+        "site_web": "https://sarl-peanj.fr/",
+        "adresse": "8 Rue Aristide Briand, 72290 Ballon",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "413872086163235063",
+        "nom": "Roustel",
+        "slug": "roustel",
+        "telephone": "02 43 88 76 07",
+        "site_web": null,
+        "adresse": "26 Rue du Général de Gaulle, 72290 Ballon-Saint Mars",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "arnage": {
+    "artisans": [
+      {
+        "id": "9696545249368863970",
+        "nom": "Vie & Véranda",
+        "slug": "vie-veranda",
+        "telephone": "02 43 47 11 11",
+        "site_web": "https://www.vie-veranda.com/agences/veranda-le-mans",
+        "adresse": "133 Bd Pierre Lefaucheux, 72230 Arnage",
+        "note": 4,
+        "avis": 51,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "15424361393947429492",
+        "nom": "KparK Le Mans",
+        "slug": "kpark-le-mans",
+        "telephone": "02 49 79 00 08",
+        "site_web": "https://magasins.kpark.fr/69-kpark-le-mans?utm_source=gmb",
+        "adresse": "32 Rue Gambetta, 72000 Le Mans",
+        "note": 4.5,
+        "avis": 150,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15829613212035288804",
+        "nom": "Vitres et Verre",
+        "slug": "vitres-et-verre",
+        "telephone": "02 43 75 01 79",
+        "site_web": "http://www.vitres-et-verre.fr/",
+        "adresse": "99 bis Rte du Chêne, 72230 Arnage",
+        "note": 4.3,
+        "avis": 31,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "5566423883678558247",
+        "nom": "Vérandas du Maine Le Mans",
+        "slug": "verandas-du-maine-le-mans",
+        "telephone": "02 43 16 11 11",
+        "site_web": "https://verandas-du-maine.com/",
+        "adresse": "21 Rue de la Rivière, 72230 Arnage",
+        "note": 4.1,
+        "avis": 104,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14729927030949471482",
+        "nom": "Le Mans Stores et Fermetures",
+        "slug": "le-mans-stores-et-fermetures",
+        "telephone": "02 43 84 31 53",
+        "site_web": "http://www.le-mans-stores-fermetures.fr/?utm_source=gmb",
+        "adresse": "115 Av. Félix Geneslay, 72100 Le Mans",
+        "note": 4.7,
+        "avis": 69,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15464964080213155333",
+        "nom": "Lariviere",
+        "slug": "lariviere",
+        "telephone": "02 43 21 10 24",
+        "site_web": "https://www.lariviere.fr/trouver-votre-agence/lariviere-SEB/entry-409-lariviere-le-mans.html",
+        "adresse": "50 Av. de la Gautrie, 72230 Arnage",
+        "note": 4.2,
+        "avis": 28,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9788756503318603100",
+        "nom": "NG Services SARL",
+        "slug": "ng-services-sarl",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/?utm_source=gmb",
+        "adresse": "8 All. du Dindo, 72560 Changé",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14471232549323825938",
+        "nom": "Gerault Menuiseries",
+        "slug": "gerault-menuiseries",
+        "telephone": "02 43 16 11 11",
+        "site_web": "https://verandas-du-maine.com/les-portails-et-clotures",
+        "adresse": "21 Rue de la Rivière, 72230 Arnage",
+        "note": 4,
+        "avis": 5,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16939517505114539775",
+        "nom": "123 Pare-Brise Le Mans Arnage",
+        "slug": "123-pare-brise-le-mans-arnage",
+        "telephone": "02 52 99 04 11",
+        "site_web": "https://www.123parebrise.fr/centre-le-mans-arnage/?mtm_campaign=seo_local&mtm_medium=clic_site&mtm_placement=GMB_Le_Mans_Arnage&mtm_source=gmb",
+        "adresse": "17 Rue de la Rivière, 72230 Arnage",
+        "note": 4.9,
+        "avis": 601,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "3163078661072760830",
+        "nom": "Pasquet menuiseries Le Mans",
+        "slug": "pasquet-menuiseries-le-mans",
+        "telephone": "02 43 21 62 47",
+        "site_web": "https://www.pasquet.fr/menuiserie/le-mans-72/",
+        "adresse": "68 Rue Ernest Sylvain Bollée, 72230 Arnage",
+        "note": 3.9,
+        "avis": 57,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "aubigne-racan": {
+    "artisans": [
+      {
+        "id": "9145810479547975099",
+        "nom": "A.M.V.L SAS (Atelier de Menuiserie Val du Loir)",
+        "slug": "amvl-sas-atelier-de-menuiserie-val-du-loir",
+        "telephone": "02 72 58 00 20",
+        "site_web": null,
+        "adresse": "61 Rue du 8 Mai, 72800 Aubigné-Racan",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "allonnes": {
+    "artisans": [
+      {
+        "id": "2047845354755388727",
+        "nom": "Fenêtres du Maine",
+        "slug": "fenetres-du-maine",
+        "telephone": "02 43 85 57 47",
+        "site_web": "http://www.fenetres-maine.com/",
+        "adresse": "685 Bd des Hunaudières, 72230 Ruaudin",
+        "note": 4.5,
+        "avis": 135,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9223149301459797797",
+        "nom": "Menuiseries du mans",
+        "slug": "menuiseries-du-mans",
+        "telephone": "02 43 80 50 40",
+        "site_web": "https://www.menuiseriesdumans.fr/",
+        "adresse": "Rue de l'Ante, 72700 Allonnes",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "13901364051465285759",
+        "nom": "ERS Solution",
+        "slug": "ers-solution",
+        "telephone": "01 84 80 59 19",
+        "site_web": "https://erssolution.fr/",
+        "adresse": "95 Bd Berthier, 75017 Paris",
+        "note": 5,
+        "avis": 11,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "14073690832871451893",
+        "nom": "TOMM RENOVATION",
+        "slug": "tomm-renovation",
+        "telephone": "06 13 94 34 05",
+        "site_web": "http://tommrenovation.com/",
+        "adresse": "8t Pl. Henri d'Astier, 94220 Charenton-le-Pont",
+        "note": 4.8,
+        "avis": 31,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4754103525238733494",
+        "nom": "Couvreur Le Mans - Nettoyage de toiture et ravalement de facade au Mans",
+        "slug": "couvreur-le-mans-nettoyage-de-toiture-et-ravalement-de-facade-au-mans",
+        "telephone": "06 42 45 06 16",
+        "site_web": "https://www.couvreurlemans72.fr/",
+        "adresse": "449 Rue de Sablé, 72700 Allonnes",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-fleche": {
+    "artisans": [
+      {
+        "id": "10294916329896328798",
+        "nom": "Eurl Menuiserie Ferrand",
+        "slug": "eurl-menuiserie-ferrand",
+        "telephone": "02 43 45 09 80",
+        "site_web": "http://www.menuiserieferrand.fr/",
+        "adresse": "12 Rue des Frères Chappe, 72200 La Flèche",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "944116370661839272",
+        "nom": "Aurore Menuiseries - Art et Fenêtres - La Flèche",
+        "slug": "aurore-menuiseries-art-et-fenetres-la-fleche",
+        "telephone": "02 43 85 42 42",
+        "site_web": "https://aurore-menuiseries.artetfenetres.com/?utm_campaign=GMB_lafleche&utm_medium=organic&utm_source=GMB",
+        "adresse": "25 Rue Carnot, 72200 La Flèche",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15597669814691070080",
+        "nom": "Confort & Fenêtres 72 - La Flèche",
+        "slug": "confort-fenetres-72-la-fleche",
+        "telephone": "02 43 96 92 30",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/pose-fenetres-la-fleche/",
+        "adresse": "2 Rue Henri Dunant, 72200 La Flèche",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16644316172047135206",
+        "nom": "Ateliers ARKAL",
+        "slug": "ateliers-arkal",
+        "telephone": "02 43 48 18 00",
+        "site_web": "https://www.arkal.fr/",
+        "adresse": "1 All. des Pilletières, 72200 La Flèche",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6291656316356652275",
+        "nom": "Mg Menuiserie",
+        "slug": "mg-menuiserie",
+        "telephone": "02 44 54 50 59",
+        "site_web": null,
+        "adresse": "1 allée Lavoisier, 72200 La Flèche",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8702313025261730893",
+        "nom": "DS TOITURES",
+        "slug": "ds-toitures",
+        "telephone": "09 52 16 86 19",
+        "site_web": "http://www.ds-toitures.com/",
+        "adresse": "1403 Rue des Eturcies, 72200 La Flèche",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3596897959541513187",
+        "nom": "Bricomarché La Fleche",
+        "slug": "bricomarche-la-fleche",
+        "telephone": "02 43 94 47 96",
+        "site_web": "https://www.bricomarche.com/magasin/la-fleche/20152?store=20152&utm_source=gmb",
+        "adresse": "Bd du Québec, 72200 La Flèche",
+        "note": 4,
+        "avis": 1171,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "7311135019373570203",
+        "nom": "ARTI LOIR",
+        "slug": "arti-loir",
+        "telephone": "06 77 37 35 47",
+        "site_web": "http://www.sarl-arti-loir.fr/",
+        "adresse": "Av. Rhin et Danube, 72200 La Flèche",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "auvers-le-hamon": {
+    "artisans": [
+      {
+        "id": "13907963322411800156",
+        "nom": "Blu Mickaël Ets",
+        "slug": "blu-mickael-ets",
+        "telephone": "02 43 92 56 49",
+        "site_web": null,
+        "adresse": "26 Rue Pioger, 72300 Auvers-le-Hamon",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "bazouges-cre-sur-loir": {
+    "artisans": [
+      {
+        "id": "2667349056452446045",
+        "nom": "VEJ EIRL",
+        "slug": "vej-eirl",
+        "telephone": "06 42 17 97 84",
+        "site_web": "https://www.facebook.com/profile.php?id=100063855705250",
+        "adresse": "40 Rue du Val d'Argance, 49430 Durtal",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9454934687063854018",
+        "nom": "AD Garage Expert LANCELEUR SARL",
+        "slug": "ad-garage-expert-lanceleur-sarl",
+        "telephone": "02 43 45 33 05",
+        "site_web": "https://www.ad.fr/garage/garage-lanceleur?utm_campaign=google_my_business&utm_medium=organic&utm_source=google",
+        "adresse": "La Petite Maison, 72200 Bazouges Cré sur Loir",
+        "note": 4.7,
+        "avis": 108,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "17014413515674039704",
+        "nom": "Menuiserie Champion",
+        "slug": "menuiserie-champion",
+        "telephone": "06 75 69 19 73",
+        "site_web": null,
+        "adresse": "500 route de marigne, 72200 Bazouges Cré sur Loir",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16571189133796688180",
+        "nom": "atelier du loir",
+        "slug": "atelier-du-loir",
+        "telephone": "06 81 88 89 82",
+        "site_web": null,
+        "adresse": "Les Thibaudaies, 72200 Bazouges Cré sur Loir",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bonnetable": {
+    "artisans": [
+      {
+        "id": "11157097876965160665",
+        "nom": "Entreprise Chedhomme",
+        "slug": "entreprise-chedhomme",
+        "telephone": "02 43 29 14 92",
+        "site_web": "http://www.chedhomme-fermeture.fr/?utm_source=gmb",
+        "adresse": "626 Av. du 10 Août 1944, 72110 Bonnétable",
+        "note": 4.9,
+        "avis": 23,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16514591148565357520",
+        "nom": "Sarl Barbier",
+        "slug": "sarl-barbier",
+        "telephone": "02 43 29 71 58",
+        "site_web": "http://www.alu-barbier.com/",
+        "adresse": "Z.I. Chemin Moulin Marteau, Route de Courcemont, 72110 Bonnétable",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "la-bazoge": {
+    "artisans": [
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "beaumont-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "beaufay": {
+    "artisans": [
+      {
+        "id": "5128127833409978759",
+        "nom": "Les Toits Sarthois - Couvreur Le Mans",
+        "slug": "les-toits-sarthois-couvreur-le-mans",
+        "telephone": "07 56 81 99 35",
+        "site_web": "https://www.lestoitssarthois.fr/",
+        "adresse": "Uniquement sur rendez-vous, 37 Rue de la Presche, 72100 Le Mans",
+        "note": 3.7,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2648897257359488660",
+        "nom": "SARL BRETEAU",
+        "slug": "sarl-breteau",
+        "telephone": "02 43 29 36 17",
+        "site_web": "https://www.breteau-sarl.com/",
+        "adresse": "LA GARE, 72110 Beaufay",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2874089884920219038",
+        "nom": "Sweet Home",
+        "slug": "sweet-home",
+        "telephone": "02 43 81 09 88",
+        "site_web": null,
+        "adresse": "122 Rue de Bonnétable, 72000 Le Mans",
+        "note": 2.9,
+        "avis": 7,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      },
+      {
+        "id": "15424361393947429492",
+        "nom": "KparK Le Mans",
+        "slug": "kpark-le-mans",
+        "telephone": "02 49 79 00 08",
+        "site_web": "https://magasins.kpark.fr/69-kpark-le-mans?utm_source=gmb",
+        "adresse": "32 Rue Gambetta, 72000 Le Mans",
+        "note": 4.5,
+        "avis": 150,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4054149762447609292",
+        "nom": "Linconyl Le Mans : Stores, pergolas, carports et volets.",
+        "slug": "linconyl-le-mans-stores-pergolas-carports-et-volets",
+        "telephone": "02 43 23 24 10",
+        "site_web": "https://linconyl.com/le-mans/",
+        "adresse": "14 Bd René Cassin, 72100 Le Mans",
+        "note": 4.7,
+        "avis": 317,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "820298588000183625",
+        "nom": "Mézière SAS",
+        "slug": "meziere-sas",
+        "telephone": "02 43 25 33 25",
+        "site_web": "http://www.couverture-meziere.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 45,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14087449918662325681",
+        "nom": "Les Ateliers Goudier",
+        "slug": "les-ateliers-goudier",
+        "telephone": "02 43 51 26 94",
+        "site_web": "https://www.lesateliersgoudier.fr/",
+        "adresse": "3 Rue des Noisetiers, 72190 Sargé-lès-le-Mans",
+        "note": 4.9,
+        "avis": 158,
+        "type": "Vitrier"
+      },
+      {
+        "id": "5320428836655589489",
+        "nom": "Sarthe renov - entretien de toitures, façades, demoussage, couverture",
+        "slug": "sarthe-renov-entretien-de-toitures-facades-demoussage-couverture",
+        "telephone": "06 22 48 80 70",
+        "site_web": "http://sarthe-renov.fr/",
+        "adresse": "2444 Rte du Mans, 72560 Changé",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3878580389598868530",
+        "nom": "Sarthe Couverture 72 - Couvreur Zingueur Toiture",
+        "slug": "sarthe-couverture-72-couvreur-zingueur-toiture",
+        "telephone": "06 95 19 31 89",
+        "site_web": null,
+        "adresse": "18 Rue de l'Île, 72300 Sablé-sur-Sarthe",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13053796222133208935",
+        "nom": "franck cabaret",
+        "slug": "franck-cabaret",
+        "telephone": "02 53 15 59 98",
+        "site_web": null,
+        "adresse": "Route de Parigné Ieu-dit Le Petit Moussu, 72210 Roëzé-sur-Sarthe",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bouloire": {
+    "artisans": [
+      {
+        "id": "4438780874247871408",
+        "nom": "NG Charpente Couverture",
+        "slug": "ng-charpente-couverture",
+        "telephone": "06 33 79 13 55",
+        "site_web": "https://www.ngcharpentecouverture.fr/",
+        "adresse": "793 route de thorigné, 72440 Bouloire",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "brette-les-pins": {
+    "artisans": [
+      {
+        "id": "9101398225566684200",
+        "nom": "Chevereau Denis",
+        "slug": "chevereau-denis",
+        "telephone": "02 43 75 98 05",
+        "site_web": null,
+        "adresse": "22 Rue des Écureuils, 72250 Brette-les-Pins",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17451988639341931497",
+        "nom": "Patrimoine et rénovation 72",
+        "slug": "patrimoine-et-renovation-72",
+        "telephone": "07 69 19 13 06",
+        "site_web": "http://www.patrimoinerenovation72.fr/",
+        "adresse": "17 Rue des Boutons d'Or, 72250 Brette-les-Pins",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14664462928468949315",
+        "nom": "SARL CHEVEREAU",
+        "slug": "sarl-chevereau",
+        "telephone": "09 74 56 66 12",
+        "site_web": "https://www.sarl-chevereau.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "68 Rue des Biches, 72250 Brette-les-Pins",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7319048460893053764",
+        "nom": "EPHITECH SAS",
+        "slug": "ephitech-sas",
+        "telephone": "06 51 68 09 24",
+        "site_web": "http://www.ephitech.fr/",
+        "adresse": "34 Rue des Sittelles, 72250 Brette-les-Pins",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "2890640280928851049",
+        "nom": "Génératel Habitat",
+        "slug": "generatel-habitat",
+        "telephone": "06 29 60 71 82",
+        "site_web": "http://www.renovatis-couverture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 30,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "besse-sur-braye": {
+    "artisans": [
+      {
+        "id": "9788756503318603100",
+        "nom": "NG Services SARL",
+        "slug": "ng-services-sarl",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/?utm_source=gmb",
+        "adresse": "8 All. du Dindo, 72560 Changé",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-breil-sur-merize": {
+    "artisans": [
+      {
+        "id": "6423029265389596352",
+        "nom": "Deschoolmeester Denis",
+        "slug": "deschoolmeester-denis",
+        "telephone": "02 43 76 97 31",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14506208213417282070",
+        "nom": "Menuiserie Ebenisterie Breilloise",
+        "slug": "menuiserie-ebenisterie-breilloise",
+        "telephone": "06 35 59 61 86",
+        "site_web": null,
+        "adresse": "72370 Le Breil-sur-Mérize",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17890987871274177866",
+        "nom": "Guillard",
+        "slug": "guillard",
+        "telephone": "02 43 82 69 90",
+        "site_web": null,
+        "adresse": "Le Landon, 72370 Le Breil-sur-Mérize",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13644896451896533052",
+        "nom": "Sarth-Toit",
+        "slug": "sarth-toit",
+        "telephone": "06 12 27 65 35",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 27,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12578785777415546005",
+        "nom": "MARBREIL CHARPENTE SARL",
+        "slug": "marbreil-charpente-sarl",
+        "telephone": "02 43 81 02 56",
+        "site_web": "https://m.facebook.com/marbreilcharpente/",
+        "adresse": "29 Rte de Saint-Calais, 72470 Champagné",
+        "note": 5,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "937091352679528658",
+        "nom": "SARL J.ESNAULT",
+        "slug": "sarl-jesnault",
+        "telephone": "06 24 97 95 82",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "cerans-foulletourte": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "change": {
+    "artisans": [
+      {
+        "id": "8337201078698407299",
+        "nom": "Charpente Toiture Changéenne",
+        "slug": "charpente-toiture-changeenne",
+        "telephone": "06 09 46 62 72",
+        "site_web": "https://charpente-toiture-changeenne.fr/",
+        "adresse": "5 Rue de la Sapinière, 72560 Changé",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10985322992997618808",
+        "nom": "Sarthe Rénovation",
+        "slug": "sarthe-renovation",
+        "telephone": "07 71 74 42 58",
+        "site_web": "https://sarthe-renovation.site/",
+        "adresse": "Lieu-dit les Grandes Epinettes, 72560 Changé",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "brulon": {
+    "artisans": [
+      {
+        "id": "7201136122926155144",
+        "nom": "Lecornué Thierry",
+        "slug": "lecornue-thierry",
+        "telephone": "02 43 95 99 82",
+        "site_web": "http://lecornue-thierry.fr/",
+        "adresse": "10 Rte de Loue, 72350 Brûlon",
+        "note": 4.1,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13554042415503107095",
+        "nom": "Femilux",
+        "slug": "femilux",
+        "telephone": "02 43 95 21 33",
+        "site_web": "https://femilux.com/",
+        "adresse": "5 Avenue Marc Ettienne, 72350 Brûlon",
+        "note": 3.2,
+        "avis": 11,
+        "type": "Fabricant de maroquinerie"
+      }
+    ]
+  },
+  "champagne": {
+    "artisans": [
+      {
+        "id": "7847692892299007520",
+        "nom": "Sogetec",
+        "slug": "sogetec",
+        "telephone": "02 43 63 32 56",
+        "site_web": "https://sarlsogetec.fr/",
+        "adresse": "ZA la Forêt, 72470 Champagné",
+        "note": 5,
+        "avis": 47,
+        "type": "Électricien"
+      },
+      {
+        "id": "12322517929066904667",
+        "nom": "Menuiserie Agencement Dépannage",
+        "slug": "menuiserie-agencement-depannage",
+        "telephone": "06 51 35 00 75",
+        "site_web": "https://www.facebook.com/profile.php?id=61567716355622&utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16686285150170409958",
+        "nom": "Couverture Chardelin - Couvreur Peintre Yvré-l’Évêque Le Mans Sarthe 72",
+        "slug": "couverture-chardelin-couvreur-peintre-yvre-leveque-le-mans-sarthe-72",
+        "telephone": "06 10 18 27 50",
+        "site_web": "https://couverture-chardelin.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 30,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16394067938521980807",
+        "nom": "Delsuc couverture",
+        "slug": "delsuc-couverture",
+        "telephone": "06 34 47 86 70",
+        "site_web": "https://www.couvreur-delsuc.com/",
+        "adresse": "La pièce, 72230 Ruaudin",
+        "note": 4.9,
+        "avis": 35,
+        "type": "Couvreur"
+      },
+      {
+        "id": "182341412378406519",
+        "nom": "Entreprise mayeur - Couvreur 72 : Réparation Démoussage Étanchéité Fuites Toiture Couverture Ravalement Sarthe Le-Mans",
+        "slug": "entreprise-mayeur-couvreur-72-reparation-demoussage-etancheite-fuites-toiture-couverture-ravalement-sarthe-le-mans",
+        "telephone": "06 10 71 15 83",
+        "site_web": "http://couvreur72.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 44,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3301342552248544688",
+        "nom": "Pellier SARL",
+        "slug": "pellier-sarl",
+        "telephone": "06 76 62 33 54",
+        "site_web": "https://www.zingueur.net/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "challes": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-chapelle-d-aligne": {
+    "artisans": [
+      {
+        "id": "5597462840757782152",
+        "nom": "AT CONSTRUCTION BOIS - Allard Thomas",
+        "slug": "at-construction-bois-allard-thomas",
+        "telephone": "06 75 87 94 94",
+        "site_web": "https://www.leray.info/page/at-construction-bois",
+        "adresse": "4 Rue de la Liberté, 72300 La Chapelle-d'Aligné",
+        "note": 5,
+        "avis": 15,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3163078661072760830",
+        "nom": "Pasquet menuiseries Le Mans",
+        "slug": "pasquet-menuiseries-le-mans",
+        "telephone": "02 43 21 62 47",
+        "site_web": "https://www.pasquet.fr/menuiserie/le-mans-72/",
+        "adresse": "68 Rue Ernest Sylvain Bollée, 72230 Arnage",
+        "note": 3.9,
+        "avis": 57,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "12521732617295237560",
+        "nom": "Bati Toiture - La Chapelle D'Aligné",
+        "slug": "bati-toiture-la-chapelle-daligne",
+        "telephone": "02 43 94 47 64",
+        "site_web": "http://www.batitoiture.com/",
+        "adresse": "Les Landes, 72300 La Chapelle-d'Aligné",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16683135234292931373",
+        "nom": "Sylvain Chevreux",
+        "slug": "sylvain-chevreux",
+        "telephone": "02 43 45 19 93",
+        "site_web": null,
+        "adresse": "La Marcaiserie, 72300 La Chapelle-d'Aligné",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "18124164288741999675",
+        "nom": "Sarl Chevreux Père Et Fils",
+        "slug": "sarl-chevreux-pere-et-fils",
+        "telephone": "06 99 10 58 42",
+        "site_web": null,
+        "adresse": "La, L'Aubrière, 72300 La Chapelle-d'Aligné",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "champfleur": {
+    "artisans": [
+      {
+        "id": "10276239910181526180",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/orne/installateur-expert-en-pose-velux-a-alencon",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-chapelle-saint-aubin": {
+    "artisans": [
+      {
+        "id": "12214596723163820644",
+        "nom": "Komilfo",
+        "slug": "komilfo",
+        "telephone": "02 43 21 61 18",
+        "site_web": "https://www.komilfo.fr/magasins/poser-la-chapelle-saint-aubin-le-mans",
+        "adresse": "74 Rue du Moulin aux Moines, 72650 La Chapelle-Saint-Aubin",
+        "note": 5,
+        "avis": 145,
+        "type": "Menuisier"
+      },
+      {
+        "id": "362607254736906414",
+        "nom": "Avenir Rénovations Le Mans - Mulsanne (72)",
+        "slug": "avenir-renovations-le-mans-mulsanne-72",
+        "telephone": "02 49 88 12 19",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-72-le-mans-mulsanne/",
+        "adresse": "5 Rue de Constantine, 72000 Le Mans",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3552660097477478057",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 43 85 42 42",
+        "site_web": "https://aurore-menuiseries.artetfenetres.com/",
+        "adresse": "41 Rue du Moulin aux Moines, 72650 La Chapelle-Saint-Aubin",
+        "note": 4.7,
+        "avis": 69,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7649409496097535851",
+        "nom": "CASÉO Le Mans",
+        "slug": "caseo-le-mans",
+        "telephone": "02 43 85 54 57",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-le-mans-saint-saturnin-103",
+        "adresse": "Bd de Maule, 72650 Saint-Saturnin",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2810051180635307142",
+        "nom": "OuvertureS 72",
+        "slug": "ouvertures-72",
+        "telephone": "02 43 54 23 23",
+        "site_web": "http://www.le-mans.ouvertures.com/",
+        "adresse": "23 Rue des Maillets 23-25, 72000 Le Mans",
+        "note": 4.7,
+        "avis": 39,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "la-chartre-sur-le-loir": {
+    "artisans": [
+      {
+        "id": "17531705883803838714",
+        "nom": "SARL Heurtaux",
+        "slug": "sarl-heurtaux",
+        "telephone": "06 09 30 83 16",
+        "site_web": "https://heurtauxelectricite.fr/",
+        "adresse": "Rte de Ruillé, 72340 La Chartre-sur-le-Loir",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "montval-sur-loir": {
+    "artisans": [
+      {
+        "id": "14622400576713180145",
+        "nom": "EJC Menuiserie",
+        "slug": "ejc-menuiserie",
+        "telephone": "06 58 04 33 75",
+        "site_web": "https://sites.google.com/view/ejcmenuiserie",
+        "adresse": "Carcahu, 72500 Luceau",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13020854243008018418",
+        "nom": "Couvreur Montval-sur-Loir 72 Luceau Michel Hornberger Ravalement façade nettoyage toiture Charpentier peintre demoussage",
+        "slug": "couvreur-montval-sur-loir-72-luceau-michel-hornberger-ravalement-facade-nettoyage-toiture-charpentier-peintre-demoussage",
+        "telephone": "06 58 03 78 67",
+        "site_web": "https://couvreur-le-mans-tours.fr/",
+        "adresse": "1489 route de, L'Herterie, 72500 Montval-sur-Loir",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12690969745359356952",
+        "nom": "Bricomarché Montval Sur Loir",
+        "slug": "bricomarche-montval-sur-loir",
+        "telephone": "02 43 79 50 79",
+        "site_web": "https://www.bricomarche.com/magasin/montval-sur-loir/08158?store=08158&utm_source=gmb",
+        "adresse": "15 Rue du Mont sur Loir, 72500 Montval-sur-Loir",
+        "note": 4.2,
+        "avis": 553,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "8341258157779989581",
+        "nom": "B'PLAST LE MANS",
+        "slug": "bplast-le-mans",
+        "telephone": "02 43 84 43 29",
+        "site_web": "https://www.bplast.fr/agence/bplast-le-mans/?utm_source=gmb",
+        "adresse": "2 Rue Antoine de Saint-Exupery, 72230 Mulsanne",
+        "note": 4.6,
+        "avis": 167,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "connerre": {
+    "artisans": [
+      {
+        "id": "11669966447182268146",
+        "nom": "MPM - Menuiserie et Isolation",
+        "slug": "mpm-menuiserie-et-isolation",
+        "telephone": "02 43 29 70 36",
+        "site_web": "https://www.menuiserie-le-mans-pinet-mpm.fr/",
+        "adresse": "Le Vigneau, 72160 Duneau",
+        "note": 4.6,
+        "avis": 46,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3284602364530881773",
+        "nom": "Menuiserie Croiseau",
+        "slug": "menuiserie-croiseau",
+        "telephone": "02 43 89 76 90",
+        "site_web": "https://www.menuiserie-croiseau-connerre.fr/?utm_source=gmb",
+        "adresse": "ZA Les Terrasses Du Challans, 3 Rue René Blanchard, 72160 Connerré",
+        "note": 4.9,
+        "avis": 54,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "chaufour-notre-dame": {
+    "artisans": [
+      {
+        "id": "11891347485722201533",
+        "nom": "Cador Papin",
+        "slug": "cador-papin",
+        "telephone": "02 43 27 77 71",
+        "site_web": "https://www.cadorpapin.fr/?utm_source=gmb",
+        "adresse": "8 Rue Pégase, 72650 Trangé",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12058564650439784395",
+        "nom": "A.P. ELEC",
+        "slug": "ap-elec",
+        "telephone": "02 43 39 46 18",
+        "site_web": "http://www.apelec72.fr/",
+        "adresse": "66 Rte nationale, 72550 Chaufour-Notre-Dame",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "16729469346719322500",
+        "nom": "Castorama",
+        "slug": "castorama",
+        "telephone": "02 43 39 96 39",
+        "site_web": "https://www.castorama.fr/store/1409?utm_content=le-mans&utm_medium=MyBusiness&utm_source=Google",
+        "adresse": "Rte d'Alençon, 72000 Le Mans",
+        "note": 3.8,
+        "avis": 4342,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "3134339836561309918",
+        "nom": "Maine Combles, Transformation et aménagement de combles le Mans, Combles 72, Combles Sarthe",
+        "slug": "maine-combles-transformation-et-amenagement-de-combles-le-mans-combles-72-combles-sarthe",
+        "telephone": "02 43 18 23 42",
+        "site_web": "http://www.maine-combles.fr/",
+        "adresse": "14 Bd René Cassin, 72000 Le Mans",
+        "note": 4.9,
+        "avis": 78,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "clermont-creans": {
+    "artisans": [
+      {
+        "id": "3356164824926189509",
+        "nom": "Les Baies du Loir",
+        "slug": "les-baies-du-loir",
+        "telephone": "02 43 94 48 27",
+        "site_web": "https://lesbaiesduloir.fr/",
+        "adresse": "1 Chem. de la Piellière, 72200 Clermont-Créans",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "coulaines": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cherre-au": {
+    "artisans": [
+      {
+        "id": "6895328070995755896",
+        "nom": "Linconyl La Ferté-Bernard : Stores, pergolas, carports et volets.",
+        "slug": "linconyl-la-ferte-bernard-stores-pergolas-carports-et-volets",
+        "telephone": "02 43 71 06 44",
+        "site_web": "https://linconyl.com/la-ferte-bernard/",
+        "adresse": "1 Rue Robert Garnier, 72400 La Ferté-Bernard",
+        "note": 4.7,
+        "avis": 54,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "conlie": {
+    "artisans": [
+      {
+        "id": "15237801920140256145",
+        "nom": "MenuiserieTronchet-Choplin",
+        "slug": "menuiserietronchet-choplin",
+        "telephone": "02 43 20 50 19",
+        "site_web": "https://menuiserie-tronchet-choplin.fr/?utm_source=gmb",
+        "adresse": "30 Rue de l'Epinaube, 72240 Conlie",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12851178840426704690",
+        "nom": "Verandas Beauquesne - Showroom",
+        "slug": "verandas-beauquesne-showroom",
+        "telephone": "02 43 24 15 78",
+        "site_web": "https://www.verandas-beauquesne.com/",
+        "adresse": "ZA des 4C, 72240 Conlie",
+        "note": 4.5,
+        "avis": 87,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15171092223899051824",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 43 25 20 52",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/sarthe/lapeyre-le-mans-55",
+        "adresse": "route Nationale 138, 72650 Saint-Saturnin",
+        "note": 4.1,
+        "avis": 464,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "coulans-sur-gee": {
+    "artisans": [
+      {
+        "id": "12624403579061624626",
+        "nom": "Suard EURL",
+        "slug": "suard-eurl",
+        "telephone": "07 85 13 93 70",
+        "site_web": "http://suardeurl.site-solocal.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10702765293406045842",
+        "nom": "Galva 72",
+        "slug": "galva-72",
+        "telephone": "02 43 39 11 11",
+        "site_web": "http://www.galva-72.fr/",
+        "adresse": "104 ZA La Cr du Bois, 72550 Coulans-sur-Gée",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Prestataire de traitement et finition de surfaces métalliques"
+      },
+      {
+        "id": "1429655929723199508",
+        "nom": "Maison Familiale Rurale",
+        "slug": "maison-familiale-rurale",
+        "telephone": "02 43 88 82 24",
+        "site_web": "http://www.mfr-coulans.fr/",
+        "adresse": "65 Rue nationale, 72550 Coulans-sur-Gée",
+        "note": 4.6,
+        "avis": 24,
+        "type": "Centre de formation"
+      },
+      {
+        "id": "13834727669305878299",
+        "nom": "LC Développement / LC Construction",
+        "slug": "lc-developpement-lc-construction",
+        "telephone": "02 43 47 85 27",
+        "site_web": "https://www.lc-developpement.fr/",
+        "adresse": "1 Rue nationale, 72550 Coulans-sur-Gée",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Consultant en construction"
+      },
+      {
+        "id": "8370803986767097861",
+        "nom": "EGMB",
+        "slug": "egmb",
+        "telephone": "02 43 88 03 70",
+        "site_web": null,
+        "adresse": "317 Les Baleines, 72550 Coulans-sur-Gée",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Maçon"
+      },
+      {
+        "id": "11167053297650251043",
+        "nom": "Net'Toit 72",
+        "slug": "nettoit-72",
+        "telephone": "07 63 70 37 84",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "dollon": {
+    "artisans": [
+      {
+        "id": "16095394463465675964",
+        "nom": "Ets. Girard",
+        "slug": "ets-girard",
+        "telephone": "06 29 34 54 85",
+        "site_web": "http://entgirard.fr/",
+        "adresse": "15, 72390 Dollon",
+        "note": 5,
+        "avis": 2,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "1974969829235326245",
+        "nom": "Rocheteau Pascal",
+        "slug": "rocheteau-pascal",
+        "telephone": "02 43 71 52 22",
+        "site_web": null,
+        "adresse": "7 Rue du Parc, 72390 Dollon",
+        "note": 2.6,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17094508863784861892",
+        "nom": "Ets Girard",
+        "slug": "ets-girard",
+        "telephone": "06 13 41 76 51",
+        "site_web": "https://artisan-girard-maconnerie-72.fr/",
+        "adresse": "5 bis Rue de Salvert, 72390 Dollon",
+        "note": 3.7,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "crosmieres": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "duneau": {
+    "artisans": [
+      {
+        "id": "11669966447182268146",
+        "nom": "MPM - Menuiserie et Isolation",
+        "slug": "mpm-menuiserie-et-isolation",
+        "telephone": "02 43 29 70 36",
+        "site_web": "https://www.menuiserie-le-mans-pinet-mpm.fr/",
+        "adresse": "Le Vigneau, 72160 Duneau",
+        "note": 4.6,
+        "avis": 46,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "domfront-en-champagne": {
+    "artisans": [
+      {
+        "id": "14898562125967597715",
+        "nom": "Ragot Jérôme",
+        "slug": "ragot-jerome",
+        "telephone": "02 43 20 35 28",
+        "site_web": null,
+        "adresse": "11 La Tuilerie, 72240 Domfront-en-Champagne",
+        "note": 5,
+        "avis": 4,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "la-guierche": {
+    "artisans": [
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15050120223414497315",
+        "nom": "Pellier",
+        "slug": "pellier",
+        "telephone": "02 43 23 71 49",
+        "site_web": "http://www.zingueur.net/",
+        "adresse": "442 Rue des Petites Forges, 72380 Joué-l'Abbé",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11945678430917107465",
+        "nom": "LaMaison.fr",
+        "slug": "lamaisonfr",
+        "telephone": "02 43 27 61 02",
+        "site_web": "https://www.lamaison.fr/stores/la-guierche-lamaison-fr?utm_campaign=googlebusinessprofile&utm_medium=local&utm_source=google&utm_content=site+web",
+        "adresse": "2 La Petite Ferme Lieu dit, 72380 La Guierche",
+        "note": 4.4,
+        "avis": 97,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "etival-les-le-mans": {
+    "artisans": [
+      {
+        "id": "2546002903481736338",
+        "nom": "Lefoix Jonathan",
+        "slug": "lefoix-jonathan",
+        "telephone": "02 72 16 69 83",
+        "site_web": null,
+        "adresse": "La Beaujeantière, 72700 Étival-lès-le-Mans",
+        "note": 4,
+        "avis": 2,
+        "type": null
+      }
+    ]
+  },
+  "ecommoy": {
+    "artisans": [
+      {
+        "id": "2917002714059325755",
+        "nom": "DELANOUE MENUISERIE - DM ALU - TERRES DE FENÊTRES",
+        "slug": "delanoue-menuiserie-dm-alu-terres-de-fenetres",
+        "telephone": "02 43 42 10 07",
+        "site_web": "https://www.delanoue-menuiserie.fr/contact?utm_source=gmb",
+        "adresse": "52 ter, Rte de Tours, 72220 Écommoy",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "333728938670753977",
+        "nom": "BigMat Logimat",
+        "slug": "bigmat-logimat",
+        "telephone": "02 43 42 10 03",
+        "site_web": "https://www.bigmat.fr/logimat/ecommoy/",
+        "adresse": "Rte de Tours, 72220 Écommoy",
+        "note": 4.2,
+        "avis": 71,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "7252611090989645509",
+        "nom": "MATRAS | Entreprise de Charpente, Couverture & Ossature Bois à Ecommoy, secteur Le Mans, Sarthe",
+        "slug": "matras-entreprise-de-charpente-couverture-ossature-bois-a-ecommoy-secteur-le-mans-sarthe",
+        "telephone": "02 43 42 14 80",
+        "site_web": "http://matras72.fr/",
+        "adresse": "Le Ruisseau, 72220 Écommoy",
+        "note": 4.3,
+        "avis": 25,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "fille": {
+    "artisans": [
+      {
+        "id": "4655690648671186364",
+        "nom": "ATTILA Le Mans Sud",
+        "slug": "attila-le-mans-sud",
+        "telephone": "02 43 86 05 37",
+        "site_web": "http://www.attila.fr/nos-agences/attila-le-mans-sud?utm_source=Google&utm_medium=MyBusiness",
+        "adresse": "Zone du Panorama, 23 Rue Alain Gerbault, 72000 Le Mans",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9812919857831433341",
+        "nom": "DLB COUVERTURE",
+        "slug": "dlb-couverture",
+        "telephone": "02 43 16 61 90",
+        "site_web": "https://dlb-couverture.fr/",
+        "adresse": "28 Bd Pierre Lefaucheux, 72100 Le Mans",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-ferte-bernard": {
+    "artisans": [
+      {
+        "id": "14907756039120660819",
+        "nom": "perche fermetures",
+        "slug": "perche-fermetures",
+        "telephone": "02 43 93 90 44",
+        "site_web": "https://perche-fermetures.fr/",
+        "adresse": "Espace du Lac, Av. Jean Monnet, 72400 La Ferté-Bernard",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6895328070995755896",
+        "nom": "Linconyl La Ferté-Bernard : Stores, pergolas, carports et volets.",
+        "slug": "linconyl-la-ferte-bernard-stores-pergolas-carports-et-volets",
+        "telephone": "02 43 71 06 44",
+        "site_web": "https://linconyl.com/la-ferte-bernard/",
+        "adresse": "1 Rue Robert Garnier, 72400 La Ferté-Bernard",
+        "note": 4.7,
+        "avis": 54,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "4996230145085568542",
+        "nom": "CASÉO La Ferté-Bernard",
+        "slug": "caseo-la-ferte-bernard",
+        "telephone": "02 43 85 54 57",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-la-ferte-bernard-la-ferte-bernard-104",
+        "adresse": "7 Pl. Saint-Julien, 72400 La Ferté-Bernard",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "villeneuve-en-perseigne": {
+    "artisans": [
+      {
+        "id": "12465925660376265836",
+        "nom": "Menuiserie Chauvin",
+        "slug": "menuiserie-chauvin",
+        "telephone": "02 43 97 80 45",
+        "site_web": "http://www.menuiserie-chauvin.fr/",
+        "adresse": "11 Pl. de l'Église, 72600 Villeneuve-en-Perseigne",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10276239910181526180",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/orne/installateur-expert-en-pose-velux-a-alencon",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "joue-l-abbe": {
+    "artisans": [
+      {
+        "id": "12796099794228457927",
+        "nom": "Boulvert B SARL",
+        "slug": "boulvert-b-sarl",
+        "telephone": "02 43 29 78 56",
+        "site_web": "http://menuiserieboulvert.com/?utm_source=gmb",
+        "adresse": "ZA, Les Petites Forges, 72380 Joué-l'Abbé",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12873688397530887446",
+        "nom": "OBMP Véranda et Menuiserie Aluminium sur mesure",
+        "slug": "obmp-veranda-et-menuiserie-aluminium-sur-mesure",
+        "telephone": "02 43 25 59 98",
+        "site_web": "http://obmp-veranda.fr/",
+        "adresse": "ZA, Les Petites Forges, 72380 Joué-l'Abbé",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3536324545258883879",
+        "nom": "Gitem",
+        "slug": "gitem",
+        "telephone": "02 43 27 62 84",
+        "site_web": "https://www.gitem.fr/nos-magasins.html#!/l/sainte-jamme-sur-sarthe/route-de-montbizot/3959808",
+        "adresse": "Rte de Montbizot, 72380 Sainte-Jamme-sur-Sarthe",
+        "note": 4.1,
+        "avis": 177,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "fresnay-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "7477498302989349028",
+        "nom": "B'PLAST ALENCON",
+        "slug": "bplast-alencon",
+        "telephone": "02 33 31 65 65",
+        "site_web": "https://www.bplast.fr/agence/bplast-alencon/?utm_source=gmb",
+        "adresse": "8 Rue Saint-Blaise, 72610 Arçonnay",
+        "note": 3.2,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13609297924728389556",
+        "nom": "Entreprise de Peinture - VEAU",
+        "slug": "entreprise-de-peinture-veau",
+        "telephone": "02 43 97 09 90",
+        "site_web": "http://peinture-veauemmanuel.fr/",
+        "adresse": "ZA de, La Promenade, 72130 Fresnay-sur-Sarthe",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "16235965971573023692",
+        "nom": "LCP Sasu",
+        "slug": "lcp-sasu",
+        "telephone": "06 86 79 51 36",
+        "site_web": "http://lcp72.fr/contact/?utm_source=gmb",
+        "adresse": "1 Pt Rue de la Gare, 72130 Fresnay-sur-Sarthe",
+        "note": 5,
+        "avis": 3,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "juigne-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "10968091352723057233",
+        "nom": "JS Couverture",
+        "slug": "js-couverture",
+        "telephone": "06 18 48 48 15",
+        "site_web": "https://jscouverture.com/",
+        "adresse": "42 Rue du Clos Chauvin, 72300 Juigné-sur-Sarthe",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2925219685649217727",
+        "nom": "Proust Bruno",
+        "slug": "proust-bruno",
+        "telephone": "02 43 95 41 67",
+        "site_web": null,
+        "adresse": "Les Mille Pieds, 72300 Juigné-sur-Sarthe",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "13175644231499888101",
+        "nom": "SARL Maline",
+        "slug": "sarl-maline",
+        "telephone": "02 43 98 65 70",
+        "site_web": "http://sarlmaline.fr/",
+        "adresse": "1 rue La Chalopinière, 53170 Meslay-du-Maine",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "aigne": {
+    "artisans": [
+      {
+        "id": "1330531110587039278",
+        "nom": "Dépaninstaltout",
+        "slug": "depaninstaltout",
+        "telephone": "06 79 82 50 66",
+        "site_web": null,
+        "adresse": "1 ter Chem. du Vieux Maquere, 72650 Aigné",
+        "note": 2.6,
+        "avis": 5,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "guecelard": {
+    "artisans": [
+      {
+        "id": "5922336493872456078",
+        "nom": "Vivet Stephane",
+        "slug": "vivet-stephane",
+        "telephone": "06 62 98 72 47",
+        "site_web": null,
+        "adresse": "27 Chem. de Constantine, 72230 Guécélard",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "6054964956979666188",
+        "nom": "TRYBA Guécélard",
+        "slug": "tryba-guecelard",
+        "telephone": "02 43 87 38 73",
+        "site_web": "https://www.tryba.com/espace-conseil/72/tryba-guecelard/?utm_source=GMB&utm_medium=CTA-WEB&utm_campaign=Tryba_Gu%C3%A9c%C3%A9lard",
+        "adresse": "79 Rte nationale, 72230 Guécélard",
+        "note": 4.7,
+        "avis": 50,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-grand-luce": {
+    "artisans": [
+      {
+        "id": "8267278592604462895",
+        "nom": "ConstruiToît",
+        "slug": "construitoit",
+        "telephone": "06 26 75 45 48",
+        "site_web": "https://www.construitoit.fr/",
+        "adresse": "335 Les Saintonnières, 72150 Le Grand-Lucé",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2351022807192738765",
+        "nom": "Pascal Augereau Michel",
+        "slug": "pascal-augereau-michel",
+        "telephone": "02 43 40 41 25",
+        "site_web": "http://www.menuiserie-augereau.fr/",
+        "adresse": "Le, Zone Industrielle de, La Prairie, 72150 Le Grand-Lucé",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5002621141305316992",
+        "nom": "Eurl Hardoin Couverture",
+        "slug": "eurl-hardoin-couverture",
+        "telephone": "02 43 18 92 88",
+        "site_web": null,
+        "adresse": "254 Rue de la Paix, 72150 Le Grand-Lucé",
+        "note": 5,
+        "avis": 19,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "neufchatel-en-saosnois": {
+    "artisans": [
+      {
+        "id": "16896857768675479494",
+        "nom": "EURL CRETE SYLVAIN",
+        "slug": "eurl-crete-sylvain",
+        "telephone": "06 03 38 09 33",
+        "site_web": "http://eurlcretesylvain.fr/",
+        "adresse": "14 Rue Désirée Ruel, 72600 Neufchâtel-en-Saosnois",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "14630835379930481404",
+        "nom": "EURL Jonathan Couverture",
+        "slug": "eurl-jonathan-couverture",
+        "telephone": "06 03 91 58 88",
+        "site_web": "https://www.jonathancouverture.fr/",
+        "adresse": "3 Chem. de Beaulieu, 72600 Neufchâtel-en-Saosnois",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7455361313331981428",
+        "nom": "Ng Services",
+        "slug": "ng-services",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/",
+        "adresse": "5 Saint-Pavace, 72190 Sargé-lès-le-Mans",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9788756503318603100",
+        "nom": "NG Services SARL",
+        "slug": "ng-services-sarl",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/?utm_source=gmb",
+        "adresse": "8 All. du Dindo, 72560 Changé",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17084318446511978958",
+        "nom": "MENUISERIE COTTEREAU & fils",
+        "slug": "menuiserie-cottereau-fils",
+        "telephone": "06 33 71 60 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9062280951191284869",
+        "nom": "ecocouv",
+        "slug": "ecocouv",
+        "telephone": "06 22 64 92 05",
+        "site_web": null,
+        "adresse": "Le Petit Ridray, 72600 Neufchâtel-en-Saosnois",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "parigne-le-polin": {
+    "artisans": [
+      {
+        "id": "2351440784301943077",
+        "nom": "Les Menuiseries Bourneuf - Groupe Lorillard",
+        "slug": "les-menuiseries-bourneuf-groupe-lorillard",
+        "telephone": "02 43 50 01 00",
+        "site_web": "http://www.menuiserie-bourneuf.fr/",
+        "adresse": "ZA La Boussardière, 1 Rue Jules Hardouin Mansart, 72250 Parigné-l'Évêque",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1798887048369221045",
+        "nom": "Forp Fenêtres",
+        "slug": "forp-fenetres",
+        "telephone": "02 43 82 40 52",
+        "site_web": "https://www.fenetres-forp.com/",
+        "adresse": "ZAC de l'Epine, ZAC de l'Épine, 72460 Savigné-l'Évêque",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "oize": {
+    "artisans": [
+      {
+        "id": "13901364051465285759",
+        "nom": "ERS Solution",
+        "slug": "ers-solution",
+        "telephone": "01 84 80 59 19",
+        "site_web": "https://erssolution.fr/",
+        "adresse": "95 Bd Berthier, 75017 Paris",
+        "note": 5,
+        "avis": 11,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "6575791038590647833",
+        "nom": "Les Toitures Oizeennes",
+        "slug": "les-toitures-oizeennes",
+        "telephone": "06 30 58 60 78",
+        "site_web": "http://www.lestoituresoizeennes.fr/",
+        "adresse": "Château Gaillard, 72330 Oizé",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8500820903932464442",
+        "nom": "Restore Lumière",
+        "slug": "restore-lumiere",
+        "telephone": "06 51 61 41 89",
+        "site_web": "https://restorelumiere.wixsite.com/accueil",
+        "adresse": null,
+        "note": 5,
+        "avis": 52,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "1798887048369221045",
+        "nom": "Forp Fenêtres",
+        "slug": "forp-fenetres",
+        "telephone": "02 43 82 40 52",
+        "site_web": "https://www.fenetres-forp.com/",
+        "adresse": "ZAC de l'Epine, ZAC de l'Épine, 72460 Savigné-l'Évêque",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8131070149002065359",
+        "nom": "GROUP MS-BP",
+        "slug": "group-ms-bp",
+        "telephone": "06 56 70 11 05",
+        "site_web": "http://www.groupmsbp.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "neuville-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "3407664965817549591",
+        "nom": "LES RENOVACTEURS / LA BOUTIQUE DU MENUISIER",
+        "slug": "les-renovacteurs-la-boutique-du-menuisier",
+        "telephone": "02 43 54 90 60",
+        "site_web": "https://lesrenovacteurs.com/",
+        "adresse": "8 ZONE ARTISANALE LA GROUAS, 72190 Neuville-sur-Sarthe",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de restauration de bâtiments"
+      }
+    ]
+  },
+  "parce-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "3163078661072760830",
+        "nom": "Pasquet menuiseries Le Mans",
+        "slug": "pasquet-menuiseries-le-mans",
+        "telephone": "02 43 21 62 47",
+        "site_web": "https://www.pasquet.fr/menuiserie/le-mans-72/",
+        "adresse": "68 Rue Ernest Sylvain Bollée, 72230 Arnage",
+        "note": 3.9,
+        "avis": 57,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10106817448113395523",
+        "nom": "Monsieur Store Sablé-sur-Sarthe - innov-abris.com",
+        "slug": "monsieur-store-sable-sur-sarthe-innov-abriscom",
+        "telephone": "02 85 29 30 78",
+        "site_web": "https://monsieurstore.com/magasin/sable-sur-sarthe-72300/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "4 Rue de la Denisière, 72300 Solesmes",
+        "note": 4.9,
+        "avis": 147,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-pavace": {
+    "artisans": [
+      {
+        "id": "7376160596439943389",
+        "nom": "Chanoine Menuiserie",
+        "slug": "chanoine-menuiserie",
+        "telephone": "02 43 24 37 19",
+        "site_web": "http://www.chanoinemenuiserie.fr/",
+        "adresse": "Rue de Touraine, 72190 Saint-Pavace",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15424361393947429492",
+        "nom": "KparK Le Mans",
+        "slug": "kpark-le-mans",
+        "telephone": "02 49 79 00 08",
+        "site_web": "https://magasins.kpark.fr/69-kpark-le-mans?utm_source=gmb",
+        "adresse": "32 Rue Gambetta, 72000 Le Mans",
+        "note": 4.5,
+        "avis": 150,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15424361393947429492",
+        "nom": "KparK Le Mans",
+        "slug": "kpark-le-mans",
+        "telephone": "02 49 79 00 08",
+        "site_web": "https://magasins.kpark.fr/69-kpark-le-mans?utm_source=gmb",
+        "adresse": "32 Rue Gambetta, 72000 Le Mans",
+        "note": 4.5,
+        "avis": 150,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4054149762447609292",
+        "nom": "Linconyl Le Mans : Stores, pergolas, carports et volets.",
+        "slug": "linconyl-le-mans-stores-pergolas-carports-et-volets",
+        "telephone": "02 43 23 24 10",
+        "site_web": "https://linconyl.com/le-mans/",
+        "adresse": "14 Bd René Cassin, 72100 Le Mans",
+        "note": 4.7,
+        "avis": 317,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "14729927030949471482",
+        "nom": "Le Mans Stores et Fermetures",
+        "slug": "le-mans-stores-et-fermetures",
+        "telephone": "02 43 84 31 53",
+        "site_web": "http://www.le-mans-stores-fermetures.fr/?utm_source=gmb",
+        "adresse": "115 Av. Félix Geneslay, 72100 Le Mans",
+        "note": 4.7,
+        "avis": 69,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6945663563342725546",
+        "nom": "ED Ouest Couverture Sarthe",
+        "slug": "ed-ouest-couverture-sarthe",
+        "telephone": "02 43 82 73 85",
+        "site_web": "https://www.ed-ouest.fr/?utm_source=gmb",
+        "adresse": "11 Rue de Champ Fleuri, 72190 Coulaines",
+        "note": 4.8,
+        "avis": 30,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14087449918662325681",
+        "nom": "Les Ateliers Goudier",
+        "slug": "les-ateliers-goudier",
+        "telephone": "02 43 51 26 94",
+        "site_web": "https://www.lesateliersgoudier.fr/",
+        "adresse": "3 Rue des Noisetiers, 72190 Sargé-lès-le-Mans",
+        "note": 4.9,
+        "avis": 158,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "parigne-l-eveque": {
+    "artisans": [
+      {
+        "id": "2351440784301943077",
+        "nom": "Les Menuiseries Bourneuf - Groupe Lorillard",
+        "slug": "les-menuiseries-bourneuf-groupe-lorillard",
+        "telephone": "02 43 50 01 00",
+        "site_web": "http://www.menuiserie-bourneuf.fr/",
+        "adresse": "ZA La Boussardière, 1 Rue Jules Hardouin Mansart, 72250 Parigné-l'Évêque",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-cosme-en-vairais": {
+    "artisans": [
+      {
+        "id": "4288939168040941979",
+        "nom": "Mériaux Menuiserie - Saint Cosme en Vairais",
+        "slug": "meriaux-menuiserie-saint-cosme-en-vairais",
+        "telephone": "06 08 62 84 77",
+        "site_web": "https://meriauxolivier72.wixsite.com/meriaux-menuiserie",
+        "adresse": "Les Dreuseries, 72110 Saint-Cosme-en-Vairais",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11149618711469351407",
+        "nom": "ADITEC Le Mans",
+        "slug": "aditec-le-mans",
+        "telephone": "02 43 33 28 17",
+        "site_web": "https://negoce.france-materiaux.fr/5-aditec-le-mans?utm_source=gmb",
+        "adresse": "Av. des Cytises, 72110 Saint-Cosme-en-Vairais",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "montfort-le-gesnois": {
+    "artisans": [
+      {
+        "id": "16335259449647549323",
+        "nom": "TRYBA Montfort le Gesnois",
+        "slug": "tryba-montfort-le-gesnois",
+        "telephone": "02 43 82 30 00",
+        "site_web": "https://www.tryba.com/espace-conseil/72/tryba-montfort-le-gesnois/?utm_source=GMB&utm_medium=CTA-WEB&utm_campaign=Tryba_montfort-le-gesnois",
+        "adresse": "7 Rue des Violettes, 72450 Montfort-le-Gesnois",
+        "note": 4,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pontvallain": {
+    "artisans": [
+      {
+        "id": "17113350299011250016",
+        "nom": "HPL COUVREUR MULTISERVICES",
+        "slug": "hpl-couvreur-multiservices",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2921 Rte du Mans, 72510 Pontvallain",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-georges-du-bois": {
+    "artisans": [
+      {
+        "id": "15837472400735643348",
+        "nom": "L'atelier de Charles - Menuisier Le Mans",
+        "slug": "latelier-de-charles-menuisier-le-mans",
+        "telephone": "06 68 54 87 28",
+        "site_web": null,
+        "adresse": "36 Rue de Sablé, 72700 Saint-Georges-du-Bois",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15693390929771864547",
+        "nom": "MENUISERIE SAINT GEORGES",
+        "slug": "menuiserie-saint-georges",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "9 Rue de Garnay, 28500 Garancières-en-Drouais",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-gervais-en-belin": {
+    "artisans": [
+      {
+        "id": "10650481508745872938",
+        "nom": "Menuiserie Avranche (72)",
+        "slug": "menuiserie-avranche-72",
+        "telephone": "06 75 58 88 69",
+        "site_web": "https://menuiserieavranche.fr/",
+        "adresse": "61 Rte des Bois, 72220 Laigné-Saint-Gervais",
+        "note": 5,
+        "avis": 35,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sainte-jamme-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "291950376679817136",
+        "nom": "Sainte-Jamme-sur-Sarthe",
+        "slug": "sainte-jamme-sur-sarthe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "72380 Sainte-Jamme-sur-Sarthe",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "10561585250308413812",
+        "nom": "S.P.M Société de Pose de Menuiserie",
+        "slug": "spm-societe-de-pose-de-menuiserie",
+        "telephone": "02 43 27 50 00",
+        "site_web": null,
+        "adresse": "Zoning Industriel, Antoigné, 72380 Sainte-Jamme-sur-Sarthe",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14825257147739146506",
+        "nom": "Sarl Garreau Et Fils",
+        "slug": "sarl-garreau-et-fils",
+        "telephone": "02 43 27 61 39",
+        "site_web": "http://www.sarlgarreauetfils.fr/",
+        "adresse": "11 Rue des Patis, 72380 Sainte-Jamme-sur-Sarthe",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3536324545258883879",
+        "nom": "Gitem",
+        "slug": "gitem",
+        "telephone": "02 43 27 62 84",
+        "site_web": "https://www.gitem.fr/nos-magasins.html#!/l/sainte-jamme-sur-sarthe/route-de-montbizot/3959808",
+        "adresse": "Rte de Montbizot, 72380 Sainte-Jamme-sur-Sarthe",
+        "note": 4.1,
+        "avis": 177,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "15397081061727282834",
+        "nom": "SARL Damien Jousselin",
+        "slug": "sarl-damien-jousselin",
+        "telephone": "06 84 59 14 10",
+        "site_web": "https://www.sarldamien-jousselin.fr/",
+        "adresse": "La Grande Gemerie, 72380 Saint-Jean-d'Assé",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "641487507964342294",
+        "nom": "GIRARD RENOV",
+        "slug": "girard-renov",
+        "telephone": "02 43 25 65 82",
+        "site_web": "https://www.girardrenov.com/",
+        "adresse": "D338 &, 72380 Sainte-Jamme-sur-Sarthe",
+        "note": 1,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "2047845354755388727",
+        "nom": "Fenêtres du Maine",
+        "slug": "fenetres-du-maine",
+        "telephone": "02 43 85 57 47",
+        "site_web": "http://www.fenetres-maine.com/",
+        "adresse": "685 Bd des Hunaudières, 72230 Ruaudin",
+        "note": 4.5,
+        "avis": 135,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "820298588000183625",
+        "nom": "Mézière SAS",
+        "slug": "meziere-sas",
+        "telephone": "02 43 25 33 25",
+        "site_web": "http://www.couverture-meziere.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 45,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-jean-d-asse": {
+    "artisans": [
+      {
+        "id": "5635086608977771027",
+        "nom": "TRYBA Saint-Jean-d'Asse",
+        "slug": "tryba-saint-jean-dasse",
+        "telephone": "02 21 83 12 82",
+        "site_web": "https://www.tryba.com/espace-conseil/72/tryba-saint-jean-dasse/?utm_campaign=Tryba_Saint-Jean-dAsse&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "3 Rue nationale, 72380 Saint-Jean-d'Assé",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-mars-d-outille": {
+    "artisans": [
+      {
+        "id": "2917002714059325755",
+        "nom": "DELANOUE MENUISERIE - DM ALU - TERRES DE FENÊTRES",
+        "slug": "delanoue-menuiserie-dm-alu-terres-de-fenetres",
+        "telephone": "02 43 42 10 07",
+        "site_web": "https://www.delanoue-menuiserie.fr/contact?utm_source=gmb",
+        "adresse": "52 ter, Rte de Tours, 72220 Écommoy",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4872305615277602179",
+        "nom": "Syl'répar",
+        "slug": "sylrepar",
+        "telephone": "06 70 70 31 76",
+        "site_web": null,
+        "adresse": "Rue Gambetta, 72220 Saint-Mars-d'Outillé",
+        "note": 5,
+        "avis": 148,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8741598486014747242",
+        "nom": "Leonard Philippe",
+        "slug": "leonard-philippe",
+        "telephone": "02 43 42 05 60",
+        "site_web": null,
+        "adresse": "10 La Pitardière, 72220 Saint-Mars-d'Outillé",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "rouillon": {
+    "artisans": [
+      {
+        "id": "16408499910326588090",
+        "nom": "LV Tec",
+        "slug": "lv-tec",
+        "telephone": "02 43 14 14 60",
+        "site_web": "http://lvtec.fr/",
+        "adresse": "30 Av. Georges Auric, 72000 Rouillon",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Agence de location de matériel"
+      }
+    ]
+  },
+  "pruille-le-chetif": {
+    "artisans": [
+      {
+        "id": "10059791635121213367",
+        "nom": "ETS Hatton Père et Fils",
+        "slug": "ets-hatton-pere-et-fils",
+        "telephone": "02 43 47 19 82",
+        "site_web": "http://www.ateliers-hatton.fr/?utm_source=gmb",
+        "adresse": "16 Rte de Fay, 72700 Pruillé-le-Chétif",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-mars-la-briere": {
+    "artisans": [
+      {
+        "id": "12322517929066904667",
+        "nom": "Menuiserie Agencement Dépannage",
+        "slug": "menuiserie-agencement-depannage",
+        "telephone": "06 51 35 00 75",
+        "site_web": "https://www.facebook.com/profile.php?id=61567716355622&utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "165731496739573862",
+        "nom": "sarl GUERANGER",
+        "slug": "sarl-gueranger",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2294 Le Bourray, 72470 Saint-Mars-la-Brière",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "12578785777415546005",
+        "nom": "MARBREIL CHARPENTE SARL",
+        "slug": "marbreil-charpente-sarl",
+        "telephone": "02 43 81 02 56",
+        "site_web": "https://m.facebook.com/marbreilcharpente/",
+        "adresse": "29 Rte de Saint-Calais, 72470 Champagné",
+        "note": 5,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6099462107830571717",
+        "nom": "SARL ISONET",
+        "slug": "sarl-isonet",
+        "telephone": "02 43 82 50 49",
+        "site_web": "https://isonet-eco.fr/",
+        "adresse": "2 Rue des Anciennes Filatures, 72470 Champagné",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "10137871243112517637",
+        "nom": "BestDrive",
+        "slug": "bestdrive",
+        "telephone": "02 43 85 12 12",
+        "site_web": "https://pro.bestdrive.fr/garage/saint-mars-la-briere.html?utm_source=google&utm_medium=organic&utm_campaign=gbp-listing",
+        "adresse": "Les Quatre Vents, 9 Rue de Paris, 72470 Saint-Mars-la-Brière",
+        "note": 3.9,
+        "avis": 53,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "5320428836655589489",
+        "nom": "Sarthe renov - entretien de toitures, façades, demoussage, couverture",
+        "slug": "sarthe-renov-entretien-de-toitures-facades-demoussage-couverture",
+        "telephone": "06 22 48 80 70",
+        "site_web": "http://sarthe-renov.fr/",
+        "adresse": "2444 Rte du Mans, 72560 Changé",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16217230866909677798",
+        "nom": "BESNIER TERRASSEMENT",
+        "slug": "besnier-terrassement",
+        "telephone": "06 87 74 71 92",
+        "site_web": null,
+        "adresse": "La Chesnaie, 72470 Saint-Mars-la-Brière",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "2874089884920219038",
+        "nom": "Sweet Home",
+        "slug": "sweet-home",
+        "telephone": "02 43 81 09 88",
+        "site_web": null,
+        "adresse": "122 Rue de Bonnétable, 72000 Le Mans",
+        "note": 2.9,
+        "avis": 7,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      },
+      {
+        "id": "5096062717030116775",
+        "nom": "Plouseau Pascal SARL Ebéniste Menuiserie escalier Porte Fenêtre Parquet Dressing",
+        "slug": "plouseau-pascal-sarl-ebeniste-menuiserie-escalier-porte-fenetre-parquet-dressing",
+        "telephone": "02 43 40 95 56",
+        "site_web": "http://www.menuiserie-plouseau.fr/",
+        "adresse": "72150 Pruillé-l'Éguillé",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2890640280928851049",
+        "nom": "Génératel Habitat",
+        "slug": "generatel-habitat",
+        "telephone": "06 29 60 71 82",
+        "site_web": "http://www.renovatis-couverture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 30,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "precigne": {
+    "artisans": [
+      {
+        "id": "12521732617295237560",
+        "nom": "Bati Toiture - La Chapelle D'Aligné",
+        "slug": "bati-toiture-la-chapelle-daligne",
+        "telephone": "02 43 94 47 64",
+        "site_web": "http://www.batitoiture.com/",
+        "adresse": "Les Landes, 72300 La Chapelle-d'Aligné",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-ouen-en-belin": {
+    "artisans": [
+      {
+        "id": "16488358917304977001",
+        "nom": "Mat'Renov",
+        "slug": "matrenov",
+        "telephone": "06 37 15 52 64",
+        "site_web": "https://www.matrenov72.fr/",
+        "adresse": "3 Rte de la Fouquelerie, 72220 Saint-Ouen-en-Belin",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8958183098342404990",
+        "nom": "Couverture du Belinois",
+        "slug": "couverture-du-belinois",
+        "telephone": "02 43 77 96 37",
+        "site_web": "https://www.facebook.com/profile.php?id=100063837099374&locale=fr_FR&utm_source=gmb",
+        "adresse": "3 La Briolette, 72220 Saint-Ouen-en-Belin",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13092338114487068881",
+        "nom": "AG Menuiserie 72",
+        "slug": "ag-menuiserie-72",
+        "telephone": "06 67 10 94 03",
+        "site_web": "https://www.facebook.com/people/AG-menuiserie/100064105989835/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3437190593864364594",
+        "nom": "Instinct Menuiseries",
+        "slug": "instinct-menuiseries",
+        "telephone": "06 95 26 94 66",
+        "site_web": "http://www.instinctmenuiseries.fr/?utm_source=gmb",
+        "adresse": "10 All. du Chêne, 72220 Saint-Ouen-en-Belin",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "roeze-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "13239511929765899327",
+        "nom": "Jeudon Miguel",
+        "slug": "jeudon-miguel",
+        "telephone": "02 43 24 05 09",
+        "site_web": null,
+        "adresse": "Zone Artisanale Val de l'aulne, 72210 Roëzé-sur-Sarthe",
+        "note": 5,
+        "avis": 5,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "936418714537674635",
+        "nom": "EURL CABARET",
+        "slug": "eurl-cabaret",
+        "telephone": "06 11 27 57 29",
+        "site_web": "https://eurlcabaret.fr/",
+        "adresse": "1664 route de parigne le polin, Lieu-dit Le Petit Moussu, 72210 Roëzé-sur-Sarthe",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12846347716546585899",
+        "nom": "Roezelec - Electricité générale",
+        "slug": "roezelec-electricite-generale",
+        "telephone": "06 84 06 11 42",
+        "site_web": null,
+        "adresse": "Le Petit Roy, 72210 Roëzé-sur-Sarthe",
+        "note": 4.1,
+        "avis": 11,
+        "type": "Ingénieur"
+      },
+      {
+        "id": "13053796222133208935",
+        "nom": "franck cabaret",
+        "slug": "franck-cabaret",
+        "telephone": "02 53 15 59 98",
+        "site_web": null,
+        "adresse": "Route de Parigné Ieu-dit Le Petit Moussu, 72210 Roëzé-sur-Sarthe",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15464964080213155333",
+        "nom": "Lariviere",
+        "slug": "lariviere",
+        "telephone": "02 43 21 10 24",
+        "site_web": "https://www.lariviere.fr/trouver-votre-agence/lariviere-SEB/entry-409-lariviere-le-mans.html",
+        "adresse": "50 Av. de la Gautrie, 72230 Arnage",
+        "note": 4.2,
+        "avis": 28,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5128127833409978759",
+        "nom": "Les Toits Sarthois - Couvreur Le Mans",
+        "slug": "les-toits-sarthois-couvreur-le-mans",
+        "telephone": "07 56 81 99 35",
+        "site_web": "https://www.lestoitssarthois.fr/",
+        "adresse": "Uniquement sur rendez-vous, 37 Rue de la Presche, 72100 Le Mans",
+        "note": 3.7,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "182341412378406519",
+        "nom": "Entreprise mayeur - Couvreur 72 : Réparation Démoussage Étanchéité Fuites Toiture Couverture Ravalement Sarthe Le-Mans",
+        "slug": "entreprise-mayeur-couvreur-72-reparation-demoussage-etancheite-fuites-toiture-couverture-ravalement-sarthe-le-mans",
+        "telephone": "06 10 71 15 83",
+        "site_web": "http://couvreur72.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 44,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "requeil": {
+    "artisans": [
+      {
+        "id": "16297556147794465148",
+        "nom": "SARL MCS",
+        "slug": "sarl-mcs",
+        "telephone": "06 26 77 42 02",
+        "site_web": "https://www.sarl-mcs-ravalement.fr/",
+        "adresse": "6b Rue Pierre et Marie Curie, 72510 Requeil",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "8341258157779989581",
+        "nom": "B'PLAST LE MANS",
+        "slug": "bplast-le-mans",
+        "telephone": "02 43 84 43 29",
+        "site_web": "https://www.bplast.fr/agence/bplast-le-mans/?utm_source=gmb",
+        "adresse": "2 Rue Antoine de Saint-Exupery, 72230 Mulsanne",
+        "note": 4.6,
+        "avis": 167,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10611364840275856167",
+        "nom": "MARTIN Service",
+        "slug": "martin-service",
+        "telephone": "06 61 36 61 40",
+        "site_web": "https://www.martin-service-72.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8858713652479978227",
+        "nom": "Hemon Franck",
+        "slug": "hemon-franck",
+        "telephone": "02 43 79 26 45",
+        "site_web": null,
+        "adresse": "6 Rue Victor Hugo, 72510 Requeil",
+        "note": 4,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "loir-en-vallee": {
+    "artisans": [
+      {
+        "id": "10186705147423279315",
+        "nom": "Avenir Rénovations Tours (37)",
+        "slug": "avenir-renovations-tours-37",
+        "telephone": "02 85 52 65 39",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-tours/?utm_source=gmb",
+        "adresse": "94 Av. George Sand, 37700 La Ville-aux-Dames",
+        "note": 4.9,
+        "avis": 109,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-paterne-le-chevain": {
+    "artisans": [
+      {
+        "id": "6021303227264381213",
+        "nom": "PARTEDIS Plâtrerie Isolation - Saint Paterne",
+        "slug": "partedis-platrerie-isolation-saint-paterne",
+        "telephone": "02 33 81 17 50",
+        "site_web": "https://bois-materiaux.partedis.com/magasin/SAINT%20PATERNE-20",
+        "adresse": "Route de Mamers, 72610 Saint-Paterne - Le Chevain",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de matériaux d'isolation"
+      },
+      {
+        "id": "10276239910181526180",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-normandie/orne/installateur-expert-en-pose-velux-a-alencon",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10142498841073447158",
+        "nom": "PARTEDIS Bois Matériaux | Expo Parquets, Portes & Fenêtres - St Paterne",
+        "slug": "partedis-bois-materiaux-expo-parquets-portes-fenetres-st-paterne",
+        "telephone": "02 33 81 17 50",
+        "site_web": "https://www.partedis.com/agence/alencon-saint-paterne-bois-materiaux/",
+        "adresse": "Rue de Mamers, 72610 Saint-Paterne - Le Chevain",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2153145275816399217",
+        "nom": "FL Agencement",
+        "slug": "fl-agencement",
+        "telephone": "06 64 71 03 02",
+        "site_web": "https://www.facebook.com/108250222290740",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "1142238338219333965",
+        "nom": "FL Agencement",
+        "slug": "fl-agencement",
+        "telephone": "06 64 71 03 02",
+        "site_web": "http://www.flagencement.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2488780491999010107",
+        "nom": "Delay Couverture & Charpente",
+        "slug": "delay-couverture-charpente",
+        "telephone": "06 48 54 31 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "lombron": {
+    "artisans": [
+      {
+        "id": "5457384742768676007",
+        "nom": "Sarl VFR72",
+        "slug": "sarl-vfr72",
+        "telephone": "06 48 76 86 68",
+        "site_web": null,
+        "adresse": "29 Rue de la Chapelle St Remy, 72450 Lombron",
+        "note": 4,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-mans": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ruaudin": {
+    "artisans": [
+      {
+        "id": "7709240023107130566",
+        "nom": "Veranda Home",
+        "slug": "veranda-home",
+        "telephone": "02 43 23 06 22",
+        "site_web": "https://www.verandahome.fr/",
+        "adresse": "739 Bd des Hunaudières, 72230 Ruaudin",
+        "note": 4.4,
+        "avis": 44,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7834639770205552277",
+        "nom": "A LA FENETRE SARTHOISE",
+        "slug": "a-la-fenetre-sarthoise",
+        "telephone": "02 43 72 32 11",
+        "site_web": null,
+        "adresse": "Le Cormier, 72230 Mulsanne",
+        "note": 4.8,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17918862920679550035",
+        "nom": "Artisan Duault 72 - Couvreur Facadier",
+        "slug": "artisan-duault-72-couvreur-facadier",
+        "telephone": "06 10 96 13 57",
+        "site_web": "https://www.duault-couverture-facade-le-mans.fr/",
+        "adresse": "lieu dit les queutes, 72230 Ruaudin",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "298877503342877188",
+        "nom": "MPO Fenêtres - Le Mans",
+        "slug": "mpo-fenetres-le-mans",
+        "telephone": "02 43 14 52 00",
+        "site_web": "http://www.mpofenetres.com/",
+        "adresse": "Le Cormier, 72230 Mulsanne",
+        "note": 4.2,
+        "avis": 90,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "9805360763003843576",
+        "nom": "2G RENOV'",
+        "slug": "2g-renov",
+        "telephone": "06 23 95 73 19",
+        "site_web": "https://www.2g-renov.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Constructeur de terrasses"
+      },
+      {
+        "id": "9217702234676549412",
+        "nom": "Hunaudières Matériaux",
+        "slug": "hunaudieres-materiaux",
+        "telephone": "02 55 48 99 64",
+        "site_web": "https://hunaudieresmateriaux.fr/?utm_source=gmb",
+        "adresse": "impasse de la belle étoile, 72230 Ruaudin",
+        "note": 4.8,
+        "avis": 108,
+        "type": "Magasin d'articles pour l'aménagement paysager"
+      },
+      {
+        "id": "16582490728736970069",
+        "nom": "J.Paris",
+        "slug": "jparis",
+        "telephone": "02 43 75 70 60",
+        "site_web": "http://www.j-paris.com/?utm_source=gmb",
+        "adresse": "1071 La Vergère, 72230 Ruaudin",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Façadier"
+      },
+      {
+        "id": "16674532713626020741",
+        "nom": "Couvreur Ruaudin - Salland Samson",
+        "slug": "couvreur-ruaudin-salland-samson",
+        "telephone": "06 13 03 84 73",
+        "site_web": "https://www.couverture-salland-samson.fr/",
+        "adresse": "La lande du camp, Chem. de Cesar, 72230 Ruaudin",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8341258157779989581",
+        "nom": "B'PLAST LE MANS",
+        "slug": "bplast-le-mans",
+        "telephone": "02 43 84 43 29",
+        "site_web": "https://www.bplast.fr/agence/bplast-le-mans/?utm_source=gmb",
+        "adresse": "2 Rue Antoine de Saint-Exupery, 72230 Mulsanne",
+        "note": 4.6,
+        "avis": 167,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2669866431603250569",
+        "nom": "Storeferm - PERGOLAS et STORES - Partenaire Arcades et Baies",
+        "slug": "storeferm-pergolas-et-stores-partenaire-arcades-et-baies",
+        "telephone": "02 43 23 49 59",
+        "site_web": "https://www.storeferm.fr/",
+        "adresse": "22 Rue Denis Papin, 72230 Ruaudin",
+        "note": 4.6,
+        "avis": 96,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "laigne-en-belin": {
+    "artisans": [
+      {
+        "id": "4427412639881833188",
+        "nom": "Beucher Sarl",
+        "slug": "beucher-sarl",
+        "telephone": "02 43 42 23 66",
+        "site_web": "http://www.beucher-sarl.com/",
+        "adresse": "908 Ldt le Verger de L’Arrachee, 72220 Laigné-Saint-Gervais",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "louplande": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "luceau": {
+    "artisans": [
+      {
+        "id": "14622400576713180145",
+        "nom": "EJC Menuiserie",
+        "slug": "ejc-menuiserie",
+        "telephone": "06 58 04 33 75",
+        "site_web": "https://sites.google.com/view/ejcmenuiserie",
+        "adresse": "Carcahu, 72500 Luceau",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-luart": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "loue": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "malicorne-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "10883172518071329858",
+        "nom": "Pichon Et Fils SAS",
+        "slug": "pichon-et-fils-sas",
+        "telephone": "02 43 94 81 24",
+        "site_web": "http://sarlpichon.fr/",
+        "adresse": "Le Marnay Le, La Lande du Marnay, 72270 Malicorne-sur-Sarthe",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "le-lude": {
+    "artisans": [
+      {
+        "id": "6501382042834465920",
+        "nom": "JBE Menuiserie Aquaponie",
+        "slug": "jbe-menuiserie-aquaponie",
+        "telephone": "06 73 03 73 22",
+        "site_web": "https://www.jbe-menuiserie.fr/",
+        "adresse": "lieu-dit Bondonnière, 72800 lieu-dit Bondonnière",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13858102467772277488",
+        "nom": "Ca Batiment",
+        "slug": "ca-batiment",
+        "telephone": null,
+        "site_web": "https://cabatiment.fr/",
+        "adresse": "Le Raillon, 72800 Le Lude",
+        "note": 4.6,
+        "avis": 5,
+        "type": null
+      },
+      {
+        "id": "7096473885331620267",
+        "nom": "Menuiserie Martin",
+        "slug": "menuiserie-martin",
+        "telephone": "02 43 94 65 18",
+        "site_web": null,
+        "adresse": "Le, 1 All. des Tanneurs, 72800 Le Lude",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15250696669374317002",
+        "nom": "Menuiserie Aluminium Ludoise",
+        "slug": "menuiserie-aluminium-ludoise",
+        "telephone": "02 43 45 27 15",
+        "site_web": "http://www.philippemarchand.fr/",
+        "adresse": "6 Rue des Taillandiers, 72800 Le Lude",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "luche-pringe": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mamers": {
+    "artisans": [
+      {
+        "id": "15171092223899051824",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 43 25 20 52",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/sarthe/lapeyre-le-mans-55",
+        "adresse": "route Nationale 138, 72650 Saint-Saturnin",
+        "note": 4.1,
+        "avis": 464,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2878687732013789232",
+        "nom": "CARRE FAGOT - Storistes de France",
+        "slug": "carre-fagot-storistes-de-france",
+        "telephone": "02 43 97 96 48",
+        "site_web": "https://www.storistes-de-france.com/affilies/carre-fagot",
+        "adresse": "Village d'Artisans, Haut Éclair ZA du, 72600 Mamers",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4942581451332630037",
+        "nom": "Grégoire V.M.F",
+        "slug": "gregoire-vmf",
+        "telephone": "02 43 97 97 00",
+        "site_web": "https://www.gregoire-vmf.com/?utm_source=gmb",
+        "adresse": "Za De Bellevue, 28 Rue de Navarre, 72600 Mamers",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "marcon": {
+    "artisans": [
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "sable-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "12384132975953997586",
+        "nom": "Les Ateliers DABIN",
+        "slug": "les-ateliers-dabin",
+        "telephone": "02 43 95 10 65",
+        "site_web": "http://www.dabin72.com/",
+        "adresse": "3 Rue du Pont, 72300 Sablé-sur-Sarthe",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Menuisier"
+      },
+      {
+        "id": "131115788877067574",
+        "nom": "Reparation Toiture 72 | Couvreur Sablé-sur-Sarthe",
+        "slug": "reparation-toiture-72-couvreur-sable-sur-sarthe",
+        "telephone": "02 52 51 01 44",
+        "site_web": "http://reparation-toiture-72.fr/",
+        "adresse": "3 Av. André Cerisay, 72300 Sablé-sur-Sarthe",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mayet": {
+    "artisans": [
+      {
+        "id": "4528414349553870840",
+        "nom": "Bricopro - Tout Faire Mayet",
+        "slug": "bricopro-tout-faire-mayet",
+        "telephone": "02 43 50 90 90",
+        "site_web": "https://www.espaceboisdeco.fr/",
+        "adresse": "1 All. du Pré Vert, 72360 Mayet",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "11771210940306941437",
+        "nom": "Couvreur Mayet MT72",
+        "slug": "couvreur-mayet-mt72",
+        "telephone": "02 52 83 00 39",
+        "site_web": null,
+        "adresse": "Rue des Voltigeurs, 72360 Mayet",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18212996554190511666",
+        "nom": "Artipose",
+        "slug": "artipose",
+        "telephone": "02 43 46 23 68",
+        "site_web": null,
+        "adresse": "2 RUE DE LA FAIGNE ZONE DU, Guittion, 72360 Mayet",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "14787653060151541940",
+        "nom": "Espace Bois & Décoration",
+        "slug": "espace-bois-decoration",
+        "telephone": "02 43 50 90 90",
+        "site_web": "https://www.bricopro.fr/carte-magasins/bricopro-mayet?utm_source=gmb",
+        "adresse": "1 All. du Pré Vert Zone Artisanale, 72360 Mayet",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10940786421310704614",
+        "nom": "GV Menuiserie",
+        "slug": "gv-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "30 bis Av. de la Pelouse, 72360 Mayet",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13752351154496889509",
+        "nom": "Leroux Julien",
+        "slug": "leroux-julien",
+        "telephone": "06 35 47 64 20",
+        "site_web": "https://www.facebook.com/lerouxcharpentecouverture/?utm_source=gmb",
+        "adresse": "lieu-dit Arcy D'Aubterre, 72360 Mayet",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mansigne": {
+    "artisans": [
+      {
+        "id": "2953410542118831251",
+        "nom": "EURL Seb'Menuiserie",
+        "slug": "eurl-sebmenuiserie",
+        "telephone": "06 07 77 61 15",
+        "site_web": "http://seb-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Constructeur d'abris de jardin"
+      },
+      {
+        "id": "1657103244404171516",
+        "nom": "Bergeot Julien",
+        "slug": "bergeot-julien",
+        "telephone": "06 58 83 09 91",
+        "site_web": "http://bergeotjulien.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "saint-calais": {
+    "artisans": [
+      {
+        "id": "6294579212420123239",
+        "nom": "Charpentes Calaisiennes Entreprise Plut SAS",
+        "slug": "charpentes-calaisiennes-entreprise-plut-sas",
+        "telephone": "02 43 35 03 92",
+        "site_web": "http://www.charpentescalaisiennes.fr/",
+        "adresse": "Zone Industrielle, La Pocherie, 72120 Saint-Calais",
+        "note": 4.6,
+        "avis": 25,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1934237529311486506",
+        "nom": "sarl DPN",
+        "slug": "sarl-dpn",
+        "telephone": "02 43 35 57 47",
+        "site_web": "https://www.charpente-couverture-dupin.fr/contact",
+        "adresse": "10 Rue du Lac, 72120 Saint-Calais",
+        "note": 3,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "marolles-les-braults": {
+    "artisans": [
+      {
+        "id": "8499385420478206944",
+        "nom": "MENUISERIE NICOLAS BESNARD - Concessionnaire Renoval Vérandas et Pergolas",
+        "slug": "menuiserie-nicolas-besnard-concessionnaire-renoval-verandas-et-pergolas",
+        "telephone": "02 43 33 72 49",
+        "site_web": "https://www.menuiserie-nicolas-besnard.fr/",
+        "adresse": "Z.I DES LOGES, 72260 Marolles-les-Braults",
+        "note": 4,
+        "avis": 99,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "la-milesse": {
+    "artisans": [
+      {
+        "id": "7848622475562288535",
+        "nom": "Isomenuis'",
+        "slug": "isomenuis",
+        "telephone": "02 43 29 30 82",
+        "site_web": null,
+        "adresse": "15 rue de la Tremblaie, 72650 La Milesse",
+        "note": 4.8,
+        "avis": 33,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mezeray": {
+    "artisans": [
+      {
+        "id": "4931679579361845915",
+        "nom": "Jeremy Besnard Couverture",
+        "slug": "jeremy-besnard-couverture",
+        "telephone": "06 76 83 67 95",
+        "site_web": "http://www.jeremybesnard.fr/",
+        "adresse": "le verger, 72170 Doucelles",
+        "note": 4.9,
+        "avis": 46,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16394067938521980807",
+        "nom": "Delsuc couverture",
+        "slug": "delsuc-couverture",
+        "telephone": "06 34 47 86 70",
+        "site_web": "https://www.couvreur-delsuc.com/",
+        "adresse": "La pièce, 72230 Ruaudin",
+        "note": 4.9,
+        "avis": 35,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4655690648671186364",
+        "nom": "ATTILA Le Mans Sud",
+        "slug": "attila-le-mans-sud",
+        "telephone": "02 43 86 05 37",
+        "site_web": "http://www.attila.fr/nos-agences/attila-le-mans-sud?utm_source=Google&utm_medium=MyBusiness",
+        "adresse": "Zone du Panorama, 23 Rue Alain Gerbault, 72000 Le Mans",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montbizot": {
+    "artisans": [
+      {
+        "id": "2666510595421109801",
+        "nom": "VP HAUX",
+        "slug": "vp-haux",
+        "telephone": "02 43 25 20 42",
+        "site_web": "http://www.vphaux.fr/",
+        "adresse": "230 Rue de la pièce du bois, 72380 Montbizot",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "monce-en-belin": {
+    "artisans": [
+      {
+        "id": "2092907114178956149",
+        "nom": "Mc Espaces Verts Le Mans 72 - arboriste-Sarthe 72 paysagiste-espace vert-entretien de vos jardin-Élagage -Abattage-Jardinier",
+        "slug": "mc-espaces-verts-le-mans-72-arboriste-sarthe-72-paysagiste-espace-vert-entretien-de-vos-jardin-elagage-abattage-jardinier",
+        "telephone": "06 24 72 95 04",
+        "site_web": "https://www.facebook.com/profile.php?id=100075943628357",
+        "adresse": "24 Bd Sirius, 72230 Moncé-en-Belin",
+        "note": 5,
+        "avis": 4,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "18239879410708508993",
+        "nom": "FD Fermeture",
+        "slug": "fd-fermeture",
+        "telephone": "06 03 88 57 54",
+        "site_web": null,
+        "adresse": "9 All. des Tamaris, 72230 Moncé-en-Belin",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-corneille": {
+    "artisans": [
+      {
+        "id": "1479999737876126422",
+        "nom": "Medard Christophe",
+        "slug": "medard-christophe",
+        "telephone": "02 43 27 92 26",
+        "site_web": null,
+        "adresse": "16 Rue des Noyers, 72460 Saint-Corneille",
+        "note": 4.3,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11161951417617297813",
+        "nom": "Pasquier Stéphane",
+        "slug": "pasquier-stephane",
+        "telephone": "02 43 27 71 35",
+        "site_web": null,
+        "adresse": "13 Rte de Plaisance, 72460 Saint-Corneille",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "torce-en-vallee": {
+    "artisans": [
+      {
+        "id": "9788756503318603100",
+        "nom": "NG Services SARL",
+        "slug": "ng-services-sarl",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/?utm_source=gmb",
+        "adresse": "8 All. du Dindo, 72560 Changé",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7455361313331981428",
+        "nom": "Ng Services",
+        "slug": "ng-services",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/",
+        "adresse": "5 Saint-Pavace, 72190 Sargé-lès-le-Mans",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13901364051465285759",
+        "nom": "ERS Solution",
+        "slug": "ers-solution",
+        "telephone": "01 84 80 59 19",
+        "site_web": "https://erssolution.fr/",
+        "adresse": "95 Bd Berthier, 75017 Paris",
+        "note": 5,
+        "avis": 11,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2011902952130018753",
+        "nom": "MG COUVERTURE - Votre expert en toiture et couverture à Nogent-le-Rotrou dans le 28",
+        "slug": "mg-couverture-votre-expert-en-toiture-et-couverture-a-nogent-le-rotrou-dans-le-28",
+        "telephone": "06 31 05 02 86",
+        "site_web": "https://www.mgcouverture.fr/",
+        "adresse": "10 rue Étienne Eluard, 28400 Arcisses",
+        "note": 5,
+        "avis": 34,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13053796222133208935",
+        "nom": "franck cabaret",
+        "slug": "franck-cabaret",
+        "telephone": "02 53 15 59 98",
+        "site_web": null,
+        "adresse": "Route de Parigné Ieu-dit Le Petit Moussu, 72210 Roëzé-sur-Sarthe",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "820298588000183625",
+        "nom": "Mézière SAS",
+        "slug": "meziere-sas",
+        "telephone": "02 43 25 33 25",
+        "site_web": "http://www.couverture-meziere.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 45,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8500820903932464442",
+        "nom": "Restore Lumière",
+        "slug": "restore-lumiere",
+        "telephone": "06 51 61 41 89",
+        "site_web": "https://restorelumiere.wixsite.com/accueil",
+        "adresse": null,
+        "note": 5,
+        "avis": 52,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "yvre-l-eveque": {
+    "artisans": [
+      {
+        "id": "6571648738045177881",
+        "nom": "Renovation Toiture Yvré : demoussage, reparation fuite toiture",
+        "slug": "renovation-toiture-yvre-demoussage-reparation-fuite-toiture",
+        "telephone": "02 52 36 09 85",
+        "site_web": "https://renovation-toiture-yvre.ovh/",
+        "adresse": "4 Rue du Perche, 72530 Yvré-l'Évêque",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7126657501778369139",
+        "nom": "Louis Couverture",
+        "slug": "louis-couverture",
+        "telephone": "06 46 45 34 96",
+        "site_web": "https://louis-couvreur.fr/",
+        "adresse": "232 Chem. des Landes, 72530 Yvré-l'Évêque",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tennie": {
+    "artisans": [
+      {
+        "id": "7919711868456585958",
+        "nom": "SARL Lemée Évrard",
+        "slug": "sarl-lemee-evrard",
+        "telephone": "02 43 20 93 80",
+        "site_web": "http://sarllemee-evrard.fr/",
+        "adresse": "ZA route de Bernay, 72240 Tennie",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tuffe-val-de-la-cheronne": {
+    "artisans": [
+      {
+        "id": "4184552351698386039",
+        "nom": "LEDRU LEGEAY BATIMENT",
+        "slug": "ledru-legeay-batiment",
+        "telephone": "09 70 35 25 68",
+        "site_web": "http://www.ledru-maconnerie.com/",
+        "adresse": "ZA du Champ de la Croix, 72160 Tuffé Val de la Chéronne",
+        "note": 3.1,
+        "avis": 9,
+        "type": "Maçon"
+      },
+      {
+        "id": "12356193931963255769",
+        "nom": "DEZERE CHARPENTE COUVERTURE",
+        "slug": "dezere-charpente-couverture",
+        "telephone": "06 46 31 84 21",
+        "site_web": "https://www.dezere-charpente.fr/",
+        "adresse": "4 Rte des Varennes, 72160 Tuffé Val de la Chéronne",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9232190556374251010",
+        "nom": "SARL Gasnier charpente",
+        "slug": "sarl-gasnier-charpente",
+        "telephone": "02 43 93 48 15",
+        "site_web": "https://www.gasniercharpente.com/",
+        "adresse": "21 Rue de la Mairie, 72160 Tuffé Val de la Chéronne",
+        "note": 5,
+        "avis": 9,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4604789322851755237",
+        "nom": "Actif Industrie",
+        "slug": "actif-industrie",
+        "telephone": "02 43 60 19 30",
+        "site_web": null,
+        "adresse": "Imp. du Champ de la Croix, 72160 Tuffé Val de la Chéronne",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Manufacture de métal"
+      },
+      {
+        "id": "14087449918662325681",
+        "nom": "Les Ateliers Goudier",
+        "slug": "les-ateliers-goudier",
+        "telephone": "02 43 51 26 94",
+        "site_web": "https://www.lesateliersgoudier.fr/",
+        "adresse": "3 Rue des Noisetiers, 72190 Sargé-lès-le-Mans",
+        "note": 4.9,
+        "avis": 158,
+        "type": "Vitrier"
+      },
+      {
+        "id": "1929652750384209033",
+        "nom": "DECOTEC",
+        "slug": "decotec",
+        "telephone": "02 43 93 53 87",
+        "site_web": "http://www.decotec.fr/",
+        "adresse": "25 Rue de la Fonderie, 72160 Tuffé Val de la Chéronne",
+        "note": 4.2,
+        "avis": 25,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2874089884920219038",
+        "nom": "Sweet Home",
+        "slug": "sweet-home",
+        "telephone": "02 43 81 09 88",
+        "site_web": null,
+        "adresse": "122 Rue de Bonnétable, 72000 Le Mans",
+        "note": 2.9,
+        "avis": 7,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      },
+      {
+        "id": "18158784416636853138",
+        "nom": "Société FMS BORGNE",
+        "slug": "societe-fms-borgne",
+        "telephone": "01 34 90 10 00",
+        "site_web": "https://www.fmsborgne.fr/",
+        "adresse": "7 Rue Leonardo da Vinci, 78700 Conflans-Sainte-Honorine",
+        "note": 4.9,
+        "avis": 284,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "thorigne-sur-due": {
+    "artisans": [
+      {
+        "id": "10968091352723057233",
+        "nom": "JS Couverture",
+        "slug": "js-couverture",
+        "telephone": "06 18 48 48 15",
+        "site_web": "https://jscouverture.com/",
+        "adresse": "42 Rue du Clos Chauvin, 72300 Juigné-sur-Sarthe",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2890640280928851049",
+        "nom": "Génératel Habitat",
+        "slug": "generatel-habitat",
+        "telephone": "06 29 60 71 82",
+        "site_web": "http://www.renovatis-couverture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 30,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4054149762447609292",
+        "nom": "Linconyl Le Mans : Stores, pergolas, carports et volets.",
+        "slug": "linconyl-le-mans-stores-pergolas-carports-et-volets",
+        "telephone": "02 43 23 24 10",
+        "site_web": "https://linconyl.com/le-mans/",
+        "adresse": "14 Bd René Cassin, 72100 Le Mans",
+        "note": 4.7,
+        "avis": 317,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "5320428836655589489",
+        "nom": "Sarthe renov - entretien de toitures, façades, demoussage, couverture",
+        "slug": "sarthe-renov-entretien-de-toitures-facades-demoussage-couverture",
+        "telephone": "06 22 48 80 70",
+        "site_web": "http://sarthe-renov.fr/",
+        "adresse": "2444 Rte du Mans, 72560 Changé",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Couvreur"
+      },
+      {
+        "id": "321187772620406034",
+        "nom": "Quelqu'un sur le Toit",
+        "slug": "quelquun-sur-le-toit",
+        "telephone": "06 36 45 12 57",
+        "site_web": "https://www.fenetresurletoit.com/",
+        "adresse": "14 Rue du Noyer, 35000 Rennes",
+        "note": 4.7,
+        "avis": 62,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15464964080213155333",
+        "nom": "Lariviere",
+        "slug": "lariviere",
+        "telephone": "02 43 21 10 24",
+        "site_web": "https://www.lariviere.fr/trouver-votre-agence/lariviere-SEB/entry-409-lariviere-le-mans.html",
+        "adresse": "50 Av. de la Gautrie, 72230 Arnage",
+        "note": 4.2,
+        "avis": 28,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4655690648671186364",
+        "nom": "ATTILA Le Mans Sud",
+        "slug": "attila-le-mans-sud",
+        "telephone": "02 43 86 05 37",
+        "site_web": "http://www.attila.fr/nos-agences/attila-le-mans-sud?utm_source=Google&utm_medium=MyBusiness",
+        "adresse": "Zone du Panorama, 23 Rue Alain Gerbault, 72000 Le Mans",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "trange": {
+    "artisans": [
+      {
+        "id": "8341258157779989581",
+        "nom": "B'PLAST LE MANS",
+        "slug": "bplast-le-mans",
+        "telephone": "02 43 84 43 29",
+        "site_web": "https://www.bplast.fr/agence/bplast-le-mans/?utm_source=gmb",
+        "adresse": "2 Rue Antoine de Saint-Exupery, 72230 Mulsanne",
+        "note": 4.6,
+        "avis": 167,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1798887048369221045",
+        "nom": "Forp Fenêtres",
+        "slug": "forp-fenetres",
+        "telephone": "02 43 82 40 52",
+        "site_web": "https://www.fenetres-forp.com/",
+        "adresse": "ZAC de l'Epine, ZAC de l'Épine, 72460 Savigné-l'Évêque",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12214596723163820644",
+        "nom": "Komilfo",
+        "slug": "komilfo",
+        "telephone": "02 43 21 61 18",
+        "site_web": "https://www.komilfo.fr/magasins/poser-la-chapelle-saint-aubin-le-mans",
+        "adresse": "74 Rue du Moulin aux Moines, 72650 La Chapelle-Saint-Aubin",
+        "note": 5,
+        "avis": 145,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3552660097477478057",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "02 43 85 42 42",
+        "site_web": "https://aurore-menuiseries.artetfenetres.com/",
+        "adresse": "41 Rue du Moulin aux Moines, 72650 La Chapelle-Saint-Aubin",
+        "note": 4.7,
+        "avis": 69,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15987650434244371148",
+        "nom": "Komilfo",
+        "slug": "komilfo",
+        "telephone": "02 43 21 61 18",
+        "site_web": "https://www.komilfo.fr/magasins/a-poser-mans-72?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "10 rue pégase, L'Étoile z.a. de, 72650 Trangé",
+        "note": 4.9,
+        "avis": 185,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11891347485722201533",
+        "nom": "Cador Papin",
+        "slug": "cador-papin",
+        "telephone": "02 43 27 77 71",
+        "site_web": "https://www.cadorpapin.fr/?utm_source=gmb",
+        "adresse": "8 Rue Pégase, 72650 Trangé",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15949567176164223655",
+        "nom": "SBEO",
+        "slug": "sbeo",
+        "telephone": "02 43 42 13 43",
+        "site_web": "https://www.etancheite-sbeo-sarthe.fr/contact",
+        "adresse": "ZAC de l'Etoile, 3 Rue d'Orion, 72650 Trangé",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12714135561162003188",
+        "nom": "Serma BTP",
+        "slug": "serma-btp",
+        "telephone": "02 43 52 17 80",
+        "site_web": "https://www.serma-btp.fr/",
+        "adresse": "ZA de l'Étoile 2, 72650 Trangé",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Agence de location de matériel"
+      }
+    ]
+  },
+  "vaas": {
+    "artisans": [
+      {
+        "id": "3844651435235737530",
+        "nom": "Breton Francois",
+        "slug": "breton-francois",
+        "telephone": "02 43 44 21 75",
+        "site_web": "http://www.menuiserie-breton.fr/?utm_source=gmb",
+        "adresse": "N 6 Les, Haut Moriers, 72500 Vaas",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "teloche": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vibraye": {
+    "artisans": [
+      {
+        "id": "7685994120843762194",
+        "nom": "Sarl Alain Greneche",
+        "slug": "sarl-alain-greneche",
+        "telephone": "02 43 93 60 80",
+        "site_web": null,
+        "adresse": "Le Petit Charme, 72320 Vibraye",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7662741734368257122",
+        "nom": "Charpente - Couverture - Zinguerie SARL Alain Greneche",
+        "slug": "charpente-couverture-zinguerie-sarl-alain-greneche",
+        "telephone": "02 43 71 52 36",
+        "site_web": null,
+        "adresse": "72320 Vibraye",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1416786948347753410",
+        "nom": "La Menuiserie de Mathieu",
+        "slug": "la-menuiserie-de-mathieu",
+        "telephone": "06 47 04 06 66",
+        "site_web": "https://www.facebook.com/profile.php?id=61574883269517",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3897416832690939010",
+        "nom": "Appert",
+        "slug": "appert",
+        "telephone": "02 43 60 05 57",
+        "site_web": null,
+        "adresse": "La Braye, 72320 Vibraye",
+        "note": 5,
+        "avis": 6,
+        "type": null
+      },
+      {
+        "id": "2138165993370729278",
+        "nom": "Gedimat Vibraye Matériaux",
+        "slug": "gedimat-vibraye-materiaux",
+        "telephone": "02 43 93 70 18",
+        "site_web": "https://www.gedimat.fr/?magDest=2544",
+        "adresse": "1 Av. Michel Verdier, 72320 Vibraye",
+        "note": 4.3,
+        "avis": 24,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "17100468005133217828",
+        "nom": "SARL Paineau Tortevoie",
+        "slug": "sarl-paineau-tortevoie",
+        "telephone": "02 43 93 68 18",
+        "site_web": "http://paineau-tortevoie.com/",
+        "adresse": "ZA DE LA BRAYE, 4 Rue du Grand Prix, 1906 Vibraye",
+        "note": 4.1,
+        "avis": 48,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "voivres-les-le-mans": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villaines-sous-malicorne": {
+    "artisans": [
+      {
+        "id": "11969469603794712015",
+        "nom": "VISION PLAST",
+        "slug": "vision-plast",
+        "telephone": "02 43 48 05 59",
+        "site_web": "http://vision-plast.com/",
+        "adresse": "3 La Bertraie, 72270 Villaines-sous-Malicorne",
+        "note": 4.9,
+        "avis": 13,
+        "type": null
+      },
+      {
+        "id": "15424361393947429492",
+        "nom": "KparK Le Mans",
+        "slug": "kpark-le-mans",
+        "telephone": "02 49 79 00 08",
+        "site_web": "https://magasins.kpark.fr/69-kpark-le-mans?utm_source=gmb",
+        "adresse": "32 Rue Gambetta, 72000 Le Mans",
+        "note": 4.5,
+        "avis": 150,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10435106031848954146",
+        "nom": "Yannick Barrault",
+        "slug": "yannick-barrault",
+        "telephone": "06 62 18 84 01",
+        "site_web": "http://barraultyannick.fr/",
+        "adresse": "19 Rue Principale, 72270 Villaines-sous-Malicorne",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les revêtements de sol"
+      },
+      {
+        "id": "10883172518071329858",
+        "nom": "Pichon Et Fils SAS",
+        "slug": "pichon-et-fils-sas",
+        "telephone": "02 43 94 81 24",
+        "site_web": "http://sarlpichon.fr/",
+        "adresse": "Le Marnay Le, La Lande du Marnay, 72270 Malicorne-sur-Sarthe",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13342778376331983550",
+        "nom": "Arena Quincaillerie",
+        "slug": "arena-quincaillerie",
+        "telephone": "02 43 94 64 64",
+        "site_web": "https://www.arena-quincaillerie.fr/",
+        "adresse": "Parc d'activités de la Bertraie, 72270 Villaines-sous-Malicorne",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "9318976160566116704",
+        "nom": "SARL AGENCEMENT MENUISERIE SARTHOISE",
+        "slug": "sarl-agencement-menuiserie-sarthoise",
+        "telephone": "02 43 45 84 98",
+        "site_web": null,
+        "adresse": "Route de Bousse, 72270 Villaines-sous-Malicorne",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sille-le-philippe": {
+    "artisans": [
+      {
+        "id": "11319762833255555517",
+        "nom": "SAS Pierre et Déco - Decopierre 72",
+        "slug": "sas-pierre-et-deco-decopierre-72",
+        "telephone": "02 43 28 64 58",
+        "site_web": "http://www.pierre-et-deco.fr/",
+        "adresse": "1 bis Rue du Commandant Arnould, 72460 Sillé-le-Philippe",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "16692696256022406012",
+        "nom": "SARL SILLE MENUISERIE - Terres de Fenêtre",
+        "slug": "sarl-sille-menuiserie-terres-de-fenetre",
+        "telephone": "02 43 20 29 03",
+        "site_web": "https://topartisans.fr/etablissement/sille-menuiseries/sille-le-guillaume-72140/menuisier-pvc-alu-mixte-bois-pose-fenetre-portes-entree-portails-stores-volets-battants-roulants-72",
+        "adresse": "150 route de parennes, 72140 Sillé-le-Guillaume",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14251745501501946852",
+        "nom": "EURL Guitton Terrassement",
+        "slug": "eurl-guitton-terrassement",
+        "telephone": "06 74 09 56 95",
+        "site_web": null,
+        "adresse": "La Heuserie, 72460 Sillé-le-Philippe",
+        "note": 5,
+        "avis": 15,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "3301342552248544688",
+        "nom": "Pellier SARL",
+        "slug": "pellier-sarl",
+        "telephone": "06 76 62 33 54",
+        "site_web": "https://www.zingueur.net/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vion": {
+    "artisans": [
+      {
+        "id": "18125798836563125290",
+        "nom": "VP Fermetures",
+        "slug": "vp-fermetures",
+        "telephone": "07 80 64 29 70",
+        "site_web": "http://www.vp-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3163078661072760830",
+        "nom": "Pasquet menuiseries Le Mans",
+        "slug": "pasquet-menuiseries-le-mans",
+        "telephone": "02 43 21 62 47",
+        "site_web": "https://www.pasquet.fr/menuiserie/le-mans-72/",
+        "adresse": "68 Rue Ernest Sylvain Bollée, 72230 Arnage",
+        "note": 3.9,
+        "avis": 57,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4437038688113877950",
+        "nom": "Huet Paysage et Travaux publics",
+        "slug": "huet-paysage-et-travaux-publics",
+        "telephone": "02 43 95 03 89",
+        "site_web": "https://huetpaysageettravauxpublics.fr/",
+        "adresse": "Rte de la Flèche, 72300 Vion",
+        "note": 3.7,
+        "avis": 19,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-saturnin": {
+    "artisans": [
+      {
+        "id": "2810051180635307142",
+        "nom": "OuvertureS 72",
+        "slug": "ouvertures-72",
+        "telephone": "02 43 54 23 23",
+        "site_web": "http://www.le-mans.ouvertures.com/",
+        "adresse": "23 Rue des Maillets 23-25, 72000 Le Mans",
+        "note": 4.7,
+        "avis": 39,
+        "type": "Vitrier"
+      },
+      {
+        "id": "7649409496097535851",
+        "nom": "CASÉO Le Mans",
+        "slug": "caseo-le-mans",
+        "telephone": "02 43 85 54 57",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-le-mans-saint-saturnin-103",
+        "adresse": "Bd de Maule, 72650 Saint-Saturnin",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6489810873978038496",
+        "nom": "Chedhomme",
+        "slug": "chedhomme",
+        "telephone": "02 43 29 14 92",
+        "site_web": "https://www.facebook.com/SarlChedhomme/?locale=fr_FR&utm_source=gmb",
+        "adresse": "ZAC des Portes de L'Océane, 1 Rue des Petites Marnières, 72650 Saint-Saturnin",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "4821069638728743274",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "02 43 52 84 79",
+        "site_web": "https://www.gustaverideau.com/agences/le-mans-saint-saturnin/?utm_campaign=saintsaturnin&utm_medium=GMB&utm_source=google",
+        "adresse": "Rue Louis Chappee, 72650 Saint-Saturnin",
+        "note": 4.3,
+        "avis": 25,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8897246112627622332",
+        "nom": "Les Compagnons",
+        "slug": "les-compagnons",
+        "telephone": "02 43 27 98 14",
+        "site_web": "https://www.lescompagnonsfrance.fr/",
+        "adresse": "3 Rue Louis Chappee, 72650 Saint-Saturnin",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15171092223899051824",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 43 25 20 52",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/sarthe/lapeyre-le-mans-55",
+        "adresse": "route Nationale 138, 72650 Saint-Saturnin",
+        "note": 4.1,
+        "avis": 464,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "3163078661072760830",
+        "nom": "Pasquet menuiseries Le Mans",
+        "slug": "pasquet-menuiseries-le-mans",
+        "telephone": "02 43 21 62 47",
+        "site_web": "https://www.pasquet.fr/menuiserie/le-mans-72/",
+        "adresse": "68 Rue Ernest Sylvain Bollée, 72230 Arnage",
+        "note": 3.9,
+        "avis": 57,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "16729469346719322500",
+        "nom": "Castorama",
+        "slug": "castorama",
+        "telephone": "02 43 39 96 39",
+        "site_web": "https://www.castorama.fr/store/1409?utm_content=le-mans&utm_medium=MyBusiness&utm_source=Google",
+        "adresse": "Rte d'Alençon, 72000 Le Mans",
+        "note": 3.8,
+        "avis": 4342,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "yvre-le-polin": {
+    "artisans": [
+      {
+        "id": "6793565791652151628",
+        "nom": "MENARD TERRASSEMENT",
+        "slug": "menard-terrassement",
+        "telephone": "07 88 23 65 39",
+        "site_web": null,
+        "adresse": "Rte de l'Espérance, 72330 Yvré-le-Pôlin",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "5999661146577904792",
+        "nom": "L'Expert Fenêtre Confort & Fenêtres 72",
+        "slug": "lexpert-fenetre-confort-fenetres-72",
+        "telephone": "02 43 23 32 69",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/le-mans/",
+        "adresse": "6 Rue de la Sauvagère, 72650 La Bazoge",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14908234349976501483",
+        "nom": "ENTREPRISE ERIC TELLAY",
+        "slug": "entreprise-eric-tellay",
+        "telephone": "02 43 29 03 38",
+        "site_web": "https://www.couvreursarthe.fr/",
+        "adresse": "9 All. du Clos du Puits, 72530 Yvré-l'Évêque",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7805224334106211637",
+        "nom": "Bricoman Le Mans / Yvré L'Evêque",
+        "slug": "bricoman-le-mans-yvre-leveque",
+        "telephone": "02 43 76 39 58",
+        "site_web": "https://www.bricoman.fr/",
+        "adresse": "Lieu Dit \"La, Fanière, 72530 Yvré-l'Évêque",
+        "note": 4,
+        "avis": 1445,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "182341412378406519",
+        "nom": "Entreprise mayeur - Couvreur 72 : Réparation Démoussage Étanchéité Fuites Toiture Couverture Ravalement Sarthe Le-Mans",
+        "slug": "entreprise-mayeur-couvreur-72-reparation-demoussage-etancheite-fuites-toiture-couverture-ravalement-sarthe-le-mans",
+        "telephone": "06 10 71 15 83",
+        "site_web": "http://couvreur72.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 44,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16686285150170409958",
+        "nom": "Couverture Chardelin - Couvreur Peintre Yvré-l’Évêque Le Mans Sarthe 72",
+        "slug": "couverture-chardelin-couvreur-peintre-yvre-leveque-le-mans-sarthe-72",
+        "telephone": "06 10 18 27 50",
+        "site_web": "https://couverture-chardelin.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 30,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sarge-les-le-mans": {
+    "artisans": [
+      {
+        "id": "6225772761809981051",
+        "nom": "Sarthe Toiture - Couvreur, charpente, couverture, isolation, zinguerie",
+        "slug": "sarthe-toiture-couvreur-charpente-couverture-isolation-zinguerie",
+        "telephone": "06 42 45 06 16",
+        "site_web": "https://sarthe-toiture.fr/",
+        "adresse": "10 Rue du Dr Leroy, 72100 Le Mans",
+        "note": 4.3,
+        "avis": 21,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "savigne-l-eveque": {
+    "artisans": [
+      {
+        "id": "11949109150865959929",
+        "nom": "SARL VAUDELLE",
+        "slug": "sarl-vaudelle",
+        "telephone": "06 30 00 22 80",
+        "site_web": null,
+        "adresse": "624 route du Mans, Le Marais, 72460 Savigné-l'Évêque",
+        "note": 5,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1798887048369221045",
+        "nom": "Forp Fenêtres",
+        "slug": "forp-fenetres",
+        "telephone": "02 43 82 40 52",
+        "site_web": "https://www.fenetres-forp.com/",
+        "adresse": "ZAC de l'Epine, ZAC de l'Épine, 72460 Savigné-l'Évêque",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5405594475373081525",
+        "nom": "Rousier Fréderic",
+        "slug": "rousier-frederic",
+        "telephone": "02 43 29 68 20",
+        "site_web": "https://www.couverture-rousier-lemans.fr/contact",
+        "adresse": "27 Chem. de Nuyet, 72460 Savigné-l'Évêque",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sille-le-guillaume": {
+    "artisans": [
+      {
+        "id": "3599114077118062213",
+        "nom": "SARL Yannick BOUVIER",
+        "slug": "sarl-yannick-bouvier",
+        "telephone": "02 43 20 35 79",
+        "site_web": "https://sarlbouvieryannick.fr/",
+        "adresse": "641 ROUTE D'EVRON, 72140 Sillé-le-Guillaume",
+        "note": 5,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14109374308512009011",
+        "nom": "Menuiserie de la Charnie",
+        "slug": "menuiserie-de-la-charnie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "236 Chem. des Petits Cours, 72140 Sillé-le-Guillaume",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "souligne-sous-ballon": {
+    "artisans": [
+      {
+        "id": "17648313316004620248",
+        "nom": "HARDOUIN PATRIMOINE",
+        "slug": "hardouin-patrimoine",
+        "telephone": "06 11 82 55 31",
+        "site_web": "http://hardouin-patrimoine.fr/",
+        "adresse": "Le Champ de la Cave, 72290 Souligné-sous-Ballon",
+        "note": 5,
+        "avis": 7,
+        "type": "Préservation du patrimoine"
+      },
+      {
+        "id": "4561068802823699944",
+        "nom": "Volets roulants solaires & Menuiserie PVC / ALU Sarthe – PEAN Julien SARL",
+        "slug": "volets-roulants-solaires-menuiserie-pvc-alu-sarthe-pean-julien-sarl",
+        "telephone": "06 44 18 69 39",
+        "site_web": "https://sarl-peanj.fr/",
+        "adresse": "8 Rue Aristide Briand, 72290 Ballon",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "203246949961252430",
+        "nom": "L' Atelier Du Plaquiste",
+        "slug": "l-atelier-du-plaquiste",
+        "telephone": "07 65 50 65 08",
+        "site_web": "https://latelierduplaquiste.fr/",
+        "adresse": "2B Chem. de l'Aunay, 72290 Souligné-sous-Ballon",
+        "note": 5,
+        "avis": 15,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "13496013369057608293",
+        "nom": "Sarl Postel Sebastien",
+        "slug": "sarl-postel-sebastien",
+        "telephone": "06 82 73 59 87",
+        "site_web": "http://www.sarl-sebastien-postel.fr/",
+        "adresse": "7rue Aristide Briand, 72290 Ballon",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1330531110587039278",
+        "nom": "Dépaninstaltout",
+        "slug": "depaninstaltout",
+        "telephone": "06 79 82 50 66",
+        "site_web": null,
+        "adresse": "1 ter Chem. du Vieux Maquere, 72650 Aigné",
+        "note": 2.6,
+        "avis": 5,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12322517929066904667",
+        "nom": "Menuiserie Agencement Dépannage",
+        "slug": "menuiserie-agencement-depannage",
+        "telephone": "06 51 35 00 75",
+        "site_web": "https://www.facebook.com/profile.php?id=61567716355622&utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11506043226678383789",
+        "nom": "Alinéa Bis - La Cidrerie",
+        "slug": "alinea-bis-la-cidrerie",
+        "telephone": "02 43 88 70 20",
+        "site_web": "https://www.alineabis.fr/la-cidrerie",
+        "adresse": "Le Moulin Neuf, 72290 Montbizot",
+        "note": 4.7,
+        "avis": 126,
+        "type": "Magasin d'ameublement et de décoration"
+      }
+    ]
+  },
+  "spay": {
+    "artisans": [
+      {
+        "id": "2530017166905062307",
+        "nom": "Tony L Couverture : Artisan couvreur le mans demoussage toiture",
+        "slug": "tony-l-couverture-artisan-couvreur-le-mans-demoussage-toiture",
+        "telephone": "06 59 88 04 58",
+        "site_web": "https://tonylcouverture.fr/",
+        "adresse": "La Brosse, 72230 Guécélard",
+        "note": 5,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9203727123919934859",
+        "nom": "CCMB Location - CCMB'LOC Spay",
+        "slug": "ccmb-location-ccmbloc-spay",
+        "telephone": "02 43 21 37 00",
+        "site_web": "https://www.ccmblocation.fr/",
+        "adresse": "480 Rte de la Rouveliere, 72700 Spay",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Agence de location de matériel"
+      },
+      {
+        "id": "3134339836561309918",
+        "nom": "Maine Combles, Transformation et aménagement de combles le Mans, Combles 72, Combles Sarthe",
+        "slug": "maine-combles-transformation-et-amenagement-de-combles-le-mans-combles-72-combles-sarthe",
+        "telephone": "02 43 18 23 42",
+        "site_web": "http://www.maine-combles.fr/",
+        "adresse": "14 Bd René Cassin, 72000 Le Mans",
+        "note": 4.9,
+        "avis": 78,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "solesmes": {
+    "artisans": [
+      {
+        "id": "3618885163013048999",
+        "nom": "POUPIN SABLE SUR SARTHE",
+        "slug": "poupin-sable-sur-sarthe",
+        "telephone": "02 43 92 67 92",
+        "site_web": "http://www.poupin.fr/?utm_source=gmb",
+        "adresse": "3 impasse de la Denisière, 72300 Solesmes",
+        "note": 4.7,
+        "avis": 77,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16091920556111654212",
+        "nom": "Pierre Martin",
+        "slug": "pierre-martin",
+        "telephone": "06 31 16 38 75",
+        "site_web": "http://www.charpente-menuiserie-martin.fr/",
+        "adresse": "14 Rte de Chaillot, 72300 Solesmes",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10074967301189243477",
+        "nom": "COMBLES ET MOI",
+        "slug": "combles-et-moi",
+        "telephone": "07 49 64 41 45",
+        "site_web": null,
+        "adresse": "ZA de la Fouquerie, 72300 Solesmes",
+        "note": 4.1,
+        "avis": 35,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10106817448113395523",
+        "nom": "Monsieur Store Sablé-sur-Sarthe - innov-abris.com",
+        "slug": "monsieur-store-sable-sur-sarthe-innov-abriscom",
+        "telephone": "02 85 29 30 78",
+        "site_web": "https://monsieurstore.com/magasin/sable-sur-sarthe-72300/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "4 Rue de la Denisière, 72300 Solesmes",
+        "note": 4.9,
+        "avis": 147,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "la-suze-sur-sarthe": {
+    "artisans": [
+      {
+        "id": "8610719191167551577",
+        "nom": "Spécialiste de la salle de bain et cuisine - PALMIER Frédéric",
+        "slug": "specialiste-de-la-salle-de-bain-et-cuisine-palmier-frederic",
+        "telephone": "06 28 40 93 70",
+        "site_web": "https://fr-fr.facebook.com/EntreprisePalmier/",
+        "adresse": "6 Pl. Marie Curie, 72210 La Suze-sur-Sarthe",
+        "note": 5,
+        "avis": 17,
+        "type": "Carreleur"
+      }
+    ]
+  }
+}

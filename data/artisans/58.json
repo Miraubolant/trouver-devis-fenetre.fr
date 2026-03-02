@@ -1,0 +1,1632 @@
+{
+  "varzy": {
+    "artisans": [
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4815790608150894863",
+        "nom": "SIDMA Menuiserie - Jean-Francis Botté - Fenêtres, Portes, Volets, Véranda",
+        "slug": "sidma-menuiserie-jean-francis-botte-fenetres-portes-volets-veranda",
+        "telephone": "03 86 29 70 15",
+        "site_web": "http://www.sarl-sidma.fr/",
+        "adresse": "3 Rue de la Font Sainte-Eugénie, 58210 Varzy",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2923713275372396362",
+        "nom": "Roofnow",
+        "slug": "roofnow",
+        "telephone": "01 85 09 72 64",
+        "site_web": "https://roofnow.fr/",
+        "adresse": "26 Rue Bosquet, 75007 Paris",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10540737105087535433",
+        "nom": "Forge de France Paris",
+        "slug": "forge-de-france-paris",
+        "telephone": "07 45 91 74 03",
+        "site_web": null,
+        "adresse": "86 Av. de la République, 75011 Paris",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Vitrier"
+      },
+      {
+        "id": "9761952798559613780",
+        "nom": "Expert Menuiseries - Art & Fenêtres - Le Pré-Saint-Gervais",
+        "slug": "expert-menuiseries-art-fenetres-le-pre-saint-gervais",
+        "telephone": "01 41 50 11 00",
+        "site_web": "https://expertmenuiseries.artetfenetres.com/?utm_campaign=GMB_le-pre-saint-gervais&utm_medium=organic&utm_source=GMB",
+        "adresse": "Le, 52 Rue d'Estienne d'Orves, 93310 Le Pré-Saint-Gervais",
+        "note": 4.8,
+        "avis": 206,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3905836091236495072",
+        "nom": "Jais Services",
+        "slug": "jais-services",
+        "telephone": "06 42 94 25 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "393094641864557431",
+        "nom": "Reparation Fenetre Paris toute marque: cremone,poignee",
+        "slug": "reparation-fenetre-paris-toute-marque-cremonepoignee",
+        "telephone": "06 51 85 75 38",
+        "site_web": "https://www.paris-fenetre.fr/",
+        "adresse": "102 Av. des Champs-Élysées, 75008 Paris",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4513875156904007383",
+        "nom": "LESPETITSTRAVAUX.COM",
+        "slug": "lespetitstravauxcom",
+        "telephone": "06 50 91 48 58",
+        "site_web": "http://www.lespetitstravaux.com/?utm_source=gmb",
+        "adresse": "18 Rue Cadet, 75009 Paris",
+        "note": 5,
+        "avis": 43,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "corbigny": {
+    "artisans": [
+      {
+        "id": "13032540954984660668",
+        "nom": "FCS Fenetres stores et verandas",
+        "slug": "fcs-fenetres-stores-et-verandas",
+        "telephone": "03 86 20 03 06",
+        "site_web": "https://fcs-89.com/",
+        "adresse": "9 Pl. de l'Hôtel de ville, 58800 Corbigny",
+        "note": 2,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "la-charite-sur-loire": {
+    "artisans": [
+      {
+        "id": "1089493212950680551",
+        "nom": "METAL 2000 Nevers - Dépannage, réparation et entretien rideaux métalliques et portes sectionnelles industrielles Nièvre (58)",
+        "slug": "metal-2000-nevers-depannage-reparation-et-entretien-rideaux-metalliques-et-portes-sectionnelles-industrielles-nievre-58",
+        "telephone": "03 71 42 03 79",
+        "site_web": "https://www.metal2000.fr/nos-agences/agence-metal-2000-nevers/",
+        "adresse": "3 Rue du Midi, 58000 Nevers",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "6448181541731722345",
+        "nom": "Moulinneuf",
+        "slug": "moulinneuf",
+        "telephone": "03 86 70 19 13",
+        "site_web": null,
+        "adresse": "84 Rue de Gerigny, 58400 La Charité-sur-Loire",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11808664733359974821",
+        "nom": "AS NIÈVRE RÉNOVATION - COUVREUR PEINTRE 58 | Réparation Nettoyage Étanchéité Peinture Toiture Façade La Charité-sur-Loire",
+        "slug": "as-nievre-renovation-couvreur-peintre-58-reparation-nettoyage-etancheite-peinture-toiture-facade-la-charite-sur-loire",
+        "telephone": "07 60 86 58 50",
+        "site_web": "https://www.as-renovation-58.fr/",
+        "adresse": "56 Rue de la Queue de Mouton, 58400 La Charité-sur-Loire",
+        "note": 5,
+        "avis": 12,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "9168659950505352804",
+        "nom": "ALV Toitures",
+        "slug": "alv-toitures",
+        "telephone": "06 21 50 77 35",
+        "site_web": "https://www.alvtoitures.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1445260595544199459",
+        "nom": "Artisan couvreur William couverture 58 Peinture Ravalement façade Démoussage Réparation toiture Pose gouttière Nièvre Nevers",
+        "slug": "artisan-couvreur-william-couverture-58-peinture-ravalement-facade-demoussage-reparation-toiture-pose-gouttiere-nievre-nevers",
+        "telephone": "06 64 84 53 79",
+        "site_web": "http://couvreur-58-william.fr/",
+        "adresse": "Rue du 8 Mai 1945, 58400 La Charité-sur-Loire",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chaulgnes": {
+    "artisans": [
+      {
+        "id": "67185771179485181",
+        "nom": "C'pro Travaux",
+        "slug": "cpro-travaux",
+        "telephone": "03 86 30 92 59",
+        "site_web": null,
+        "adresse": "119 Av. de Verdun, 58300 Decize",
+        "note": 4.5,
+        "avis": 46,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "4727234762705776634",
+        "nom": "Teliab Habitat",
+        "slug": "teliab-habitat",
+        "telephone": "09 51 74 18 75",
+        "site_web": "https://www.teliab-habitat.com/",
+        "adresse": "68 Rte de Cosne, 58200 Alligny-Cosne",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3297010376695887862",
+        "nom": "Les pros du toit de maison",
+        "slug": "les-pros-du-toit-de-maison",
+        "telephone": "03 86 60 80 21",
+        "site_web": null,
+        "adresse": "58400 Chaulgnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1095644990837506660",
+        "nom": "DE AMARAL LAURENT",
+        "slug": "de-amaral-laurent",
+        "telephone": "06 19 07 27 28",
+        "site_web": "http://www.laurentdeamaral.fr/?utm_source=gmb",
+        "adresse": "5 Cougny, 58270 Saint-Jean-aux-Amognes",
+        "note": 5,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12801884414934492171",
+        "nom": "Cochemé David",
+        "slug": "cocheme-david",
+        "telephone": "03 86 70 38 12",
+        "site_web": "http://www.cocheme-david.fr/",
+        "adresse": "10 Rte d'Orge, 58400 Chaulgnes",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8927545693765142627",
+        "nom": "Cn menuiserie",
+        "slug": "cn-menuiserie",
+        "telephone": "06 81 18 41 99",
+        "site_web": null,
+        "adresse": "429 Route de Rocles, 03240 Tronget",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "109202717117772113",
+        "nom": "Protect Bois",
+        "slug": "protect-bois",
+        "telephone": "02 48 24 00 38",
+        "site_web": "https://www.protect-bois-bourges.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 114,
+        "type": "Artisanat"
+      },
+      {
+        "id": "6312837213227664390",
+        "nom": "Artisan Couvreur",
+        "slug": "artisan-couvreur",
+        "telephone": "03 86 37 80 42",
+        "site_web": null,
+        "adresse": "6 Rue Renée Pasquet, 58400 Chaulgnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15623860946674423433",
+        "nom": "2BL COUVERTURE - SOLUTIONS DE COUVERTURE & BARDAGE",
+        "slug": "2bl-couverture-solutions-de-couverture-bardage",
+        "telephone": "03 86 25 06 20",
+        "site_web": "https://2bl-couverture.fr/",
+        "adresse": "106 Av. de Verdun, 58300 Decize",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4606381304675711653",
+        "nom": "Couvreur Nevers Entreprise Demoussage Toiture - Reparation - Peinture Facade",
+        "slug": "couvreur-nevers-entreprise-demoussage-toiture-reparation-peinture-facade",
+        "telephone": "03 71 42 04 16",
+        "site_web": "https://couvreur-nevers-demoussage.fr/",
+        "adresse": "25 Rue Camille Baynac, 58000 Nevers",
+        "note": 5,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "clamecy": {
+    "artisans": [
+      {
+        "id": "5502087354643787914",
+        "nom": "JM Menuiseries",
+        "slug": "jm-menuiseries",
+        "telephone": "03 86 22 86 27",
+        "site_web": "http://www.jm-menuiseries.fr/",
+        "adresse": "3 Av. Saint-Exupéry, 58500 Clamecy",
+        "note": 4.8,
+        "avis": 19,
+        "type": null
+      },
+      {
+        "id": "14253107816421845996",
+        "nom": "KparK Auxerre",
+        "slug": "kpark-auxerre",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/99-kpark-auxerre?utm_source=gmb",
+        "adresse": "47 Rue de Paris, 89000 Auxerre",
+        "note": 3.5,
+        "avis": 27,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13176731201649156471",
+        "nom": "Menuiserie Laleu",
+        "slug": "menuiserie-laleu",
+        "telephone": "06 35 13 47 63",
+        "site_web": "http://www.menuiserie-laleu.com/",
+        "adresse": "Zai, Av. Saint-Exupéry, 58500 Clamecy",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8564990541319568435",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 86 18 02 50",
+        "site_web": "https://magasins.lapeyre.fr/bourgogne-franche-comte/yonne/lapeyre-auxerre-76",
+        "adresse": "Rte de Moneteau, 89470 Monéteau",
+        "note": 3.9,
+        "avis": 458,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17799485670895676937",
+        "nom": "Fermetures du Haut Nivernais",
+        "slug": "fermetures-du-haut-nivernais",
+        "telephone": "03 58 05 48 11",
+        "site_web": "http://fermetures-haut-nivernais.fr/?utm_source=gmb",
+        "adresse": "Z.A St EXUPERY, All. Mermoz, 58500 Clamecy",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "14531983248264445509",
+        "nom": "AVMS",
+        "slug": "avms",
+        "telephone": "03 86 27 15 49",
+        "site_web": "http://avms-clamecy.fr/",
+        "adresse": "30 Rue du Grand Marché, 58500 Clamecy",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12752691224094090850",
+        "nom": "Renov Habitat 58",
+        "slug": "renov-habitat-58",
+        "telephone": "06 43 39 07 89",
+        "site_web": "https://www.couvreur-58-nievre.fr/",
+        "adresse": null,
+        "note": 4.4,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chateau-chinon-ville": {
+    "artisans": [
+      {
+        "id": "16193685557109595991",
+        "nom": "LES BINOCLES DE BETTY",
+        "slug": "les-binocles-de-betty",
+        "telephone": "03 86 85 03 21",
+        "site_web": "https://www.lesbinoclesdebetty.fr/",
+        "adresse": "16 Place Notre Dame, 58120 Château-Chinon (Ville)",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Opticien"
+      }
+    ]
+  },
+  "cosne-cours-sur-loire": {
+    "artisans": [
+      {
+        "id": "12739792774622370715",
+        "nom": "MENUISERIE POURON SARL",
+        "slug": "menuiserie-pouron-sarl",
+        "telephone": "03 86 26 06 11",
+        "site_web": "https://www.facebook.com/Mpouron?locale=fr_FR",
+        "adresse": "La, 1 Chem. des Brossiers, 58440 La Celle-sur-Loire",
+        "note": 4,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6528887987939148478",
+        "nom": "MBT FERMETURES",
+        "slug": "mbt-fermetures",
+        "telephone": "09 78 37 05 82",
+        "site_web": "https://mbtfermetures.com/",
+        "adresse": "14 Bussy, 18300 Bannay",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3493512748293807278",
+        "nom": "Art & Fenêtres L'art D'être Unique",
+        "slug": "art-fenetres-lart-detre-unique",
+        "telephone": "03 86 28 13 13",
+        "site_web": null,
+        "adresse": "9 Rue des Gabarriers, 58200 Cosne-Cours-sur-Loire",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "813757712371185300",
+        "nom": "Espace Soleil",
+        "slug": "espace-soleil",
+        "telephone": "03 86 28 34 08",
+        "site_web": "http://www.espace-soleil-58.com/",
+        "adresse": "96 Rue Saint-Agnan, 58200 Cosne-Cours-sur-Loire",
+        "note": 4.3,
+        "avis": 28,
+        "type": "Vitrier"
+      },
+      {
+        "id": "8585689355478523787",
+        "nom": "DOMOBAIE entreprise de porte et fenêtres",
+        "slug": "domobaie-entreprise-de-porte-et-fenetres",
+        "telephone": "06 58 78 56 91",
+        "site_web": "https://www.domobaie.com/",
+        "adresse": "21 Rue du Général de Gaulle, 58200 Cosne-Cours-sur-Loire",
+        "note": 5,
+        "avis": 20,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "222732889578299016",
+        "nom": "Centre Protection Habitat Nivernais CPHN",
+        "slug": "centre-protection-habitat-nivernais-cphn",
+        "telephone": "03 86 26 66 07",
+        "site_web": "https://www.cphn58-renovation.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "3251684768110166058",
+        "nom": "SARL PHILIPPE BOUIN",
+        "slug": "sarl-philippe-bouin",
+        "telephone": "03 86 28 13 13",
+        "site_web": "http://bouin.artetfenetres.com/",
+        "adresse": "9 Rue des Gabarriers, 58200 Cosne-Cours-sur-Loire",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cercy-la-tour": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "donzy": {
+    "artisans": [
+      {
+        "id": "1934058737783624634",
+        "nom": "Chassiplast",
+        "slug": "chassiplast",
+        "telephone": "03 86 39 33 28",
+        "site_web": "http://www.chassiplast.fr/",
+        "adresse": "2 La Fringale, 58220 Perroy",
+        "note": 4,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8075091770988567895",
+        "nom": "GAMM VERT",
+        "slug": "gamm-vert",
+        "telephone": "03 86 29 36 16",
+        "site_web": "https://www.gammvert.fr/magasins/magasin-village-de-donzy?utm_source=GMB&utm_campaign=Multidiffusion&utm_medium=local&utm_content=1101952",
+        "adresse": "Rue de la Bertine, 58220 Donzy",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Jardinerie"
+      }
+    ]
+  },
+  "nevers": {
+    "artisans": [
+      {
+        "id": "4123320775680996740",
+        "nom": "Fenetres du Nivernais",
+        "slug": "fenetres-du-nivernais",
+        "telephone": "03 86 37 75 07",
+        "site_web": "https://op-fenetres-du-nivernais.com/les-offres-promotionnelles/ste-fenetres-du-nivernais/menuiseries",
+        "adresse": "3 Bd Camille Dagonneau, 58640 Varennes-Vauzelles",
+        "note": 4.9,
+        "avis": 63,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2774640282730244342",
+        "nom": "A.S.C.S Solabaie Nevers",
+        "slug": "ascs-solabaie-nevers",
+        "telephone": "03 86 93 09 90",
+        "site_web": "http://www.solabaie.fr/entreprise-menuiserie/nievre/nevers/ascs-8/",
+        "adresse": "Rue du Champ de Foire, 58000 Nevers",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11065231128453641613",
+        "nom": "Menuiserie Confort Energie MCE Nevers",
+        "slug": "menuiserie-confort-energie-mce-nevers",
+        "telephone": "03 86 69 04 01",
+        "site_web": "https://www.mce-centreloire.fr/",
+        "adresse": "203 Rte de Lyon, 58000 Nevers",
+        "note": 4.8,
+        "avis": 44,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15850375033297394989",
+        "nom": "Grosfillex Fenêtres NEVERS - G.B.S.O",
+        "slug": "grosfillex-fenetres-nevers-gbso",
+        "telephone": "03 86 59 16 19",
+        "site_web": "https://www.grosfillex.com/stores/gbso-nevers",
+        "adresse": "2 Rue du 13E de Ligne, 58000 Nevers",
+        "note": 5,
+        "avis": 6,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12287359789391056999",
+        "nom": "SARL LAGOUTTE",
+        "slug": "sarl-lagoutte",
+        "telephone": "03 86 59 01 26",
+        "site_web": "http://www.lagoutte-fils.fr/",
+        "adresse": "46 Bd Maréchal Juin, 58000 Nevers",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16603146918591686707",
+        "nom": "Miroiterie Veranda Nivernaise",
+        "slug": "miroiterie-veranda-nivernaise",
+        "telephone": "09 70 35 03 78",
+        "site_web": "https://www.sarlmiroiterie-veranda-nivernaise.fr/",
+        "adresse": "15 Rue du Champ de Foire, 58000 Nevers",
+        "note": 3,
+        "avis": 4,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14486642975438420424",
+        "nom": "SARL GOUSSOT",
+        "slug": "sarl-goussot",
+        "telephone": "06 85 22 28 61",
+        "site_web": "https://www.sarlgoussot.fr/",
+        "adresse": "23 Rue de la Jonction, 58000 Nevers",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2717160633505091132",
+        "nom": "Express Dépannage Serrurerie - E.D.S.-",
+        "slug": "express-depannage-serrurerie-eds",
+        "telephone": "06 99 42 77 71",
+        "site_web": "https://www.express-depannage-serrurerie.fr/",
+        "adresse": "2 Quai des Eduens, 58000 Nevers",
+        "note": 5,
+        "avis": 92,
+        "type": "Serrurier"
+      },
+      {
+        "id": "12363056027763274983",
+        "nom": "Store et Décor",
+        "slug": "store-et-decor",
+        "telephone": "03 86 38 88 61",
+        "site_web": "https://www.facebook.com/profile.php?id=61586633452699&utm_source=gmb",
+        "adresse": "53 bis Rte de Nevers, 58180 Marzy",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5516565596308535962",
+        "nom": "Virmont Jean-Marc",
+        "slug": "virmont-jean-marc",
+        "telephone": "06 32 75 13 75",
+        "site_web": null,
+        "adresse": "14 Rue du Châtaignier, 58000 Nevers",
+        "note": 5,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "challuy": {
+    "artisans": [
+      {
+        "id": "8916198412625342320",
+        "nom": "Menuiserie Confort Énergie MCE",
+        "slug": "menuiserie-confort-energie-mce",
+        "telephone": "03 86 69 04 01",
+        "site_web": "https://www.mce-centreloire.fr/",
+        "adresse": "10 Rue du Crot des Pierres, 58400 Mesves-sur-Loire",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9808356150292142124",
+        "nom": "SOCOREBAT®️ NEVERS - Maçonnerie - Enduit Façade - Rénovation - Extension de Maison - Isolation Extérieur RGE | Nièvre 58",
+        "slug": "socorebat-nevers-maconnerie-enduit-facade-renovation-extension-de-maison-isolation-exterieur-rge-nievre-58",
+        "telephone": "06 49 12 20 84",
+        "site_web": "https://www.socorebat-france.fr/bourgogne/nievre/nevers",
+        "adresse": "47 bis Rue Henri Bouquillard, 58000 Nevers",
+        "note": 4.9,
+        "avis": 56,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "436777087372951750",
+        "nom": "Bois concept 58",
+        "slug": "bois-concept-58",
+        "telephone": "06 12 55 23 00",
+        "site_web": "http://boisconcept58.fr/",
+        "adresse": "10 Fbg de la Baratte, 58000 Nevers",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4645190449564367938",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 86 93 91 60",
+        "site_web": "https://magasins.lapeyre.fr/bourgogne-franche-comte/nievre/lapeyre-nevers-86",
+        "adresse": "56 Bd Camille Dagonneau, 58640 Varennes-Vauzelles",
+        "note": 3.6,
+        "avis": 259,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14119417436770029863",
+        "nom": "Jean-Luc Lutsen Sarl",
+        "slug": "jean-luc-lutsen-sarl",
+        "telephone": "03 86 59 44 44",
+        "site_web": "https://www.lutsen.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rue du Désert, 58000 Saint-Éloi",
+        "note": 3.9,
+        "avis": 10,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5416826114185351009",
+        "nom": "Entreprise Centre Couverture",
+        "slug": "entreprise-centre-couverture",
+        "telephone": "06 69 02 07 43",
+        "site_web": "https://centrecouverture.wixsite.com/couvreur",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "chantenay-saint-imbert": {
+    "artisans": [
+      {
+        "id": "15197307415732246076",
+        "nom": "Ets Picard bois de chauffage",
+        "slug": "ets-picard-bois-de-chauffage",
+        "telephone": "06 63 37 50 54",
+        "site_web": null,
+        "adresse": "737 Rte de Mussy, 58240 Chantenay-Saint-Imbert",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5629415512850394725",
+        "nom": "GARAGE COMPAGNON",
+        "slug": "garage-compagnon",
+        "telephone": "06 83 50 59 44",
+        "site_web": "https://www.eurorepar.fr/garage-sas-auto-carross-58-chantenay-st-imbert-3077.html",
+        "adresse": "315 Rte des Varennes, 58240 Chantenay-Saint-Imbert",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "14553235794543949546",
+        "nom": "Entreprise Chantenoise SARL",
+        "slug": "entreprise-chantenoise-sarl",
+        "telephone": "06 58 19 35 99",
+        "site_web": "http://entreprisechantenoisesarl.site-solocal.com/?utm_source=gmb",
+        "adresse": "3 Rue de la Bissate, 58240 Chantenay-Saint-Imbert",
+        "note": 4,
+        "avis": 12,
+        "type": "Maçon"
+      },
+      {
+        "id": "16788058035964183356",
+        "nom": "Perrin Eric",
+        "slug": "perrin-eric",
+        "telephone": "03 86 38 65 97",
+        "site_web": null,
+        "adresse": "Rue Bissatte, 58240 Chantenay-Saint-Imbert",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "garchizy": {
+    "artisans": [
+      {
+        "id": "12152066445500806864",
+        "nom": "Climafroid",
+        "slug": "climafroid",
+        "telephone": "03 86 59 15 10",
+        "site_web": "https://www.climafroid-byterratnenot.fr/",
+        "adresse": "35 Rue Francis Bar, 58600 Garchizy",
+        "note": 3.5,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11638694583098208163",
+        "nom": "SAS ANQUETIL",
+        "slug": "sas-anquetil",
+        "telephone": "03 86 38 73 29",
+        "site_web": "https://www.sarl-anquetil.com/",
+        "adresse": "62 Rte de Nevers, 58180 Marzy",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6458748626480612321",
+        "nom": "melim joao",
+        "slug": "melim-joao",
+        "telephone": "07 86 16 98 32",
+        "site_web": null,
+        "adresse": "105 Rue Jean Jaurès, 58600 Garchizy",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "decize": {
+    "artisans": [
+      {
+        "id": "17584081069780542082",
+        "nom": "Fermetures Du Morvan",
+        "slug": "fermetures-du-morvan",
+        "telephone": "03 86 25 07 34",
+        "site_web": "http://www.fermeturesdumorvan.fr/",
+        "adresse": "41 Rte de Moulins, 58300 Decize",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "1179786618439747421",
+        "nom": "EURO ALU SN - Portes, Fenetres, Volets",
+        "slug": "euro-alu-sn-portes-fenetres-volets",
+        "telephone": "03 86 77 38 38",
+        "site_web": "https://www.ouvertures-expert-conseil.fr/",
+        "adresse": "50 Rue Virlogeux, 58300 Decize",
+        "note": 3.8,
+        "avis": 33,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "1492531291746881392",
+        "nom": "Couvreur Decize Entreprise 58 - Demoussage Toiture - Peinture Facade",
+        "slug": "couvreur-decize-entreprise-58-demoussage-toiture-peinture-facade",
+        "telephone": "03 73 70 00 81",
+        "site_web": "http://couvreurdecize58.fr/",
+        "adresse": "17 place Du Champs De Foire, 58300 Decize",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1472751111542705292",
+        "nom": "SN Euro Alu OuvertureS",
+        "slug": "sn-euro-alu-ouvertures",
+        "telephone": "03 86 77 38 38",
+        "site_web": "https://www.ouvertures-expert-conseil.fr/",
+        "adresse": "50 Rue Virlogeux, 58300 Decize",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5240040142336989021",
+        "nom": "Sarl Boudot",
+        "slug": "sarl-boudot",
+        "telephone": "06 16 50 63 22",
+        "site_web": null,
+        "adresse": "15 Av. de Verdun, 58300 Decize",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "4033744236499702433",
+        "nom": "Es Menuiserie",
+        "slug": "es-menuiserie",
+        "telephone": "06 60 87 72 36",
+        "site_web": null,
+        "adresse": "16 Av. du 14 Juillet, 58300 Decize",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4230629311938996872",
+        "nom": "Bibollet menuiserie",
+        "slug": "bibollet-menuiserie",
+        "telephone": "06 60 34 06 69",
+        "site_web": "https://www.fenetrea.fr/gammes-categories/fenetres",
+        "adresse": "4 Rue Henri Darcy, 58300 Decize",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11004408219029581028",
+        "nom": "Ouvertures&Fermetures Charrinoises",
+        "slug": "ouverturesfermetures-charrinoises",
+        "telephone": "03 86 30 71 77",
+        "site_web": "https://www.of-charrinoises.com/",
+        "adresse": "2 Rue Henri Darcy, 58300 Decize",
+        "note": 5,
+        "avis": 43,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "dornes": {
+    "artisans": [
+      {
+        "id": "4123320775680996740",
+        "nom": "Fenetres du Nivernais",
+        "slug": "fenetres-du-nivernais",
+        "telephone": "03 86 37 75 07",
+        "site_web": "https://op-fenetres-du-nivernais.com/les-offres-promotionnelles/ste-fenetres-du-nivernais/menuiseries",
+        "adresse": "3 Bd Camille Dagonneau, 58640 Varennes-Vauzelles",
+        "note": 4.9,
+        "avis": 63,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "fourchambault": {
+    "artisans": [
+      {
+        "id": "12555535908510519323",
+        "nom": "DF Pose",
+        "slug": "df-pose",
+        "telephone": "09 50 46 41 34",
+        "site_web": "http://www.df-pose.fr/",
+        "adresse": "23 Rue Gambetta, 58600 Fourchambault",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "guerigny": {
+    "artisans": [
+      {
+        "id": "7648468684096700366",
+        "nom": "Bricomarché Varennes-Vauzelles",
+        "slug": "bricomarche-varennes-vauzelles",
+        "telephone": "03 86 36 00 11",
+        "site_web": "https://www.bricomarche.com/magasin/varennes-vauzelles/01461?store=01461&utm_source=gmb",
+        "adresse": "2 Rue Antoine de Saint-Exupéry, 58640 Varennes-Vauzelles",
+        "note": 4.1,
+        "avis": 1825,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "3755342480768398384",
+        "nom": "Denis et Fils (SARL)-Menuisier",
+        "slug": "denis-et-fils-sarl-menuisier",
+        "telephone": "03 86 90 97 99",
+        "site_web": "https://www.menuiserie-denis-58.fr/",
+        "adresse": "Zi, Villemenant, 58130 Guérigny",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2634669943262607235",
+        "nom": "Delin Johnny SARL",
+        "slug": "delin-johnny-sarl",
+        "telephone": "03 86 60 48 03",
+        "site_web": "http://www.delin-couverture.fr/",
+        "adresse": "57 Grande Rue, 58130 Guérigny",
+        "note": 4.2,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lormes": {
+    "artisans": [
+      {
+        "id": "18185514086571631007",
+        "nom": "Eureka Quincaillerie Lormoise",
+        "slug": "eureka-quincaillerie-lormoise",
+        "telephone": "03 86 22 82 87",
+        "site_web": null,
+        "adresse": "13 Rue du Pont national, 58140 Lormes",
+        "note": 5,
+        "avis": 1,
+        "type": "Quincaillerie"
+      }
+    ]
+  },
+  "imphy": {
+    "artisans": [
+      {
+        "id": "1985626151245062885",
+        "nom": "Cancy services | couvreur Nevers nettoyage demoussage réparation toiture couverture",
+        "slug": "cancy-services-couvreur-nevers-nettoyage-demoussage-reparation-toiture-couverture",
+        "telephone": "06 98 63 86 93",
+        "site_web": "https://www.cancy-services.fr/",
+        "adresse": "Rte de Chaluzy, 58000 Nevers",
+        "note": 5,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-benin-d-azy": {
+    "artisans": [
+      {
+        "id": "9945602604777103199",
+        "nom": "Menuiserie de Bourgogne",
+        "slug": "menuiserie-de-bourgogne",
+        "telephone": "03 86 36 77 27",
+        "site_web": "http://www.menuiseriebourgogne.fr/",
+        "adresse": "6 rue François Archer, 58270 Saint-Benin-d'Azy",
+        "note": 3,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17959437105502476563",
+        "nom": "Charpente Couverture Nivernaise",
+        "slug": "charpente-couverture-nivernaise",
+        "telephone": "06 14 99 72 10",
+        "site_web": "https://www.sarl-ccn.fr/",
+        "adresse": "27 Rue de la Badelle, 58270 Saint-Benin-d'Azy",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9565550444908118167",
+        "nom": "SARL SOTEC SALLE DE BAINS CUISINES",
+        "slug": "sarl-sotec-salle-de-bains-cuisines",
+        "telephone": "03 86 58 51 35",
+        "site_web": "http://www.sotec-salledebain-cuisine.fr/",
+        "adresse": "29 Rue de la Badelle, 58270 Saint-Benin-d'Azy",
+        "note": 5,
+        "avis": 5,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "9102432025590171556",
+        "nom": "BigMat Probat",
+        "slug": "bigmat-probat",
+        "telephone": "03 86 37 70 99",
+        "site_web": "https://www.bigmat.fr/probat/saint-benin-d-azy/",
+        "adresse": "Rue François Archer, 58270 Saint-Benin-d'Azy",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "15822535305691290863",
+        "nom": "Billardon Franck",
+        "slug": "billardon-franck",
+        "telephone": "03 86 23 17 25",
+        "site_web": null,
+        "adresse": "27 Rue de la Badelle, 58270 Saint-Benin-d'Azy",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12705753264843764324",
+        "nom": "Probat",
+        "slug": "probat",
+        "telephone": "03 86 37 70 99",
+        "site_web": "https://fr.linkedin.com/company/bigmat-france",
+        "adresse": "Rue François Archer, 58270 Saint-Benin-d'Azy",
+        "note": 4.3,
+        "avis": 32,
+        "type": "Menuisier"
+      },
+      {
+        "id": "781600545792351391",
+        "nom": "Entreprise Dutillieux",
+        "slug": "entreprise-dutillieux",
+        "telephone": "03 86 60 21 72",
+        "site_web": null,
+        "adresse": "20 Rue Claude Montaron, 58270 Saint-Benin-d'Azy",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "pougues-les-eaux": {
+    "artisans": [
+      {
+        "id": "10174074096780616587",
+        "nom": "Raval Façades - Experts en rénovation et entretien de façades",
+        "slug": "raval-facades-experts-en-renovation-et-entretien-de-facades",
+        "telephone": "06 69 33 00 11",
+        "site_web": "http://www.ravalfacades.com/",
+        "adresse": "Zone Industrielle de Bretagne, 58320 Pougues-les-Eaux",
+        "note": 5,
+        "avis": 23,
+        "type": "Façadier"
+      },
+      {
+        "id": "9745243163989829454",
+        "nom": "Menuisier près de Nevers",
+        "slug": "menuisier-pres-de-nevers",
+        "telephone": "06 63 97 73 89",
+        "site_web": "https://menuiserie-nevers.fr/",
+        "adresse": "63 Rue du Dr Jean Pidoux, 58320 Pougues-les-Eaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17135499207022136130",
+        "nom": "Entreprise MDF",
+        "slug": "entreprise-mdf",
+        "telephone": "06 63 97 73 89",
+        "site_web": "https://www.menuiserie-mdf.fr/",
+        "adresse": "Rue des Vièvres, 58320 Pougues-les-Eaux",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "premery": {
+    "artisans": [
+      {
+        "id": "15318073799180318096",
+        "nom": "Barrat Olivier",
+        "slug": "barrat-olivier",
+        "telephone": "03 58 07 01 75",
+        "site_web": "http://www.eurlbarratolivier.fr/",
+        "adresse": "7 Rue Auguste Lambiotte, 58700 Prémery",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14765051849059211332",
+        "nom": "Eurl Mijeon",
+        "slug": "eurl-mijeon",
+        "telephone": "03 45 52 40 62",
+        "site_web": "https://www.mijeon-couverture.fr/",
+        "adresse": "21 Rte de Nevers, 58700 Prémery",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5568938489646345096",
+        "nom": "E.P.E Sarl",
+        "slug": "epe-sarl",
+        "telephone": "03 86 68 11 31",
+        "site_web": "https://www.epe-premery.fr/",
+        "adresse": "10 Grande Rue, 58700 Prémery",
+        "note": 4.1,
+        "avis": 12,
+        "type": "Électricien"
+      },
+      {
+        "id": "17311907825615870692",
+        "nom": "Epe Pascault - Extra",
+        "slug": "epe-pascault-extra",
+        "telephone": "03 86 68 11 31",
+        "site_web": "https://www.extra.fr/magasin/extra-premery",
+        "adresse": "10 Grande Rue, 58700 Prémery",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "coulanges-les-nevers": {
+    "artisans": [
+      {
+        "id": "11226753622241728241",
+        "nom": "4 P Menuiserie",
+        "slug": "4-p-menuiserie",
+        "telephone": "03 86 37 67 14",
+        "site_web": "http://4p-menuiserie.com/",
+        "adresse": "18 bis Rue Dr Michel Gaulier, 58660 Coulanges-lès-Nevers",
+        "note": 4.2,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5181784375475301458",
+        "nom": "Miroiterie du Centre",
+        "slug": "miroiterie-du-centre",
+        "telephone": "03 86 36 00 50",
+        "site_web": "https://www.miroiterieducentre.com/",
+        "adresse": "Clos de la Pique, 58640 Coulanges-lès-Nevers",
+        "note": 4.5,
+        "avis": 79,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "pouilly-sur-loire": {
+    "artisans": [
+      {
+        "id": "2318992999186000324",
+        "nom": "MAGRÉ MENUISERIE",
+        "slug": "magre-menuiserie",
+        "telephone": "03 86 39 02 27",
+        "site_web": "https://www.magre-menuiserie.fr/",
+        "adresse": "5 Av. de la Gare, 58150 Pouilly-sur-Loire",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2712445860593132575",
+        "nom": "Menuiserie Rétif",
+        "slug": "menuiserie-retif",
+        "telephone": "03 86 26 83 73",
+        "site_web": "http://www.menuiserie-retif.fr/?utm_source=gmb",
+        "adresse": "41 Rue du Château Gaillard, 58150 Pouilly-sur-Loire",
+        "note": 5,
+        "avis": 3,
+        "type": "Artisanat"
+      }
+    ]
+  },
+  "saint-amand-en-puisaye": {
+    "artisans": [
+      {
+        "id": "9939788045397195323",
+        "nom": "TP Bizot",
+        "slug": "tp-bizot",
+        "telephone": "03 86 39 78 93",
+        "site_web": null,
+        "adresse": "La Chapelle, 58310 Saint-Amand-en-Puisaye",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "2313870551070787607",
+        "nom": "Kj Frères SARL",
+        "slug": "kj-freres-sarl",
+        "telephone": "06 62 13 47 11",
+        "site_web": "http://www.kj-freres-maconnerie.fr/",
+        "adresse": "6 Rte des Jourlins, 58310 Saint-Amand-en-Puisaye",
+        "note": 5,
+        "avis": 11,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "saint-eloi": {
+    "artisans": [
+      {
+        "id": "10414045237391658820",
+        "nom": "Ouverture Expert conseil - OUVERTURE'S - RENOVAL",
+        "slug": "ouverture-expert-conseil-ouvertures-renoval",
+        "telephone": "03 86 23 16 10",
+        "site_web": "https://www.ouvertures-expert-conseil.fr/",
+        "adresse": "40 Rte de Bourgogne, 58000 Saint-Éloi",
+        "note": 4.5,
+        "avis": 67,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13634110610907411411",
+        "nom": "L'Escalier en Bois",
+        "slug": "lescalier-en-bois",
+        "telephone": "03 86 36 44 57",
+        "site_web": "https://www.lescalierenbois.com/",
+        "adresse": "L a Baratte, 1756 Rte de Château Chinon, 58000 Saint-Éloi",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3984945724902182300",
+        "nom": "MENUISERIE COLIN - PIERRET portes et fenêtres",
+        "slug": "menuiserie-colin-pierret-portes-et-fenetres",
+        "telephone": "03 86 61 16 81",
+        "site_web": null,
+        "adresse": "20 BIS Av. Pierre Bérégovoy, 58000 Nevers",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5705275581337256729",
+        "nom": "SARL Dos Santos",
+        "slug": "sarl-dos-santos",
+        "telephone": "03 86 61 41 92",
+        "site_web": null,
+        "adresse": "12 Rte de Chaluzy, 58000 Saint-Éloi",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2061023280453483709",
+        "nom": "Dacom - Rénoval",
+        "slug": "dacom-renoval",
+        "telephone": "03 86 23 16 10",
+        "site_web": "https://www.renoval-veranda.com/",
+        "adresse": "40 Rte de Bourgogne, 58000 Saint-Éloi",
+        "note": 3,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "2964519860733464746",
+        "nom": "MQS",
+        "slug": "mqs",
+        "telephone": "03 86 59 24 66",
+        "site_web": "http://www.mqs-58.com/",
+        "adresse": "1 Fbg de la Baratte, 58000 Nevers",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5178236163815792287",
+        "nom": "Scierie du Val de Loire SARL",
+        "slug": "scierie-du-val-de-loire-sarl",
+        "telephone": "03 86 61 12 63",
+        "site_web": "https://www.svl-nevers.fr/?utm_source=gmb",
+        "adresse": "2181 Rte de Château Chinon, 58000 Saint-Éloi",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-parize-le-chatel": {
+    "artisans": [
+      {
+        "id": "13467925100575153642",
+        "nom": "Artilux - Expert Velux",
+        "slug": "artilux-expert-velux",
+        "telephone": "06 14 17 11 00",
+        "site_web": "https://artilux.fr/",
+        "adresse": "Lieu-dit Davelle, 22, 71550",
+        "note": 4.6,
+        "avis": 35,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "luzy": {
+    "artisans": [
+      {
+        "id": "14052919656079475365",
+        "nom": "La Fermeture Pres De Chez Vous",
+        "slug": "la-fermeture-pres-de-chez-vous",
+        "telephone": "06 27 36 12 26",
+        "site_web": null,
+        "adresse": "3 Av. du Dr Bramard, 58170 Luzy",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Serrurier"
+      },
+      {
+        "id": "16169207141847369123",
+        "nom": "Weldom Luzy",
+        "slug": "weldom-luzy",
+        "telephone": "03 86 30 14 51",
+        "site_web": "https://www.weldom.fr/m/weldom-luzy",
+        "adresse": "5 Rte de Charbonnat, 58170 Luzy",
+        "note": 4.4,
+        "avis": 515,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "saint-pere": {
+    "artisans": [
+      {
+        "id": "12558659552732328794",
+        "nom": "Mr Teddy Service habitat Couverture. Démosage. Nettoyage. Peinture. Réparation couverture. Tout corps d'état",
+        "slug": "mr-teddy-service-habitat-couverture-demosage-nettoyage-peinture-reparation-couverture-tout-corps-detat",
+        "telephone": "06 32 20 30 64",
+        "site_web": null,
+        "adresse": "32bis chemin du champ blanc, 58200 Cosne-Cours-sur-Loire",
+        "note": 4.9,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-pierre-le-moutier": {
+    "artisans": [
+      {
+        "id": "13467925100575153642",
+        "nom": "Artilux - Expert Velux",
+        "slug": "artilux-expert-velux",
+        "telephone": "06 14 17 11 00",
+        "site_web": "https://artilux.fr/",
+        "adresse": "Lieu-dit Davelle, 22, 71550",
+        "note": 4.6,
+        "avis": 35,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sauvigny-les-bois": {
+    "artisans": [
+      {
+        "id": "13467925100575153642",
+        "nom": "Artilux - Expert Velux",
+        "slug": "artilux-expert-velux",
+        "telephone": "06 14 17 11 00",
+        "site_web": "https://artilux.fr/",
+        "adresse": "Lieu-dit Davelle, 22, 71550",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-leger-des-vignes": {
+    "artisans": [
+      {
+        "id": "12908678457111896805",
+        "nom": "L'Expert Fenêtre Allier Toutes Fermetures",
+        "slug": "lexpert-fenetre-allier-toutes-fermetures",
+        "telephone": "04 70 43 24 46",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/moulins/",
+        "adresse": "Rue du Parc de la Mothe, 03400 Yzeure",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12333190630409740895",
+        "nom": "SAS Couverture Sud Nivernaise",
+        "slug": "sas-couverture-sud-nivernaise",
+        "telephone": "03 86 25 06 20",
+        "site_web": "https://www.couverturesudnivernaise.fr/",
+        "adresse": "28 Rte nationale, 58300 Saint-Léger-des-Vignes",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-machine": {
+    "artisans": [
+      {
+        "id": "3358698367077683196",
+        "nom": "Société Richmond Jean",
+        "slug": "societe-richmond-jean",
+        "telephone": "03 86 50 84 68",
+        "site_web": null,
+        "adresse": "8 Av. Jean Baptiste Machecourt, 58260 La Machine",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17757971270574964821",
+        "nom": "Boudot (Sarl)",
+        "slug": "boudot-sarl",
+        "telephone": "03 58 06 06 77",
+        "site_web": "http://www.boudot-menuiserie.fr/",
+        "adresse": "16 Ter Rue Pierre Curie, 58260 La Machine",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8067779451093314487",
+        "nom": "Le Marché du Bricolage",
+        "slug": "le-marche-du-bricolage",
+        "telephone": "03 86 50 80 65",
+        "site_web": "https://magasin.leclub-bricolage.fr/284-le-marche-du-bricolage-la-machine",
+        "adresse": "Pl. des Fusillés, 58260 La Machine",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de matériel de motoculture"
+      }
+    ]
+  },
+  "urzy": {
+    "artisans": [
+      {
+        "id": "18169292694700080937",
+        "nom": "Sols Murs 2000",
+        "slug": "sols-murs-2000",
+        "telephone": "03 86 23 14 32",
+        "site_web": null,
+        "adresse": "1 Rte de Demeurs, 58130 Urzy",
+        "note": 4.3,
+        "avis": 8,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5614583442100590874",
+        "nom": "N.T.B Nouvelles Techniques du Bâtiment",
+        "slug": "ntb-nouvelles-techniques-du-batiment",
+        "telephone": "03 86 37 38 99",
+        "site_web": null,
+        "adresse": "47 Rue de l'Usine, 58130 Urzy",
+        "note": 4,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "1906460800485617886",
+        "nom": "CreaFermeture - Installateur Agréé Velux",
+        "slug": "creafermeture-installateur-agree-velux",
+        "telephone": "07 88 62 09 37",
+        "site_web": "https://creafermeture.fr/",
+        "adresse": "5 Rue des Suisses, 75014 Paris",
+        "note": 4.9,
+        "avis": 79,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11735501826714254259",
+        "nom": "NICOLAS H.",
+        "slug": "nicolas-h",
+        "telephone": "06 87 30 65 64",
+        "site_web": null,
+        "adresse": "71 Imp. du Gros Chêne, 58130 Urzy",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "magny-cours": {
+    "artisans": [
+      {
+        "id": "13882234396914216282",
+        "nom": "Menuiserie Croland Philippe",
+        "slug": "menuiserie-croland-philippe",
+        "telephone": "03 86 58 15 33",
+        "site_web": null,
+        "adresse": "3 Rue du Champ de Magny, 58470 Magny-Cours",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "marzy": {
+    "artisans": [
+      {
+        "id": "6661589444089092061",
+        "nom": "La Boutique Du Menuisier Nevers",
+        "slug": "la-boutique-du-menuisier-nevers",
+        "telephone": "03 86 57 23 21",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/thezard-menuiserie",
+        "adresse": "55 B Bd du Grands-Prés-des-Bordes, 58000 Nevers",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7851506803857987479",
+        "nom": "Anquetil Bruno",
+        "slug": "anquetil-bruno",
+        "telephone": "09 60 06 24 04",
+        "site_web": null,
+        "adresse": "24 Rue aux Chevaux, 58180 Marzy",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9966991814983838725",
+        "nom": "THEZARD MENUISERIE Sarl",
+        "slug": "thezard-menuiserie-sarl",
+        "telephone": "03 86 57 23 21",
+        "site_web": "https://laboutiquedumenuisier.fr/",
+        "adresse": "20 Rue des Couteriaux, 58180 Marzy",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "moulins-engilbert": {
+    "artisans": [
+      {
+        "id": "3668710022544905445",
+        "nom": "SBR Meubles&Menuiserie",
+        "slug": "sbr-meublesmenuiserie",
+        "telephone": "06 65 38 23 11",
+        "site_web": "https://menuisier-moulins-engilbert.com/",
+        "adresse": "19 Rte de Château Chinon, 58290 Moulins-Engilbert",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14555100999308351141",
+        "nom": "Lerévérend Michael",
+        "slug": "lereverend-michael",
+        "telephone": "03 86 84 22 68",
+        "site_web": null,
+        "adresse": "3 Rue des Fossés, 58290 Moulins-Engilbert",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8580067056657877817",
+        "nom": "BROSSARD ET ROY MEUBLES ET MENUISERIE SARL",
+        "slug": "brossard-et-roy-meubles-et-menuiserie-sarl",
+        "telephone": "06 65 38 23 11",
+        "site_web": "https://www.menuisier-moulins-engilbert.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "19 Rte de Château Chinon, 58290 Moulins-Engilbert",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "neuvy-sur-loire": {
+    "artisans": [
+      {
+        "id": "10838121802433035835",
+        "nom": "NEUVY COUVERTURE traitement de toiture traitement anti mousse et rénovation",
+        "slug": "neuvy-couverture-traitement-de-toiture-traitement-anti-mousse-et-renovation",
+        "telephone": "06 74 59 68 23",
+        "site_web": null,
+        "adresse": "27 Rue Alexandre Paris, 58450 Neuvy-sur-Loire",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "varennes-vauzelles": {
+    "artisans": [
+      {
+        "id": "15767755483230005303",
+        "nom": "Bleu Menuiseries",
+        "slug": "bleu-menuiseries",
+        "telephone": "03 86 57 14 08",
+        "site_web": "https://www.bleumenuiseries.fr/",
+        "adresse": "2 Rue Denis Papin, 58640 Varennes-Vauzelles",
+        "note": 4,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6348990760334681356",
+        "nom": "BRISSET",
+        "slug": "brisset",
+        "telephone": "03 86 38 02 70",
+        "site_web": "https://www.sarl-brisset.com/",
+        "adresse": "Rue des Grands Jardins, 58640 Varennes-Vauzelles",
+        "note": 2.6,
+        "avis": 5,
+        "type": "Charpentier"
+      }
+    ]
+  }
+}

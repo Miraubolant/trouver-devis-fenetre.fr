@@ -1,0 +1,1578 @@
+{
+  "bogny-sur-meuse": {
+    "artisans": [
+      {
+        "id": "5394901110296199565",
+        "nom": "Société Technique du Toit",
+        "slug": "societe-technique-du-toit",
+        "telephone": "03 24 32 05 64",
+        "site_web": null,
+        "adresse": "33 Rue Etienne Dolet, 08120 Bogny-sur-Meuse",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2625189452294455346",
+        "nom": "Muller Frédéric SARL",
+        "slug": "muller-frederic-sarl",
+        "telephone": "03 24 35 12 50",
+        "site_web": "http://www.frederic-muller-08.com/?utm_source=gmb",
+        "adresse": "54 RN 43, 08150 Lonny",
+        "note": 4.5,
+        "avis": 30,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16711215955555561844",
+        "nom": "Arden Style Deco",
+        "slug": "arden-style-deco",
+        "telephone": "06 03 86 13 81",
+        "site_web": "https://www.arden-style-deco.com/",
+        "adresse": "1 Rle du Gouverneur, 08120 Bogny-sur-Meuse",
+        "note": 5,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "11723682350674372420",
+        "nom": "Technique Du Toit",
+        "slug": "technique-du-toit",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue Victor Hugo, 08120 Bogny-sur-Meuse",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "10702769923617174436",
+        "nom": "Menuiserie Dasnois- menuiserie intérieur et extérieur sur mesure",
+        "slug": "menuiserie-dasnois-menuiserie-interieur-et-exterieur-sur-mesure",
+        "telephone": "+32 61 41 37 82",
+        "site_web": "http://menuiseriedasnois.be/",
+        "adresse": "La Géripont 94, 6880 Bertrix, Belgique",
+        "note": 4.8,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2188455119432274445",
+        "nom": "L'Artisan Couvreur Righi Nicolas",
+        "slug": "lartisan-couvreur-righi-nicolas",
+        "telephone": "06 08 43 08 20",
+        "site_web": "https://lartisan-couvreur.fr/",
+        "adresse": "PARC D'ACTIVITES LES HAUTS DE, Rte de Saint-Laurent, 08090 Saint-Laurent",
+        "note": 4.7,
+        "avis": 24,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2301229875656202051",
+        "nom": "ISOL R FERMETURES by PIERRET",
+        "slug": "isol-r-fermetures-by-pierret",
+        "telephone": "01 60 27 56 90",
+        "site_web": "https://isolrfermetures.fr/",
+        "adresse": "9 Av. Jean Jaurès, 77290 Mitry-Mory",
+        "note": 5,
+        "avis": 69,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "7474969034908680988",
+        "nom": "VERRE SOLUTIONS CHARLEVILLE-MEZIERES",
+        "slug": "verre-solutions-charleville-mezieres",
+        "telephone": "03 24 57 68 42",
+        "site_web": "https://agence.verre-solutions.com/12-verre-solutions-charleville-mezieres?utm_source=gmb",
+        "adresse": "5 ZA Verte, 08430 Poix-Terron",
+        "note": 4.7,
+        "avis": 46,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "asfeld": {
+    "artisans": [
+      {
+        "id": "17983333442068408200",
+        "nom": "PROFERMA - Fenêtres Portes Volets à Asfeld",
+        "slug": "proferma-fenetres-portes-volets-a-asfeld",
+        "telephone": "03 24 72 94 30",
+        "site_web": "http://www.proferma.fr/",
+        "adresse": "9 Rue du Dr Landès, 08190 Asfeld",
+        "note": 4.9,
+        "avis": 118,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bazeilles": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "balan": {
+    "artisans": [
+      {
+        "id": "4901177473787632171",
+        "nom": "Ardennes menuiseries concept : fenêtres, portes, volets, portails, clôtures, garde-corps",
+        "slug": "ardennes-menuiseries-concept-fenetres-portes-volets-portails-clotures-garde-corps",
+        "telephone": "09 84 42 99 27",
+        "site_web": "http://www.ardennes-menuiseries-concept.fr/",
+        "adresse": "1 Av. Philippoteaux, 08200 Sedan",
+        "note": 4.9,
+        "avis": 67,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13822865145931789517",
+        "nom": "Ardennes Fermetures",
+        "slug": "ardennes-fermetures",
+        "telephone": "03 24 33 44 70",
+        "site_web": "https://www.ardennes-fermetures.com/",
+        "adresse": "31 Rue de Bellevue, 08200 Glaire",
+        "note": 4.9,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13081879775736906664",
+        "nom": "Arfen",
+        "slug": "arfen",
+        "telephone": "06 43 97 75 55",
+        "site_web": "https://arfen-menuiserie.fr/",
+        "adresse": "16 Rue des Juifs, 08450 La Neuville-à-Maire",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3742403261857474810",
+        "nom": "BR Fenêtres",
+        "slug": "br-fenetres",
+        "telephone": "03 24 35 75 42",
+        "site_web": "https://www.br-fenetres.fr/",
+        "adresse": "60 Av. des Martyrs de la Résistance, 08200 Sedan",
+        "note": 4.8,
+        "avis": 37,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3599260337211459179",
+        "nom": "F2VSedan",
+        "slug": "f2vsedan",
+        "telephone": "03 24 57 00 97",
+        "site_web": "https://www.f2v08.fr/",
+        "adresse": "4 Pl. de Torcy, 08200 Sedan",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6628980676496052902",
+        "nom": "FENETRAL",
+        "slug": "fenetral",
+        "telephone": "03 24 33 95 40",
+        "site_web": "https://www.fenetral.fr/",
+        "adresse": "ZA verte, 08430 Poix-Terron",
+        "note": 4.7,
+        "avis": 119,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "13526634347958015397",
+        "nom": "CD Fermetures",
+        "slug": "cd-fermetures",
+        "telephone": "06 72 73 45 38",
+        "site_web": "http://www.cd-fermetures.fr/",
+        "adresse": "18 Rte de Bellevue, 08200 Sedan",
+        "note": 4.9,
+        "avis": 147,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11766993734873557749",
+        "nom": "DMF - BALAN",
+        "slug": "dmf-balan",
+        "telephone": "04 78 04 36 64",
+        "site_web": "http://dmfweb.fr/",
+        "adresse": "582 Rte de Lyon, 01360 Balan",
+        "note": 3.7,
+        "avis": 55,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "attigny": {
+    "artisans": [
+      {
+        "id": "1084617737222350178",
+        "nom": "SARL Deleau Couvertures",
+        "slug": "sarl-deleau-couvertures",
+        "telephone": "09 74 56 11 48",
+        "site_web": "https://www.deleaucouverture.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "27 Av. Jean Jaurès, 08130 Attigny",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17512038727926639356",
+        "nom": "Ardennes Metal Concept",
+        "slug": "ardennes-metal-concept",
+        "telephone": "03 24 30 41 86",
+        "site_web": "https://amc08jl.wixsite.com/amc08",
+        "adresse": "8 Rue des Vieux Moulins, 08130 Attigny",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "carignan": {
+    "artisans": [
+      {
+        "id": "17687962045749509905",
+        "nom": "Jeromefrancecouverture",
+        "slug": "jeromefrancecouverture",
+        "telephone": "07 65 56 12 58",
+        "site_web": "http://facebook.com/jeromefrancecouverture",
+        "adresse": "9 Rue Georges Rennesson, 08110 Carignan",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8668275138411439061",
+        "nom": "Anthony Toiture",
+        "slug": "anthony-toiture",
+        "telephone": "06 04 17 24 71",
+        "site_web": null,
+        "adresse": "route de Osnes, batiment B, 08110 Carignan",
+        "note": 4.8,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4857708853562370928",
+        "nom": "Ph Menuiseries",
+        "slug": "ph-menuiseries",
+        "telephone": "03 24 33 18 89",
+        "site_web": "http://phmenuiseries.com/",
+        "adresse": "10 Rue Pierre Denaiffe, 08110 Carignan",
+        "note": 2.8,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1244733783614257440",
+        "nom": "AV FERMETURES",
+        "slug": "av-fermetures",
+        "telephone": "09 74 56 78 51",
+        "site_web": null,
+        "adresse": "2 Rue du Faubourg, 08110 Carignan",
+        "note": 1.8,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4557956959630159068",
+        "nom": "Maison Du Bois",
+        "slug": "maison-du-bois",
+        "telephone": "03 24 26 18 42",
+        "site_web": "http://www.la-maison-du-bois.com/",
+        "adresse": "29 Rue Maria Visseaux, 08110 Carignan",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "aiglemont": {
+    "artisans": [
+      {
+        "id": "2684547384426360000",
+        "nom": "Menuiserie Thiry Dominique Ardennes",
+        "slug": "menuiserie-thiry-dominique-ardennes",
+        "telephone": "03 24 33 86 06",
+        "site_web": "http://www.menuiserie-thiry-ardennes.com/",
+        "adresse": "6 Rue Marcel Dorigny, 08090 Aiglemont",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "blagny": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "deville": {
+    "artisans": [
+      {
+        "id": "291150376680257712",
+        "nom": "Deville",
+        "slug": "deville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "08800 Deville",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "la-francheville": {
+    "artisans": [
+      {
+        "id": "12989564540600344368",
+        "nom": "Fermetures PONSARDIN",
+        "slug": "fermetures-ponsardin",
+        "telephone": "03 24 58 17 62",
+        "site_web": "http://www.fermetures-ponsardin.fr/",
+        "adresse": "15 Rue du Grand Ban, 08000 La Francheville",
+        "note": 4.4,
+        "avis": 118,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14811623290482238245",
+        "nom": "Façon Bois Société Nouvelle",
+        "slug": "facon-bois-societe-nouvelle",
+        "telephone": "03 24 58 13 69",
+        "site_web": "https://www.facon-bois-sn.com/",
+        "adresse": "Zac du grand Ban, 08000 La Francheville",
+        "note": 3,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "chateau-porcien": {
+    "artisans": [
+      {
+        "id": "1860849778371841038",
+        "nom": "Label Pierre",
+        "slug": "label-pierre",
+        "telephone": "03 24 73 70 95",
+        "site_web": "http://www.labelpierre.net/",
+        "adresse": "Zone Artisanale, 08360 Château-Porcien",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "charleville-mezieres": {
+    "artisans": [
+      {
+        "id": "12387555017330396316",
+        "nom": "KparK Charleville",
+        "slug": "kpark-charleville",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/9-kpark-charleville?utm_source=gmb",
+        "adresse": "2 Rue du Relai, 08000 Charleville-Mézières",
+        "note": 4.7,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5411046359347071703",
+        "nom": "SARL WIART Fermetures",
+        "slug": "sarl-wiart-fermetures",
+        "telephone": "03 24 35 16 37",
+        "site_web": "https://www.wiart-fermetures.fr/",
+        "adresse": "18 Rue de Anciens Combattants d'Afrique du N, 08000 Charleville-Mézières",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2684547384426360000",
+        "nom": "Menuiserie Thiry Dominique Ardennes",
+        "slug": "menuiserie-thiry-dominique-ardennes",
+        "telephone": "03 24 33 86 06",
+        "site_web": "http://www.menuiserie-thiry-ardennes.com/",
+        "adresse": "6 Rue Marcel Dorigny, 08090 Aiglemont",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4778214414849460131",
+        "nom": "E.B.A FERMETURES PLACO CARELAGE",
+        "slug": "eba-fermetures-placo-carelage",
+        "telephone": "06 43 51 57 82",
+        "site_web": null,
+        "adresse": "4 Rue Voltaire, 08000 Charleville-Mézières",
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "960956030143447325",
+        "nom": "ETS GAUTHIER - Art & Fenêtres Vivier-au-Court",
+        "slug": "ets-gauthier-art-fenetres-vivier-au-court",
+        "telephone": "03 24 52 70 10",
+        "site_web": "https://gauthier.artetfenetres.com/",
+        "adresse": "Zac du Boitron Route Vrigné Meuse, 08440 Vivier-au-Court",
+        "note": 4.7,
+        "avis": 43,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "10061773435723877906",
+        "nom": "DD Couverture",
+        "slug": "dd-couverture",
+        "telephone": "06 14 46 90 13",
+        "site_web": "http://www.ddcouverture.fr/",
+        "adresse": "13 Rue Savart, 08000 Charleville-Mézières",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3147923775814529517",
+        "nom": "Ardennes Veranda",
+        "slug": "ardennes-veranda",
+        "telephone": "03 24 52 39 12",
+        "site_web": "http://www.polehabitat-ardennes.fr/",
+        "adresse": "12 Rue Paulin Richier, 08000 Charleville-Mézières",
+        "note": 3.5,
+        "avis": 6,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "11233392236227067801",
+        "nom": "Beguin Laurent Sarl",
+        "slug": "beguin-laurent-sarl",
+        "telephone": "03 24 57 39 08",
+        "site_web": "https://www.beguin-menuiserie-charlevillemezieres.fr/?utm_source=gmb",
+        "adresse": "12 Rte de Belval, 08090 Haudrecy",
+        "note": 5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "donchery": {
+    "artisans": [
+      {
+        "id": "7967774676714397196",
+        "nom": "SAV Des Fermetures",
+        "slug": "sav-des-fermetures",
+        "telephone": "06 75 59 46 29",
+        "site_web": "https://savdesfermetures.fr/",
+        "adresse": "8 Rue Georges Clemenceau, 08350 Donchery",
+        "note": 5,
+        "avis": 41,
+        "type": "Magasin de portes"
+      }
+    ]
+  },
+  "bairon-et-ses-environs": {
+    "artisans": [
+      {
+        "id": "12387555017330396316",
+        "nom": "KparK Charleville",
+        "slug": "kpark-charleville",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/9-kpark-charleville?utm_source=gmb",
+        "adresse": "2 Rue du Relai, 08000 Charleville-Mézières",
+        "note": 4.7,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "dom-le-mesnil": {
+    "artisans": [
+      {
+        "id": "2550006793827196832",
+        "nom": "Jm pro renov couvreur à Sedan : Rénovation & démoussage de toiture / Gouttière | Peinture toit",
+        "slug": "jm-pro-renov-couvreur-a-sedan-renovation-demoussage-de-toiture-gouttiere-peinture-toit",
+        "telephone": "06 78 74 27 09",
+        "site_web": "https://jm-pro-couverture.fr/",
+        "adresse": "15 Rue du Moulin, 08160 Dom-le-Mesnil",
+        "note": 5,
+        "avis": 22,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17607730868424108515",
+        "nom": "Rénovation Ardennes",
+        "slug": "renovation-ardennes",
+        "telephone": "06 03 48 90 72",
+        "site_web": "https://renovationardennes.fr/",
+        "adresse": "296 Rue du Moulin, 08160 Dom-le-Mesnil",
+        "note": 5,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "douzy": {
+    "artisans": [
+      {
+        "id": "13292290214761772913",
+        "nom": "M2N - Rénoval",
+        "slug": "m2n-renoval",
+        "telephone": "03 24 22 40 73",
+        "site_web": "http://www.m2n-ardennes.com/",
+        "adresse": "76 G Rte nationale, 08140 Douzy",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "flize": {
+    "artisans": [
+      {
+        "id": "905633728239505965",
+        "nom": "SOBACO Frères Restauration Façades",
+        "slug": "sobaco-freres-restauration-facades",
+        "telephone": "06 76 27 70 82",
+        "site_web": "https://www.sarlsobacofreres.fr/",
+        "adresse": "44 Rue de Sedan, 08160 Flize",
+        "note": 5,
+        "avis": 37,
+        "type": "Façadier"
+      },
+      {
+        "id": "4667328641344582520",
+        "nom": "Alu Baie Creation",
+        "slug": "alu-baie-creation",
+        "telephone": "09 81 42 82 88",
+        "site_web": null,
+        "adresse": "ZA, 08160 Flize",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5971330061574256008",
+        "nom": "Fermetures Bisiau",
+        "slug": "fermetures-bisiau",
+        "telephone": "06 87 97 44 59",
+        "site_web": "https://bisiau-fsa.fr/",
+        "adresse": "8 Rue du Bois de la Fontaine, 08300 Neuflize",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16127466238433341641",
+        "nom": "Nord Est Toitures",
+        "slug": "nord-est-toitures",
+        "telephone": "06 32 74 52 43",
+        "site_web": "http://facebook.com/Nord-Est-Toitures-1502973429958583/?utm_source=gmb",
+        "adresse": "Zone artisanale, 08160 Flize",
+        "note": 4.1,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16154954838198077285",
+        "nom": "Renov' Habitat Faucheux Christian",
+        "slug": "renov-habitat-faucheux-christian",
+        "telephone": "03 24 52 12 68",
+        "site_web": "https://www.facebook.com/christianfaucheuxrenovhabitat/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "1184433925215133156",
+        "nom": "Artisans Du Batiment",
+        "slug": "artisans-du-batiment",
+        "telephone": "06 43 25 86 40",
+        "site_web": "https://www.facebook.com/profile.php?id=100063609849215",
+        "adresse": "4 Rue Gambetta, 08160 Flize",
+        "note": 4.1,
+        "avis": 22,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "floing": {
+    "artisans": [
+      {
+        "id": "13775743337180463333",
+        "nom": "Husson Mickaël couvreur",
+        "slug": "husson-mickael-couvreur",
+        "telephone": "06 71 48 25 95",
+        "site_web": null,
+        "adresse": "6 All. de la Division Margueritte, 08200 Floing",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "fumay": {
+    "artisans": [
+      {
+        "id": "9443419923742202357",
+        "nom": "Saddek",
+        "slug": "saddek",
+        "telephone": "03 24 41 18 91",
+        "site_web": "http://www.etablissement-saddek.fr/",
+        "adresse": "Ecart Sainte-Marie, 08170 Fumay",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "warcq": {
+    "artisans": [
+      {
+        "id": "13318044079795336461",
+        "nom": "Tuflex",
+        "slug": "tuflex",
+        "telephone": "03 24 33 52 98",
+        "site_web": "https://www.tuflex.fr/",
+        "adresse": "116 Bd Lucien Pierquin, 08000 Warcq",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Magasin de gros"
+      },
+      {
+        "id": "1753197872158632455",
+        "nom": "Kiloutou Charleville Mézières (Warcq)",
+        "slug": "kiloutou-charleville-mezieres-warcq",
+        "telephone": "03 74 09 80 46",
+        "site_web": "https://www.kiloutou.fr/agences/grand-est/ardennes/warcq/0144/?utm_source=agency_0144&utm_medium=presence_management&utm_campaign=website_link",
+        "adresse": "8 Rue du Commerce, 08000 Warcq",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Agence de location de matériel"
+      },
+      {
+        "id": "14860427688440279491",
+        "nom": "Centrakor Warcq",
+        "slug": "centrakor-warcq",
+        "telephone": "03 24 58 36 08",
+        "site_web": null,
+        "adresse": "Rue Saint-Paul, 08000 Warcq",
+        "note": 4,
+        "avis": 712,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "11846397066369827475",
+        "nom": "CPE Béton et Carrière",
+        "slug": "cpe-beton-et-carriere",
+        "telephone": "03 24 33 46 25",
+        "site_web": "https://www.cpe-beton-carriere.com/",
+        "adresse": "8 Rue du Commerce, 08000 Warcq",
+        "note": 4,
+        "avis": 14,
+        "type": "Fournisseur de granulats"
+      }
+    ]
+  },
+  "givonne": {
+    "artisans": [
+      {
+        "id": "7474969034908680988",
+        "nom": "VERRE SOLUTIONS CHARLEVILLE-MEZIERES",
+        "slug": "verre-solutions-charleville-mezieres",
+        "telephone": "03 24 57 68 42",
+        "site_web": "https://agence.verre-solutions.com/12-verre-solutions-charleville-mezieres?utm_source=gmb",
+        "adresse": "5 ZA Verte, 08430 Poix-Terron",
+        "note": 4.7,
+        "avis": 46,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "fromelennes": {
+    "artisans": [
+      {
+        "id": "16496026576198168372",
+        "nom": "Bortolotti Sylvain",
+        "slug": "bortolotti-sylvain",
+        "telephone": "03 24 41 47 73",
+        "site_web": null,
+        "adresse": "29 Rue de la Manufacture, 08600 Fromelennes",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "7600909313553200027",
+        "nom": "Fentra - Menuiseries Pvc, bois, Alu",
+        "slug": "fentra-menuiseries-pvc-bois-alu",
+        "telephone": "+32 800 11 757",
+        "site_web": "https://fentra.be/",
+        "adresse": null,
+        "note": 3.8,
+        "avis": 204,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-hautes-rivieres": {
+    "artisans": [
+      {
+        "id": "960956030143447325",
+        "nom": "ETS GAUTHIER - Art & Fenêtres Vivier-au-Court",
+        "slug": "ets-gauthier-art-fenetres-vivier-au-court",
+        "telephone": "03 24 52 70 10",
+        "site_web": "https://gauthier.artetfenetres.com/",
+        "adresse": "Zac du Boitron Route Vrigné Meuse, 08440 Vivier-au-Court",
+        "note": 4.7,
+        "avis": 43,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "haybes": {
+    "artisans": [
+      {
+        "id": "1409610730324402012",
+        "nom": "François Frédéric",
+        "slug": "francois-frederic",
+        "telephone": "03 24 41 21 75",
+        "site_web": null,
+        "adresse": "29 Rue du Dr Bonnet, 08170 Haybes",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9645837751018279139",
+        "nom": "L'esprit Fermetures",
+        "slug": "lesprit-fermetures",
+        "telephone": "03 24 27 22 93",
+        "site_web": "https://www.facebook.com/profile.php?id=100080504746986&utm_source=gmb",
+        "adresse": "5715 Rue des Forges, 08320 Vireux-Molhain",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3260795879327387997",
+        "nom": "HAYBES Matériaux",
+        "slug": "haybes-materiaux",
+        "telephone": "03 24 27 69 43",
+        "site_web": null,
+        "adresse": "Rue de l'Espérance, 08170 Haybes",
+        "note": 4.6,
+        "avis": 32,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "3049882772264255991",
+        "nom": "Norman Fevry SASU",
+        "slug": "norman-fevry-sasu",
+        "telephone": "06 71 34 87 39",
+        "site_web": "http://fevry-norman-plombier.fr/",
+        "adresse": "64 Rue de la Censé, 08170 Haybes",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lumes": {
+    "artisans": [
+      {
+        "id": "10501896248030546325",
+        "nom": "Spie Est",
+        "slug": "spie-est",
+        "telephone": "03 24 37 32 33",
+        "site_web": null,
+        "adresse": "Les Jardins, 08440 Lumes",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4470041702186226412",
+        "nom": "Petitmangin Clément",
+        "slug": "petitmangin-clement",
+        "telephone": "03 24 52 14 77",
+        "site_web": "https://www.petitmangin-philippe.fr/",
+        "adresse": "Rte de Vrigne Meuse, 08440 Vivier-au-Court",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5113928578456298763",
+        "nom": "Ardenn Eclair",
+        "slug": "ardenn-eclair",
+        "telephone": "06 81 84 47 27",
+        "site_web": null,
+        "adresse": "23 Rue du Pont, 08440 Lumes",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "5754592644453728116",
+        "nom": "SARL Fesson",
+        "slug": "sarl-fesson",
+        "telephone": "06 79 40 62 22",
+        "site_web": "https://couverture-charleville08.fr/fr/page/contact",
+        "adresse": "2 bis Rue Paul Langevin, 08440 Vivier-au-Court",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7900116465523158016",
+        "nom": "Galloo Charleville-Mézières",
+        "slug": "galloo-charleville-mezieres",
+        "telephone": "03 24 54 12 34",
+        "site_web": "https://www.galloo.com/fr/succursales/galloo-charleville-mezieres?utm_source=gmb&utm_medium=local&utm_campaign=charleville",
+        "adresse": "2, Fossé du Vivier à pont, 08440 Lumes",
+        "note": 0,
+        "avis": 0,
+        "type": "Marchand de ferraille"
+      }
+    ]
+  },
+  "givet": {
+    "artisans": [
+      {
+        "id": "5412623786976402086",
+        "nom": "SF AMENAGEMENT",
+        "slug": "sf-amenagement",
+        "telephone": "06 49 22 94 98",
+        "site_web": "https://www.sfamenagement.fr/",
+        "adresse": "6 Rue Stanislas Martougen, 08600 Givet",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "juniville": {
+    "artisans": [
+      {
+        "id": "11415476638238747195",
+        "nom": "SAS Ecotech Fermetures",
+        "slug": "sas-ecotech-fermetures",
+        "telephone": "03 24 33 30 41",
+        "site_web": "https://www.ecotech-fermetures.fr/",
+        "adresse": "18 Av. Eugène Franquin, 08200 Sedan",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10939081228801058173",
+        "nom": "Aubriet Père et Fils",
+        "slug": "aubriet-pere-et-fils",
+        "telephone": "03 24 39 43 49",
+        "site_web": null,
+        "adresse": "15 Rue Chanteraine, 08310 Juniville",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11071383249997295294",
+        "nom": "Vitrerie Miroiterie de la Neuvillette",
+        "slug": "vitrerie-miroiterie-de-la-neuvillette",
+        "telephone": "03 26 35 64 75",
+        "site_web": "https://www.vitreriemiroiterie-neuvillette.fr/",
+        "adresse": "16 Rue des Tilleuls, 51100 Reims",
+        "note": 4.8,
+        "avis": 73,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "8567169068535021233",
+        "nom": "BJ Couverture",
+        "slug": "bj-couverture",
+        "telephone": "06 29 43 57 19",
+        "site_web": "https://m.facebook.com/profile.php/?id=61553836221402",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3695815723325422027",
+        "nom": "Jot SARL",
+        "slug": "jot-sarl",
+        "telephone": "03 24 27 66 40",
+        "site_web": null,
+        "adresse": "Rte de Sedan, 08200 Wadelincourt",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "montcy-notre-dame": {
+    "artisans": [
+      {
+        "id": "7703768754990714621",
+        "nom": "Fermeture Montceenne",
+        "slug": "fermeture-montceenne",
+        "telephone": "06 76 67 51 78",
+        "site_web": null,
+        "adresse": "17 Rue sous le Village, 08090 Montcy-Notre-Dame",
+        "note": 5,
+        "avis": 3,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "18418836035617938160",
+        "nom": "Evp Menuiserie",
+        "slug": "evp-menuiserie",
+        "telephone": "06 79 14 23 48",
+        "site_web": null,
+        "adresse": "69 Rue Gustave Gailly, 08090 Montcy-Notre-Dame",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "maubert-fontaine": {
+    "artisans": [
+      {
+        "id": "15346366165786884610",
+        "nom": "SARL ECP",
+        "slug": "sarl-ecp",
+        "telephone": "06 30 04 41 40",
+        "site_web": "https://www.facebook.com/share/1TtZSzaAjN/?mibextid=wwXIfr",
+        "adresse": "34 Rte de Rocroi, 08260 Maubert-Fontaine",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "mouzon": {
+    "artisans": [
+      {
+        "id": "8245917150037719172",
+        "nom": "ABE - Ardennes Bio Energies",
+        "slug": "abe-ardennes-bio-energies",
+        "telephone": "03 24 26 15 27",
+        "site_web": "https://www.abe-energie.fr/",
+        "adresse": "Frm Vigneron, 08210 Mouzon",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Entreprise d'énergie solaire"
+      }
+    ]
+  },
+  "nouzonville": {
+    "artisans": [
+      {
+        "id": "1873219697351509042",
+        "nom": "Warsmann ste",
+        "slug": "warsmann-ste",
+        "telephone": "03 24 53 37 26",
+        "site_web": "http://www.warsmann.fr/",
+        "adresse": "7 Les Trois Obus, 08700 Nouzonville",
+        "note": 4.4,
+        "avis": 12,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "pouru-saint-remy": {
+    "artisans": [
+      {
+        "id": "2188455119432274445",
+        "nom": "L'Artisan Couvreur Righi Nicolas",
+        "slug": "lartisan-couvreur-righi-nicolas",
+        "telephone": "06 08 43 08 20",
+        "site_web": "https://lartisan-couvreur.fr/",
+        "adresse": "PARC D'ACTIVITES LES HAUTS DE, Rte de Saint-Laurent, 08090 Saint-Laurent",
+        "note": 4.7,
+        "avis": 24,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montherme": {
+    "artisans": [
+      {
+        "id": "10473184652655860970",
+        "nom": "JTZ Couverture",
+        "slug": "jtz-couverture",
+        "telephone": "06 12 46 26 79",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17559946166545288283",
+        "nom": "LAURENT COUPAYE",
+        "slug": "laurent-coupaye",
+        "telephone": "06 13 34 21 41",
+        "site_web": "https://www.coupaye-couverture-08.fr/",
+        "adresse": "51 Les Hauts Buttes, 08800 Monthermé",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nouvion-sur-meuse": {
+    "artisans": [
+      {
+        "id": "14004480507493237190",
+        "nom": "LA FONDERIE ROLLINGER",
+        "slug": "la-fonderie-rollinger",
+        "telephone": "03 24 54 02 10",
+        "site_web": "https://www.fonderie-rollinger.fr/",
+        "adresse": "4 Rue Martyrs de la Résistance, 08160 Nouvion-sur-Meuse",
+        "note": 5,
+        "avis": 4,
+        "type": "Fonderie"
+      }
+    ]
+  },
+  "renwez": {
+    "artisans": [
+      {
+        "id": "10607784847217783168",
+        "nom": "L&B",
+        "slug": "lb",
+        "telephone": "06 83 15 22 24",
+        "site_web": null,
+        "adresse": "32 Rue du Moulin, 08150 Renwez",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11139766080106632154",
+        "nom": "Référence Fermetures",
+        "slug": "reference-fermetures",
+        "telephone": "03 24 33 29 82",
+        "site_web": "https://www.facebook.com/referencefermetures/",
+        "adresse": null,
+        "note": 5,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "rethel": {
+    "artisans": [
+      {
+        "id": "1546862094399064867",
+        "nom": "Frechin Menuiseries Aluminium Verandas Pergolas Métallerie",
+        "slug": "frechin-menuiseries-aluminium-verandas-pergolas-metallerie",
+        "telephone": "03 24 38 44 53",
+        "site_web": "http://www.frechin-technal.fr/",
+        "adresse": "2 Rue Albert Caquot, 08300 Rethel",
+        "note": 4.8,
+        "avis": 92,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "8791569424002025462",
+        "nom": "PROFERMA - Fenêtres Portes Volets à Rethel",
+        "slug": "proferma-fenetres-portes-volets-a-rethel",
+        "telephone": "03 24 39 05 87",
+        "site_web": "https://proferma.fr/",
+        "adresse": "14 Av. Gambetta, 08300 Rethel",
+        "note": 5,
+        "avis": 29,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17404794393926652667",
+        "nom": "GERVAIS Fermetures",
+        "slug": "gervais-fermetures",
+        "telephone": "03 24 38 31 31",
+        "site_web": "https://www.facebook.com/Rethel-plastics-202369303451957",
+        "adresse": "Chem. de la Comtesse, 08300 Rethel",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12034699966484791508",
+        "nom": "ETS GAUTHIER - Art&Fenêtres Rethel",
+        "slug": "ets-gauthier-artfenetres-rethel",
+        "telephone": "03 24 52 70 10",
+        "site_web": "https://gauthier.artetfenetres.com/adresses-magasins/rethel-08300.php",
+        "adresse": "7 Rue Lucien Drapier, 08300 Rethel",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10969000276258575080",
+        "nom": "Lempereur menuiserie",
+        "slug": "lempereur-menuiserie",
+        "telephone": "03 24 38 49 07",
+        "site_web": "http://www.menuiserie-lempereur.com/",
+        "adresse": "Rue de Bazeilles, 08300 Rethel",
+        "note": 4,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7304052448006855859",
+        "nom": "AD Menuiseries Rethel",
+        "slug": "ad-menuiseries-rethel",
+        "telephone": "03 24 38 36 60",
+        "site_web": "http://www.admenuiseries.com/",
+        "adresse": "18 Rue Boucher de Perthes, 08300 Rethel",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "rocroi": {
+    "artisans": [
+      {
+        "id": "11332456948419079724",
+        "nom": "Cochard Arnaud",
+        "slug": "cochard-arnaud",
+        "telephone": "03 24 54 25 16",
+        "site_web": "https://www.ravalement-cochard.fr/",
+        "adresse": null,
+        "note": 4.2,
+        "avis": 39,
+        "type": "Façadier"
+      },
+      {
+        "id": "1897501368403205648",
+        "nom": "Sr2t",
+        "slug": "sr2t",
+        "telephone": "07 75 79 19 52",
+        "site_web": "https://www.sr2t.fr/",
+        "adresse": "6 Rue Grand Pavillon, 08230 Rocroi",
+        "note": 0,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "8388242903386035894",
+        "nom": "Couvreur SURY RÉNOVATIONS - Réparation Toiture - Nettoyage Toiture - Rénovation Toiture - Pose de gouttière 08",
+        "slug": "couvreur-sury-renovations-reparation-toiture-nettoyage-toiture-renovation-toiture-pose-de-gouttiere-08",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1690 Chem. Bidot, 08230 Rocroi",
+        "note": 5,
+        "avis": 54,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "revin": {
+    "artisans": [
+      {
+        "id": "12988084968850687366",
+        "nom": "AD Menuiserie Revin",
+        "slug": "ad-menuiserie-revin",
+        "telephone": "03 24 36 94 18",
+        "site_web": "https://www.admenuiseries.com/",
+        "adresse": "3 Rue Gambetta, 08500 Revin",
+        "note": 3.3,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "prix-les-mezieres": {
+    "artisans": [
+      {
+        "id": "10557177493902265147",
+        "nom": "Fermetures Richard",
+        "slug": "fermetures-richard",
+        "telephone": "03 24 33 08 98",
+        "site_web": "http://www.fermetures-richard.com/",
+        "adresse": "50 Rue Jean Moulin, 08000 Charleville-Mézières",
+        "note": 4.5,
+        "avis": 49,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "rimogne": {
+    "artisans": [
+      {
+        "id": "15994068482244046806",
+        "nom": "Ardennes Toitures Rénovation",
+        "slug": "ardennes-toitures-renovation",
+        "telephone": "06 69 94 38 41",
+        "site_web": "http://www.ardennes-toitures-renovation.fr/contact",
+        "adresse": "487 Rue Jules Guesde, 08150 Rimogne",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16708365544920331352",
+        "nom": "Chateau Couverture",
+        "slug": "chateau-couverture",
+        "telephone": "06 81 99 11 80",
+        "site_web": null,
+        "adresse": "36 Rue du Minon, 08150 Rimogne",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-laurent": {
+    "artisans": [
+      {
+        "id": "6831485658873071635",
+        "nom": "JL Renov' Habitat 08 couvreur recherche de fuite rénovation de toiture ravalement de façade charleville-Mézières Sedan",
+        "slug": "jl-renov-habitat-08-couvreur-recherche-de-fuite-renovation-de-toiture-ravalement-de-facade-charleville-mezieres-sedan",
+        "telephone": "03 53 64 09 18",
+        "site_web": "https://jl-renovhabitat.fr/contact.html",
+        "adresse": "11 Av. d'Arches, 08000 Charleville-Mézières",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6158058674692645473",
+        "nom": "Isolex",
+        "slug": "isolex",
+        "telephone": "03 10 43 29 62",
+        "site_web": "https://www.lhisolex.fr/",
+        "adresse": "36 Rte de Saint-Laurent, 08000 Charleville-Mézières",
+        "note": 5,
+        "avis": 19,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "sault-les-rethel": {
+    "artisans": [
+      {
+        "id": "12034699966484791508",
+        "nom": "ETS GAUTHIER - Art&Fenêtres Rethel",
+        "slug": "ets-gauthier-artfenetres-rethel",
+        "telephone": "03 24 52 70 10",
+        "site_web": "https://gauthier.artetfenetres.com/adresses-magasins/rethel-08300.php",
+        "adresse": "7 Rue Lucien Drapier, 08300 Rethel",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "signy-l-abbaye": {
+    "artisans": [
+      {
+        "id": "10521083916025972672",
+        "nom": "Tuilerie Monier",
+        "slug": "tuilerie-monier",
+        "telephone": "03 24 26 97 21",
+        "site_web": "https://www.bmigroup.com/fr/bmi-monier/",
+        "adresse": "ZA la fosse aux mortiers, 08460 Signy-l'Abbaye",
+        "note": 3.9,
+        "avis": 38,
+        "type": "Fabricant de carreaux"
+      }
+    ]
+  },
+  "sedan": {
+    "artisans": [
+      {
+        "id": "13212628896684800375",
+        "nom": "Piat Fermetures",
+        "slug": "piat-fermetures",
+        "telephone": "03 24 29 43 34",
+        "site_web": "http://www.piat-fermetures.com/",
+        "adresse": "8 Sur la Marlière, 08200 Glaire",
+        "note": 4.5,
+        "avis": 73,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9230317109970986366",
+        "nom": "EDS FERMETURES",
+        "slug": "eds-fermetures",
+        "telephone": "03 24 22 56 21",
+        "site_web": "https://www.eds-fermetures.com/",
+        "adresse": "70 Rue Jean Jaurès, 08200 Sedan",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "7967774676714397196",
+        "nom": "SAV Des Fermetures",
+        "slug": "sav-des-fermetures",
+        "telephone": "06 75 59 46 29",
+        "site_web": "https://savdesfermetures.fr/",
+        "adresse": "8 Rue Georges Clemenceau, 08350 Donchery",
+        "note": 5,
+        "avis": 41,
+        "type": "Magasin de portes"
+      }
+    ]
+  },
+  "signy-le-petit": {
+    "artisans": [
+      {
+        "id": "14375667690692625447",
+        "nom": "EGBM MATERIAUX",
+        "slug": "egbm-materiaux",
+        "telephone": "03 24 53 54 60",
+        "site_web": null,
+        "adresse": "3 Rue des Marais, 08380 Signy-le-Petit",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "thilay": {
+    "artisans": [
+      {
+        "id": "6220438860613547606",
+        "nom": "FAYNOT Industrie",
+        "slug": "faynot-industrie",
+        "telephone": "03 24 33 70 70",
+        "site_web": "http://www.faynot.com/",
+        "adresse": "1 Rue Emile Faynot, 08800 Thilay",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Fabricant"
+      },
+      {
+        "id": "9941987451618789675",
+        "nom": "Thilay Materiaux",
+        "slug": "thilay-materiaux",
+        "telephone": "03 24 32 81 40",
+        "site_web": null,
+        "adresse": "16 Narbruay, 08800 Thilay",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "6641587698302637325",
+        "nom": "Usine Thévenin de Naux SARL",
+        "slug": "usine-thevenin-de-naux-sarl",
+        "telephone": "03 24 32 84 81",
+        "site_web": "https://utn.fr/",
+        "adresse": "7 Grand' Rue à Naux, 08800 Thilay",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Fabricant"
+      },
+      {
+        "id": "15567095123256705639",
+        "nom": "Ets Thévenin et Cie",
+        "slug": "ets-thevenin-et-cie",
+        "telephone": "03 24 32 81 15",
+        "site_web": "http://www.thevenin-cie.com/",
+        "adresse": "5 Rue de la Motte, 08800 Thilay",
+        "note": 5,
+        "avis": 1,
+        "type": "Producteur de ferronnerie industrielle"
+      },
+      {
+        "id": "18087674563579088404",
+        "nom": "MENUISERIE LEGRAND",
+        "slug": "menuiserie-legrand",
+        "telephone": "06 07 42 85 15",
+        "site_web": null,
+        "adresse": "14. RUE EMILE FAYNOT, 08800 Thilay",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "vireux-molhain": {
+    "artisans": [
+      {
+        "id": "9645837751018279139",
+        "nom": "L'esprit Fermetures",
+        "slug": "lesprit-fermetures",
+        "telephone": "03 24 27 22 93",
+        "site_web": "https://www.facebook.com/profile.php?id=100080504746986&utm_source=gmb",
+        "adresse": "5715 Rue des Forges, 08320 Vireux-Molhain",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "vireux-wallerand": {
+    "artisans": [
+      {
+        "id": "9645837751018279139",
+        "nom": "L'esprit Fermetures",
+        "slug": "lesprit-fermetures",
+        "telephone": "03 24 27 22 93",
+        "site_web": "https://www.facebook.com/profile.php?id=100080504746986&utm_source=gmb",
+        "adresse": "5715 Rue des Forges, 08320 Vireux-Molhain",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "tournes": {
+    "artisans": [
+      {
+        "id": "11139766080106632154",
+        "nom": "Référence Fermetures",
+        "slug": "reference-fermetures",
+        "telephone": "03 24 33 29 82",
+        "site_web": "https://www.facebook.com/referencefermetures/",
+        "adresse": null,
+        "note": 5,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "vivier-au-court": {
+    "artisans": [
+      {
+        "id": "960956030143447325",
+        "nom": "ETS GAUTHIER - Art & Fenêtres Vivier-au-Court",
+        "slug": "ets-gauthier-art-fenetres-vivier-au-court",
+        "telephone": "03 24 52 70 10",
+        "site_web": "https://gauthier.artetfenetres.com/",
+        "adresse": "Zac du Boitron Route Vrigné Meuse, 08440 Vivier-au-Court",
+        "note": 4.7,
+        "avis": 43,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "villers-semeuse": {
+    "artisans": [
+      {
+        "id": "4868471183561819339",
+        "nom": "Villers Matériaux SAS",
+        "slug": "villers-materiaux-sas",
+        "telephone": "03 24 58 12 12",
+        "site_web": "https://www.villers-materiaux.fr/?utm_source=gmb",
+        "adresse": "Centre commercial, D764, 08000 Villers-Semeuse",
+        "note": 4.2,
+        "avis": 65,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "vouziers": {
+    "artisans": [
+      {
+        "id": "15325774205626894169",
+        "nom": "MFP",
+        "slug": "mfp",
+        "telephone": "06 52 72 70 32",
+        "site_web": "https://mfp-vouziers.fr/contact",
+        "adresse": "65 Rue Bournizet, 08400 Vouziers",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vrigne-aux-bois": {
+    "artisans": [
+      {
+        "id": "4848336476841245390",
+        "nom": "Ninin Menuiserie",
+        "slug": "ninin-menuiserie",
+        "telephone": "03 24 54 99 81",
+        "site_web": "http://www.menuiserie-ninin-ardennes.com/",
+        "adresse": "236 Rue des Ourliquettes, 08330 Vrigne aux Bois",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5419085871434406819",
+        "nom": "Collignon Sarl",
+        "slug": "collignon-sarl",
+        "telephone": "03 24 52 13 21",
+        "site_web": null,
+        "adresse": "2 Rue Jean-Jacques Rousseau, 08330 Vrigne aux Bois",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5515009127473761633",
+        "nom": "AP FERMETURES JACQUEMARD",
+        "slug": "ap-fermetures-jacquemard",
+        "telephone": "03 24 52 16 96",
+        "site_web": "http://www.apfermetures-ardennes-fenetres.com/",
+        "adresse": "13 Rue des cubilots Z-A, 08330 Vrigne aux Bois",
+        "note": 4.7,
+        "avis": 71,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1125862462572848580",
+        "nom": "ARDENNES BOIS DIRECT",
+        "slug": "ardennes-bois-direct",
+        "telephone": "07 45 80 25 05",
+        "site_web": "https://ardennes-bois-direct.fr/",
+        "adresse": "91 Rue Emile Zola, 08330 Vrigne aux Bois",
+        "note": 2,
+        "avis": 1,
+        "type": "Fournisseur de bois"
+      }
+    ]
+  }
+}

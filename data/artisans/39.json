@@ -1,0 +1,1965 @@
+{
+  "choisey": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "clairvaux-les-lacs": {
+    "artisans": [
+      {
+        "id": "15821292025773511917",
+        "nom": "Fenêtres Fermetures du Jura / Pose de menuiseries extérieures et toutes fermetures / Jura 39",
+        "slug": "fenetres-fermetures-du-jura-pose-de-menuiseries-exterieures-et-toutes-fermetures-jura-39",
+        "telephone": "03 84 25 40 82",
+        "site_web": "http://www.fenetresfermeturesdujura.com/?utm_source=gmb",
+        "adresse": "1 Rte des Lacs, 39270 Orgelet",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5740978911677158352",
+        "nom": "Fenêtres sur Cour",
+        "slug": "fenetres-sur-cour",
+        "telephone": "06 87 24 28 52",
+        "site_web": "https://www.fenetres-sur-cour.fr/",
+        "adresse": "9 Rue Croix de l'Épine, 39380 La Loye",
+        "note": 5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15835010807026787533",
+        "nom": "Grosfillex Fenêtres Espace Menuiseries",
+        "slug": "grosfillex-fenetres-espace-menuiseries",
+        "telephone": "03 84 44 77 06",
+        "site_web": "https://www.grosfillex.com/stores/espace-menuiseries-sarl-clairvaux-les-lacs",
+        "adresse": "3 Rte de Lons le Saunier, 39130 Clairvaux-les-Lacs",
+        "note": 4.1,
+        "avis": 10,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "damparis": {
+    "artisans": [
+      {
+        "id": "14875637815938222773",
+        "nom": "Delcroix Alexandre",
+        "slug": "delcroix-alexandre",
+        "telephone": "06 83 22 00 95",
+        "site_web": null,
+        "adresse": "7 Rue Pasteur, 39100 Foucherans",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11058571697902177813",
+        "nom": "Fenêtres de Toit 21",
+        "slug": "fenetres-de-toit-21",
+        "telephone": "07 83 35 87 35",
+        "site_web": "http://lalveethomasalexandre.site-solocal.com/?utm_source=gmb",
+        "adresse": "8 Rue Boileau, 21130 Auxonne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tavaux": {
+    "artisans": [
+      {
+        "id": "10024550051060218436",
+        "nom": "SARL JLB HABITAT à Dole - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "sarl-jlb-habitat-a-dole-pergolas-stores-fenetres-menuiseries",
+        "telephone": "03 84 70 89 00",
+        "site_web": "https://www.komilfo.fr/magasins/gilles-stepczak-dole-39?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "56 rue des equevillons zac de foucherans, 39100 Dole",
+        "note": 4.7,
+        "avis": 211,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8533897273904665562",
+        "nom": "Mutelet-Au Fil du Bois",
+        "slug": "mutelet-au-fil-du-bois",
+        "telephone": "03 84 70 93 02",
+        "site_web": "https://mutelet.fr/",
+        "adresse": "10 Rue de Strasbourg, 39500 Tavaux",
+        "note": 4.6,
+        "avis": 31,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "7703243142538163690",
+        "nom": "Jacquet Hervé",
+        "slug": "jacquet-herve",
+        "telephone": "03 84 71 43 64",
+        "site_web": "http://www.menuiserie-jacquet-dole.com/",
+        "adresse": "3 Rue de Saint-Aubin, 39500 Tavaux",
+        "note": 3.9,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8960448827175575739",
+        "nom": "MVA Jura",
+        "slug": "mva-jura",
+        "telephone": "03 84 71 54 77",
+        "site_web": "https://www.mvajura.fr/",
+        "adresse": "26 Chem. des Baraques, 39120 Le Deschaux",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "le-deschaux": {
+    "artisans": [
+      {
+        "id": "7778666274064725612",
+        "nom": "SORECO Dom bat",
+        "slug": "soreco-dom-bat",
+        "telephone": "03 84 71 53 30",
+        "site_web": "https://www.soreco-combles.fr/",
+        "adresse": "32 Rte de Dole, 39120 Le Deschaux",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "4672831100912570587",
+        "nom": "SORECO aménagement de combles",
+        "slug": "soreco-amenagement-de-combles",
+        "telephone": "03 84 71 53 30",
+        "site_web": "https://www.soreco-combles.com/",
+        "adresse": "18 Chem. des Mares, 39120 Le Deschaux",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15256230958486060450",
+        "nom": "CZC Bailly Maitre Pere Et Fils",
+        "slug": "czc-bailly-maitre-pere-et-fils",
+        "telephone": "03 84 81 54 48",
+        "site_web": "https://czc-charpentier-jura.fr/?utm_source=gmb",
+        "adresse": "39 Rte de Dole, 39120 Le Deschaux",
+        "note": 4.6,
+        "avis": 26,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7637360920011749122",
+        "nom": "Aéro-Murs et Toitures - Concessionnaire Tuilex",
+        "slug": "aero-murs-et-toitures-concessionnaire-tuilex",
+        "telephone": "03 84 25 93 73",
+        "site_web": "https://www.tuilex-jura.fr/?utm_source=gmb",
+        "adresse": "Hameau, 100 Rue de la Faye, 39230 Mantry",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "394470347475706854",
+        "nom": "Rénovation toiture gouttière velux cheminée façade Jura 39",
+        "slug": "renovation-toiture-gouttiere-velux-cheminee-facade-jura-39",
+        "telephone": "07 56 85 86 23",
+        "site_web": "https://lescompagnonsdevotremaison.fr/",
+        "adresse": "183 Rue Louis Rémy, 39570 Messia-sur-Sorne",
+        "note": 5,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4774011237653601560",
+        "nom": "Boulangerie du Deschaux",
+        "slug": "boulangerie-du-deschaux",
+        "telephone": "03 84 71 50 84",
+        "site_web": "https://frmapsy.com/business/boulangerie-du-deschaux-QRu2xQEI",
+        "adresse": "19 Rte de Dole, 39120 Le Deschaux",
+        "note": 4.7,
+        "avis": 41,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "18441799041021983267",
+        "nom": "Euro Menuiseries",
+        "slug": "euro-menuiseries",
+        "telephone": "06 07 97 55 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10360201685367297594",
+        "nom": "Aksibel",
+        "slug": "aksibel",
+        "telephone": "09 71 55 16 93",
+        "site_web": null,
+        "adresse": "15 Rte de Dole, 39120 Le Deschaux",
+        "note": 4.6,
+        "avis": 39,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "courlaoux": {
+    "artisans": [
+      {
+        "id": "5634205957796106078",
+        "nom": "JURA VITRAGES",
+        "slug": "jura-vitrages",
+        "telephone": "03 84 47 57 22",
+        "site_web": "https://fermetures-juravitrages.fr/",
+        "adresse": "60 Impasse de la Source, 39570 Messia-sur-Sorne",
+        "note": 4.4,
+        "avis": 34,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "4210085233692546750",
+        "nom": "SARL Jura Pliage",
+        "slug": "sarl-jura-pliage",
+        "telephone": "03 84 44 45 19",
+        "site_web": null,
+        "adresse": "ZI Les Plaines II, 133 Rue Lacuzon, 39570 Courlaoux",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8555200041339400435",
+        "nom": "Lons Menuiserie",
+        "slug": "lons-menuiserie",
+        "telephone": "03 84 24 24 54",
+        "site_web": "http://www.lons-menuiserie.com/",
+        "adresse": "ZAC de la Levanchée, 90 Chem. du Champ Poly, 39570 Courlaoux",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2857629233380097072",
+        "nom": "Busch rénovation - Couvreur Lons-le-Saunier 39 Bourg-en-Bresse 01 et alentours",
+        "slug": "busch-renovation-couvreur-lons-le-saunier-39-bourg-en-bresse-01-et-alentours",
+        "telephone": "06 43 46 68 07",
+        "site_web": "https://buschrenovation.fr/",
+        "adresse": "281 Rue des Gay, 39570 Courlaoux",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10029481492777171655",
+        "nom": "LUXANCE pvc concept",
+        "slug": "luxance-pvc-concept",
+        "telephone": "06 74 51 10 13",
+        "site_web": "https://www.luxance-habitat.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "8 Rue Rouget de Lisle, 39000 Lons-le-Saunier",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "dampierre": {
+    "artisans": [
+      {
+        "id": "7637360920011749122",
+        "nom": "Aéro-Murs et Toitures - Concessionnaire Tuilex",
+        "slug": "aero-murs-et-toitures-concessionnaire-tuilex",
+        "telephone": "03 84 25 93 73",
+        "site_web": "https://www.tuilex-jura.fr/?utm_source=gmb",
+        "adresse": "Hameau, 100 Rue de la Faye, 39230 Mantry",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "dole": {
+    "artisans": [
+      {
+        "id": "13570139359870332542",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 81 41 05 15",
+        "site_web": "https://magasins.lapeyre.fr/bourgogne-franche-comte/doubs/lapeyre-besancon-66",
+        "adresse": "4 Rue François Villon, 25000 Besançon",
+        "note": 4.1,
+        "avis": 409,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "18330286034773240153",
+        "nom": "SP Habitat",
+        "slug": "sp-habitat",
+        "telephone": "03 84 79 11 98",
+        "site_web": "https://sp-habitat-france.fr/",
+        "adresse": "ZI du Tumulus, 5 Rue Georges Louis Buffon, 39100 Dole",
+        "note": 4.4,
+        "avis": 36,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cousance": {
+    "artisans": [
+      {
+        "id": "2968022972779506768",
+        "nom": "SENECAL couvreur zingueur dans le Revermont - Jura",
+        "slug": "senecal-couvreur-zingueur-dans-le-revermont-jura",
+        "telephone": "07 64 13 68 22",
+        "site_web": "https://www.senecal-couverture.fr/",
+        "adresse": "26 Grande Rue, 39190 Cousance",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "fraisans": {
+    "artisans": [
+      {
+        "id": "14399364190295916135",
+        "nom": "PMH Menuiserie",
+        "slug": "pmh-menuiserie",
+        "telephone": "03 84 81 43 56",
+        "site_web": null,
+        "adresse": "Rue Marguerite de Bourgogne Zone Artisanale, 39700 Fraisans",
+        "note": 3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "domblans": {
+    "artisans": [
+      {
+        "id": "16669045526544213641",
+        "nom": "Ravier Sa",
+        "slug": "ravier-sa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue du Vergerot, 39210 Domblans",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "6967277581148099403",
+        "nom": "Groupe V33",
+        "slug": "groupe-v33",
+        "telephone": "03 84 35 00 33",
+        "site_web": "https://www.v33.fr/",
+        "adresse": "LA MUYRE, 39210 Domblans",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Fabricant de peinture"
+      },
+      {
+        "id": "3413595253528794895",
+        "nom": "GUINOT TP",
+        "slug": "guinot-tp",
+        "telephone": "03 84 43 10 30",
+        "site_web": "https://www.guinot-tp.com/",
+        "adresse": "Rue des Coteaux de la Haute Seille, 39210 Domblans",
+        "note": 4,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "1314888414349437509",
+        "nom": "EURL ROUSSELOT-EMART Nicolas",
+        "slug": "eurl-rousselot-emart-nicolas",
+        "telephone": "06 83 01 23 39",
+        "site_web": null,
+        "adresse": "380 Rue du Vergerot, 39210 Domblans",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14650361017741707893",
+        "nom": "Sébastien Bonin",
+        "slug": "sebastien-bonin",
+        "telephone": "03 84 44 90 20",
+        "site_web": "http://www.menuiserie-bonin.fr/",
+        "adresse": "15 Chem. de Condamine, 39210 Domblans",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6772484476101883502",
+        "nom": "GCBAT JURA",
+        "slug": "gcbat-jura",
+        "telephone": "09 71 00 03 81",
+        "site_web": "http://www.gcbat.fr/",
+        "adresse": "593 Rue du Gué Faroux, 39210 Domblans",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "foncine-le-haut": {
+    "artisans": [
+      {
+        "id": "9886322576514642606",
+        "nom": "Belvédère du Bulay",
+        "slug": "belvedere-du-bulay",
+        "telephone": "03 84 51 93 11",
+        "site_web": "https://www.cnjtourisme.fr/",
+        "adresse": "39460 Foncine-le-Haut",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Point de vue"
+      },
+      {
+        "id": "458061720202841890",
+        "nom": "Belvédère de la Roche Fendue",
+        "slug": "belvedere-de-la-roche-fendue",
+        "telephone": "03 84 51 93 11",
+        "site_web": "https://www.cnjtourisme.fr/",
+        "adresse": "39460 Foncine-le-Haut",
+        "note": 4.4,
+        "avis": 32,
+        "type": "Point de vue"
+      },
+      {
+        "id": "8268136220985327175",
+        "nom": "Trou de la fenêtre",
+        "slug": "trou-de-la-fenetre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "M39G+X9 Trou de la fenêtre, 39460 Foncine-le-Haut",
+        "note": 0,
+        "avis": 0,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "4215620240792810838",
+        "nom": "Camping et Chalets du Val de Saine",
+        "slug": "camping-et-chalets-du-val-de-saine",
+        "telephone": "03 84 51 92 76",
+        "site_web": "http://www.camping-haut-jura.com/",
+        "adresse": "28 Grande Rue, 39460 Foncine-le-Haut",
+        "note": 4.4,
+        "avis": 228,
+        "type": "Terrain de camping"
+      },
+      {
+        "id": "14921916370108727238",
+        "nom": "Gorge de La Saine",
+        "slug": "gorge-de-la-saine",
+        "telephone": "03 84 51 93 11",
+        "site_web": "https://www.cnjtourisme.fr/",
+        "adresse": "270-1514 Rte de Champagnole, 39520 Foncine-le-Bas",
+        "note": 4.5,
+        "avis": 108,
+        "type": "Point de vue"
+      },
+      {
+        "id": "4842607223685537994",
+        "nom": "Tourbière de l'Entre Côtes du Milieu",
+        "slug": "tourbiere-de-lentre-cotes-du-milieu",
+        "telephone": "03 84 51 93 11",
+        "site_web": "https://www.cnjtourisme.fr/",
+        "adresse": "39460 Foncine-le-Haut",
+        "note": 0,
+        "avis": 0,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "461886586307815673",
+        "nom": "Belvédère du Couillou",
+        "slug": "belvedere-du-couillou",
+        "telephone": "03 84 51 93 11",
+        "site_web": "https://www.cnjtourisme.fr/",
+        "adresse": "Pâture des Ruines, 39460 Foncine-le-Haut",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Point de vue"
+      }
+    ]
+  },
+  "lavans-les-saint-claude": {
+    "artisans": [
+      {
+        "id": "713091728172245496",
+        "nom": "Fenêtres Fermetures du Doubs",
+        "slug": "fenetres-fermetures-du-doubs",
+        "telephone": "03 81 84 64 04",
+        "site_web": "https://www.fenetresdudoubs.com/",
+        "adresse": "Zone Artisanale de la Combe, Parnette 25440, 25440 Lavans-Quingey",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6466377266026464254",
+        "nom": "Menuiserie Vaudey",
+        "slug": "menuiserie-vaudey",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZA Planchamp, 39170 Lavans-lès-Saint-Claude",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "foucherans": {
+    "artisans": [
+      {
+        "id": "6918073659864620039",
+        "nom": "TRYBA Dole (Foucherans)",
+        "slug": "tryba-dole-foucherans",
+        "telephone": "03 53 64 13 54",
+        "site_web": "https://www.tryba.com/espace-conseil/39/tryba-foucherans/?utm_campaign=Tryba_Foucherans&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "13 Rue des Chaucheux, 39100 Foucherans",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16825817014478399128",
+        "nom": "Artisan LEMOINE David",
+        "slug": "artisan-lemoine-david",
+        "telephone": "06 41 88 29 20",
+        "site_web": "https://www.lemoine-renove-39.fr/",
+        "adresse": "45 Chem. des Cerisiers, 39100 Foucherans",
+        "note": 5,
+        "avis": 57,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lons-le-saunier": {
+    "artisans": [
+      {
+        "id": "10034925923588475275",
+        "nom": "CASÉO Lons le Saunier",
+        "slug": "caseo-lons-le-saunier",
+        "telephone": "03 84 43 13 13",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-lons-le-saunier-perrigny-37",
+        "adresse": "165 Rue de la Chanière, 39570 Perrigny",
+        "note": 4.6,
+        "avis": 125,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4794251496598110007",
+        "nom": "KparK Lons le Saunier",
+        "slug": "kpark-lons-le-saunier",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/35-kpark-lons-le-saunier?utm_source=gmb",
+        "adresse": "45 Av. de la Marseillaise, 39000 Lons-le-Saunier",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9404660165991711259",
+        "nom": "Crochet Fils",
+        "slug": "crochet-fils",
+        "telephone": "03 84 24 01 63",
+        "site_web": "http://www.crochet-patrick.fr/",
+        "adresse": "26 Rue des Salines, 39000 Lons-le-Saunier",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8604276556978856287",
+        "nom": "TRYBA - Lons-le-Saunier (Montmorot)",
+        "slug": "tryba-lons-le-saunier-montmorot",
+        "telephone": "03 53 64 13 05",
+        "site_web": "https://www.tryba.com/espace-conseil/39/tryba-lons-le-saunier/?utm_campaign=Tryba_lons-le-saunier&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "85 Rue des Salines, 39570 Montmorot",
+        "note": 3.6,
+        "avis": 21,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16892102519033466053",
+        "nom": "Komilfo Stor's Ferm's à Lons / Montmorot - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-stors-ferms-a-lons-montmorot-pergolas-stores-fenetres-menuiseries",
+        "telephone": "03 84 24 30 40",
+        "site_web": "https://www.komilfo.fr/magasins/stors-ferms-lons-saunier-39?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "34 Rue Aristide Briand, 39570 Montmorot",
+        "note": 4.5,
+        "avis": 140,
+        "type": "Vitrier"
+      },
+      {
+        "id": "2507675489605594282",
+        "nom": "EPIFANI",
+        "slug": "epifani",
+        "telephone": "06 64 36 48 54",
+        "site_web": "http://www.epifani.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10117906438727983097",
+        "nom": "Bernard Fieux Aluminium",
+        "slug": "bernard-fieux-aluminium",
+        "telephone": "03 84 47 43 02",
+        "site_web": "https://www.fieux-aluminium.com/",
+        "adresse": "Z.a.c Des Toupes, 6 Rte de Bletterans, 39570 Montmorot",
+        "note": 5,
+        "avis": 14,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "longchaumois": {
+    "artisans": [
+      {
+        "id": "3813443758859529012",
+        "nom": "TC COUVERTURE",
+        "slug": "tc-couverture",
+        "telephone": null,
+        "site_web": "https://www.tc-couverture.com/",
+        "adresse": "4 Rue des Forges, 39400 Hauts de Bienne",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17224487293819827049",
+        "nom": "Les metiers du toit",
+        "slug": "les-metiers-du-toit",
+        "telephone": "06 71 53 44 21",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14131832628404422514",
+        "nom": "Julbo",
+        "slug": "julbo",
+        "telephone": null,
+        "site_web": "https://www.julbo.com/",
+        "adresse": "Rue Lacuzon, 39400 Longchaumois",
+        "note": 3.4,
+        "avis": 15,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2034438460670574933",
+        "nom": "Solar Eyewear",
+        "slug": "solar-eyewear",
+        "telephone": "0 806 00 14 14",
+        "site_web": "https://www.solar-eyewear.com/",
+        "adresse": "Rue Lacuzon, 39400 Longchaumois",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Magasin de lunettes de soleil"
+      },
+      {
+        "id": "12222016219204334366",
+        "nom": "Le Verre de Voûte",
+        "slug": "le-verre-de-voute",
+        "telephone": "03 84 41 29 88",
+        "site_web": "http://www.kitrail.com/",
+        "adresse": "26 Grande Rue, 39400 Longchaumois",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de vitraux"
+      }
+    ]
+  },
+  "macornay": {
+    "artisans": [
+      {
+        "id": "2288272770402654239",
+        "nom": "Roch - Constructeur Bois",
+        "slug": "roch-constructeur-bois",
+        "telephone": "03 84 24 31 51",
+        "site_web": "http://www.roch.fr/",
+        "adresse": "195 Rue de la Font aux Daims, 39570 Macornay",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Constructeur de maisons en bois"
+      },
+      {
+        "id": "3023157391341511287",
+        "nom": "ARTEBA M.C.G.",
+        "slug": "arteba-mcg",
+        "telephone": "03 84 24 69 54",
+        "site_web": "http://mcg-pvc.fr/",
+        "adresse": "40 Av. Pasteur, 39570 Montmorot",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13606509250114054150",
+        "nom": "JM maitrise d'oeuvre",
+        "slug": "jm-maitrise-doeuvre",
+        "telephone": "03 84 86 01 56",
+        "site_web": "http://www.meilland-maitredoeuvre.com/",
+        "adresse": "360 Rue du Jura, 39570 Macornay",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "moirans-en-montagne": {
+    "artisans": [
+      {
+        "id": "17242531974589616972",
+        "nom": "SARL RENOBAT",
+        "slug": "sarl-renobat",
+        "telephone": "09 70 35 38 06",
+        "site_web": "http://menuiserie-renobat.com/",
+        "adresse": "15 Rue Charles Favre, 39260 Moirans-en-Montagne",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16173246385982746663",
+        "nom": "Capelli Berrod",
+        "slug": "capelli-berrod",
+        "telephone": "03 84 42 01 84",
+        "site_web": "http://www.sarl-capelli-berrod.fr/",
+        "adresse": "4 All. de Bonneille, 39260 Moirans-en-Montagne",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "morbier": {
+    "artisans": [
+      {
+        "id": "760102379706696459",
+        "nom": "renov toit 39 Dépannage vitrerie/Démoussage toiture/demoussage",
+        "slug": "renov-toit-39-depannage-vitreriedemoussage-toituredemoussage",
+        "telephone": "06 08 83 16 41",
+        "site_web": "https://renovtoit39.com/",
+        "adresse": "Rue des Chamois, 39400 Morbier",
+        "note": 5,
+        "avis": 49,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "mont-sous-vaudrey": {
+    "artisans": [
+      {
+        "id": "9829482297935584403",
+        "nom": "Espace AMC",
+        "slug": "espace-amc",
+        "telephone": "03 84 72 78 65",
+        "site_web": "http://espace-amc.com/",
+        "adresse": "32 Rte de Dole, 39380 Mont-sous-Vaudrey",
+        "note": 5,
+        "avis": 13,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8240225568238501202",
+        "nom": "Les Frerots Jurassiens",
+        "slug": "les-frerots-jurassiens",
+        "telephone": "06 62 88 22 80",
+        "site_web": null,
+        "adresse": "19 Rue Louis Guillaume, 39380 Mont-sous-Vaudrey",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9382413025687872349",
+        "nom": "CHAUVIN Construction Bois",
+        "slug": "chauvin-construction-bois",
+        "telephone": "03 84 80 04 40",
+        "site_web": "https://www.constructions-chauvin.fr/",
+        "adresse": "2 Imp. Roch, 39380 Mont-sous-Vaudrey",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4012227613886928739",
+        "nom": "Colalu",
+        "slug": "colalu",
+        "telephone": "09 54 36 00 31",
+        "site_web": "https://colalu.fr/",
+        "adresse": "2B Chem. des Érables, 39380 Bans",
+        "note": 4,
+        "avis": 4,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12457846547154810411",
+        "nom": "LFX",
+        "slug": "lfx",
+        "telephone": "06 89 52 60 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "330726652428212849",
+        "nom": "Ravoyard",
+        "slug": "ravoyard",
+        "telephone": "03 84 81 55 55",
+        "site_web": "http://www.ravoyard.fr/",
+        "adresse": "11 Rte d'Arbois, 39380 Vaudrey",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17496572033866870696",
+        "nom": "Frenot Ramboz SARL",
+        "slug": "frenot-ramboz-sarl",
+        "telephone": "03 84 81 54 18",
+        "site_web": null,
+        "adresse": "Rte de Dole, 39380 Mont-sous-Vaudrey",
+        "note": 4,
+        "avis": 9,
+        "type": "Maçon"
+      },
+      {
+        "id": "2905558170434310304",
+        "nom": "BEAUBOIS",
+        "slug": "beaubois",
+        "telephone": "03 84 71 71 78",
+        "site_web": "https://sarl-beaubois.com/",
+        "adresse": "Zone Artisanale Prepitalier, 39380 Mont-sous-Vaudrey",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "chassal-molinges": {
+    "artisans": [
+      {
+        "id": "8688470426053018661",
+        "nom": "Metallerie Et Ouvertures - Sur Mesure Menuiserie",
+        "slug": "metallerie-et-ouvertures-sur-mesure-menuiserie",
+        "telephone": "03 84 45 27 80",
+        "site_web": "https://chassal-molinges.surmesure-menuiserie.fr/",
+        "adresse": "zone artisanale, En Chambouille II, 39360",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "montmorot": {
+    "artisans": [
+      {
+        "id": "3023157391341511287",
+        "nom": "ARTEBA M.C.G.",
+        "slug": "arteba-mcg",
+        "telephone": "03 84 24 69 54",
+        "site_web": "http://mcg-pvc.fr/",
+        "adresse": "40 Av. Pasteur, 39570 Montmorot",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "orgelet": {
+    "artisans": [
+      {
+        "id": "15821292025773511917",
+        "nom": "Fenêtres Fermetures du Jura / Pose de menuiseries extérieures et toutes fermetures / Jura 39",
+        "slug": "fenetres-fermetures-du-jura-pose-de-menuiseries-exterieures-et-toutes-fermetures-jura-39",
+        "telephone": "03 84 25 40 82",
+        "site_web": "http://www.fenetresfermeturesdujura.com/?utm_source=gmb",
+        "adresse": "1 Rte des Lacs, 39270 Orgelet",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "hauts-de-bienne": {
+    "artisans": [
+      {
+        "id": "9110199807939341538",
+        "nom": "MENUISERIE BAILLY MAITRE",
+        "slug": "menuiserie-bailly-maitre",
+        "telephone": "06 40 50 45 36",
+        "site_web": "https://www.menuiserie-bailly-maitre.fr/",
+        "adresse": "16 Rue Louis Grandchavin, 39400 Hauts de Bienne",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13420688745508112711",
+        "nom": "Renov toit39 depannage serrurerie",
+        "slug": "renov-toit39-depannage-serrurerie",
+        "telephone": "06 08 83 16 41",
+        "site_web": "http://renovtoit39.com/",
+        "adresse": "6 Rte des Roches, 39400 Morbier",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de serrurerie d'urgence"
+      },
+      {
+        "id": "760102379706696459",
+        "nom": "renov toit 39 Dépannage vitrerie/Démoussage toiture/demoussage",
+        "slug": "renov-toit-39-depannage-vitreriedemoussage-toituredemoussage",
+        "telephone": "06 08 83 16 41",
+        "site_web": "https://renovtoit39.com/",
+        "adresse": "Rue des Chamois, 39400 Morbier",
+        "note": 5,
+        "avis": 49,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "7645106673158045884",
+        "nom": "La lisière du bois",
+        "slug": "la-lisiere-du-bois",
+        "telephone": "06 49 44 52 73",
+        "site_web": null,
+        "adresse": "27 Grande Rue, 39150 La Chaux-du-Dombief",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4321992033181897477",
+        "nom": "HAUT JURA RÉNOVATION",
+        "slug": "haut-jura-renovation",
+        "telephone": "03 84 33 13 24",
+        "site_web": "http://www.ledru-peintures.com/",
+        "adresse": "4 Rue des Forges, 39400 Hauts de Bienne",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "mouchard": {
+    "artisans": [
+      {
+        "id": "10208114845327008760",
+        "nom": "France Matériaux - Commerçon Matériaux",
+        "slug": "france-materiaux-commercon-materiaux",
+        "telephone": "03 84 37 82 61",
+        "site_web": "https://negoce.france-materiaux.fr/67-france-materiaux-commercon-materiaux",
+        "adresse": "Rte de Cramans, 39330 Mouchard",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "orchamps": {
+    "artisans": [
+      {
+        "id": "16297328848349026636",
+        "nom": "Sa Exploi Bat Trvx Publics Moyse SAS Moy",
+        "slug": "sa-exploi-bat-trvx-publics-moyse-sas-moy",
+        "telephone": "03 84 71 30 70",
+        "site_web": null,
+        "adresse": "Zi. Rue Du Bois, 39700 Orchamps",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3490000164130018059",
+        "nom": "DG Fermetures",
+        "slug": "dg-fermetures",
+        "telephone": "03 81 44 13 16",
+        "site_web": "https://www.dgfermetures.com/?utm_source=Google_My_Buisness&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "14 rue Pie Grieche, 25500 Le Bélieu",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "parcey": {
+    "artisans": [
+      {
+        "id": "13419590223343048471",
+        "nom": "JURA PVC SAS",
+        "slug": "jura-pvc-sas",
+        "telephone": "03 84 71 03 08",
+        "site_web": "http://www.jurapvc.com/?utm_source=gmb",
+        "adresse": "4 Chem. de la Loye, 39100 Parcey",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "perrigny": {
+    "artisans": [
+      {
+        "id": "10806775333048566091",
+        "nom": "JURA FERMETURES",
+        "slug": "jura-fermetures",
+        "telephone": "03 84 35 58 99",
+        "site_web": "http://www.jurafermetures.com/",
+        "adresse": "465 Rue de la Lieme, 39570 Perrigny",
+        "note": 4.5,
+        "avis": 63,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7972991839648957711",
+        "nom": "SAS MEYNIER",
+        "slug": "sas-meynier",
+        "telephone": "03 84 24 32 51",
+        "site_web": "https://carrelage-jura.fr/",
+        "adresse": "1875 Rue de la Lieme, 39570 Perrigny",
+        "note": 5,
+        "avis": 6,
+        "type": "Carreleur"
+      },
+      {
+        "id": "7557209152281481479",
+        "nom": "EPIFANI SAS",
+        "slug": "epifani-sas",
+        "telephone": "06 64 36 48 54",
+        "site_web": "http://www.epifani.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "5735625833849115398",
+        "nom": "Gedimat Bouillier - Perrigny",
+        "slug": "gedimat-bouillier-perrigny",
+        "telephone": "03 84 25 70 72",
+        "site_web": "https://www.gedimat.fr/2392-magasin-gedimat-bouillier-materiaux-perrigny.htm",
+        "adresse": "85 Rue de la Chanière, 39570 Perrigny",
+        "note": 4.4,
+        "avis": 159,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "petit-noir": {
+    "artisans": [
+      {
+        "id": "4230964926619326500",
+        "nom": "MARTIN MENUISERIE PETIT NOIR",
+        "slug": "martin-menuiserie-petit-noir",
+        "telephone": "06 42 01 02 89",
+        "site_web": "https://www.eldo.com/pro/martin_menuiserie_petit_noir/",
+        "adresse": "8 Rue de la Pastorelle, 39120 Petit-Noir",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "premanon": {
+    "artisans": [
+      {
+        "id": "5024860709060751946",
+        "nom": "Novatoit Sàrl",
+        "slug": "novatoit-sarl",
+        "telephone": "+41 76 511 56 94",
+        "site_web": "https://www.novatoit.ch/",
+        "adresse": "Rte de France 98, 1265 Saint-Cergue, Suisse",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "poligny": {
+    "artisans": [
+      {
+        "id": "14118382964032776686",
+        "nom": "MENUISERIE POLINOISE",
+        "slug": "menuiserie-polinoise",
+        "telephone": "03 84 37 13 13",
+        "site_web": "http://menuiseriepolinoise.fr/",
+        "adresse": "Rue Denis Papin, 39800 Poligny",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8140072899364290860",
+        "nom": "OuvertureS - Menuiserie Poux",
+        "slug": "ouvertures-menuiserie-poux",
+        "telephone": "03 84 37 27 96",
+        "site_web": null,
+        "adresse": "11 Av. de la Gare, 39800 Poligny",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8074141514021026803",
+        "nom": "Huguet Menuiserie",
+        "slug": "huguet-menuiserie",
+        "telephone": "06 45 61 28 26",
+        "site_web": null,
+        "adresse": "5 Rue Claude Nicolas Ledoux, 39800 Poligny",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7058635843487184341",
+        "nom": "Miroiterie Polinoise / Verre & Déco",
+        "slug": "miroiterie-polinoise-verre-deco",
+        "telephone": "03 84 73 30 61",
+        "site_web": "http://www.verre-et-deco.fr/",
+        "adresse": "5 Rue Claude Nicolas Ledoux, 39800 Poligny",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "saint-amour": {
+    "artisans": [
+      {
+        "id": "7549784759086811620",
+        "nom": "Piquand TP",
+        "slug": "piquand-tp",
+        "telephone": "03 84 48 73 87",
+        "site_web": "https://www.piquandtp.fr/",
+        "adresse": "2 rue du Bief d’Argent, 39160 Saint-Amour",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "12251971485136747453",
+        "nom": "RENOVATION CONCEPT PÈRE ET FILS (anciennement) Les Peintres de l'Est",
+        "slug": "renovation-concept-pere-et-fils-anciennement-les-peintres-de-lest",
+        "telephone": "03 84 44 07 95",
+        "site_web": "https://renovation-concept-sas.fr/",
+        "adresse": "1 Rue Georges Clemenceau, 39160 Saint-Amour",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "5113035991778401632",
+        "nom": "Jouve Jean-Sébastien",
+        "slug": "jouve-jean-sebastien",
+        "telephone": "03 84 48 84 20",
+        "site_web": "https://menuiseriejouve.fr/",
+        "adresse": "3 Rue Lamartine, 39160 Saint-Amour",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-aubin": {
+    "artisans": [
+      {
+        "id": "7742891207515647419",
+        "nom": "Bourgogne Menuiseries Fermetures - Beaune- fenêtres - portails - portes d'entrée - alu - pvc",
+        "slug": "bourgogne-menuiseries-fermetures-beaune-fenetres-portails-portes-dentree-alu-pvc",
+        "telephone": "03 80 24 75 24",
+        "site_web": "http://www.bourgogne-miroiterie.fr/",
+        "adresse": "164 Rte de Dijon, 21200 Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15864697298227936302",
+        "nom": "21 Toitures",
+        "slug": "21-toitures",
+        "telephone": "03 80 39 77 20",
+        "site_web": "https://www.21toitures.com/",
+        "adresse": "13 Rue de Marsannay-la-Côte, 21000 Dijon",
+        "note": 4.9,
+        "avis": 121,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9053722237870040708",
+        "nom": "Avenir'Elec & Fermetures RENOVAL",
+        "slug": "avenirelec-fermetures-renoval",
+        "telephone": "03 84 70 19 56",
+        "site_web": "https://www.avenirelecetfermetures.com/",
+        "adresse": "6 bis Rte de Dijon, 39410 Saint-Aubin",
+        "note": 4.8,
+        "avis": 124,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "7922283667711967247",
+        "nom": "Menuiserie Jacquot Etienne",
+        "slug": "menuiserie-jacquot-etienne",
+        "telephone": "06 43 33 44 74",
+        "site_web": null,
+        "adresse": "36 Rue d'Aumur, 39410 Saint-Aubin",
+        "note": 4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-rousses": {
+    "artisans": [
+      {
+        "id": "2700889745169780770",
+        "nom": "Verchère Mickael",
+        "slug": "verchere-mickael",
+        "telephone": "06 83 12 33 69",
+        "site_web": null,
+        "adresse": "161 Rte du Génie, 39220 Les Rousses",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10463658533532416120",
+        "nom": "Menuiserie Lizon",
+        "slug": "menuiserie-lizon",
+        "telephone": "06 88 48 70 76",
+        "site_web": null,
+        "adresse": "959 Chem. des Berthets, 39220 Les Rousses",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "5024860709060751946",
+        "nom": "Novatoit Sàrl",
+        "slug": "novatoit-sarl",
+        "telephone": "+41 76 511 56 94",
+        "site_web": "https://www.novatoit.ch/",
+        "adresse": "Rte de France 98, 1265 Saint-Cergue, Suisse",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2714700007021814086",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "04 50 87 20 05",
+        "site_web": "https://magasins.lapeyre.fr/auvergne-rhone-alpes/haute-savoie/lapeyre-annemasse-63",
+        "adresse": "4 Av. des Buchillons, 74100 Annemasse",
+        "note": 3.8,
+        "avis": 533,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13043043934231130774",
+        "nom": "SAS CHEVALIER-BOIS",
+        "slug": "sas-chevalier-bois",
+        "telephone": "03 84 60 07 22",
+        "site_web": "http://www.chevalier-bois.com/",
+        "adresse": "303, Rue des Façonniers/ZA du Bois de l'Ours, 39220 Les Rousses",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11962923030369205296",
+        "nom": "RPS",
+        "slug": "rps",
+        "telephone": "06 75 91 04 55",
+        "site_web": "https://www.rpslesrousses.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "saint-laurent-en-grandvaux": {
+    "artisans": [
+      {
+        "id": "17407454609091323521",
+        "nom": "JP Construction Bois",
+        "slug": "jp-construction-bois",
+        "telephone": "06 43 70 83 00",
+        "site_web": "https://jp-construction-bois.com/",
+        "adresse": "1 Rue Lacuzon, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5312613093771999681",
+        "nom": "Atelier Intemporel | Créateur d'espaces à vivre | Jura",
+        "slug": "atelier-intemporel-createur-despaces-a-vivre-jura",
+        "telephone": "06 29 37 11 27",
+        "site_web": "http://www.atelier-intemporel.fr/",
+        "adresse": "1 Chem. des Maisonnettes, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13884680610415211614",
+        "nom": "Delacroix Paul et Fils SARL",
+        "slug": "delacroix-paul-et-fils-sarl",
+        "telephone": "03 84 60 15 64",
+        "site_web": "http://www.delacroixpauletfils.fr/",
+        "adresse": "14 Rue de Paris, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 3,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14602004330292945866",
+        "nom": "Chevriaut Emmanuel",
+        "slug": "chevriaut-emmanuel",
+        "telephone": "03 84 60 25 93",
+        "site_web": null,
+        "adresse": "3 Qur la Savine, 39150 Saint-Laurent-en-Grandvaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "saint-claude": {
+    "artisans": [
+      {
+        "id": "10342800241631347887",
+        "nom": "Menuiserie Marquant",
+        "slug": "menuiserie-marquant",
+        "telephone": "06 75 12 85 97",
+        "site_web": "https://www.menuiserie-marquant-signejurabois.fr/",
+        "adresse": "18 Rue Rouget de Lisle, 39170 Coteaux du Lizon",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11975177693215001212",
+        "nom": "Jean François PERNIN",
+        "slug": "jean-francois-pernin",
+        "telephone": "06 79 45 21 15",
+        "site_web": null,
+        "adresse": "34 Rte de Besançon, 39200 Saint-Claude",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15395905660904681019",
+        "nom": "LANÇON ET FILS SARL",
+        "slug": "lancon-et-fils-sarl",
+        "telephone": "09 70 35 91 22",
+        "site_web": null,
+        "adresse": "45 Rue du Miroir, 39200 Saint-Claude",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "18194250826354211507",
+        "nom": "JURA MENUISERIES DISTRIBUTION",
+        "slug": "jura-menuiseries-distribution",
+        "telephone": "03 84 42 37 08",
+        "site_web": "https://www.juramenuiseriesetdistribution.fr/",
+        "adresse": "21 Rue du Pré, 39200 Saint-Claude",
+        "note": 2.8,
+        "avis": 22,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "coteaux-du-lizon": {
+    "artisans": [
+      {
+        "id": "10147184030264302494",
+        "nom": "MIKAFEN",
+        "slug": "mikafen",
+        "telephone": "06 15 12 33 88",
+        "site_web": "https://www.mikafen-menuiserie.fr/",
+        "adresse": "8 Grande Rue, 39170 Coteaux du Lizon",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "bletterans": {
+    "artisans": [
+      {
+        "id": "1106008535038632442",
+        "nom": "Bois Project",
+        "slug": "bois-project",
+        "telephone": "06 63 35 61 25",
+        "site_web": "https://www.bois-project.fr/",
+        "adresse": "3 Chem. de sous le Moulin, 39140 Bletterans",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7649761324722594423",
+        "nom": "Gedimat Bouillier - Bletterans",
+        "slug": "gedimat-bouillier-bletterans",
+        "telephone": "03 84 85 05 46",
+        "site_web": "https://www.gedimat.fr/2391-magasin-gedimat-bouillier-materiaux-bletterans.htm",
+        "adresse": "1 Chem. de la Gare, 39140 Bletterans",
+        "note": 4.1,
+        "avis": 46,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "6768795688853274544",
+        "nom": "Renard Matériaux",
+        "slug": "renard-materiaux",
+        "telephone": "03 84 85 00 28",
+        "site_web": "https://www.toutfaire.fr/renard-materiaux-bletterans.html",
+        "adresse": "Rue du Rondeau, 39140 Bletterans",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2631190938247460426",
+        "nom": "Charnet Père Et Fils",
+        "slug": "charnet-pere-et-fils",
+        "telephone": "03 84 48 16 47",
+        "site_web": "http://charnet-villevieux.fr/",
+        "adresse": "34 Rue des Petits Ponts, 39140 Villevieux",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "sampans": {
+    "artisans": [
+      {
+        "id": "16338652245518824882",
+        "nom": "Jura Toiture",
+        "slug": "jura-toiture",
+        "telephone": "03 84 82 13 58",
+        "site_web": "https://www.couverture-charpente-dole.fr/contact",
+        "adresse": "88 Av. du Général Eisenhower, 39100 Dole",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4231045377073071007",
+        "nom": "Menuiserie Cantet",
+        "slug": "menuiserie-cantet",
+        "telephone": "03 84 72 16 87",
+        "site_web": "https://www.menuiserie-cantet.com/",
+        "adresse": "Rue de Champvans, 39100 Sampans",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13379978845417699903",
+        "nom": "EURL CAZOT",
+        "slug": "eurl-cazot",
+        "telephone": "06 40 20 36 48",
+        "site_web": null,
+        "adresse": "ZA Les, Chem. des Bregillots, 39100 Sampans",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "15393724556848403031",
+        "nom": "PGS Jurapal",
+        "slug": "pgs-jurapal",
+        "telephone": "03 84 72 42 08",
+        "site_web": "https://www.pgsgroup.com/fr/",
+        "adresse": "Rue de Biarne, 39100 Sampans",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Fournisseur de palettes"
+      },
+      {
+        "id": "5930046988204585712",
+        "nom": "Sarl Husmann",
+        "slug": "sarl-husmann",
+        "telephone": "06 84 34 55 09",
+        "site_web": null,
+        "adresse": "21 Rue de Dole, 39100 Sampans",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "arlay": {
+    "artisans": [
+      {
+        "id": "4305044815981577795",
+        "nom": "Artilux - Expert Velux",
+        "slug": "artilux-expert-velux",
+        "telephone": "06 14 17 11 00",
+        "site_web": "https://artilux.fr/",
+        "adresse": "10 Av. Maréchal Foch, 21000 Dijon",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17244254557249449068",
+        "nom": "Jura-Thermi - Groupe MCC. Fabricant de menuiseries",
+        "slug": "jura-thermi-groupe-mcc-fabricant-de-menuiseries",
+        "telephone": "03 84 24 81 04",
+        "site_web": "https://www.groupemcc.com/lons-le-saunier-39-jura-menuiserie-aluminium-pvc-veranda-pergola-volet-composite/",
+        "adresse": "93 Rte de Dole, 39230 Toulouse-le-Château",
+        "note": 4.3,
+        "avis": 25,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12804820997793087581",
+        "nom": "Entreprise Ducrot",
+        "slug": "entreprise-ducrot",
+        "telephone": "03 84 44 60 02",
+        "site_web": "http://www.metallerie-ducrot.fr/",
+        "adresse": "120 Chem. de Quintigny, 39210 Arlay",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "17288898852651393320",
+        "nom": "Château d'Arlay - Son Histoire, ses Vins.",
+        "slug": "chateau-darlay-son-histoire-ses-vins",
+        "telephone": "03 84 85 04 22",
+        "site_web": "https://www.chateau-arlay.com/",
+        "adresse": "4 Rte de Proby, 39140 Arlay",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Château"
+      },
+      {
+        "id": "324435940034863604",
+        "nom": "I-T-E-C",
+        "slug": "i-t-e-c",
+        "telephone": "03 84 44 63 78",
+        "site_web": "https://www.sas-itec.com/",
+        "adresse": "20 Rte d'Arlay, 39210 Arlay",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Imprimeur d'étiquettes personnalisées"
+      },
+      {
+        "id": "4578170482679112595",
+        "nom": "Artilux - Expert Velux",
+        "slug": "artilux-expert-velux",
+        "telephone": "06 14 17 11 00",
+        "site_web": "https://www.artilux.fr/",
+        "adresse": "11 Av. du 8 Septembre 1944, 21200 Beaune",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18396235499857307122",
+        "nom": "Domaine Cartaux Bougaud",
+        "slug": "domaine-cartaux-bougaud",
+        "telephone": "03 84 48 11 51",
+        "site_web": "http://www.vinscartaux.fr/",
+        "adresse": "5 Rue des Vignes, 39140 Arlay",
+        "note": 4.9,
+        "avis": 113,
+        "type": "Magasin de vins et spiritueux"
+      },
+      {
+        "id": "7430072330081208850",
+        "nom": "Merranderie Reymondet",
+        "slug": "merranderie-reymondet",
+        "telephone": "06 83 52 45 06",
+        "site_web": "https://www.reymondet.groupe-baret.com/",
+        "adresse": "ZA, 170 Chem. de Quintigny, 39210",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "3271297745194450547",
+        "nom": "SAS SAUSSARD NICOLAS",
+        "slug": "sas-saussard-nicolas",
+        "telephone": "06 38 39 72 55",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "arinthod": {
+    "artisans": [
+      {
+        "id": "15821292025773511917",
+        "nom": "Fenêtres Fermetures du Jura / Pose de menuiseries extérieures et toutes fermetures / Jura 39",
+        "slug": "fenetres-fermetures-du-jura-pose-de-menuiseries-exterieures-et-toutes-fermetures-jura-39",
+        "telephone": "03 84 25 40 82",
+        "site_web": "http://www.fenetresfermeturesdujura.com/?utm_source=gmb",
+        "adresse": "1 Rte des Lacs, 39270 Orgelet",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "salins-les-bains": {
+    "artisans": [
+      {
+        "id": "13948057863677353138",
+        "nom": "Therma Salina",
+        "slug": "therma-salina",
+        "telephone": "03 84 73 04 63",
+        "site_web": "http://www.thermes-salins.com/?utm_source=gmb",
+        "adresse": "Prom. Barbarine, 39110 Salins-les-Bains",
+        "note": 4,
+        "avis": 0,
+        "type": "Thermes"
+      },
+      {
+        "id": "7131920089092952502",
+        "nom": "Nouveau et Myotte",
+        "slug": "nouveau-et-myotte",
+        "telephone": "03 84 73 09 30",
+        "site_web": "https://lmh-groupe.fr/nouveaumyotte/?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11336341640032605244",
+        "nom": "Mondial Pare-Brise - Point Relais",
+        "slug": "mondial-pare-brise-point-relais",
+        "telephone": "03 84 79 27 43",
+        "site_web": "https://www.mondialparebrise.fr/trouver-mon-centre/point-relais-mondial-pare-brise-salins-les-bains?utm_campaign=store-locator&utm_medium=google-my-business&utm_source=gmb",
+        "adresse": "SANSEIGNE INTEGRAL VINTAGE, 10 Rte de Champagnole, 39110 Salins-les-Bains",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "12320701245960223410",
+        "nom": "Hediguer Laurent",
+        "slug": "hediguer-laurent",
+        "telephone": "03 84 73 07 91",
+        "site_web": null,
+        "adresse": "2 bis Av. Aristide Briand, 39110 Salins-les-Bains",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "5353444278320814960",
+        "nom": "Kramer Toiture Renov",
+        "slug": "kramer-toiture-renov",
+        "telephone": "06 65 98 19 89",
+        "site_web": "https://kramer-toiture.fr/",
+        "adresse": "68 Rue Louis Pasteur, 39110 Salins-les-Bains",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13709147853692072578",
+        "nom": "ART BOIS",
+        "slug": "art-bois",
+        "telephone": "07 60 01 05 60",
+        "site_web": "https://www.art-bois-jura.com/",
+        "adresse": "14 Rte de Champagnole, 39110 Salins-les-Bains",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "arbois": {
+    "artisans": [
+      {
+        "id": "6826269737878370394",
+        "nom": "Doras Arbois",
+        "slug": "doras-arbois",
+        "telephone": "03 84 66 06 56",
+        "site_web": "https://www.doras.fr/?utm_source=gmb",
+        "adresse": "Zone Industrielle de, 16 route Villeneuve, L'Ethole, 39600 Arbois",
+        "note": 4,
+        "avis": 52,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13078857846995546834",
+        "nom": "Weldom Arbois",
+        "slug": "weldom-arbois",
+        "telephone": "03 84 51 05 10",
+        "site_web": "https://www.weldom.fr/m/weldom-arbois",
+        "adresse": "Centre Commerciale Le Pré Bercy, 11 Rte de Besançon, 39600 Arbois",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "5342078856734581420",
+        "nom": "Jura Menuiserie SAS",
+        "slug": "jura-menuiserie-sas",
+        "telephone": "03 84 66 08 47",
+        "site_web": null,
+        "adresse": "19 Rte de Villeneuve, 39600 Arbois",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "207019846072484071",
+        "nom": "Roberget Philippe",
+        "slug": "roberget-philippe",
+        "telephone": "06 87 16 79 75",
+        "site_web": null,
+        "adresse": "2 bis Rue de l'Orme, 39600 Arbois",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "beaufort-orbagna": {
+    "artisans": [
+      {
+        "id": "10029481492777171655",
+        "nom": "LUXANCE pvc concept",
+        "slug": "luxance-pvc-concept",
+        "telephone": "06 74 51 10 13",
+        "site_web": "https://www.luxance-habitat.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "8 Rue Rouget de Lisle, 39000 Lons-le-Saunier",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bois-d-amont": {
+    "artisans": [
+      {
+        "id": "7637360920011749122",
+        "nom": "Aéro-Murs et Toitures - Concessionnaire Tuilex",
+        "slug": "aero-murs-et-toitures-concessionnaire-tuilex",
+        "telephone": "03 84 25 93 73",
+        "site_web": "https://www.tuilex-jura.fr/?utm_source=gmb",
+        "adresse": "Hameau, 100 Rue de la Faye, 39230 Mantry",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "champagnole": {
+    "artisans": [
+      {
+        "id": "6846518399345418291",
+        "nom": "Monsieur Store Champagnole - Storeadoor",
+        "slug": "monsieur-store-champagnole-storeadoor",
+        "telephone": "03 84 52 47 28",
+        "site_web": "https://monsieurstore.com/magasin/champagnole-39300/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "170 Rue du Martelage, 39300 Champagnole",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "4109010705544333095",
+        "nom": "CASÉO Champagnole",
+        "slug": "caseo-champagnole",
+        "telephone": "03 84 52 63 88",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-champagnole-champagnole-113",
+        "adresse": "317 Av. de Lattre de Tassigny, 39300 Champagnole",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11289195955506232532",
+        "nom": "Fermetures jurassiennes",
+        "slug": "fermetures-jurassiennes",
+        "telephone": "06 85 56 52 91",
+        "site_web": "https://www.fermetures-jurassiennes.fr/",
+        "adresse": "22 Rue Stephen Pichon, 39300 Vers-en-Montagne",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11924435694468071631",
+        "nom": "Travaillot SAS",
+        "slug": "travaillot-sas",
+        "telephone": "03 84 52 18 66",
+        "site_web": "https://travaillot.wixsite.com/charpente-menuisier",
+        "adresse": "216 Rue Lavoisier, 39300 Champagnole",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10262829461367835109",
+        "nom": "Jura Fermetures Champagnole",
+        "slug": "jura-fermetures-champagnole",
+        "telephone": "03 84 35 58 99",
+        "site_web": "http://www.jurafermetures.com/",
+        "adresse": "493 Av. de Lattre de Tassigny, 39300 Champagnole",
+        "note": 4.2,
+        "avis": 37,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4702686443799171593",
+        "nom": "Eurofen Production",
+        "slug": "eurofen-production",
+        "telephone": "03 84 53 18 00",
+        "site_web": "http://www.eurofen.fr/",
+        "adresse": "Rue sous Burgille, 39300 Champagnole",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "champvans": {
+    "artisans": [
+      {
+        "id": "11655861479546631046",
+        "nom": "MICHAUD Couverture Bardage",
+        "slug": "michaud-couverture-bardage",
+        "telephone": "03 84 72 27 99",
+        "site_web": "https://www.facebook.com/Michaud-couverture-bardage-109889383953363",
+        "adresse": "3 Rue des Grands Prés, 39100 Champvans",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13062021049910873148",
+        "nom": "TH - Fabrique du Jura",
+        "slug": "th-fabrique-du-jura",
+        "telephone": null,
+        "site_web": "http://www.th-groupe.com/",
+        "adresse": "36 Av. de la Gare, 39100 Champvans",
+        "note": 5,
+        "avis": 0,
+        "type": "Constructeur de maisons modulaires"
+      }
+    ]
+  },
+  "chaussin": {
+    "artisans": [
+      {
+        "id": "13289139190399354097",
+        "nom": "Bati Conseil.sn",
+        "slug": "bati-conseilsn",
+        "telephone": "03 84 69 07 62",
+        "site_web": null,
+        "adresse": "7 Rue de l'Hôtel de ville, 39120 Chaussin",
+        "note": 3,
+        "avis": 2,
+        "type": "Agence d'architecture"
+      },
+      {
+        "id": "14300590360817782130",
+        "nom": "Aux Delices De Chaussin",
+        "slug": "aux-delices-de-chaussin",
+        "telephone": "03 84 81 81 09",
+        "site_web": "http://aux-delices-de-chaussin.gaqo.net/",
+        "adresse": "25 Grande Rue, 39120 Chaussin",
+        "note": 4,
+        "avis": 0,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "15882250411538491037",
+        "nom": "Sarl meline & fils",
+        "slug": "sarl-meline-fils",
+        "telephone": "06 74 67 78 51",
+        "site_web": null,
+        "adresse": "Rte d'Asnans, 39120 Chaussin",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "14619970546812895354",
+        "nom": "Ferraroli Christophe",
+        "slug": "ferraroli-christophe",
+        "telephone": "03 84 71 89 46",
+        "site_web": "http://www.sarl-ferraroli.com/",
+        "adresse": "29 Rte de Longwy, 39120 Chaussin",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11801100427460382481",
+        "nom": "Services Energies",
+        "slug": "services-energies",
+        "telephone": "06 48 79 30 83",
+        "site_web": "https://www.services-energies-39.fr/",
+        "adresse": "12 Rue Simone Michel Lévy, 39120 Chaussin",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Chauffagiste"
+      }
+    ]
+  }
+}

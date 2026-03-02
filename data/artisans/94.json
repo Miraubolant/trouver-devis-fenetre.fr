@@ -1,0 +1,2749 @@
+{
+  "creteil": {
+    "artisans": [
+      {
+        "id": "16229519382157736976",
+        "nom": "Les Fermetures d'IDF",
+        "slug": "les-fermetures-didf",
+        "telephone": "01 86 04 22 59",
+        "site_web": "https://www.lesfermeturesdidf.fr/",
+        "adresse": "61 b Rue de Mesly, 94000 Créteil",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "381636934899063722",
+        "nom": "KparK Juvisy",
+        "slug": "kpark-juvisy",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/102-kpark-juvisy?utm_source=gmb",
+        "adresse": "26 Av. Gabriel Péri, 91260 Juvisy-sur-Orge",
+        "note": 3.9,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 59,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4133320673182882036",
+        "nom": "Fenetres plus",
+        "slug": "fenetres-plus",
+        "telephone": "09 80 42 94 04",
+        "site_web": "http://www.fenetresplus.fr/",
+        "adresse": "92 Rue La Fayette, 75009 Paris",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin"
+      },
+      {
+        "id": "7226301193733021327",
+        "nom": "Paris Verrière",
+        "slug": "paris-verriere",
+        "telephone": "06 30 81 80 11",
+        "site_web": "https://www.parisverriere.fr/",
+        "adresse": "10 Rue de la Paix, 75002 Paris",
+        "note": 1,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8112984917882010149",
+        "nom": "TRYBA Créteil",
+        "slug": "tryba-creteil",
+        "telephone": "01 59 30 12 46",
+        "site_web": "https://www.tryba.com/espace-conseil/94/tryba-creteil/?utm_campaign=Tryba_creteil&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "28 Av. Pierre Brossolette, 94000 Créteil",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13839195362882495308",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/val-de-marne/installateur-expert-en-pose-velux-a-saint-maur-des-fosses",
+        "adresse": "Bd de Créteil, 94100 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15459553490325458692",
+        "nom": "TRYBA Sucy-en-Brie",
+        "slug": "tryba-sucy-en-brie",
+        "telephone": "01 59 30 12 47",
+        "site_web": "https://www.tryba.com/espace-conseil/94/tryba-sucy-en-brie/?utm_campaign=Tryba_Sucy-en-Brie&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "10 Pl. de la Gare, 94370 Sucy-en-Brie",
+        "note": 4.6,
+        "avis": 52,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vitry-sur-seine": {
+    "artisans": [
+      {
+        "id": "4856096790768592511",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "01 55 28 95 55",
+        "site_web": "https://magasins.lapeyre.fr/ile-de-france/paris/lapeyre-bhv-marais-138",
+        "adresse": "52 Rue de Rivoli, 75004 Paris",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "10381019733363622853",
+        "nom": "Assistance Vitrerie",
+        "slug": "assistance-vitrerie",
+        "telephone": "01 77 51 33 71",
+        "site_web": "http://www.assistance-vitrerie.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "4335116679502297617",
+        "nom": "Concept Confort Habitat : Couvreur 94",
+        "slug": "concept-confort-habitat-couvreur-94",
+        "telephone": "01 49 61 83 40",
+        "site_web": "https://www.cc-habitat.com/",
+        "adresse": "39 Av. du Groupe Manouchian, 94400 Vitry-sur-Seine",
+        "note": 4.8,
+        "avis": 105,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10088548666272925956",
+        "nom": "Bruno vitrier",
+        "slug": "bruno-vitrier",
+        "telephone": "01 86 61 81 91",
+        "site_web": "https://bruno-vitrier.fr/vitrier-paris-18eme-arrondissement-75018",
+        "adresse": "43 Rue Caulaincourt, 75018 Paris",
+        "note": 5,
+        "avis": 1,
+        "type": "Vitrier"
+      },
+      {
+        "id": "16266137627625845620",
+        "nom": "L'Atelier Du Service - Dépannage Volet Roulant",
+        "slug": "latelier-du-service-depannage-volet-roulant",
+        "telephone": "06 50 62 00 69",
+        "site_web": "https://monartisanvolets.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5692658646619330446",
+        "nom": "Bruno vitrier",
+        "slug": "bruno-vitrier",
+        "telephone": "01 86 61 81 91",
+        "site_web": "https://bruno-vitrier.fr/vitrier-paris-13eme-arrondissement-75013",
+        "adresse": "24 Rue Bobillot, 75013 Paris",
+        "note": 5,
+        "avis": 1,
+        "type": "Vitrier"
+      },
+      {
+        "id": "922554995976544746",
+        "nom": "Vitrier Levallois Perret",
+        "slug": "vitrier-levallois-perret",
+        "telephone": "01 87 21 11 87",
+        "site_web": "https://temp-gsyppvvhcscvhbxxwhwr.webadorsite.com/",
+        "adresse": "3 Rue Louise Michel, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "fontenay-sous-bois": {
+    "artisans": [
+      {
+        "id": "8492211333613636873",
+        "nom": "JF Couverture",
+        "slug": "jf-couverture",
+        "telephone": "07 68 38 54 28",
+        "site_web": "https://jfcouverture95.fr/",
+        "adresse": "1bis Rue Henri Dunant, 95460 Ézanville",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17592279621381551179",
+        "nom": "La Boutique du Menuisier France Ferm Membre",
+        "slug": "la-boutique-du-menuisier-france-ferm-membre",
+        "telephone": "01 48 77 07 48",
+        "site_web": "https://www.franceferm-fenetres-volets-fontenay.fr/",
+        "adresse": "21 Rue du Commandant Jean Duhail, 94120 Fontenay-sous-Bois",
+        "note": 4.8,
+        "avis": 105,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6175037090508101447",
+        "nom": "Serrurerie Fontenay sous Bois Fenêtres Porte Blindée Volets - Picard Serrures",
+        "slug": "serrurerie-fontenay-sous-bois-fenetres-porte-blindee-volets-picard-serrures",
+        "telephone": "01 48 75 29 97",
+        "site_web": "https://serrureriedefontenay.net/",
+        "adresse": "32 Av. de la République, 94120 Fontenay-sous-Bois",
+        "note": 4.8,
+        "avis": 267,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12462392832877962602",
+        "nom": "Vitrier Fontenay-sous-bois",
+        "slug": "vitrier-fontenay-sous-bois",
+        "telephone": "01 87 58 74 18",
+        "site_web": null,
+        "adresse": "26 Av. Foch, 94120 Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "8171218479263630567",
+        "nom": "Couvreur Fontenay-sous-Bois",
+        "slug": "couvreur-fontenay-sous-bois",
+        "telephone": "06 42 72 34 62",
+        "site_web": "https://couvreurfontenaysousbois.fr/",
+        "adresse": "13 Rue Georges Guynemer, 94120 Fontenay-sous-Bois",
+        "note": 5,
+        "avis": 133,
+        "type": "Couvreur"
+      },
+      {
+        "id": "932410962878929242",
+        "nom": "Charles Costa Aluminier Technal",
+        "slug": "charles-costa-aluminier-technal",
+        "telephone": "01 43 73 10 00",
+        "site_web": "https://charles-costa.fr/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=profile_charles-costa_75020",
+        "adresse": "77 Rue de la Plaine, 75020 Paris",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chennevieres-sur-marne": {
+    "artisans": [
+      {
+        "id": "6456296598018015575",
+        "nom": "METAL 2000 Val-de-Marne - Réparation portes garages, portes sectionnelles et maintenance fermetures industrielles (94)",
+        "slug": "metal-2000-val-de-marne-reparation-portes-garages-portes-sectionnelles-et-maintenance-fermetures-industrielles-94",
+        "telephone": "01 83 64 89 61",
+        "site_web": "https://www.metal2000.fr/nos-agences/vitry-sur-seine/",
+        "adresse": "34 Rue Charles Heller, 94400 Vitry-sur-Seine",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "15123940718267531130",
+        "nom": "Olivier Couverture -Couvreur 94 -Couvreur Val de Marne",
+        "slug": "olivier-couverture-couvreur-94-couvreur-val-de-marne",
+        "telephone": "01 49 82 03 35",
+        "site_web": "https://www.olivier-couverture-94.fr/",
+        "adresse": "39 Rue du Général de Gaulle, 94430 Chennevières-sur-Marne",
+        "note": 4.7,
+        "avis": 62,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3694919402321832868",
+        "nom": "SAS ARTITOIT couvreur chennevières-sur-Marne",
+        "slug": "sas-artitoit-couvreur-chennevieres-sur-marne",
+        "telephone": "01 88 83 73 52",
+        "site_web": "https://sas-artitoit.com/",
+        "adresse": "22 Rte de la Libération, 94430 Chennevières-sur-Marne",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8487964378313570089",
+        "nom": "Monsieur Store Chennevières-sur-Marne - Dubos Verger",
+        "slug": "monsieur-store-chennevieres-sur-marne-dubos-verger",
+        "telephone": "01 45 94 02 11",
+        "site_web": "https://www.monsieurstore.com/magasin/chennevieres-sur-marne-94430.html",
+        "adresse": "56 Rue Aristide Briand, 94430 Chennevières-sur-Marne",
+        "note": 4.7,
+        "avis": 351,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "10007114038835849051",
+        "nom": "Monsieur Store Saint-Maur-des-Fossés – Dubos Verger",
+        "slug": "monsieur-store-saint-maur-des-fosses-dubos-verger",
+        "telephone": "01 45 94 02 11",
+        "site_web": "https://monsieurstore.com/magasin/saint-maur-des-fosses-94100/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "119 Rue Garibaldi, 94100 Saint-Maur-des-Fossés",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "17416925657164175657",
+        "nom": "Fenêtre Roubaix",
+        "slug": "fenetre-roubaix",
+        "telephone": "01 83 63 93 95",
+        "site_web": "http://etsroubaix.fr/",
+        "adresse": "94500 Champigny-sur-Marne",
+        "note": 5,
+        "avis": 15,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "2923713275372396362",
+        "nom": "Roofnow",
+        "slug": "roofnow",
+        "telephone": "01 85 09 72 64",
+        "site_web": "https://roofnow.fr/",
+        "adresse": "26 Rue Bosquet, 75007 Paris",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "fresnes": {
+    "artisans": [
+      {
+        "id": "7670629184930714994",
+        "nom": "COUVREUR FRESNES - MD COUVERTURE",
+        "slug": "couvreur-fresnes-md-couverture",
+        "telephone": "06 58 13 87 77",
+        "site_web": "https://www.couvreur-md-94.fr/",
+        "adresse": "28 Av. des Pépinières, 94260 Fresnes",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18231993144955463627",
+        "nom": "RCM FENETRIER \"VEKA\" ANTONY",
+        "slug": "rcm-fenetrier-veka-antony",
+        "telephone": "01 57 63 01 70",
+        "site_web": "https://www.fenetrier-rcm.fr/",
+        "adresse": "150 Av. de la Division Leclerc, 92160 Antony",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10346404040368451457",
+        "nom": "A.F.M.H. à Fresnes - Fenêtres, Menuiseries, Pergolas, Stores",
+        "slug": "afmh-a-fresnes-fenetres-menuiseries-pergolas-stores",
+        "telephone": "01 46 30 87 64",
+        "site_web": "http://www.artistore-volet.fr/",
+        "adresse": "47 Bd Pasteur, 94260 Fresnes",
+        "note": 3.4,
+        "avis": 34,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "16213227838836975088",
+        "nom": "Sol et Toit",
+        "slug": "sol-et-toit",
+        "telephone": "06 18 57 40 86",
+        "site_web": "https://sol-et-toit.fr/",
+        "adresse": "28 Av. des Pépinières, 94260 Fresnes",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "1926516668689681152",
+        "nom": "AT Couvertures",
+        "slug": "at-couvertures",
+        "telephone": "06 60 99 75 94",
+        "site_web": "https://www.at-couvertures.fr/",
+        "adresse": "28 Av. des Pépinières, 94260 Fresnes",
+        "note": 5,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16919764861227225873",
+        "nom": "Parent et fils",
+        "slug": "parent-et-fils",
+        "telephone": "06 88 39 94 37",
+        "site_web": "http://www.parent-et-fils.fr/",
+        "adresse": "31 Rue Julien Chaillioux, 94260 Fresnes",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gentilly": {
+    "artisans": [
+      {
+        "id": "10221456053279744408",
+        "nom": "LGR Laurent Goldstein Rénovation - Ouverture S",
+        "slug": "lgr-laurent-goldstein-renovation-ouverture-s",
+        "telephone": "01 45 85 01 89",
+        "site_web": "https://paris.ouvertures.com/?utm_campaign=GMB_paris&utm_medium=organic&utm_source=GMB",
+        "adresse": "66 Rue Nationale, 75013 Paris",
+        "note": 3.7,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14915632856487046201",
+        "nom": "Beef & Good",
+        "slug": "beef-good",
+        "telephone": "01 88 27 13 10",
+        "site_web": "https://www.beefngood.fr/",
+        "adresse": "1 Av. du Chaperon Vert AH5, 94250 Gentilly",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Boucherie-charcuterie"
+      },
+      {
+        "id": "13796086446185720769",
+        "nom": "🇫🇷les castors renov'toit 🆘 Couverture 🆘Urgence Fuite🆘 Toiture Service Dépannage Couvreur",
+        "slug": "les-castors-renovtoit-couverture-urgence-fuite-toiture-service-depannage-couvreur",
+        "telephone": "06 85 17 56 88",
+        "site_web": "http://www.castors-renov-toit.fr/",
+        "adresse": "9 Av. Verdier, 92120 Montrouge",
+        "note": 4.5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17905552009254860667",
+        "nom": "Couvreur façadier 92 Bischoff Pose de Velux hauts de Seine isolation gouttière fuite, toiture, intervention rapide",
+        "slug": "couvreur-facadier-92-bischoff-pose-de-velux-hauts-de-seine-isolation-gouttiere-fuite-toiture-intervention-rapide",
+        "telephone": "06 22 62 07 37",
+        "site_web": "https://bischoff-couvreur-91.fr/",
+        "adresse": "81 Rue Gabriel Péri, 92120 Montrouge",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8576537821465502121",
+        "nom": "ABL Vitrier",
+        "slug": "abl-vitrier",
+        "telephone": "01 84 73 18 78",
+        "site_web": "http://abl-vitrier.fr/",
+        "adresse": "9 Rue du Moulin des Prés, 75013 Paris",
+        "note": 4.8,
+        "avis": 416,
+        "type": "Vitrier"
+      },
+      {
+        "id": "13842293489401204861",
+        "nom": "Art et Fenêtres",
+        "slug": "art-et-fenetres",
+        "telephone": "01 43 14 05 69",
+        "site_web": "http://www.artetfenetres-parisest.com/?utm_source=gmb",
+        "adresse": "36 Rue de Wattignies, 75012 Paris",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7799755891694887765",
+        "nom": "Leroy Merlin Ivry-sur-Seine",
+        "slug": "leroy-merlin-ivry-sur-seine",
+        "telephone": "01 56 20 86 00",
+        "site_web": "https://www.leroymerlin.fr/magasins/ivry-sur-seine.html",
+        "adresse": "2-12 Rue François Mitterrand, 94200 Ivry-sur-Seine",
+        "note": 4,
+        "avis": 8616,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "9856655455815902557",
+        "nom": "Diallo vitrier artisan",
+        "slug": "diallo-vitrier-artisan",
+        "telephone": "06 34 03 72 49",
+        "site_web": "http://diallovitrierartisan.com/accueil",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "6921846408700325252",
+        "nom": "Couvreur paris 75 Avrillas les toitures de Paris",
+        "slug": "couvreur-paris-75-avrillas-les-toitures-de-paris",
+        "telephone": "06 03 40 54 17",
+        "site_web": "https://couvreur-artisan-paris.fr/",
+        "adresse": "19 Av. d'Italie, 75013 Paris",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9954451564811509246",
+        "nom": "Installateur Velux Paris",
+        "slug": "installateur-velux-paris",
+        "telephone": "01 86 61 76 21",
+        "site_web": "https://www.couvreur-paris.net/lucarnes-et-velux",
+        "adresse": null,
+        "note": 3,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chevilly-larue": {
+    "artisans": [
+      {
+        "id": "6754401184103542210",
+        "nom": "TRYBA L'Haÿ-les-Roses",
+        "slug": "tryba-lhay-les-roses",
+        "telephone": "01 59 30 12 62",
+        "site_web": "https://www.tryba.com/espace-conseil/94/tryba-lhay-les-roses/?utm_campaign=Tryba_lhay-les-roses&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "144 Rue de Chevilly, 94240 L'Haÿ-les-Roses",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16539057765382320039",
+        "nom": "KparK Thiais",
+        "slug": "kpark-thiais",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/111-kpark-thiais?utm_source=gmb",
+        "adresse": "Tour Europa Boulevard de l'Europe, 94320 Thiais",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15151946271819784854",
+        "nom": "KparK Bourg La Reine",
+        "slug": "kpark-bourg-la-reine",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/134-kpark-bourg-la-reine?utm_source=gmb",
+        "adresse": "96 Bd du Maréchal Joffre, 92340 Bourg-la-Reine",
+        "note": 2.7,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "choisy-le-roi": {
+    "artisans": [
+      {
+        "id": "3370428801535497495",
+        "nom": "Menuistores",
+        "slug": "menuistores",
+        "telephone": "06 68 50 07 17",
+        "site_web": "https://tiktok.com/@menuistores?utm_source=gmb",
+        "adresse": "8 Rue Christophe Colomb, 94600 Choisy-le-Roi",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3856841095669396659",
+        "nom": "TRYBA Choisy-le-Roi",
+        "slug": "tryba-choisy-le-roi",
+        "telephone": "01 59 30 12 63",
+        "site_web": "https://www.tryba.com/espace-conseil/94/tryba-choisy-le-roi/?utm_campaign=Tryba_Choisy-le-Roi&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "137 Av. Anatole France, 94600 Choisy-le-Roi",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4307910750144236149",
+        "nom": "CHOISY COUVERTURE",
+        "slug": "choisy-couverture",
+        "telephone": "06 51 02 19 63",
+        "site_web": "https://www.choisy-couverture.fr/",
+        "adresse": "52 Rue Labbé, 94600 Choisy-le-Roi",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2060600755633113133",
+        "nom": "FP1 Menuiserie",
+        "slug": "fp1-menuiserie",
+        "telephone": "01 58 42 01 15",
+        "site_web": "https://www.fp1menuiserie.fr/?utm_source=gmb",
+        "adresse": "28 Bd des Alliés, 94600 Choisy-le-Roi",
+        "note": 4.8,
+        "avis": 240,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "507953326859711790",
+        "nom": "Barat Yves",
+        "slug": "barat-yves",
+        "telephone": "01 48 92 66 09",
+        "site_web": "http://barat.site-solocal.com/",
+        "adresse": "91 Rue d'Alsace Lorraine, 94600 Choisy-le-Roi",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14323779623818620234",
+        "nom": "Vitrier-Choisy-le-roi-Service",
+        "slug": "vitrier-choisy-le-roi-service",
+        "telephone": "01 85 09 35 00",
+        "site_web": "https://vitrier-choisy-le-roi-service.fr/",
+        "adresse": "12 Vla Berlioz, 94600 Choisy-le-Roi",
+        "note": 5,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "l-hay-les-roses": {
+    "artisans": [
+      {
+        "id": "11378972222329641546",
+        "nom": "Abraham Couverture - Couvreur 92",
+        "slug": "abraham-couverture-couvreur-92",
+        "telephone": "06 35 39 00 39",
+        "site_web": "http://www.couverture-abraham.fr/",
+        "adresse": "7 Rue le Bouvier, 92340 Bourg-la-Reine",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3139905447336825354",
+        "nom": "Leroy Merlin Vitry-sur-Seine",
+        "slug": "leroy-merlin-vitry-sur-seine",
+        "telephone": "01 49 87 09 09",
+        "site_web": "https://www.leroymerlin.fr/magasins/vitry-sur-seine.html",
+        "adresse": "52 Bd de Stalingrad, 94400 Vitry-sur-Seine",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "14884849111367603366",
+        "nom": "CLV COUVERTURE",
+        "slug": "clv-couverture",
+        "telephone": "01 40 91 03 02",
+        "site_web": "https://clv-couverture.com/",
+        "adresse": "167 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15062807617277056606",
+        "nom": "PORTES ET FENÊTRES ESSONNE",
+        "slug": "portes-et-fenetres-essonne",
+        "telephone": "01 69 31 11 59",
+        "site_web": "https://www.portesetfenetres-essonne.com/",
+        "adresse": "158 Rue de Paris, 91120 Palaiseau",
+        "note": 4.9,
+        "avis": 64,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14647221782919749528",
+        "nom": "Fenêtres d'Hier Et D'Aujourdhui",
+        "slug": "fenetres-dhier-et-daujourdhui",
+        "telephone": "01 49 73 38 02",
+        "site_web": "https://op-fenetres-fha.com/les-offres-promotionnelles/ste-fenetres-dhier-et-daujourdhui/menuiseries",
+        "adresse": "144 Bis Av. du Général Leclerc, 92330 Sceaux",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ivry-sur-seine": {
+    "artisans": [
+      {
+        "id": "9430567053946995106",
+        "nom": "Établissements Viglino",
+        "slug": "etablissements-viglino",
+        "telephone": "01 46 72 03 19",
+        "site_web": "http://www.vitrerie-viglino.fr/",
+        "adresse": "30 Rue Hoche, 94200 Ivry-sur-Seine",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13850899174381444777",
+        "nom": "Allo Fenêtres",
+        "slug": "allo-fenetres",
+        "telephone": "01 46 71 42 53",
+        "site_web": "http://www.allofenetres.com/",
+        "adresse": "5 Rue Lénine, 94200 Ivry-sur-Seine",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11007496520659621413",
+        "nom": "Lorenove Paris Sud",
+        "slug": "lorenove-paris-sud",
+        "telephone": "01 46 58 11 55",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/paris-sud?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_paris-sud",
+        "adresse": "Capstone Park, 47 Rue Ernest Renan Bât. 03, 94200 Ivry-sur-Seine",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2280396158163987901",
+        "nom": "Habitat Fenêtre 94 - Art & Fenêtres",
+        "slug": "habitat-fenetre-94-art-fenetres",
+        "telephone": "01 43 65 65 65",
+        "site_web": "http://www.habitat-fenetres-vincennes.fr/",
+        "adresse": "11 Rue Saulpic, 94300 Vincennes",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3634968186834176268",
+        "nom": "Ivry Toiture",
+        "slug": "ivry-toiture",
+        "telephone": "01 85 42 07 13",
+        "site_web": "https://ivry-toiture.fr/",
+        "adresse": "Rue Raspail, 94200 Ivry-sur-Seine",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1635471534371840643",
+        "nom": "Albert et Fils",
+        "slug": "albert-et-fils",
+        "telephone": "01 45 21 00 37",
+        "site_web": "https://albert-et-fils.fr/ivry-sur-seine-94200/",
+        "adresse": "105 Rue Victor Hugo, 94205 Ivry-sur-Seine",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "joinville-le-pont": {
+    "artisans": [
+      {
+        "id": "14891777085517394250",
+        "nom": "ARTISAN REVAUX 94",
+        "slug": "artisan-revaux-94",
+        "telephone": "07 70 97 74 78",
+        "site_web": "http://www.couvreur-94-revaux.fr/",
+        "adresse": "30 Rue de la Varenne, 94100 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4633290327083082987",
+        "nom": "Miroiterie du Val-de-Marne Komilfo",
+        "slug": "miroiterie-du-val-de-marne-komilfo",
+        "telephone": "01 42 83 70 84",
+        "site_web": "https://www.miroiterieduvaldemarne.fr/?utm_source=gmb",
+        "adresse": "4 Av. Jean d'Estienne d'Orves, 94340 Joinville-le-Pont",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4704909660744267697",
+        "nom": "Joinville couverture",
+        "slug": "joinville-couverture",
+        "telephone": "07 89 58 67 60",
+        "site_web": "https://joinvillescouverture.xyz/",
+        "adresse": "5 Vla de l'Étoile, 94340 Joinville-le-Pont",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15880933805124583624",
+        "nom": "Fenestrend",
+        "slug": "fenestrend",
+        "telephone": "01 86 61 54 49",
+        "site_web": "https://www.fenestrend.fr/",
+        "adresse": "14 Av. des Arts, 94100 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7022314050635318350",
+        "nom": "Lelandais Fermetures St-Maur-des-Fossés",
+        "slug": "lelandais-fermetures-st-maur-des-fosses",
+        "telephone": "01 85 53 02 76",
+        "site_web": "http://www.lelandaisfermetures.com/",
+        "adresse": "163 Bd de Créteil, 94100 Saint-Maur-des-Fossés",
+        "note": 4.8,
+        "avis": 173,
+        "type": "Vitrier"
+      },
+      {
+        "id": "13688172714505166644",
+        "nom": "Komilfo Miroiterie du Val-de-Marne à Vincennes - Pergolas, Stores, Menuiseries",
+        "slug": "komilfo-miroiterie-du-val-de-marne-a-vincennes-pergolas-stores-menuiseries",
+        "telephone": "01 43 28 20 92",
+        "site_web": "https://www.facebook.com/KomilfoMVM?utm_source=gmb",
+        "adresse": "22 Rue de l'Église, 94300 Vincennes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14692052913038865938",
+        "nom": "MIEUX RENOVER 94",
+        "slug": "mieux-renover-94",
+        "telephone": "01 60 77 22 22",
+        "site_web": "https://mieuxrenover.com/",
+        "adresse": "8 Rue d'Estienne d'Orves, 94000 Créteil",
+        "note": 4.9,
+        "avis": 318,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "14229367213233459485",
+        "nom": "TOITURES D'ILE DE FRANCE SAS VAVASSEUR",
+        "slug": "toitures-dile-de-france-sas-vavasseur",
+        "telephone": "01 48 86 24 64",
+        "site_web": "https://www.toituresiledefrance.fr/",
+        "adresse": "87 Bd de Créteil, 94100 Saint-Maur-des-Fossés",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1303924806387654706",
+        "nom": "Établissement Victor",
+        "slug": "etablissement-victor",
+        "telephone": "01 46 70 86 55",
+        "site_web": "https://etsvictor.com/etablissement-victor-nogent-sur-marne-94130/",
+        "adresse": "3 Rue de Châteaudun, 94130 Nogent-sur-Marne",
+        "note": 4.8,
+        "avis": 110,
+        "type": "Plombier"
+      },
+      {
+        "id": "10909578641537919905",
+        "nom": "AS Couverture - Couvreur zingueur, rénovation toiture & étanchéité dans le Val de Marne",
+        "slug": "as-couverture-couvreur-zingueur-renovation-toiture-etancheite-dans-le-val-de-marne",
+        "telephone": "01 73 20 25 09",
+        "site_web": "http://ascouverture.com/",
+        "adresse": "96 bis Bd de Bellechasse, 94100 Saint-Maur-des-Fossés",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-kremlin-bicetre": {
+    "artisans": [
+      {
+        "id": "6388946295201913482",
+        "nom": "KparK Paris Blanqui",
+        "slug": "kpark-paris-blanqui",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/75-kpark-paris-blanqui?utm_source=gmb",
+        "adresse": "68 Bd Auguste Blanqui, 75013 Paris",
+        "note": 3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11851830046094936055",
+        "nom": "Art and Blind",
+        "slug": "art-and-blind",
+        "telephone": "01 42 11 00 12",
+        "site_web": "http://art-and-blind.decostory.fr/",
+        "adresse": "18 Av. Eugène Thomas, 94270 Le Kremlin-Bicêtre",
+        "note": 4.7,
+        "avis": 95,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "2834109213404777614",
+        "nom": "Grosfillex Kremlin Bicêtre",
+        "slug": "grosfillex-kremlin-bicetre",
+        "telephone": "01 46 72 42 93",
+        "site_web": "https://www.grosfillex-fenetres.com/wissous",
+        "adresse": "47 Rue Gabriel Péri, 94270 Le Kremlin-Bicêtre",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "7608992047615712908",
+        "nom": "Établissement Victor",
+        "slug": "etablissement-victor",
+        "telephone": "01 46 70 86 55",
+        "site_web": "https://etsvictor.com/etablissement-victor-villejuif-94800/",
+        "adresse": "49 Av. Paul Vaillant Couturier, 94800 Villejuif",
+        "note": 4.8,
+        "avis": 197,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "marolles-en-brie": {
+    "artisans": [
+      {
+        "id": "10923263646071166598",
+        "nom": "CHP Fenetre SAS",
+        "slug": "chp-fenetre-sas",
+        "telephone": "01 56 32 13 21",
+        "site_web": "https://www.chp-fenetres.net/?utm_source=gmb",
+        "adresse": "2 Rue du Vallon, 94440 Marolles-en-Brie",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "limeil-brevannes": {
+    "artisans": [
+      {
+        "id": "10700515538170984937",
+        "nom": "OuvertureS - Côté Fermetures - Pose de fenêtres à Limeil Brévannes",
+        "slug": "ouvertures-cote-fermetures-pose-de-fenetres-a-limeil-brevannes",
+        "telephone": "01 43 86 80 00",
+        "site_web": "https://limeil-brevannes.ouvertures.com/?utm_campaign=GMB_limeil-brevannes&utm_medium=organic&utm_source=GMB",
+        "adresse": "25 Rue des deux Communes, 94450 Limeil-Brévannes",
+        "note": 4.4,
+        "avis": 34,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "maisons-alfort": {
+    "artisans": [
+      {
+        "id": "11391692576928657235",
+        "nom": "Réparation volet roulant",
+        "slug": "reparation-volet-roulant",
+        "telephone": "01 43 74 96 73",
+        "site_web": "https://ets-reparation-volet-roulant-94.fr/",
+        "adresse": "74 Av. de la République, 94700 Maisons-Alfort",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5851971424169546750",
+        "nom": "Acoussur - agence Maisons-Alfort",
+        "slug": "acoussur-agence-maisons-alfort",
+        "telephone": "01 71 33 17 71",
+        "site_web": "https://www.acoussur.fr/",
+        "adresse": "8 Rue Charles Martigny, 94700 Maisons-Alfort",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "6086815983681535850",
+        "nom": "ACTIONS ISO - Fenêtre PVC ALU BOIS devis pose - Volet roulant SOMFY Bubendorff - Serrurerie -Vitrerie",
+        "slug": "actions-iso-fenetre-pvc-alu-bois-devis-pose-volet-roulant-somfy-bubendorff-serrurerie-vitrerie",
+        "telephone": "01 84 23 02 44",
+        "site_web": "https://actionsiso.fr/",
+        "adresse": "13 Rue Chevreul, 94700 Maisons-Alfort",
+        "note": 5,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "14281945211755337952",
+        "nom": "TRYBA Maisons-Alfort",
+        "slug": "tryba-maisons-alfort",
+        "telephone": "01 41 79 41 77",
+        "site_web": "https://www.tryba.com/espace-conseil/94/tryba-maisons-alfort/?utm_campaign=Tryba_Maisons-Alfort&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "95 Av. du Général Leclerc, 94700 Maisons-Alfort",
+        "note": 4.2,
+        "avis": 90,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4023474405915452733",
+        "nom": "MRS (Menuiserie & Revêtement de Sol)",
+        "slug": "mrs-menuiserie-revetement-de-sol",
+        "telephone": "01 42 07 58 03",
+        "site_web": "https://atelier-mrs.com/",
+        "adresse": "19 Rue Molière, 94700 Maisons-Alfort",
+        "note": 3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17149132613375984806",
+        "nom": "Acoussur - agence Saint Maur",
+        "slug": "acoussur-agence-saint-maur",
+        "telephone": "01 42 83 81 05",
+        "site_web": "https://www.acoussur.fr/",
+        "adresse": "109 Rue de Bellechasse, 94100 Saint-Maur-des-Fossés",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4929014548224824836",
+        "nom": "Etablissement Laroche",
+        "slug": "etablissement-laroche",
+        "telephone": "01 42 77 11 28",
+        "site_web": "http://www.etablissements-laroche.fr/?utm_source=gmb",
+        "adresse": "17 Rue du Maréchal Juin, 94700 Maisons-Alfort",
+        "note": 4.6,
+        "avis": 65,
+        "type": "Plombier"
+      },
+      {
+        "id": "15959789252641460694",
+        "nom": "Albert Et Fils",
+        "slug": "albert-et-fils",
+        "telephone": "01 48 93 63 09",
+        "site_web": "https://albert-et-fils.fr/maisons-alfort-94700",
+        "adresse": "231 Av. du Général Leclerc, 94700 Maisons-Alfort",
+        "note": 4.5,
+        "avis": 154,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mandres-les-roses": {
+    "artisans": [
+      {
+        "id": "3881216250591969661",
+        "nom": "Mavrick couverture | Couvreur 94 | Couvreur Mandres les Roses",
+        "slug": "mavrick-couverture-couvreur-94-couvreur-mandres-les-roses",
+        "telephone": "06 83 87 43 62",
+        "site_web": "http://www.protection-toiture.fr/",
+        "adresse": "88 Rue de Verdun, 94520 Mandres-les-Roses",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8877339575783115628",
+        "nom": "Menuisol",
+        "slug": "menuisol",
+        "telephone": "06 69 90 38 18",
+        "site_web": "http://www.menuisol-idf.com/",
+        "adresse": "3 Rue des Vallées, 94520 Mandres-les-Roses",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "noiseau": {
+    "artisans": [
+      {
+        "id": "18097790409401916910",
+        "nom": "Abiverre Vitrerie - Miroiterie",
+        "slug": "abiverre-vitrerie-miroiterie",
+        "telephone": "01 49 82 01 02",
+        "site_web": "http://www.abiverre.fr/",
+        "adresse": "1 Rte de la Queue-en-Brie, 94880 Noiseau",
+        "note": 4.7,
+        "avis": 103,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "ormesson-sur-marne": {
+    "artisans": [
+      {
+        "id": "6336051230343556323",
+        "nom": "La Boutique du Menuisier par AM FERMETURES",
+        "slug": "la-boutique-du-menuisier-par-am-fermetures",
+        "telephone": "01 49 82 60 60",
+        "site_web": "http://www.amfermetures.com/?utm_source=gmb",
+        "adresse": "9 Rue de Champigny, 94370 Sucy-en-Brie",
+        "note": 3.9,
+        "avis": 27,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "17406699598257977215",
+        "nom": "Jef Couvreur : Couvreur Ormesson",
+        "slug": "jef-couvreur-couvreur-ormesson",
+        "telephone": "06 33 05 72 16",
+        "site_web": "https://www.jef-couverture.fr/",
+        "adresse": "38 Rue Henry, 94490 Ormesson-sur-Marne",
+        "note": 4.8,
+        "avis": 201,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1033781773130706310",
+        "nom": "PVC Systeme - Menuiserie Pontault-Combault",
+        "slug": "pvc-systeme-menuiserie-pontault-combault",
+        "telephone": "01 60 18 13 90",
+        "site_web": "https://www.pvcsysteme.fr/agence-pontault-combault",
+        "adresse": "96 Rue des Prés Saint-Martin, 77340 Pontault-Combault",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12177838594591596520",
+        "nom": "PVC Systeme - Menuiserie Saint-Maur-des-Fossés",
+        "slug": "pvc-systeme-menuiserie-saint-maur-des-fosses",
+        "telephone": "01 55 09 31 31",
+        "site_web": "https://www.pvcsysteme.fr/agence-saint-maur-des-fosses",
+        "adresse": "104 Av. Foch, 94100 Saint-Maur-des-Fossés",
+        "note": 4.9,
+        "avis": 93,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7703316009144994940",
+        "nom": "Lorenove Pontault Combault",
+        "slug": "lorenove-pontault-combault",
+        "telephone": "01 60 18 10 10",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/pontault-combault?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_pontault-combault",
+        "adresse": "18 Rue Raoul Dautry, 77340 Pontault-Combault",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "10870946014567519871",
+        "nom": "Atelier Tiferw",
+        "slug": "atelier-tiferw",
+        "telephone": "01 49 62 54 07",
+        "site_web": "https://ateliertiferw.fr/",
+        "adresse": "89 Rue Henry, 94490 Ormesson-sur-Marne",
+        "note": 3.2,
+        "avis": 13,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "11891441108679322534",
+        "nom": "KparK Champigny",
+        "slug": "kpark-champigny",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/114-kpark-champigny?utm_source=gmb",
+        "adresse": "Ilot Du Clocher, 40 Rue Louis Talamoni, 94500 Champigny-sur-Marne",
+        "note": 2.6,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14611902403383968606",
+        "nom": "MPO Fenêtres - Champigny-sur-Marne",
+        "slug": "mpo-fenetres-champigny-sur-marne",
+        "telephone": "01 47 06 09 00",
+        "site_web": "http://www.mpofenetres.com/",
+        "adresse": "143 Bd de Stalingrad, 94500 Champigny-sur-Marne",
+        "note": 3.9,
+        "avis": 70,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12811210671622696696",
+        "nom": "Entreprise Vavasseur",
+        "slug": "entreprise-vavasseur",
+        "telephone": "01 48 89 97 37",
+        "site_web": "https://www.entreprisevavasseur.fr/",
+        "adresse": "24 Rue Garnier Pages, 94100 Saint-Maur-des-Fossés",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "orly": {
+    "artisans": [
+      {
+        "id": "8349664960910085980",
+        "nom": "NGN couverture orly Couvreur 94",
+        "slug": "ngn-couverture-orly-couvreur-94",
+        "telephone": "06 44 70 93 40",
+        "site_web": "https://ngn-couvreur94-orly.com/",
+        "adresse": "1 Rue du Maréchal Foch, 94310 Orly",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1035996346001146572",
+        "nom": "KparK Créteil",
+        "slug": "kpark-creteil",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/181-kpark-creteil?utm_source=gmb",
+        "adresse": "94 Rue du Général Leclerc, 94000 Créteil",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8783642972775743432",
+        "nom": "Couvreur 94 Jérémy Chatelain Zingueur Façadier",
+        "slug": "couvreur-94-jeremy-chatelain-zingueur-facadier",
+        "telephone": "06 72 11 39 37",
+        "site_web": "https://couvreur-chatelain.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 52,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nogent-sur-marne": {
+    "artisans": [
+      {
+        "id": "1440408201790917255",
+        "nom": "RVR - Réparation Volet Roulant & Rideaux Métallique",
+        "slug": "rvr-reparation-volet-roulant-rideaux-metallique",
+        "telephone": "07 49 52 56 02",
+        "site_web": "https://reparation-volet-roulant-94.com/",
+        "adresse": "2 bis Bd Gambetta, 94130 Nogent-sur-Marne",
+        "note": 4.8,
+        "avis": 92,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "15674303368022056386",
+        "nom": "APAC Stores",
+        "slug": "apac-stores",
+        "telephone": "01 48 71 29 03",
+        "site_web": "https://www.ste-apac.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "46 Rue Jacques Kable, 94130 Nogent-sur-Marne",
+        "note": 4.7,
+        "avis": 52,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "17592279621381551179",
+        "nom": "La Boutique du Menuisier France Ferm Membre",
+        "slug": "la-boutique-du-menuisier-france-ferm-membre",
+        "telephone": "01 48 77 07 48",
+        "site_web": "https://www.franceferm-fenetres-volets-fontenay.fr/",
+        "adresse": "21 Rue du Commandant Jean Duhail, 94120 Fontenay-sous-Bois",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16606622126643151053",
+        "nom": "NOGENT COUVERTURE",
+        "slug": "nogent-couverture",
+        "telephone": "07 61 80 27 07",
+        "site_web": "https://www.les-couvreurs-94.fr/",
+        "adresse": "2 Bd Albert 1er, 94130 Nogent-sur-Marne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "820178342572082510",
+        "nom": "ABAVAL Serrurerie, Point Fort Fichet",
+        "slug": "abaval-serrurerie-point-fort-fichet",
+        "telephone": "01 48 76 55 56",
+        "site_web": "http://www.abaval.fr/",
+        "adresse": "26 Bd de Strasbourg, 94130 Nogent-sur-Marne",
+        "note": 4.9,
+        "avis": 76,
+        "type": "Boutique de serrurerie"
+      },
+      {
+        "id": "15418849166113179091",
+        "nom": "TFSP - pose fenetres, stores, portes, volets, automatismes, verandas",
+        "slug": "tfsp-pose-fenetres-stores-portes-volets-automatismes-verandas",
+        "telephone": "07 83 19 46 11",
+        "site_web": "http://www.tfsp-fenetres.com/",
+        "adresse": "178 Av. du Général de Gaulle, 94170 Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "le-perreux-sur-marne": {
+    "artisans": [
+      {
+        "id": "16880397050637278295",
+        "nom": "M. SIMONARD Couvreur le Perreux-Sur-Marne - Zingueur dans le Val de Marne (94) - Devis Gratuit",
+        "slug": "m-simonard-couvreur-le-perreux-sur-marne-zingueur-dans-le-val-de-marne-94-devis-gratuit",
+        "telephone": "06 65 50 53 07",
+        "site_web": "https://simonard94.fr/",
+        "adresse": "194 Av. du Maréchal Joffre, 94170 Le Perreux-sur-Marne",
+        "note": 4.8,
+        "avis": 74,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11026180278309735641",
+        "nom": "Atoubaie - Art et Fenêtres - Rénoval",
+        "slug": "atoubaie-art-et-fenetres-renoval",
+        "telephone": "01 56 74 15 30",
+        "site_web": "https://www.atoubaie.com/",
+        "adresse": "149 Av. du Général de Gaulle, 94170 Le Perreux-sur-Marne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5071785919103460533",
+        "nom": "Pologne Fenêtres Le Perreux",
+        "slug": "pologne-fenetres-le-perreux",
+        "telephone": "01 83 62 30 51",
+        "site_web": "http://www.polognefenetres.com/",
+        "adresse": "169 Bd d'Alsace Lorraine, 94170 Le Perreux-sur-Marne",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11891441108679322534",
+        "nom": "KparK Champigny",
+        "slug": "kpark-champigny",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/114-kpark-champigny?utm_source=gmb",
+        "adresse": "Ilot Du Clocher, 40 Rue Louis Talamoni, 94500 Champigny-sur-Marne",
+        "note": 2.6,
+        "avis": 31,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6414511347077049205",
+        "nom": "ECLAIR SUN HABITAT",
+        "slug": "eclair-sun-habitat",
+        "telephone": "01 43 53 87 43",
+        "site_web": "https://www.eclairsunhabitat.fr/",
+        "adresse": "35 Av. Ledru Rollin, 94170 Le Perreux-sur-Marne",
+        "note": 4.1,
+        "avis": 37,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "6084989354802922422",
+        "nom": "La Boutique Du Menuisier - FB2P Le Perreux",
+        "slug": "la-boutique-du-menuisier-fb2p-le-perreux",
+        "telephone": "01 41 93 75 65",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/fb2p-le-perreux",
+        "adresse": "81 Av. Ledru Rollin, 94170 Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6463198392352447021",
+        "nom": "Toiture 94 Le Perreux",
+        "slug": "toiture-94-le-perreux",
+        "telephone": "01 84 23 06 14",
+        "site_web": null,
+        "adresse": "Av. Montaigne, 94170 Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12798970828362049816",
+        "nom": "Rénoval vérandas, extensions, pergolas et abris de piscine",
+        "slug": "renoval-verandas-extensions-pergolas-et-abris-de-piscine",
+        "telephone": "01 56 74 15 30",
+        "site_web": "https://www.renoval-veranda.com/concessionnaires/magasin-expo-renoval-veranda-le-perreux-sur-marne/",
+        "adresse": "68 ter Av. Ledru Rollin, 94170 Le Perreux-sur-Marne",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "5348255836801978994",
+        "nom": "SLB Fenêtres Volets Renov",
+        "slug": "slb-fenetres-volets-renov",
+        "telephone": "01 80 91 90 74",
+        "site_web": "https://slb-fenetres-volets-renov.fr/?utm_source=gmb",
+        "adresse": "113 Av. Ledru Rollin, 94170 Le Perreux-sur-Marne",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "863120136503578733",
+        "nom": "Couvreur Stephane H 94 le perreux sur Marne |",
+        "slug": "couvreur-stephane-h-94-le-perreux-sur-marne",
+        "telephone": "06 59 33 39 58",
+        "site_web": "https://www.helfrich-couverture.fr/",
+        "adresse": "120 Av. Pierre Brossolette, 94170 Le Perreux-sur-Marne",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "le-plessis-trevise": {
+    "artisans": [
+      {
+        "id": "16246023514066309736",
+        "nom": "RCM FENETRIER \"VEKA\" MONTGERON",
+        "slug": "rcm-fenetrier-veka-montgeron",
+        "telephone": "01 69 40 11 82",
+        "site_web": "https://www.veka.fr/agence/rcm-montgeron/",
+        "adresse": "12 Rue René Haby imm F 12, 91230 Montgeron",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9148964638424906409",
+        "nom": "Rénoco - Isolation thermique et ravalement",
+        "slug": "renoco-isolation-thermique-et-ravalement",
+        "telephone": "09 52 17 47 65",
+        "site_web": "https://renoco.fr/",
+        "adresse": "38 Av. Clément Ader, 94420 Le Plessis-Trévise",
+        "note": 4.9,
+        "avis": 129,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "17518457449324572818",
+        "nom": "KparK Pontault Combault",
+        "slug": "kpark-pontault-combault",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/84-kpark-pontault-combault?utm_source=gmb",
+        "adresse": "33 Av. de la République, 77340 Pontault-Combault",
+        "note": 4.2,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6471400926446062835",
+        "nom": "Couvreur Le Plessis Trévise - Rodolphe Toiture",
+        "slug": "couvreur-le-plessis-trevise-rodolphe-toiture",
+        "telephone": "07 60 73 79 18",
+        "site_web": "https://www.rodolphe-toiture.fr/",
+        "adresse": "33 Av. de Chennevières, 94420 Le Plessis-Trévise",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "492748989634114408",
+        "nom": "L'Expert Fenêtre Henriet F.A.S.E.",
+        "slug": "lexpert-fenetre-henriet-fase",
+        "telephone": "01 48 83 76 67",
+        "site_web": "http://www.henriet-fase.fr/",
+        "adresse": "7 Av. Clément Ader, 94420 Le Plessis-Trévise",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17518457449324572818",
+        "nom": "KparK Pontault Combault",
+        "slug": "kpark-pontault-combault",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/84-kpark-pontault-combault?utm_source=gmb",
+        "adresse": "33 Av. de la République, 77340 Pontault-Combault",
+        "note": 4.2,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15810091605655052955",
+        "nom": "Entreprise Denys père et fils - Votre artisan de proximité",
+        "slug": "entreprise-denys-pere-et-fils-votre-artisan-de-proximite",
+        "telephone": "06 51 44 18 71",
+        "site_web": "https://ets-denys.com/",
+        "adresse": "Imp. des Roitelets, 94350 Villiers-sur-Marne",
+        "note": 5,
+        "avis": 22,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "18108521589493519539",
+        "nom": "Couvreurs Berthaux Et Fils 94",
+        "slug": "couvreurs-berthaux-et-fils-94",
+        "telephone": "07 62 77 69 95",
+        "site_web": "https://couvreursberthauxetfils.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1320397903374131695",
+        "nom": "JL Décors : Installateur Vélux Expert Agréé",
+        "slug": "jl-decors-installateur-velux-expert-agree",
+        "telephone": "06 01 77 09 79",
+        "site_web": "https://www.fenetre-couvreur.com/",
+        "adresse": "13 Cr des Œillets, 77164 Ferrières-en-Brie",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-queue-en-brie": {
+    "artisans": [
+      {
+        "id": "7811965656870753970",
+        "nom": "Entreprise Toiture 94 FRANCIS COUVERTURE",
+        "slug": "entreprise-toiture-94-francis-couverture",
+        "telephone": "07 85 81 61 17",
+        "site_web": "https://www.francis-couverture-94.com/secteur/couvreur-sucy-en-brie",
+        "adresse": "2 Av. de la Sablière, 94370 Sucy-en-Brie",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7417397711653357236",
+        "nom": "Ilux",
+        "slug": "ilux",
+        "telephone": "01 83 62 49 02",
+        "site_web": "https://installateurfenetresdetoit.fr/",
+        "adresse": "2 Av. du Prieuré, 77700 Serris",
+        "note": 4.6,
+        "avis": 36,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14952562489749254427",
+        "nom": "HORA EXPERT COMBLES",
+        "slug": "hora-expert-combles",
+        "telephone": "01 60 64 22 60",
+        "site_web": "http://www.hora-combles.com/",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15255025927811953437",
+        "nom": "Jean Berthaux Couverture Couvreur - Charpentier 94",
+        "slug": "jean-berthaux-couverture-couvreur-charpentier-94",
+        "telephone": "06 40 11 68 41",
+        "site_web": "https://www.berthaux-couverture.fr/",
+        "adresse": "108 Rue du Clos de ville, 94370 Sucy-en-Brie",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14468964639783550616",
+        "nom": "COUVERTURE LEMEVILLE",
+        "slug": "couverture-lemeville",
+        "telephone": "07 82 08 07 77",
+        "site_web": null,
+        "adresse": "9 Rte de Brie, 94510 La Queue-en-Brie",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "perigny": {
+    "artisans": [
+      {
+        "id": "7580461815051089992",
+        "nom": "Clavem : Fenêtres, portails, volets",
+        "slug": "clavem-fenetres-portails-volets",
+        "telephone": "09 83 60 62 84",
+        "site_web": "http://www.clavem.fr/",
+        "adresse": "11 Rue du Bois de la Remise, 91480 Varennes-Jarcy",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3590666854886466254",
+        "nom": "A T I Fenetre",
+        "slug": "a-t-i-fenetre",
+        "telephone": "01 69 96 35 03",
+        "site_web": "http://www.ati-fenetre-crosne.fr/?utm_source=gmb",
+        "adresse": "12 Av. du Président Salvador Allende, 91560 Crosne",
+        "note": 4.8,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1179176696453827733",
+        "nom": "Esprit d'Ouvertures",
+        "slug": "esprit-douvertures",
+        "telephone": "01 60 66 40 00",
+        "site_web": "http://www.espritdouvertures.fr/",
+        "adresse": "73 N6, 91800 Brunoy",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13769221294818551449",
+        "nom": "ISOL PRECISION",
+        "slug": "isol-precision",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12 Rue de la Chardonne, 77170 Brie-Comte-Robert",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13749150174294213447",
+        "nom": "Clos Et Couvert - volets roulants Bubendorff - fenêtres OKNOPLAST - installateur conseil VELUX",
+        "slug": "clos-et-couvert-volets-roulants-bubendorff-fenetres-oknoplast-installateur-conseil-velux",
+        "telephone": "01 64 96 07 03",
+        "site_web": "https://www.clos-et-couvert.fr/",
+        "adresse": "zac du trou grillon, 20 Rue du Trou Grillon, 91280 Saint-Pierre-du-Perray",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16246023514066309736",
+        "nom": "RCM FENETRIER \"VEKA\" MONTGERON",
+        "slug": "rcm-fenetrier-veka-montgeron",
+        "telephone": "01 69 40 11 82",
+        "site_web": "https://www.veka.fr/agence/rcm-montgeron/",
+        "adresse": "12 Rue René Haby imm F 12, 91230 Montgeron",
+        "note": 4.9,
+        "avis": 38,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2548119863785399206",
+        "nom": "Lorenove Moissy Cramayel",
+        "slug": "lorenove-moissy-cramayel",
+        "telephone": "01 60 62 94 25",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/moissy-cramayel?utm_source=Google&utm_medium=My+Business&utm_campaign=Leads+GMB&utm_id=GMB+-+Lorenove",
+        "adresse": "88 Rue Marcellin Berthelot, 77550 Moissy-Cramayel",
+        "note": 4.9,
+        "avis": 117,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "rungis": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-maurice": {
+    "artisans": [
+      {
+        "id": "18034299267490782384",
+        "nom": "Toits et Compagnons | Couvreur Saint Maur des fossée",
+        "slug": "toits-et-compagnons-couvreur-saint-maur-des-fossee",
+        "telephone": "07 59 53 53 02",
+        "site_web": "https://www.toits-et-compagnons.fr/",
+        "adresse": "9 Pass. Dartois Bidot, 94100 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11978388803588793700",
+        "nom": "H2ouverture réseau Terres de Fenêtre",
+        "slug": "h2ouverture-reseau-terres-de-fenetre",
+        "telephone": "06 26 69 86 23",
+        "site_web": "https://www.h2ouverture.com/",
+        "adresse": "174 Bd de Créteil, 94100 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "18340890198288904236",
+        "nom": "AMICUS STORISTE EXPERT EN MOTORISATIONS DE VOLETS ROULANTS",
+        "slug": "amicus-storiste-expert-en-motorisations-de-volets-roulants",
+        "telephone": "06 07 62 55 98",
+        "site_web": "http://amicus.fr/",
+        "adresse": "10 Rue du Maréchal Leclerc, 94410 Saint-Maurice",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "1495489483234869031",
+        "nom": "TRYBA Vincennes",
+        "slug": "tryba-vincennes",
+        "telephone": "01 59 30 13 17",
+        "site_web": "https://www.tryba.com/espace-conseil/94/tryba-vincennes/?utm_campaign=Tryba_Vincennes&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "48 Av. de Paris, 94300 Vincennes",
+        "note": 4.8,
+        "avis": 210,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-mande": {
+    "artisans": [
+      {
+        "id": "13401693757807667459",
+        "nom": "Compagnon Français",
+        "slug": "compagnon-francais",
+        "telephone": "06 27 56 38 93",
+        "site_web": "https://www.couvreur-compagnons-francais.fr/",
+        "adresse": "5 Av. du Général de Gaulle, 94160 Saint-Mandé",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14443114526651903744",
+        "nom": "Les Fidèles Compagnons Du Toit",
+        "slug": "les-fideles-compagnons-du-toit",
+        "telephone": "06 14 71 05 62",
+        "site_web": "https://les-fideles-compagnons-du-toit.fr/",
+        "adresse": "14 Av. du Général de Gaulle, 94160 Saint-Mandé",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4437577518927657254",
+        "nom": "Lemeny couvreur 94",
+        "slug": "lemeny-couvreur-94",
+        "telephone": "06 25 53 01 08",
+        "site_web": "https://www.couvreur-zingueur-saint-mande.com/",
+        "adresse": "112 Av. de Paris, 94300 Vincennes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7623820495723029886",
+        "nom": "Albert et Fils - Saint-Mandé",
+        "slug": "albert-et-fils-saint-mande",
+        "telephone": "01 45 97 88 43",
+        "site_web": "https://albert-et-fils.fr/saint-mande-94160/",
+        "adresse": "14 Av. Quihou, 94160 Saint-Mandé",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7730833704437071454",
+        "nom": "Couvreur LPF - Réparation toiture - Rénovation toiture - Nettoyage toiture - Charpentier Saint-Mandé 94",
+        "slug": "couvreur-lpf-reparation-toiture-renovation-toiture-nettoyage-toiture-charpentier-saint-mande-94",
+        "telephone": "06 73 80 84 01",
+        "site_web": "https://www.lpf-couverture.fr/",
+        "adresse": "14 Av. du Général de Gaulle, 94160 Saint-Mandé",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14625062423965969587",
+        "nom": "Andrea père et fils / Dépannage Electricien Saint-Mandé / Vincennes",
+        "slug": "andrea-pere-et-fils-depannage-electricien-saint-mande-vincennes",
+        "telephone": "06 62 26 89 39",
+        "site_web": "https://www.andrea-pere-et-fils.fr/",
+        "adresse": "118 Av. du Général de Gaulle, 94160 Saint-Mandé",
+        "note": 5,
+        "avis": 93,
+        "type": "Électricien"
+      },
+      {
+        "id": "16231314219544629981",
+        "nom": "Louis M Couvreur saint mande couvreur 94",
+        "slug": "louis-m-couvreur-saint-mande-couvreur-94",
+        "telephone": "06 11 23 02 51",
+        "site_web": "https://www.louis-m-couverture-94.fr/",
+        "adresse": "5 Av. du Général de Gaulle, 94160 Saint-Mandé",
+        "note": 3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7013925037762138278",
+        "nom": "Artisan Plombier chauffagiste",
+        "slug": "artisan-plombier-chauffagiste",
+        "telephone": "06 99 30 15 34",
+        "site_web": "https://astr-idf.com/",
+        "adresse": "136 Av. de Paris, 94300 Vincennes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10511155222098647130",
+        "nom": "Les Artisans du Bâtiment",
+        "slug": "les-artisans-du-batiment",
+        "telephone": "01 41 74 90 05",
+        "site_web": "https://www.les-artisans-du-batiment.com/",
+        "adresse": "11 Av. Georges Clemenceau, 94300 Vincennes",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-maur-des-fosses": {
+    "artisans": [
+      {
+        "id": "15122909231088614704",
+        "nom": "Couverture Petry 94 | Couvreur 94 | Couvreur Saint Maur des Fossés",
+        "slug": "couverture-petry-94-couvreur-94-couvreur-saint-maur-des-fosses",
+        "telephone": "09 53 54 36 94",
+        "site_web": "https://www.couverture-petry.fr/",
+        "adresse": "9 Bis Pass. Dartois Bidot, 94100 Saint-Maur-des-Fossés",
+        "note": 4.7,
+        "avis": 99,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10330482877072805244",
+        "nom": "Fenetres OuvertureS Portes PROXIRENOV",
+        "slug": "fenetres-ouvertures-portes-proxirenov",
+        "telephone": "01 84 23 02 02",
+        "site_web": "https://proxirenov.com/",
+        "adresse": "8 Av. du Bac, 94100 Saint-Maur-des-Fossés",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3704354144990694771",
+        "nom": "Lorenove Saint Maur des Fossés",
+        "slug": "lorenove-saint-maur-des-fosses",
+        "telephone": "01 70 61 11 89",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/saint-maur-des-fosses?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb",
+        "adresse": "27 Rue de la Varenne, 94100 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 18,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "15929341496896413633",
+        "nom": "Albert et Fils | Artisan Plombier | Serrurier | Saint Maur des Fossés",
+        "slug": "albert-et-fils-artisan-plombier-serrurier-saint-maur-des-fosses",
+        "telephone": "01 55 97 05 12",
+        "site_web": "https://albert-et-fils.fr/saint-maur-des-fosses-94100/",
+        "adresse": "75 Bd du Général Giraud, 94100 Saint-Maur-des-Fossés",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "8896838767924591418",
+        "nom": "2M Conseil",
+        "slug": "2m-conseil",
+        "telephone": "01 55 97 01 19",
+        "site_web": "http://www.2m-conseil.fr/?utm_source=gmb",
+        "adresse": "14 Av. du Bac, 94210 La",
+        "note": 4.7,
+        "avis": 145,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "17434837315436688567",
+        "nom": "L 'Habitat Parisien - Couvreur à Saint-Maur-des-Fossés",
+        "slug": "l-habitat-parisien-couvreur-a-saint-maur-des-fosses",
+        "telephone": "06 63 89 78 91",
+        "site_web": "https://www.l-habitat-parisien.fr/",
+        "adresse": "9 Av. de l'Alma, 94210 Saint-Maur-des-Fossés",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "santeny": {
+    "artisans": [
+      {
+        "id": "10598206878206543132",
+        "nom": "Atoubaie - Art et Fenêtres - Rénoval",
+        "slug": "atoubaie-art-et-fenetres-renoval",
+        "telephone": "01 56 74 15 30",
+        "site_web": "https://www.atoubaie.com/",
+        "adresse": "2 Rue du Noyer aux Perdrix, 77170 Servon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "7193768879833632125",
+        "nom": "FL Couverture / Franck Le Grezause Couverture",
+        "slug": "fl-couverture-franck-le-grezause-couverture",
+        "telephone": "01 45 98 82 72",
+        "site_web": "https://www.fl-couvertureidf.fr/",
+        "adresse": "34 Av. du Général Leclerc, 94440 Santeny",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11040410911553479115",
+        "nom": "PVC ALU CREATION",
+        "slug": "pvc-alu-creation",
+        "telephone": "01 43 86 06 06",
+        "site_web": "http://pvcalu-creation.fr/",
+        "adresse": "400 Av. des Érables, 94440 Santeny",
+        "note": 4.4,
+        "avis": 49,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "sucy-en-brie": {
+    "artisans": [
+      {
+        "id": "15751962622236446071",
+        "nom": "Bonnet",
+        "slug": "bonnet",
+        "telephone": "09 74 56 09 62",
+        "site_web": "http://www.societe-bonnet.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "5 Av. Gabriel Péri, 94370 Sucy-en-Brie",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15956587740230778014",
+        "nom": "CARÉ Habitat 94 Store et Fermeture",
+        "slug": "care-habitat-94-store-et-fermeture",
+        "telephone": "01 45 90 49 54",
+        "site_web": "http://care-habitat.fr/",
+        "adresse": "15 Rue Jean Moulin, 94370 Sucy-en-Brie",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "18163419447150222863",
+        "nom": "TEK MENUISERIE",
+        "slug": "tek-menuiserie",
+        "telephone": "06 11 22 52 77",
+        "site_web": "https://www.tekmenuiserie.fr/",
+        "adresse": "179 Rue de Boissy, 94370 Sucy-en-Brie",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12784103976261406836",
+        "nom": "KparK Bonneuil",
+        "slug": "kpark-bonneuil",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/112-kpark-bonneuil?utm_source=gmb",
+        "adresse": "Parc d'activités des petits carreaux, 4 Av. des Violettes, 94380 Bonneuil-sur-Marne",
+        "note": 1.6,
+        "avis": 177,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4961421606438737164",
+        "nom": "SARL CHATEL",
+        "slug": "sarl-chatel",
+        "telephone": "09 74 56 39 19",
+        "site_web": "https://www.sarlchatel.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "24 Rue des Rotondes, 94370 Sucy-en-Brie",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "valenton": {
+    "artisans": [
+      {
+        "id": "8671458736958303629",
+        "nom": "Isolabaie",
+        "slug": "isolabaie",
+        "telephone": "01 56 87 11 55",
+        "site_web": "http://www.isolabaie.com/",
+        "adresse": "7 Rue de Touraine, 94460 Valenton",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "villejuif": {
+    "artisans": [
+      {
+        "id": "3103960632938134542",
+        "nom": "Ngel Fenetre - Ngel Paris Est",
+        "slug": "ngel-fenetre-ngel-paris-est",
+        "telephone": "01 46 72 04 46",
+        "site_web": "http://www.ngelfenetre.com/",
+        "adresse": "7 Rue Jean Prouvé Bâtiment D, 94800 Villejuif",
+        "note": 4.9,
+        "avis": 52,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4960129167168018237",
+        "nom": "La Maison De La Fenêtre",
+        "slug": "la-maison-de-la-fenetre",
+        "telephone": "01 42 11 03 03",
+        "site_web": "http://www.maisonfenetre.com/?utm_source=gmb",
+        "adresse": "120 Rue Jean Jaurès, 94800 Villejuif",
+        "note": 4.8,
+        "avis": 96,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10299558276237534553",
+        "nom": "Stores Broussais",
+        "slug": "stores-broussais",
+        "telephone": "06 11 07 63 17",
+        "site_web": "https://www.stores-broussais-villejuif.fr/",
+        "adresse": "10 Rue du Parc des Petits Ormes, 94800 Villejuif",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "18131924823293685595",
+        "nom": "La maison de la Rénovation",
+        "slug": "la-maison-de-la-renovation",
+        "telephone": "01 85 53 38 62",
+        "site_web": "https://www.la-maison-de-la-renovation.fr/",
+        "adresse": "68 Rue du Lion d'Or, 94800 Villejuif",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villecresnes": {
+    "artisans": [
+      {
+        "id": "14498108890937492022",
+        "nom": "Toiture Jacquin",
+        "slug": "toiture-jacquin",
+        "telephone": "06 61 26 14 99",
+        "site_web": "https://www.toiturejacquin.fr/?utm_source=gmb",
+        "adresse": "63 Rue du Lieutenant Dagorno, 94440 Villecresnes",
+        "note": 5,
+        "avis": 176,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5113278008135739678",
+        "nom": "Ateliers Halimi",
+        "slug": "ateliers-halimi",
+        "telephone": "01 46 66 70 10",
+        "site_web": "http://www.facebook.com/Reynaers-Aluminium-France-472618299797270",
+        "adresse": "41 Av. du Maréchal de Lattre de Tassigny, 94440 Villecresnes",
+        "note": 4.4,
+        "avis": 30,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15226493995683906243",
+        "nom": "Caré ' M",
+        "slug": "care-m",
+        "telephone": "09 88 41 70 59",
+        "site_web": "https://www.care-m.fr/",
+        "adresse": "67 Av. du Maréchal de Lattre de Tassigny, 94440 Villecresnes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "7934975060672643731",
+        "nom": "stevenart couvreur",
+        "slug": "stevenart-couvreur",
+        "telephone": "06 74 74 54 02",
+        "site_web": "https://www.stevenartcouvreur94villecresnes.fr/",
+        "adresse": "24 bis chemin de brie a yerres, 94440 Villecresnes",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14171842123775489165",
+        "nom": "Toiture Stevenart Gino",
+        "slug": "toiture-stevenart-gino",
+        "telephone": "01 85 53 32 46",
+        "site_web": "https://www.toiture-stevenart.fr/",
+        "adresse": "13 Chem. de Vaux, 94440 Villecresnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8353855295292112751",
+        "nom": "Couverture Prudhomme",
+        "slug": "couverture-prudhomme",
+        "telephone": "06 16 23 06 58",
+        "site_web": "https://www.couverture-prudhomme.fr/",
+        "adresse": "106 Av. du Château, 94440 Villecresnes",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villeneuve-le-roi": {
+    "artisans": [
+      {
+        "id": "11260368888449230097",
+        "nom": "Benicourt - Couverture Générale",
+        "slug": "benicourt-couverture-generale",
+        "telephone": "01 45 09 06 39",
+        "site_web": "http://renovationdetoiture.fr/",
+        "adresse": "11 Rue Albert Einstein, 77420 Champs-sur-Marne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1005657800435678375",
+        "nom": "SARL SBS HABITAT",
+        "slug": "sarl-sbs-habitat",
+        "telephone": "07 83 22 92 43",
+        "site_web": "https://couvreur-sbs-habitat.fr/",
+        "adresse": "17 Av. Parmentier, 91230 Montgeron",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14686539247751329419",
+        "nom": "Avesa G",
+        "slug": "avesa-g",
+        "telephone": "06 25 77 44 12",
+        "site_web": "https://www.avesag.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "5 Av. Leblanc Barbedienne, 94290 Villeneuve-le-Roi",
+        "note": 4,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "9332771526298240812",
+        "nom": "Vitres et stores",
+        "slug": "vitres-et-stores",
+        "telephone": "07 61 20 94 01",
+        "site_web": null,
+        "adresse": "14 Rue la Fontaine, 94290 Villeneuve-le-Roi",
+        "note": 5,
+        "avis": 9,
+        "type": "Entreprise de nettoyage de vitres"
+      },
+      {
+        "id": "7769879284208942495",
+        "nom": "VLR Services",
+        "slug": "vlr-services",
+        "telephone": "01 45 97 10 10",
+        "site_web": null,
+        "adresse": "3 Rue du Général de Gaulle, 16 Rue des Canotiers Entrée par le, 94290 Villeneuve-le-Roi",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13053457812626098619",
+        "nom": "DUBOIS FILS : Couvreur 91 - Zingueur",
+        "slug": "dubois-fils-couvreur-91-zingueur",
+        "telephone": "01 69 34 63 55",
+        "site_web": "https://www.couvreur-91-dubois.com/",
+        "adresse": "73 Quai de l'Orge, 91200 Athis-Mons",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "955092138138690499",
+        "nom": "AMTB Fenêtres, Vérandas, Porte d'entrée, Porte de garage, Portails, Volets/Stores",
+        "slug": "amtb-fenetres-verandas-porte-dentree-porte-de-garage-portails-voletsstores",
+        "telephone": "01 69 42 15 42",
+        "site_web": "https://www.amtb.fr/",
+        "adresse": "65 Rue du Marais, 91210 Draveil",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "5116280661331636498",
+        "nom": "DA CRUZ FERMETURES",
+        "slug": "da-cruz-fermetures",
+        "telephone": "01 78 84 55 69",
+        "site_web": null,
+        "adresse": "36 Av. Gabriel Péri, 91260 Juvisy-sur-Orge",
+        "note": 5,
+        "avis": 31,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "381636934899063722",
+        "nom": "KparK Juvisy",
+        "slug": "kpark-juvisy",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/102-kpark-juvisy?utm_source=gmb",
+        "adresse": "26 Av. Gabriel Péri, 91260 Juvisy-sur-Orge",
+        "note": 3.9,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "villeneuve-saint-georges": {
+    "artisans": [
+      {
+        "id": "4518005111915860047",
+        "nom": "ISAL - ISOL FENETRE | Fenêtres, Portes, Volet …",
+        "slug": "isal-isol-fenetre-fenetres-portes-volet",
+        "telephone": "01 45 98 36 71",
+        "site_web": null,
+        "adresse": "32 Av. Carnot, 94190 Villeneuve-Saint-Georges",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3286227632637543460",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "01 56 87 50 10",
+        "site_web": "https://magasins.lapeyre.fr/ile-de-france/val-de-marne/lapeyre-pompadour-130",
+        "adresse": "10-14, Av. de l'Appel du 18 Juin 1940, 94190 Villeneuve-Saint-Georges",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "villiers-sur-marne": {
+    "artisans": [
+      {
+        "id": "10099181838407939237",
+        "nom": "Couvreur LM CHARPENTE COUVERTURE Le Plessis Trévise",
+        "slug": "couvreur-lm-charpente-couverture-le-plessis-trevise",
+        "telephone": "06 50 19 42 00",
+        "site_web": "https://charpentier-couvreur-94.fr/",
+        "adresse": "12 All. des Mésanges, 94420 Le Plessis-Trévise",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8567047395022084507",
+        "nom": "Cholet Bâtiment : Couverture - Ravalement - Isolation - gros oeuvre - surélévation",
+        "slug": "cholet-batiment-couverture-ravalement-isolation-gros-oeuvre-surelevation",
+        "telephone": "01 47 06 29 39",
+        "site_web": "https://choletbatiment.fr/?utm_source=gmb",
+        "adresse": "33 Rue du Sergent Hoff, 94360 Bry-sur-Marne",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "7903381642364168434",
+        "nom": "Couvreur 94 - couverture Romain 94 - couvreur villiers-sur-marne",
+        "slug": "couvreur-94-couverture-romain-94-couvreur-villiers-sur-marne",
+        "telephone": "06 62 15 32 62",
+        "site_web": "http://romain-couverture-94.fr/",
+        "adresse": "52 Rue du Professeur Roux, 94350 Villiers-sur-Marne",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vincennes": {
+    "artisans": [
+      {
+        "id": "11325855363943919278",
+        "nom": "Atd Couverture couvreur 94 charpentier Vincennes",
+        "slug": "atd-couverture-couvreur-94-charpentier-vincennes",
+        "telephone": "01 88 28 03 92",
+        "site_web": "https://www.couvreur-charpentier94.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "15 Rue du Commandant Mowat, 94300 Vincennes",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5513117067138020700",
+        "nom": "Les Nouvelles Fermetures Vincennes 94",
+        "slug": "les-nouvelles-fermetures-vincennes-94",
+        "telephone": "01 70 25 09 60",
+        "site_web": "https://www.facebook.com/lnfvincennes",
+        "adresse": "112 Av. de Paris, 94300 Vincennes",
+        "note": 5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13296308718773353247",
+        "nom": "BTP-Renov 94",
+        "slug": "btp-renov-94",
+        "telephone": "01 59 30 12 85",
+        "site_web": "https://btp-renov94.fr/",
+        "adresse": "110 Rue de Fontenay, 94300 Vincennes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16550189938236838166",
+        "nom": "Maison Leroux Rénov",
+        "slug": "maison-leroux-renov",
+        "telephone": "01 89 70 69 59",
+        "site_web": "https://maison-leroux-renov.fr/",
+        "adresse": "110 Rue de Fontenay, 94300 Vincennes",
+        "note": 4.9,
+        "avis": 24,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6344990893038021758",
+        "nom": "Vincennes couverture",
+        "slug": "vincennes-couverture",
+        "telephone": "06 16 44 94 60",
+        "site_web": "https://vincennes-couverture.fr/",
+        "adresse": "112 Av. de Paris, 94300 Vincennes",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8370848206939668729",
+        "nom": "Entreprise Langlois",
+        "slug": "entreprise-langlois",
+        "telephone": "06 58 45 28 32",
+        "site_web": "https://www.langlois-couvreur-94.fr/",
+        "adresse": "112 Av. de Paris, 94300 Vincennes",
+        "note": 4.5,
+        "avis": 29,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "alfortville": {
+    "artisans": [
+      {
+        "id": "1604451841065965336",
+        "nom": "BAUMANN Expert Couverture 94 Alfortville",
+        "slug": "baumann-expert-couverture-94-alfortville",
+        "telephone": "07 67 51 39 53",
+        "site_web": "https://www.baumann-expert-couverture.fr/",
+        "adresse": "29 Rue Etienne Dolet, 94140 Alfortville",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "754137023359559056",
+        "nom": "Couvreur Alfortville - Couverture Gonzalez",
+        "slug": "couvreur-alfortville-couverture-gonzalez",
+        "telephone": "07 61 91 43 05",
+        "site_web": "https://www.artisan-couvreur-gonzalez.fr/",
+        "adresse": "29 Rue Etienne Dolet, 94140 Alfortville",
+        "note": 4.6,
+        "avis": 90,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17983422192735534137",
+        "nom": "M. Violet",
+        "slug": "m-violet",
+        "telephone": "01 89 43 19 59",
+        "site_web": "http://violet-couverture-94.fr/",
+        "adresse": "29 Rue Etienne Dolet, 94140 Alfortville",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "933974458650915922",
+        "nom": "Albert Et Fils Alfortville",
+        "slug": "albert-et-fils-alfortville",
+        "telephone": "01 43 53 02 97",
+        "site_web": "https://albert-et-fils.fr/alfortville-94140/",
+        "adresse": "29 Rue Paul Vaillant Couturier, 94140 Alfortville",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13291144188873672522",
+        "nom": "SVA Sadavoi Serrurier",
+        "slug": "sva-sadavoi-serrurier",
+        "telephone": "06 46 75 33 57",
+        "site_web": "https://svasadavoi.fr/?utm_source=gmb",
+        "adresse": "23 Chem. Latéral, 94140 Alfortville",
+        "note": 5,
+        "avis": 51,
+        "type": "Serrurier"
+      },
+      {
+        "id": "5468060548331477990",
+        "nom": "La maison du bâtiment couvreur 94",
+        "slug": "la-maison-du-batiment-couvreur-94",
+        "telephone": "06 71 21 39 14",
+        "site_web": "https://www.maison-du-batiment.fr/",
+        "adresse": "29 Rue Etienne Dolet, 94140 Alfortville",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1648688392095714565",
+        "nom": "Artisan Folkert",
+        "slug": "artisan-folkert",
+        "telephone": "01 48 93 03 82",
+        "site_web": null,
+        "adresse": "29 Rue Etienne Dolet, 94140 Alfortville",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13349571941545283313",
+        "nom": "RG Couvreur Vincennes Ravalement de façade Nettoyage Toiture Charenton Le Pont 94",
+        "slug": "rg-couvreur-vincennes-ravalement-de-facade-nettoyage-toiture-charenton-le-pont-94",
+        "telephone": "01 86 92 48 01",
+        "site_web": "https://rey-couverture-77.fr/",
+        "adresse": "9 Pl. Henri IV, 94220 Charenton-le-Pont",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ablon-sur-seine": {
+    "artisans": [
+      {
+        "id": "1507819028661555731",
+        "nom": "R.P Toiture Couvreur 94",
+        "slug": "rp-toiture-couvreur-94",
+        "telephone": "06 62 26 18 87",
+        "site_web": "https://www.rp-toiture-94.fr/",
+        "adresse": "137 Av. Anatole France, 94600 Choisy-le-Roi",
+        "note": 4.9,
+        "avis": 63,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10114773574855621960",
+        "nom": "Maison Boucault - L'Expert Fenêtre",
+        "slug": "maison-boucault-lexpert-fenetre",
+        "telephone": "01 60 11 44 48",
+        "site_web": "https://maison-boucault.fr/",
+        "adresse": "11 Rue des Petits Ruisseaux, 91370 Verrières-le-Buisson",
+        "note": 4.6,
+        "avis": 154,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cachan": {
+    "artisans": [
+      {
+        "id": "5458784817225852791",
+        "nom": "Entreprise Rénov'Toit Cachan",
+        "slug": "entreprise-renovtoit-cachan",
+        "telephone": "01 85 41 01 69",
+        "site_web": "https://entreprise-renov-toit-cachan.ovh/",
+        "adresse": "36 Rue Marcel Bonnet, 94230 Cachan",
+        "note": 5,
+        "avis": 32,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9998552253571067818",
+        "nom": "Couvreur Cachan - Les Toitures Frederic",
+        "slug": "couvreur-cachan-les-toitures-frederic",
+        "telephone": "06 17 96 53 50",
+        "site_web": "http://www.couvreurcachan.fr/",
+        "adresse": "21 Av. Aristide Briand, 94230 Cachan",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1308794025537042175",
+        "nom": "Les Toits Gaulois",
+        "slug": "les-toits-gaulois",
+        "telephone": "07 65 26 64 83",
+        "site_web": "https://lestoitsgaulois.fr/",
+        "adresse": "12 Av. Maurice Thorez, 94200 Ivry-sur-Seine",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bry-sur-marne": {
+    "artisans": [
+      {
+        "id": "17343230672395989885",
+        "nom": "Bry Couverture - Couvreur",
+        "slug": "bry-couverture-couvreur",
+        "telephone": "07 63 91 51 37",
+        "site_web": "https://bry-couverture.fr/",
+        "adresse": "13a Rue des Hauts Guibouts, 94360 Bry-sur-Marne",
+        "note": 5,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17934250331143526939",
+        "nom": "Dorquelle",
+        "slug": "dorquelle",
+        "telephone": "01 85 53 48 44",
+        "site_web": "http://www.dorquelle-couverture.fr/",
+        "adresse": "13 Rue des Hauts Guibouts, 94360 Bry-sur-Marne",
+        "note": 5,
+        "avis": 71,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7408830561409455573",
+        "nom": "Belly Couverture | Couvreur à Bry-sur-Marne",
+        "slug": "belly-couverture-couvreur-a-bry-sur-marne",
+        "telephone": "06 67 40 61 79",
+        "site_web": "https://www.belly-couverture-94.fr/",
+        "adresse": "65 Rue Denis Lavogade, 94360 Bry-sur-Marne",
+        "note": 5,
+        "avis": 44,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5853114813981161777",
+        "nom": "SOLU'VOLETS - Réparation de Stores et Volets Roulants",
+        "slug": "soluvolets-reparation-de-stores-et-volets-roulants",
+        "telephone": "06 31 74 06 09",
+        "site_web": "https://soluvolets.fr/",
+        "adresse": "43 All. Victor Basch, 94170 Le Perreux-sur-Marne",
+        "note": 4.6,
+        "avis": 79,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14199847973193929086",
+        "nom": "Référence G N N Habitat",
+        "slug": "reference-g-n-n-habitat",
+        "telephone": "01 48 89 77 99",
+        "site_web": "https://reference-94.com/",
+        "adresse": "27 Av. du Général de Gaulle, 94500 Champigny-sur-Marne",
+        "note": 3.9,
+        "avis": 38,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16589498204736220649",
+        "nom": "Entreprise toiture couvreur Sarl Legran",
+        "slug": "entreprise-toiture-couvreur-sarl-legran",
+        "telephone": "01 48 69 43 88",
+        "site_web": "http://www.couvreur-toiture.fr/",
+        "adresse": "55 Bd du Général Gallieni, 94360 Bry-sur-Marne",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6957460716528579396",
+        "nom": "Vitrier Assurance par Ets Zen",
+        "slug": "vitrier-assurance-par-ets-zen",
+        "telephone": "01 76 54 48 79",
+        "site_web": "https://vitrierassurance.fr/",
+        "adresse": "2 bis Avenue du N, 93360 Neuilly-Plaisance",
+        "note": 5,
+        "avis": 122,
+        "type": "Vitrier"
+      },
+      {
+        "id": "4281525981957501683",
+        "nom": "Bryconfort Fermetures",
+        "slug": "bryconfort-fermetures",
+        "telephone": "01 41 77 73 38",
+        "site_web": "http://bryconfortfermetures.fr/",
+        "adresse": "4 Rue de Noisy le Grand, 94360 Bry-sur-Marne",
+        "note": 3.5,
+        "avis": 6,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "arcueil": {
+    "artisans": [
+      {
+        "id": "15151946271819784854",
+        "nom": "KparK Bourg La Reine",
+        "slug": "kpark-bourg-la-reine",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/134-kpark-bourg-la-reine?utm_source=gmb",
+        "adresse": "96 Bd du Maréchal Joffre, 92340 Bourg-la-Reine",
+        "note": 2.7,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bonneuil-sur-marne": {
+    "artisans": [
+      {
+        "id": "12784103976261406836",
+        "nom": "KparK Bonneuil",
+        "slug": "kpark-bonneuil",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/112-kpark-bonneuil?utm_source=gmb",
+        "adresse": "Parc d'activités des petits carreaux, 4 Av. des Violettes, 94380 Bonneuil-sur-Marne",
+        "note": 1.6,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5676121698230751998",
+        "nom": "Leroy Merlin Bonneuil-sur-Marne - Créteil",
+        "slug": "leroy-merlin-bonneuil-sur-marne-creteil",
+        "telephone": "01 49 56 23 23",
+        "site_web": "https://www.leroymerlin.fr/magasins/bonneuil-sur-marne-creteil.html",
+        "adresse": "1 Av. du Bicentenaire 1789-1989, 94380 Bonneuil-sur-Marne",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "boissy-saint-leger": {
+    "artisans": [
+      {
+        "id": "1342364147089575977",
+        "nom": "Emile couverture",
+        "slug": "emile-couverture",
+        "telephone": "06 98 35 49 26",
+        "site_web": "https://www.toiture-emile.fr/",
+        "adresse": "19 Chem. du Vieux Colombier, 94470 Boissy-Saint-Léger",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "champigny-sur-marne": {
+    "artisans": [
+      {
+        "id": "15773278887421408164",
+        "nom": "Toits Franciliens",
+        "slug": "toits-franciliens",
+        "telephone": "01 45 69 49 69",
+        "site_web": "https://www.toits-franciliens.fr/",
+        "adresse": "7 Rue Charles Infroit, 94500 Champigny-sur-Marne",
+        "note": 5,
+        "avis": 113,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16114415482514958676",
+        "nom": "H2 Ouverture",
+        "slug": "h2-ouverture",
+        "telephone": "09 82 21 24 35",
+        "site_web": "http://h2ouverture.com/",
+        "adresse": "23 Rue Massenet, 94500 Champigny-sur-Marne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7537868338334132824",
+        "nom": "Pennec couverture - Couvreur Champigny sur Marne",
+        "slug": "pennec-couverture-couvreur-champigny-sur-marne",
+        "telephone": "06 52 82 02 42",
+        "site_web": "https://www.pennec-couvreur-94.fr/",
+        "adresse": "11 Rue Messidor, 94500 Champigny-sur-Marne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10043301136964918488",
+        "nom": "S M V",
+        "slug": "s-m-v",
+        "telephone": "01 45 21 82 66",
+        "site_web": "http://www.smv94.com/",
+        "adresse": "42 Rue Jean Allemane, 94500 Champigny-sur-Marne",
+        "note": 4.6,
+        "avis": 12,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9843624608151730115",
+        "nom": "Mr. Dépannage Réglo",
+        "slug": "mr-depannage-reglo",
+        "telephone": "01 72 46 85 21",
+        "site_web": "https://mrdepannagereglo.fr/",
+        "adresse": "145 Quai Gallieni, 94500 Champigny-sur-Marne",
+        "note": 5,
+        "avis": 31,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "charenton-le-pont": {
+    "artisans": [
+      {
+        "id": "14969376400291231608",
+        "nom": "TRYBA Charenton-le-Pont",
+        "slug": "tryba-charenton-le-pont",
+        "telephone": "01 59 30 13 93",
+        "site_web": "https://www.tryba.com/espace-conseil/94/tryba-charenton-le-pont/?utm_campaign=Tryba_Charenton-le-Pont&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "20 Av. Jean Jaurès, 94220 Charenton-le-Pont",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13726897049715720622",
+        "nom": "Couvreur Charenton 94 - Felix Couverture",
+        "slug": "couvreur-charenton-94-felix-couverture",
+        "telephone": "06 31 64 64 79",
+        "site_web": "https://felixcouverture.fr/",
+        "adresse": "7 Pl. Henri IV, 94220 Charenton-le-Pont",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

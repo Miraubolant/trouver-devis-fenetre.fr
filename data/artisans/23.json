@@ -1,0 +1,930 @@
+{
+  "saint-agnant-de-versillat": {
+    "artisans": [
+      {
+        "id": "8059240488546614037",
+        "nom": "Menuiserie ADAM SAS ( Conception, fabrication et pose de Menuiseries Bois - Alu - PVC )",
+        "slug": "menuiserie-adam-sas-conception-fabrication-et-pose-de-menuiseries-bois-alu-pvc",
+        "telephone": "05 55 63 11 08",
+        "site_web": "https://menuiseries-adam.fr/",
+        "adresse": "18 Rte de la Souterraine, 23300 Saint-Agnant-de-Versillat",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-vaury": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10409241898195576069",
+        "nom": "SARL Serge Joyeux",
+        "slug": "sarl-serge-joyeux",
+        "telephone": "06 98 47 56 72",
+        "site_web": "https://www.serge-joyeux-st-vaury.fr/contact",
+        "adresse": "2 Baudillas, 23320 Saint-Vaury",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4621935743110252162",
+        "nom": "CHASSAIN SARL",
+        "slug": "chassain-sarl",
+        "telephone": "05 55 80 49 33",
+        "site_web": "https://www.chassain.fr/?utm_source=gmb",
+        "adresse": "3 Lascaux, 23320 Saint-Vaury",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "3380453227465779649",
+        "nom": "L'art du bois",
+        "slug": "lart-du-bois",
+        "telephone": "05 55 80 24 91",
+        "site_web": "http://www.art-du-bois.fr/",
+        "adresse": "5 Rte du Moulin, 23320 Saint-Vaury",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "gueret": {
+    "artisans": [
+      {
+        "id": "12102077742530647659",
+        "nom": "Grosfillex Fenêtres Chêne Doré",
+        "slug": "grosfillex-fenetres-chene-dore",
+        "telephone": "05 19 37 01 49",
+        "site_web": null,
+        "adresse": "3 Av. Louis Laroche, 23000 Guéret",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1215264407984698306",
+        "nom": "Bois Et Nuances",
+        "slug": "bois-et-nuances",
+        "telephone": "06 50 38 97 00",
+        "site_web": "http://boisetnuances.fr/",
+        "adresse": "27 Av. Gambetta, 23000 Guéret",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8317241365459019140",
+        "nom": "Akena véranda et pergola bioclimatique Gueret",
+        "slug": "akena-veranda-et-pergola-bioclimatique-gueret",
+        "telephone": "05 55 52 18 71",
+        "site_web": "https://www.akena.com/agences/akena-gueret?utm_source=MAPS&utm_medium=organic&utm_campaign=Google_local_business",
+        "adresse": "2 bis Av. Pierre Mendès France, 23000 Guéret",
+        "note": 4,
+        "avis": 4,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "5875709314337839401",
+        "nom": "MENUISERIES TOMAS",
+        "slug": "menuiseries-tomas",
+        "telephone": "05 55 41 17 20",
+        "site_web": "http://www.reynaers-particulier.fr/menuisier-alu-verandas/tomas-gueret-creuse",
+        "adresse": "Zone Industrielle 6, Rue du Cros, 23000 Guéret",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "12121699254528015788",
+        "nom": "Creuse Fermetures",
+        "slug": "creuse-fermetures",
+        "telephone": "05 55 41 76 74",
+        "site_web": "https://www.facebook.com/Creuse-Fermetures-101207118531961/?utm_source=gmb",
+        "adresse": "22 Rue du Cros, 23000 Guéret",
+        "note": 3.6,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11059243857980304567",
+        "nom": "Naudon Mathé Frères",
+        "slug": "naudon-mathe-freres",
+        "telephone": "05 55 52 34 62",
+        "site_web": "https://creuseagencement.fr/?utm_source=gmb",
+        "adresse": "31 Rue du Cros, 23000 Guéret",
+        "note": 3.8,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3770986095395744640",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "05 55 61 16 68",
+        "site_web": "https://www.gustaverideau.com/agences/gueret-ioner-france/?utm_campaign=gueret&utm_medium=GMB&utm_source=google",
+        "adresse": "6 Rue Eric Tabarly, 23000 Guéret",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17669055026894296695",
+        "nom": "JAMEX",
+        "slug": "jamex",
+        "telephone": "05 55 52 18 71",
+        "site_web": "https://gueret.ouvertures.com/",
+        "adresse": "2 bis Av. Pierre Mendès France, 23000 Guéret",
+        "note": 4.4,
+        "avis": 44,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15005853541905839799",
+        "nom": "Point.P - Guéret",
+        "slug": "pointp-gueret",
+        "telephone": "05 55 41 44 24",
+        "site_web": "https://www.pointp.fr/infos-agence/gueret-point-p-5477",
+        "adresse": "Rte de Cher du Prat, 23000 Guéret",
+        "note": 3.9,
+        "avis": 31,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9636143131670519913",
+        "nom": "Menuiserie Adam SAS - Guéret ( Conception, fabrication et pose de menuiseries Bois - Alu - PVC )",
+        "slug": "menuiserie-adam-sas-gueret-conception-fabrication-et-pose-de-menuiseries-bois-alu-pvc",
+        "telephone": "05 55 51 08 47",
+        "site_web": "https://menuiseries-adam.fr/",
+        "adresse": "1 Rue Martin Nadaud, 23000 Guéret",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "gouzon": {
+    "artisans": [
+      {
+        "id": "2081368055390340158",
+        "nom": "Toiture 23230 Gouzon",
+        "slug": "toiture-23230-gouzon",
+        "telephone": "06 26 55 98 71",
+        "site_web": null,
+        "adresse": "Rue de la Sablière, 23230 Gouzon",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6263385182859893895",
+        "nom": "MENUISERIE FAUCONNET",
+        "slug": "menuiserie-fauconnet",
+        "telephone": "05 55 81 00 00",
+        "site_web": "http://maison-fauconnet.fr/",
+        "adresse": "28 La Sciauve, 23230 Gouzon",
+        "note": 3.5,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5876685848672027564",
+        "nom": "SIMON THURET MENUISERIE",
+        "slug": "simon-thuret-menuiserie",
+        "telephone": "06 18 51 52 97",
+        "site_web": null,
+        "adresse": "ZAC BELLEVUE, 23230 Gouzon",
+        "note": 3.8,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-dizier-masbaraud": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "le-grand-bourg": {
+    "artisans": [
+      {
+        "id": "4176776543255288469",
+        "nom": "TOITURE CHARPENTE & SERVICES",
+        "slug": "toiture-charpente-services",
+        "telephone": "05 55 80 43 90",
+        "site_web": "https://www.toiture-charpente-services.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "11 Rue du Pont de la Gartempe, 23240 Le Grand-Bourg",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7260752473523356815",
+        "nom": "Sarl TCS",
+        "slug": "sarl-tcs",
+        "telephone": "06 30 71 53 25",
+        "site_web": "https://couvreur-gueret.fr/contact/",
+        "adresse": "2 Rue du N, 23240 Le Grand-Bourg",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "felletin": {
+    "artisans": [
+      {
+        "id": "4441416264989184521",
+        "nom": "Menuiseries Fayette - Fabricant et installateur ( Felletin )",
+        "slug": "menuiseries-fayette-fabricant-et-installateur-felletin",
+        "telephone": null,
+        "site_web": "https://menuiseries-fayette.fr/",
+        "adresse": "2 Grande Rue, 23500 Felletin",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "la-souterraine": {
+    "artisans": [
+      {
+        "id": "13674723470959696543",
+        "nom": "Avenir Rénovations Guéret",
+        "slug": "avenir-renovations-gueret",
+        "telephone": "05 33 52 25 03",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-23-gueret/?utm_source=gmb",
+        "adresse": "Pépinière d'entreprise, Z.I du, Chem. du Cheix, 23300 La Souterraine",
+        "note": 5,
+        "avis": 8,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16713732953686063629",
+        "nom": "Naudon Mathé Frères SAS",
+        "slug": "naudon-mathe-freres-sas",
+        "telephone": "05 55 63 09 49",
+        "site_web": "https://www.naudon-mathe.fr/?utm_source=gmb",
+        "adresse": "Le Cheix, 23300 La Souterraine",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2926726530375668496",
+        "nom": "Naudon Mathé Frères - Saint Maurice",
+        "slug": "naudon-mathe-freres-saint-maurice",
+        "telephone": "05 55 63 74 31",
+        "site_web": "https://www.naudon-mathe.fr/",
+        "adresse": "Parc d'Activité de, La Croisière, 23300 Saint-Maurice-la-Souterraine",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17335832303450304083",
+        "nom": "Rénov Iso Conseil SARL",
+        "slug": "renov-iso-conseil-sarl",
+        "telephone": "05 55 63 43 15",
+        "site_web": "http://www.facebook.com/RENOVISOconseil?utm_source=gmb",
+        "adresse": "Za La Prade, 23 Rue Louis François, 23300 La Souterraine",
+        "note": 4.5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "1738300947907204020",
+        "nom": "TRYBA La Souterraine",
+        "slug": "tryba-la-souterraine",
+        "telephone": "05 18 23 12 39",
+        "site_web": "https://www.tryba.com/espace-conseil/23/tryba-la-souterraine/?utm_campaign=Tryba_La-Souterraine&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "1 Av. de la République, 23300 La Souterraine",
+        "note": 4.3,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "420475757207098582",
+        "nom": "Point.P - La Souterraine",
+        "slug": "pointp-la-souterraine",
+        "telephone": "05 55 63 94 84",
+        "site_web": "https://www.pointp.fr/infos-agence/la-souterraine-point-p-5478",
+        "adresse": "6 rue Descartes Zi Rte de Versillat, 23300 La Souterraine",
+        "note": 3.9,
+        "avis": 33,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14104042733980491559",
+        "nom": "Fenêtre de l’Avenir",
+        "slug": "fenetre-de-lavenir",
+        "telephone": "05 55 63 27 96",
+        "site_web": "https://www.tryba.com/espace-conseil/23/tryba-la-souterraine/?utm_campaign=Tryba_La-Souterraine&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "La, 1 Av. de la République, 23300 La Souterraine",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "fursac": {
+    "artisans": [
+      {
+        "id": "15480741146063067546",
+        "nom": "Logis Hôtel Restaurant Nougier",
+        "slug": "logis-hotel-restaurant-nougier",
+        "telephone": "05 55 63 60 56",
+        "site_web": "https://www.logishotels.com/fr/hotel/-541?partid=1535",
+        "adresse": "2 Pl. de l'Église, 23290 Fursac",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Hôtel"
+      }
+    ]
+  },
+  "saint-fiel": {
+    "artisans": [
+      {
+        "id": "5322681386866172848",
+        "nom": "Agencement De Jers",
+        "slug": "agencement-de-jers",
+        "telephone": "09 62 51 82 17",
+        "site_web": "http://agencement-de-jers.fr/",
+        "adresse": "47 Bis La Vergne, 23000 Saint-Fiel",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6548121076306450361",
+        "nom": "Technitoit Guéret",
+        "slug": "technitoit-gueret",
+        "telephone": "05 33 52 29 41",
+        "site_web": "https://www.technitoit.com/agence/technitoit-gueret?utm_source=google&utm_medium=gmb",
+        "adresse": "Z.A. Du Cher des Cerisiers, 1 All. des Prades, 23000 Saint-Fiel",
+        "note": 4.3,
+        "avis": 83,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1246072882676531573",
+        "nom": "SARL MILLET Vivien",
+        "slug": "sarl-millet-vivien",
+        "telephone": "05 55 51 91 94",
+        "site_web": null,
+        "adresse": "1 ZA Laschamps de Chavanat, 23000 Saint-Fiel",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Maçon"
+      },
+      {
+        "id": "4998294776102413475",
+        "nom": "Anderson",
+        "slug": "anderson",
+        "telephone": "05 55 80 78 80",
+        "site_web": null,
+        "adresse": "ZA Cher du Cerisier, 23000 Saint-Fiel",
+        "note": 4.9,
+        "avis": 43,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "6615493916119708465",
+        "nom": "Chausson Matériaux",
+        "slug": "chausson-materiaux",
+        "telephone": "05 55 52 00 28",
+        "site_web": "https://www.chausson.fr/agences/262?utm_source=fiche&utm_medium=GMB",
+        "adresse": "Zone Artisanale, 23000 Guéret",
+        "note": 4.1,
+        "avis": 72,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "18083463311813815679",
+        "nom": "Sarl Maçonnerie Millet",
+        "slug": "sarl-maconnerie-millet",
+        "telephone": null,
+        "site_web": "http://www.maconnerie-millet.com/",
+        "adresse": "9 B Laschamps de Chavanat, 23000 Saint-Fiel",
+        "note": 4,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "auzances": {
+    "artisans": [
+      {
+        "id": "3412782669447571069",
+        "nom": "Proxi Confort - Trocellier et Fils SARL",
+        "slug": "proxi-confort-trocellier-et-fils-sarl",
+        "telephone": "05 55 67 13 22",
+        "site_web": "https://magasin.proxiconfort.fr/magasin/proxi-confort-auzances",
+        "adresse": "8 Rte d'Aubusson, 23700 Auzances",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "1055465930193460547",
+        "nom": "Maux Pradeux – Tout Faire",
+        "slug": "maux-pradeux-tout-faire",
+        "telephone": "05 55 67 01 01",
+        "site_web": "https://www.toutfaire.fr/maux-pradeux-auzances.html",
+        "adresse": "11 Rue du Maréchal Leclerc, 23700 Auzances",
+        "note": 4.5,
+        "avis": 84,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14199267502389972397",
+        "nom": "Briconautes Auzances",
+        "slug": "briconautes-auzances",
+        "telephone": "05 55 67 13 22",
+        "site_web": "https://magasin.leclub-bricolage.fr/6-briconautes-auzances?utm_source=gmb",
+        "adresse": "8 Rte d'Aubusson, 23700 Auzances",
+        "note": 3.9,
+        "avis": 21,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "5996428263853711985",
+        "nom": "L'Atelier des Opticiens Auzances",
+        "slug": "latelier-des-opticiens-auzances",
+        "telephone": "05 55 83 93 20",
+        "site_web": "http://www.latelier-des-opticiens.com/",
+        "adresse": "2 Av. de la Gare, 23700 Auzances",
+        "note": 5,
+        "avis": 11,
+        "type": "Opticien"
+      },
+      {
+        "id": "49461301135334942",
+        "nom": "Ezzouaoui Halim",
+        "slug": "ezzouaoui-halim",
+        "telephone": "06 82 72 46 81",
+        "site_web": null,
+        "adresse": "13 Rue Paul Doumer, 23700 Auzances",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "sainte-feyre": {
+    "artisans": [
+      {
+        "id": "16301235436605243941",
+        "nom": "Couvreur 23",
+        "slug": "couvreur-23",
+        "telephone": "07 72 08 16 25",
+        "site_web": "https://www.couvreur23.fr/home.html",
+        "adresse": "Villecorbeix, 23000 Sainte-Feyre",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-sulpice-le-gueretois": {
+    "artisans": [
+      {
+        "id": "14290971018211361504",
+        "nom": "Trait23 ETS Rénovation de l'habitat / Entreprise de rénovation",
+        "slug": "trait23-ets-renovation-de-lhabitat-entreprise-de-renovation",
+        "telephone": "06 50 90 90 46",
+        "site_web": "https://trait23.wixsite.com/trait-23",
+        "adresse": "47 La Bussière, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "16405935481381978084",
+        "nom": "MV Menuiserie",
+        "slug": "mv-menuiserie",
+        "telephone": "06 33 85 09 22",
+        "site_web": "https://www.mv-menuiserie-23.fr/",
+        "adresse": "La Petite Ribière, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7891859438059864202",
+        "nom": "Brs (Sas)",
+        "slug": "brs-sas",
+        "telephone": "06 89 08 42 04",
+        "site_web": null,
+        "adresse": "39 Les Coussières, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "9235663666492880235",
+        "nom": "Avectoit",
+        "slug": "avectoit",
+        "telephone": "06 62 87 97 85",
+        "site_web": null,
+        "adresse": "3 bis, 23800 Saint-Sulpice-le-Dunois",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12204373426043591963",
+        "nom": "Lejeune Sarl",
+        "slug": "lejeune-sarl",
+        "telephone": "05 55 52 14 21",
+        "site_web": "http://lejeune-peinture.fr/",
+        "adresse": "50 Les Coussières, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 5,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "17678798724539042805",
+        "nom": "Rouffet Francis",
+        "slug": "rouffet-francis",
+        "telephone": "05 55 51 02 92",
+        "site_web": null,
+        "adresse": "4 Rte Touristique du Maupuy, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "17009901879171786808",
+        "nom": "Pierres & Bois 23",
+        "slug": "pierres-bois-23",
+        "telephone": "06 77 65 82 65",
+        "site_web": null,
+        "adresse": null,
+        "note": 2.7,
+        "avis": 3,
+        "type": "Remodeleur"
+      }
+    ]
+  },
+  "bonnat": {
+    "artisans": [
+      {
+        "id": "1695951714596125102",
+        "nom": "SARL Lefelle Moulinat",
+        "slug": "sarl-lefelle-moulinat",
+        "telephone": "06 68 34 61 56",
+        "site_web": "http://lefellemoulinat.fr/",
+        "adresse": "2 Le Fressanaud, 23220 Bonnat",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6329436736652996965",
+        "nom": "Moreau Pascal",
+        "slug": "moreau-pascal",
+        "telephone": "05 55 62 17 22",
+        "site_web": "https://www.menuiserie-moreau-pascal.fr/",
+        "adresse": "2 Les Vergnes, 23220 Bonnat",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "12940649749954849379",
+        "nom": "Brunet Prudhomme SA",
+        "slug": "brunet-prudhomme-sa",
+        "telephone": "05 55 62 14 97",
+        "site_web": "https://www.facebook.com/SAS-Brunet-Prudhomme-100338048424505/?utm_source=gmb",
+        "adresse": "16 Rte de Guéret, 23220 Bonnat",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "12720390207631038971",
+        "nom": "Bonamat +",
+        "slug": "bonamat",
+        "telephone": "05 55 62 10 18",
+        "site_web": null,
+        "adresse": "5 Pl. du Foirail, 23220 Bonnat",
+        "note": 4.4,
+        "avis": 24,
+        "type": "Quincaillerie"
+      }
+    ]
+  },
+  "saint-maurice-la-souterraine": {
+    "artisans": [
+      {
+        "id": "15935898443580547344",
+        "nom": "Blondin Patrick",
+        "slug": "blondin-patrick",
+        "telephone": "05 55 63 03 54",
+        "site_web": null,
+        "adresse": "24 La Croisière, 23300 Saint-Maurice-la-Souterraine",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "18438725617053210402",
+        "nom": "BigMat DISTRIMAT - Agence de St-Maurice-la-Souterraine",
+        "slug": "bigmat-distrimat-agence-de-st-maurice-la-souterraine",
+        "telephone": "05 55 63 45 19",
+        "site_web": "https://www.bigmat.fr/socomat/saint-maurice-la-souterraine/",
+        "adresse": "Rue Grand Couret, 23300 Saint-Maurice-la-Souterraine",
+        "note": 4.3,
+        "avis": 38,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "bourganeuf": {
+    "artisans": [
+      {
+        "id": "5644910135443218315",
+        "nom": "ENTREPRISE DOMY",
+        "slug": "entreprise-domy",
+        "telephone": "05 55 64 06 58",
+        "site_web": "https://www.entreprise-domy.fr/",
+        "adresse": "Chez Gayard, 23400 Bourganeuf",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4107752617289639295",
+        "nom": "Menuiseries Fayette - Fabricant et installateur",
+        "slug": "menuiseries-fayette-fabricant-et-installateur",
+        "telephone": "05 55 64 03 29",
+        "site_web": "https://menuiseries-fayette.fr/",
+        "adresse": "31 Grange Bonnyaud, 23400 Bourganeuf",
+        "note": 3.5,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "evaux-les-bains": {
+    "artisans": [
+      {
+        "id": "1805448726487447359",
+        "nom": "SARL SAINTEMARTINE",
+        "slug": "sarl-saintemartine",
+        "telephone": "05 55 65 52 95",
+        "site_web": "https://www.saintemartine-construction-bois.fr/",
+        "adresse": "9 Av. Armand Fourot, 23110 Évaux-les-Bains",
+        "note": 5,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2025700290775167082",
+        "nom": "Maux Pradeux – Tout Faire",
+        "slug": "maux-pradeux-tout-faire",
+        "telephone": "05 55 65 56 16",
+        "site_web": "https://www.toutfaire.fr/maux-pradeux-evaux-les-bains.html",
+        "adresse": "Fbg Monneix, 23110 Évaux-les-Bains",
+        "note": 4.6,
+        "avis": 24,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "bussiere-dunoise": {
+    "artisans": [
+      {
+        "id": "9235663666492880235",
+        "nom": "Avectoit",
+        "slug": "avectoit",
+        "telephone": "06 62 87 97 85",
+        "site_web": null,
+        "adresse": "3 bis, 23800 Saint-Sulpice-le-Dunois",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "boussac": {
+    "artisans": [
+      {
+        "id": "9246334080134377986",
+        "nom": "Menuiserie Chagnon",
+        "slug": "menuiserie-chagnon",
+        "telephone": "05 55 65 16 00",
+        "site_web": "http://menuiserie-chagnon.com/",
+        "adresse": "Imp. des Troenes, 23600 Boussac",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8537320340937605635",
+        "nom": "France Fermetures",
+        "slug": "france-fermetures",
+        "telephone": null,
+        "site_web": "https://www.france-fermetures.fr/",
+        "adresse": "Bellevue, 23600 Boussac-Bourg",
+        "note": 4.3,
+        "avis": 208,
+        "type": "Fabricant"
+      },
+      {
+        "id": "14580689914336416976",
+        "nom": "Couvreur - Priant Couverture",
+        "slug": "couvreur-priant-couverture",
+        "telephone": "05 55 63 88 83",
+        "site_web": "https://priantentreprises.fr/priant-couverture-renovation-toiture-zinguerie/",
+        "adresse": "6 Imp. des Troenes, 23600 Boussac",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ajain": {
+    "artisans": [
+      {
+        "id": "6537727258448662426",
+        "nom": "ROUSSY AVIGNON ENTREPRISE - 23380",
+        "slug": "roussy-avignon-entreprise-23380",
+        "telephone": "05 55 80 97 54",
+        "site_web": "http://roussy-avignon.fr/",
+        "adresse": "Rameix, 23380 Ajain",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8397284900028265223",
+        "nom": "Jannot Rénov' - Toiture Ajain",
+        "slug": "jannot-renov-toiture-ajain",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chem. de l'École, 23380 Ajain",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1824882721132533083",
+        "nom": "MENUISERIE ROBIN",
+        "slug": "menuiserie-robin",
+        "telephone": "06 87 54 33 73",
+        "site_web": "http://www.fabrication-menuiserierobin.fr/",
+        "adresse": "Rte de Guéret, 23380 Ajain",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10400600055190660967",
+        "nom": "TmtlCROUTEIX",
+        "slug": "tmtlcrouteix",
+        "telephone": "06 02 39 65 41",
+        "site_web": "https://tmtlcrouteix.fr/",
+        "adresse": "23380 Ajain",
+        "note": 4.3,
+        "avis": 8,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "12024529405485646523",
+        "nom": "Copper'Teck SAS",
+        "slug": "copperteck-sas",
+        "telephone": "07 87 98 54 96",
+        "site_web": "https://copper-teck.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "dun-le-palestel": {
+    "artisans": [
+      {
+        "id": "8059240488546614037",
+        "nom": "Menuiserie ADAM SAS ( Conception, fabrication et pose de Menuiseries Bois - Alu - PVC )",
+        "slug": "menuiserie-adam-sas-conception-fabrication-et-pose-de-menuiseries-bois-alu-pvc",
+        "telephone": "05 55 63 11 08",
+        "site_web": "https://menuiseries-adam.fr/",
+        "adresse": "18 Rte de la Souterraine, 23300 Saint-Agnant-de-Versillat",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8192595018508480585",
+        "nom": "Lafont Yvan",
+        "slug": "lafont-yvan",
+        "telephone": "05 55 89 15 77",
+        "site_web": "http://www.lafontyvan.fr/",
+        "adresse": "Z.A. DE, 23800 Dun-le-Palestel",
+        "note": 4.4,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14208009980900676338",
+        "nom": "Priant Bâtiment - Travaux Maçonnerie - Terrassement",
+        "slug": "priant-batiment-travaux-maconnerie-terrassement",
+        "telephone": "02 54 47 32 75",
+        "site_web": "https://priantentreprises.fr/priant-batiment-maconnerie-terrassement-assainissement/",
+        "adresse": "5 Rte de la Tuilerie, 23800 Dun-le-Palestel",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Maçon"
+      },
+      {
+        "id": "15509276228614068594",
+        "nom": "Pezant Jean-Philippe",
+        "slug": "pezant-jean-philippe",
+        "telephone": "05 55 89 14 96",
+        "site_web": null,
+        "adresse": "5 Rte de Bel air, 23800 Dun-le-Palestel",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "aubusson": {
+    "artisans": [
+      {
+        "id": "4680412031177110034",
+        "nom": "Entreprise Chassain SAS",
+        "slug": "entreprise-chassain-sas",
+        "telephone": "05 55 66 26 15",
+        "site_web": "https://www.facebook.com/profile.php?id=100057729307062&utm_source=gmb",
+        "adresse": "2 Les Redondets, 23200 Aubusson",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ahun": {
+    "artisans": [
+      {
+        "id": "1948901444718021347",
+        "nom": "JB Rénov - Maçonnerie générale et couverture en Creuse",
+        "slug": "jb-renov-maconnerie-generale-et-couverture-en-creuse",
+        "telephone": "06 60 19 65 96",
+        "site_web": "https://jb-renov.artisan-creuse.fr/",
+        "adresse": "4 Rue Pouzami, 23150 Ahun",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "12795794182784360359",
+        "nom": "LB Rénovation - Couvreur zingueur en Creuse - Rénovation de toiture",
+        "slug": "lb-renovation-couvreur-zingueur-en-creuse-renovation-de-toiture",
+        "telephone": "06 78 28 79 15",
+        "site_web": "https://lb-renov.artisan-creuse.fr/",
+        "adresse": "17 Rte d'Aubusson, 23150 Ahun",
+        "note": 5,
+        "avis": 30,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9808069020883091336",
+        "nom": "SAS FAYETTE",
+        "slug": "sas-fayette",
+        "telephone": "05 55 62 47 25",
+        "site_web": "https://www.facebook.com/Fayette-Sarl-108782907328859/",
+        "adresse": "6 Molles, 23150 Ahun",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Charpentier"
+      }
+    ]
+  }
+}

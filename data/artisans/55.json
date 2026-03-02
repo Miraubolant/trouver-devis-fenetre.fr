@@ -1,0 +1,1005 @@
+{
+  "cousances-les-forges": {
+    "artisans": [
+      {
+        "id": "3005972821220149432",
+        "nom": "EUROFERM",
+        "slug": "euroferm",
+        "telephone": "06 46 82 91 47",
+        "site_web": null,
+        "adresse": "1 Rue du chêne sessile, 55170 Cousances-les-Forges",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "dugny-sur-meuse": {
+    "artisans": [
+      {
+        "id": "5577810082368267975",
+        "nom": "Bm Instal'",
+        "slug": "bm-instal",
+        "telephone": "06 32 46 98 37",
+        "site_web": "https://bminstal55.fr/",
+        "adresse": "Espa. Driant, 55430 Belleville-sur-Meuse",
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4304857800018036363",
+        "nom": "Dagnet Toitures",
+        "slug": "dagnet-toitures",
+        "telephone": "03 29 86 63 27",
+        "site_web": "https://www.dagnet-toitures.com/",
+        "adresse": "4 Rue Louis Piquet, 55100 Dugny-sur-Meuse",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18357046071537964225",
+        "nom": "Bernard TP",
+        "slug": "bernard-tp",
+        "telephone": "06 32 20 54 96",
+        "site_web": "https://www.facebook.com/profile.php?id=100082948287876",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "6554219457034946934",
+        "nom": "Pascal Verdun",
+        "slug": "pascal-verdun",
+        "telephone": "03 29 84 27 30",
+        "site_web": null,
+        "adresse": "22 Rue de la Bonneterie, 55840 Thierville-sur-Meuse",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15753862386695419669",
+        "nom": "Toits De L'Est",
+        "slug": "toits-de-lest",
+        "telephone": "06 86 52 89 11",
+        "site_web": "http://www.toits-de-lest.fr/",
+        "adresse": "48 Rue Félix Faure, 54000 Nancy",
+        "note": 5,
+        "avis": 62,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "void-vacon": {
+    "artisans": [
+      {
+        "id": "12961159475234525072",
+        "nom": "A.B. Profils",
+        "slug": "ab-profils",
+        "telephone": "09 81 42 85 38",
+        "site_web": "https://www.facebook.com/ABProfilsmenuiserie",
+        "adresse": "Rte de Toul, 55190 Void-Vacon",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Fabricant"
+      },
+      {
+        "id": "4091527772610283187",
+        "nom": "Grosfillex Fenêtres DL Habitat",
+        "slug": "grosfillex-fenetres-dl-habitat",
+        "telephone": "03 29 90 32 90",
+        "site_web": "https://www.grosfillex.com/stores/dl-habitat-void-vacon",
+        "adresse": "Rue Chem. Derrière la ville, 55190 Void-Vacon",
+        "note": 3,
+        "avis": 2,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "euville": {
+    "artisans": [
+      {
+        "id": "10672898435884515687",
+        "nom": "Belvue - Installateur ROTO et VELUX Nancy",
+        "slug": "belvue-installateur-roto-et-velux-nancy",
+        "telephone": "03 59 28 32 29",
+        "site_web": "https://www.belvue.fr/",
+        "adresse": "8 Rue Pierre Crémel, 54410 Laneuveville-devant-Nancy",
+        "note": 4.9,
+        "avis": 104,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15180605286296651169",
+        "nom": "Belvue - Installateur ROTO et VELUX Metz",
+        "slug": "belvue-installateur-roto-et-velux-metz",
+        "telephone": "03 59 28 32 27",
+        "site_web": "https://www.belvue.fr/trouver-son-artisan/metz/",
+        "adresse": "26a Rue des Garennes, 57155 Marly",
+        "note": 4.9,
+        "avis": 49,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1540926410147690175",
+        "nom": "FEN & LUX",
+        "slug": "fen-lux",
+        "telephone": "03 72 47 10 57",
+        "site_web": "http://www.fenetlux.fr/",
+        "adresse": "8 Rue Charles Bourseul, 54136 Bouxières-aux-Dames",
+        "note": 4.9,
+        "avis": 110,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2088760048786075703",
+        "nom": "Houssard Sarl",
+        "slug": "houssard-sarl",
+        "telephone": "03 29 89 87 65",
+        "site_web": "https://www.menuiserie-houssard.com/",
+        "adresse": "3 Rue de la Côté, 55190 Laneuville-au-Rupt",
+        "note": 4.8,
+        "avis": 31,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7149433734498506576",
+        "nom": "Velux",
+        "slug": "velux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "57400 Buhl-Lorraine",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "10948722937089966820",
+        "nom": "Art et Fenêtres Menuiseries SC 54",
+        "slug": "art-et-fenetres-menuiseries-sc-54",
+        "telephone": "03 83 38 97 72",
+        "site_web": "http://sc54menuiseries.artetfenetres.com/",
+        "adresse": "147 Av. de Strasbourg, 54000 Nancy",
+        "note": 4.9,
+        "avis": 259,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6259627370554135976",
+        "nom": "Multipose",
+        "slug": "multipose",
+        "telephone": "03 83 24 38 31",
+        "site_web": "https://www.multipose.net/",
+        "adresse": "ZAC des Sablons, 1 Rue du Bois Jacquot, 54670 Millery",
+        "note": 4.7,
+        "avis": 82,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7970158258567639835",
+        "nom": "Emile Couverture - Couvreur/Charpente/Zinguerie/ Ramonage - Forbach,Thionville,Briey",
+        "slug": "emile-couverture-couvreurcharpentezinguerie-ramonage-forbachthionvillebriey",
+        "telephone": "06 77 30 41 62",
+        "site_web": "https://www.emilecouverture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5917284044405008849",
+        "nom": "Isolor 2000",
+        "slug": "isolor-2000",
+        "telephone": "03 83 50 10 50",
+        "site_web": "https://www.isolor2000.fr/?utm_source=gmb",
+        "adresse": "Za Du Breuil, 831 Rue Robert Schuman, 54850 Messein",
+        "note": 4.7,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17950665360453529096",
+        "nom": "AFB TOITURE SAS",
+        "slug": "afb-toiture-sas",
+        "telephone": "07 83 25 88 11",
+        "site_web": "https://afbtoiture.fr/?fbclid=IwAR3RS1ARFdGAh17m8MxqdqoWv7z1umwzgTFxdAiKo0E79kEOcsFJlgIIqeg",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 35,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "dieue-sur-meuse": {
+    "artisans": [
+      {
+        "id": "6554219457034946934",
+        "nom": "Pascal Verdun",
+        "slug": "pascal-verdun",
+        "telephone": "03 29 84 27 30",
+        "site_web": null,
+        "adresse": "22 Rue de la Bonneterie, 55840 Thierville-sur-Meuse",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "commercy": {
+    "artisans": [
+      {
+        "id": "10853392184815051348",
+        "nom": "SARL Houssard",
+        "slug": "sarl-houssard",
+        "telephone": "03 74 09 59 34",
+        "site_web": "https://www.menuiserie-houssard.com/devis-menuisier-commercy-toul.php",
+        "adresse": "19 Av. Stanislas, 55200 Commercy",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "12619438772203995259",
+        "nom": "Ouvertures Sarl Houssard",
+        "slug": "ouvertures-sarl-houssard",
+        "telephone": "03 29 89 87 65",
+        "site_web": "https://www.ouvertures.com/expert/menuiseriehoussard/devis",
+        "adresse": "19 Av. Stanislas, 55200 Commercy",
+        "note": 5,
+        "avis": 1,
+        "type": null
+      },
+      {
+        "id": "4523580241800078476",
+        "nom": "Menuiserie PIERRE Benoit",
+        "slug": "menuiserie-pierre-benoit",
+        "telephone": "06 48 78 34 71",
+        "site_web": null,
+        "adresse": "2 Rte de Vignot, 55200 Commercy",
+        "note": 4.6,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8873140537447953906",
+        "nom": "HBS",
+        "slug": "hbs",
+        "telephone": "03 29 91 22 05",
+        "site_web": "https://hbs-menuiserie.fr/",
+        "adresse": "Rue d'Euville, 55200 Commercy",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "etain": {
+    "artisans": [
+      {
+        "id": "441923497741711151",
+        "nom": "L'Expert Fenêtre SAS Del",
+        "slug": "lexpert-fenetre-sas-del",
+        "telephone": "03 29 74 84 21",
+        "site_web": null,
+        "adresse": "15 Rue du Jura, 55400 Étain",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4933074646470739020",
+        "nom": "Leo Huynen Sarl",
+        "slug": "leo-huynen-sarl",
+        "telephone": "03 29 87 20 22",
+        "site_web": "http://www.leo-huynen.fr/",
+        "adresse": "30 bis Av. Prud Homme Havette, 55400 Étain",
+        "note": 4,
+        "avis": 29,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "fains-veel": {
+    "artisans": [
+      {
+        "id": "6875464824023560637",
+        "nom": "MC Lorraine Menuiserie",
+        "slug": "mc-lorraine-menuiserie",
+        "telephone": "06 47 44 48 98",
+        "site_web": "https://mc-lorraine.fr/",
+        "adresse": "2 Rue du Moutier, 55800 Vassincourt",
+        "note": 4,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15154320007763622657",
+        "nom": "Castellar EURL",
+        "slug": "castellar-eurl",
+        "telephone": "03 29 76 18 75",
+        "site_web": "https://www.castellar-menuiserie-meuse.fr/",
+        "adresse": "8 ter Av. de la Libération, 55000 Fains-Véel",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1637881096600778856",
+        "nom": "Fenêtres du Barrois",
+        "slug": "fenetres-du-barrois",
+        "telephone": "03 29 46 13 28",
+        "site_web": "https://www.fenetresdubarrois.com/",
+        "adresse": "10 Av. de la Libération, 55000 Fains-Véel",
+        "note": 4.9,
+        "avis": 71,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6963835714874975058",
+        "nom": "Jeanjan Pere Et Fils",
+        "slug": "jeanjan-pere-et-fils",
+        "telephone": "03 74 09 72 54",
+        "site_web": "http://www.jeanjan-pere-fils.com/",
+        "adresse": "5 Rue Louise Weiss, 55000 Bar-le-Duc",
+        "note": 4.9,
+        "avis": 89,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10282415146386799149",
+        "nom": "Menuiserie Lefevre",
+        "slug": "menuiserie-lefevre",
+        "telephone": "03 29 79 11 89",
+        "site_web": "https://www.menuiserie-lefevre.fr/",
+        "adresse": "4 Rue Maréchal Lannes, 55000 Savonnières-devant-Bar",
+        "note": 4.6,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1883427646163501483",
+        "nom": "Steiner Menuiserie",
+        "slug": "steiner-menuiserie",
+        "telephone": "03 29 45 04 03",
+        "site_web": "http://www.facebook.com/SteinerMenuiserie/?utm_source=gmb",
+        "adresse": "2 Imp. Marcel Pagnol, 55000 Savonnières-devant-Bar",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14816194142488120736",
+        "nom": "Vignot Sa",
+        "slug": "vignot-sa",
+        "telephone": "03 29 45 12 98",
+        "site_web": null,
+        "adresse": "11 Rue du Stade, 55000 Fains-Véel",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "gondrecourt-le-chateau": {
+    "artisans": [
+      {
+        "id": "10954118362758478143",
+        "nom": "Iso Plaquiste",
+        "slug": "iso-plaquiste",
+        "telephone": "03 29 90 93 54",
+        "site_web": "http://www.iso-plaquiste.fr/",
+        "adresse": "2 Rte de Neufchâteau, 55130 Gondrecourt-le-Château",
+        "note": 3.6,
+        "avis": 5,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "6491228201932681061",
+        "nom": "Instal'au Poêle",
+        "slug": "instalau-poele",
+        "telephone": "03 29 90 45 97",
+        "site_web": "https://www.instalaupoele.fr/",
+        "adresse": "5 Rue de Verdun, 55130 Gondrecourt-le-Château",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5015397668605042084",
+        "nom": "S.T.P.P.",
+        "slug": "stpp",
+        "telephone": "03 29 89 73 80",
+        "site_web": "https://www.stpp-lorraine.com/",
+        "adresse": "5 Rue de Verdun, 55130 Gondrecourt-le-Château",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "longeville-en-barrois": {
+    "artisans": [
+      {
+        "id": "5737623613060347896",
+        "nom": "Tecniver Miroiterie Morel",
+        "slug": "tecniver-miroiterie-morel",
+        "telephone": "03 29 79 23 54",
+        "site_web": "http://www.menuiserie-tecniver.fr/",
+        "adresse": "3 Zone de la, Imp. de la Praye, 55000 Longeville-en-Barrois",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ligny-en-barrois": {
+    "artisans": [
+      {
+        "id": "11282467525194943452",
+        "nom": "EURL ETIENNE LOG'ISOL",
+        "slug": "eurl-etienne-logisol",
+        "telephone": "03 29 78 35 35",
+        "site_web": "https://logisol-menuiserie.fr/",
+        "adresse": "Gr Grande Rue, 55500 Saulvaux",
+        "note": 4.4,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "montmedy": {
+    "artisans": [
+      {
+        "id": "281468362982943067",
+        "nom": "Strobel Yoann",
+        "slug": "strobel-yoann",
+        "telephone": "03 29 80 22 40",
+        "site_web": null,
+        "adresse": "1 Rue des Cannes, 55600 Montmédy",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "revigny-sur-ornain": {
+    "artisans": [
+      {
+        "id": "5133275095244380195",
+        "nom": "MKM HABITAT",
+        "slug": "mkm-habitat",
+        "telephone": "03 55 12 01 63",
+        "site_web": "http://mkmhabitat.fr/",
+        "adresse": "17 Rue de la Tresse, 55800 Revigny-sur-Ornain",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10792251952145567098",
+        "nom": "Sarl Nouvelle Menuiserie Lion",
+        "slug": "sarl-nouvelle-menuiserie-lion",
+        "telephone": "03 29 75 10 65",
+        "site_web": null,
+        "adresse": "34 Rue de la Tresse, 55800 Revigny-sur-Ornain",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de pompes funèbres"
+      }
+    ]
+  },
+  "pagny-sur-meuse": {
+    "artisans": [
+      {
+        "id": "4523495091682047973",
+        "nom": "Menuiserie Girardin (Artisan Artipôle)",
+        "slug": "menuiserie-girardin-artisan-artipole",
+        "telephone": "03 83 81 70 40",
+        "site_web": "http://www.menuiserie-girardin.com/",
+        "adresse": "22 b Rue Pasteur, 54530 Pagny-sur-Moselle",
+        "note": 4,
+        "avis": 25,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-mihiel": {
+    "artisans": [
+      {
+        "id": "3848603430648599750",
+        "nom": "Haxel – Granulés de bois, Fioul, Béton, Bricolage & Matériaux – Saint-Mihiel (55)",
+        "slug": "haxel-granules-de-bois-fioul-beton-bricolage-materiaux-saint-mihiel-55",
+        "telephone": "03 29 89 05 70",
+        "site_web": "https://haxelsa.com/",
+        "adresse": "10 Rue René Frybourg, 55300 Saint-Mihiel",
+        "note": 4,
+        "avis": 223,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "17924254959403760707",
+        "nom": "MD Fenêtres",
+        "slug": "md-fenetres",
+        "telephone": "06 86 49 17 53",
+        "site_web": "https://www.md-fenetres.com/",
+        "adresse": "8 Rue de l'Église, 55300 Les Paroches",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "sorcy-saint-martin": {
+    "artisans": [
+      {
+        "id": "6189149447492490778",
+        "nom": "Menuiserie Laurent",
+        "slug": "menuiserie-laurent",
+        "telephone": "03 29 89 10 14",
+        "site_web": "https://menuiserielaurent.odoo.com/",
+        "adresse": "15 Rue du Gén Leclerc, 55190 Sorcy-Saint-Martin",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11635794155607362181",
+        "nom": "Sorcy- Saint- Martin Rue de la Gare",
+        "slug": "sorcy-saint-martin-rue-de-la-gare",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Les Perlots, 55190 Sorcy-Saint-Martin",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "vaucouleurs": {
+    "artisans": [
+      {
+        "id": "10224698053020198398",
+        "nom": "Menuiserie Lafrogne Meuse",
+        "slug": "menuiserie-lafrogne-meuse",
+        "telephone": "06 44 22 89 03",
+        "site_web": null,
+        "adresse": "17 Av. de Domrémy, 55140 Vaucouleurs",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2276969788789503190",
+        "nom": "BACHES FAVE TECHNISTORE",
+        "slug": "baches-fave-technistore",
+        "telephone": "03 29 89 46 94",
+        "site_web": null,
+        "adresse": "14 Av. Marechal Lyautey, 55140 Vaucouleurs",
+        "note": 3.3,
+        "avis": 42,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "thierville-sur-meuse": {
+    "artisans": [
+      {
+        "id": "12789205751962840760",
+        "nom": "Lepezel Fermetures",
+        "slug": "lepezel-fermetures",
+        "telephone": "06 37 83 81 98",
+        "site_web": "https://lepezelfermetures.fr/",
+        "adresse": "22 Av. du Général de Gaulle, 55100 Verdun",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13052394847518099104",
+        "nom": "Chaufer L'Honoré",
+        "slug": "chaufer-lhonore",
+        "telephone": "03 29 86 11 62",
+        "site_web": "https://www.chaufer-lhonore.com/",
+        "adresse": "13 bis Rue du Colonel Fourlinie, 55840 Thierville-sur-Meuse",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14517318991712439340",
+        "nom": "Menuiserie D'Agencement Magni",
+        "slug": "menuiserie-dagencement-magni",
+        "telephone": "06 46 82 63 07",
+        "site_web": null,
+        "adresse": "12 Espa. Doumenc, 55840 Thierville-sur-Meuse",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Magasin de meubles de cuisine"
+      }
+    ]
+  },
+  "verdun": {
+    "artisans": [
+      {
+        "id": "8636205277163381966",
+        "nom": "EST HABITAT 55",
+        "slug": "est-habitat-55",
+        "telephone": "03 29 86 07 07",
+        "site_web": "http://www.est-habitat-fermetures.fr/",
+        "adresse": "21 bis Av. du Général Boichut, 55100 Verdun",
+        "note": 3.8,
+        "avis": 45,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13289571780480459898",
+        "nom": "IFENETRES VERDUN",
+        "slug": "ifenetres-verdun",
+        "telephone": "09 61 63 92 46",
+        "site_web": "https://www.ifenetres.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "12282352356953383727",
+        "nom": "MIROITERIE VERDUNOISE",
+        "slug": "miroiterie-verdunoise",
+        "telephone": "03 29 86 78 88",
+        "site_web": null,
+        "adresse": "33 Rue Louis Maury, 55100 Verdun",
+        "note": 5,
+        "avis": 9,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "vigneulles-les-hattonchatel": {
+    "artisans": [
+      {
+        "id": "13691997914975318312",
+        "nom": "XB Terrassement",
+        "slug": "xb-terrassement",
+        "telephone": "06 31 86 91 08",
+        "site_web": null,
+        "adresse": "3 Pl. du Champ de Foire, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "5233913326964065015",
+        "nom": "Kb Menuiserie",
+        "slug": "kb-menuiserie",
+        "telephone": "07 86 11 35 80",
+        "site_web": "https://www.kb-menuiserie.fr/",
+        "adresse": "15 Chem. du la Vanne, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 5,
+        "avis": 36,
+        "type": "Menuisier"
+      },
+      {
+        "id": "123541684679075849",
+        "nom": "J Matériaux - Tout Faire",
+        "slug": "j-materiaux-tout-faire",
+        "telephone": "03 29 89 31 38",
+        "site_web": "https://www.toutfaire.fr/j-materiaux-vigneulles-les-hattonchatel.html",
+        "adresse": "66 Rue Raymond Poincaré, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 4.4,
+        "avis": 99,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15929072339792890952",
+        "nom": "SLB Isolation",
+        "slug": "slb-isolation",
+        "telephone": "06 88 65 52 35",
+        "site_web": "https://www.slbisolation.com/",
+        "adresse": "29 Rue des Chenevières, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "11517367871588436703",
+        "nom": "PRO&Cie - Ent. Reb Olivier",
+        "slug": "procie-ent-reb-olivier",
+        "telephone": "03 29 89 33 53",
+        "site_web": "https://www.procie.com/",
+        "adresse": "35 Rue Raymond Poincaré, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 4.5,
+        "avis": 10,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "3823828945888949320",
+        "nom": "Boulangerie de Vigneulles",
+        "slug": "boulangerie-de-vigneulles",
+        "telephone": "03 29 89 31 16",
+        "site_web": null,
+        "adresse": "26 Rue Raymond Poincaré, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 4.2,
+        "avis": 206,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "5687569058374703470",
+        "nom": "Tj toiture",
+        "slug": "tj-toiture",
+        "telephone": "06 71 84 61 31",
+        "site_web": "https://www.tj-toiture.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 55,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15636553466548370241",
+        "nom": "Schmit Damien Construction",
+        "slug": "schmit-damien-construction",
+        "telephone": "06 07 89 32 95",
+        "site_web": null,
+        "adresse": "zone Industrielle du, ZI. Le Pâquis, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "8374584311125074985",
+        "nom": "Menuiserie Brandenburger",
+        "slug": "menuiserie-brandenburger",
+        "telephone": "03 29 89 30 42",
+        "site_web": "http://www.menuiserie-brandenburger.fr/",
+        "adresse": "3 Pl. du Champ de Foire, 55210 Vigneulles-lès-Hattonchâtel",
+        "note": 4.5,
+        "avis": 22,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "stenay": {
+    "artisans": [
+      {
+        "id": "4268173247225463302",
+        "nom": "L.c. Renov",
+        "slug": "lc-renov",
+        "telephone": "06 59 85 52 56",
+        "site_web": "https://www.lc-renov55.com/",
+        "adresse": "3 Rue de la Fromonne, 55110 Milly-sur-Bradon",
+        "note": 5,
+        "avis": 1,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "2465161636500240405",
+        "nom": "SAS - Francis Baudier menuiserie",
+        "slug": "sas-francis-baudier-menuiserie",
+        "telephone": "03 29 80 44 09",
+        "site_web": "http://www.fbm-menuiserie.fr/",
+        "adresse": "1 bis Rte d'Inor, 55700 Autréville-Saint-Lambert",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vignot": {
+    "artisans": [
+      {
+        "id": "10672898435884515687",
+        "nom": "Belvue - Installateur ROTO et VELUX Nancy",
+        "slug": "belvue-installateur-roto-et-velux-nancy",
+        "telephone": "03 59 28 32 29",
+        "site_web": "https://www.belvue.fr/",
+        "adresse": "8 Rue Pierre Crémel, 54410 Laneuveville-devant-Nancy",
+        "note": 4.9,
+        "avis": 104,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "tronville-en-barrois": {
+    "artisans": [
+      {
+        "id": "17519636714914445283",
+        "nom": "Dumesnil Et Fils SARL",
+        "slug": "dumesnil-et-fils-sarl",
+        "telephone": "03 29 78 65 48",
+        "site_web": "https://www.dumesnil-et-fils.fr/",
+        "adresse": null,
+        "note": 4,
+        "avis": 4,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5618331724535274127",
+        "nom": "Rhovyl SAS - 55 TRONVILLE",
+        "slug": "rhovyl-sas-55-tronville",
+        "telephone": "03 29 76 61 00",
+        "site_web": null,
+        "adresse": "Chemin du Rougea, 55310 Tronville-en-Barrois",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "5737623613060347896",
+        "nom": "Tecniver Miroiterie Morel",
+        "slug": "tecniver-miroiterie-morel",
+        "telephone": "03 29 79 23 54",
+        "site_web": "http://www.menuiserie-tecniver.fr/",
+        "adresse": "3 Zone de la, Imp. de la Praye, 55000 Longeville-en-Barrois",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15788979111708143911",
+        "nom": "Charles Sebastien",
+        "slug": "charles-sebastien",
+        "telephone": "09 84 04 13 50",
+        "site_web": null,
+        "adresse": "19 Rue de Truson, 55500 Velaines",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12263812953322399215",
+        "nom": "DM Couverture",
+        "slug": "dm-couverture",
+        "telephone": "06 88 88 59 18",
+        "site_web": null,
+        "adresse": "Rte de Lisle, 55000 Ville-sur-Saulx",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ancerville": {
+    "artisans": [
+      {
+        "id": "10514713343551581577",
+        "nom": "CSS Énergie",
+        "slug": "css-energie",
+        "telephone": "03 29 79 83 82",
+        "site_web": "https://www.cssenergie.com/",
+        "adresse": "14 Rue de la Forêt, 55170 Ancerville",
+        "note": 5,
+        "avis": 18,
+        "type": "Service de maintenance de panneaux solaires"
+      },
+      {
+        "id": "3663968283214889623",
+        "nom": "Simco Sàrl",
+        "slug": "simco-sarl",
+        "telephone": "03 29 75 20 44",
+        "site_web": null,
+        "adresse": "Rue de la Forêt, 55170 Ancerville",
+        "note": 5,
+        "avis": 11,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "clermont-en-argonne": {
+    "artisans": [
+      {
+        "id": "155969027478846442",
+        "nom": "Menuiserie COLLIN",
+        "slug": "menuiserie-collin",
+        "telephone": "03 29 87 41 56",
+        "site_web": "http://www.menuiserie-collin.com/",
+        "adresse": "Le Bas de la Roulie, Rue de Varennes Z.A, 55120 Clermont-en-Argonne",
+        "note": 3.9,
+        "avis": 29,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bouligny": {
+    "artisans": [
+      {
+        "id": "8375750911514012789",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 87 51 20 08",
+        "site_web": "https://magasins.lapeyre.fr/grand-est/moselle/lapeyre-metz-56",
+        "adresse": "135 rue sur Plaine, 57280 Hauconcourt",
+        "note": 4.1,
+        "avis": 704,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "1912748405521114586",
+        "nom": "Stores de France - Lorraine",
+        "slug": "stores-de-france-lorraine",
+        "telephone": "07 43 27 00 01",
+        "site_web": "https://www.storesdefrance.com/agence/bouligny/",
+        "adresse": "1 Rue de la Chapelle, 55240 Bouligny",
+        "note": 5,
+        "avis": 6,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "988447400731034972",
+        "nom": "Yutz Toitures",
+        "slug": "yutz-toitures",
+        "telephone": "09 84 56 30 59",
+        "site_web": null,
+        "adresse": "168 Rue Cité de la Mourière, 55240 Bouligny",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16863315116417708999",
+        "nom": "SAS IPPOLITO LAURENT",
+        "slug": "sas-ippolito-laurent",
+        "telephone": "06 24 94 10 70",
+        "site_web": "https://sas-ippolito-laurent-charpente-couverture-zinguerie-52.webself.net/",
+        "adresse": "16 Rue Pierre Semard, 55240 Dommary-Baroncourt",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "belleville-sur-meuse": {
+    "artisans": [
+      {
+        "id": "9899463915456090645",
+        "nom": "Addenet Lamorlette",
+        "slug": "addenet-lamorlette",
+        "telephone": "03 29 84 76 76",
+        "site_web": "https://www.veranda-addenet-lamorlette.fr/",
+        "adresse": "Rue Alfred Sauvy, 55430 Belleville-sur-Meuse",
+        "note": 4.8,
+        "avis": 84,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3888421632663153279",
+        "nom": "Alliances Fermetures 55",
+        "slug": "alliances-fermetures-55",
+        "telephone": "03 29 85 17 32",
+        "site_web": "https://alliancesfermetures55.fr/",
+        "adresse": "ZA DU WAMEAU, 1 Rue Joseph Cugnot, 55430 Belleville-sur-Meuse",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bar-le-duc": {
+    "artisans": [
+      {
+        "id": "4716753014035667111",
+        "nom": "Concept Home et Veranda Bar Le Duc",
+        "slug": "concept-home-et-veranda-bar-le-duc",
+        "telephone": "06 48 96 90 43",
+        "site_web": "http://concepthomeverandas.fr/?utm_source=gmb",
+        "adresse": "8 Rue de Popey, 55000 Bar-le-Duc",
+        "note": 5,
+        "avis": 94,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      }
+    ]
+  }
+}

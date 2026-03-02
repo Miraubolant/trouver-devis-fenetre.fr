@@ -1,0 +1,3291 @@
+{
+  "la-chapelle-gonaguet": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "nontron": {
+    "artisans": [
+      {
+        "id": "2988068498009313608",
+        "nom": "ART ET FENETRES - Art et Habitat Nontron",
+        "slug": "art-et-fenetres-art-et-habitat-nontron",
+        "telephone": "05 53 04 26 74",
+        "site_web": "https://art-et-habitat.artetfenetres.com/",
+        "adresse": "49 Rte de Piégut, 24300 Nontron",
+        "note": 4.9,
+        "avis": 21,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "la-coquille": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chateau-l-eveque": {
+    "artisans": [
+      {
+        "id": "4767066559653687770",
+        "nom": "Château de Château-l'Évêque",
+        "slug": "chateau-de-chateau-leveque",
+        "telephone": "06 21 55 23 06",
+        "site_web": "http://chateau-de-chateauleveque.com/",
+        "adresse": "14 Rue du Château, 24460 Château-l'Évêque",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Château"
+      },
+      {
+        "id": "17485477939850452690",
+        "nom": "Château des Reynats",
+        "slug": "chateau-des-reynats",
+        "telephone": null,
+        "site_web": "https://www.chateau-hotel-perigord.com/",
+        "adresse": "15 Av. des Reynats, 24650 Chancelade",
+        "note": 4.1,
+        "avis": 1190,
+        "type": "Hôtel"
+      },
+      {
+        "id": "11468918147127205592",
+        "nom": "Hôtel - Petit déjeuner - Le Relax",
+        "slug": "hotel-petit-dejeuner-le-relax",
+        "telephone": "05 53 09 31 28",
+        "site_web": "https://www.hotel-le-relax.com/",
+        "adresse": "44 Rte de Lyon, 24750 Boulazac Isle Manoire",
+        "note": 4.2,
+        "avis": 370,
+        "type": "Hôtel"
+      },
+      {
+        "id": "290030376680164480",
+        "nom": "Château-l'Évêque",
+        "slug": "chateau-leveque",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24460 Château-l'Évêque",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "9920127539977697512",
+        "nom": "DIFF MAT-GROSFILLEX - Menuiseries Alu-Pvc-Bois-Fenêtres-Portes-Portails-Volets Roulants-Mobilier de jardin-PERIGUEUX-DORDOGNE",
+        "slug": "diff-mat-grosfillex-menuiseries-alu-pvc-bois-fenetres-portes-portails-volets-roulants-mobilier-de-jardin-perigueux-dordogne",
+        "telephone": "05 53 06 79 41",
+        "site_web": "https://www.menuiserie-diffmat-dordogne.fr/",
+        "adresse": "168 Av. Maréchal Juin, 24000 Périgueux",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "chancelade": {
+    "artisans": [
+      {
+        "id": "9463056366852624323",
+        "nom": "FD Rénovation",
+        "slug": "fd-renovation",
+        "telephone": "06 87 92 94 00",
+        "site_web": "https://www.fd-renovation.fr/",
+        "adresse": "93 Rte de Chercuzac, 24650 Chancelade",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "242519988154173555",
+        "nom": "MURPROTEC PÉRIGUEUX",
+        "slug": "murprotec-perigueux",
+        "telephone": "05 53 05 31 42",
+        "site_web": "https://www.murprotec.fr/agence/murprotec-perigueux?utm_source=gmb&utm_medium=annuaire&utm_campaign=dordogne",
+        "adresse": "9 Av. du Général de Gaulle, 24660 Coulounieix-Chamiers",
+        "note": 4.8,
+        "avis": 66,
+        "type": "Centre de diagnostic"
+      }
+    ]
+  },
+  "coulounieix-chamiers": {
+    "artisans": [
+      {
+        "id": "1010819721138188592",
+        "nom": "Menuiserie Raynal Jean-Luc",
+        "slug": "menuiserie-raynal-jean-luc",
+        "telephone": "05 53 04 20 75",
+        "site_web": "https://www.menuiserie-raynal.fr/contact",
+        "adresse": "42 Bd Jean Moulin, 24660 Coulounieix-Chamiers",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "62141728906770647",
+        "nom": "ART ET FENETRES - Art et Habitat Trélissac",
+        "slug": "art-et-fenetres-art-et-habitat-trelissac",
+        "telephone": "05 53 04 26 74",
+        "site_web": "https://art-et-habitat.artetfenetres.com/",
+        "adresse": "63 Av. Michel Grandou, 24750 Trélissac",
+        "note": 4.9,
+        "avis": 167,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3079409373997739727",
+        "nom": "Maison Plein Ciel JANNEAU MENUISIER CREATEUR",
+        "slug": "maison-plein-ciel-janneau-menuisier-createur",
+        "telephone": "05 53 54 87 49",
+        "site_web": "http://www.maisonpleinciel.fr/",
+        "adresse": "52 Av. du Maréchal de Lattre de Tassigny, 24660 Coulounieix-Chamiers",
+        "note": 4.7,
+        "avis": 163,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "6678013267480369640",
+        "nom": "Amis Perchés",
+        "slug": "amis-perches",
+        "telephone": "06 95 58 25 14",
+        "site_web": "http://www.amisperches.com/?utm_source=gmb",
+        "adresse": "810 La Rampinsolle, 24660 Coulounieix-Chamiers",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15035502171782077874",
+        "nom": "Menuiserie SALAVERT",
+        "slug": "menuiserie-salavert",
+        "telephone": "05 53 05 40 27",
+        "site_web": "https://www.menuiseriesalavert.fr/",
+        "adresse": "Rte de Bergerac, 24660 Coulounieix-Chamiers",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18037979696876028127",
+        "nom": "Compagnons Fenêtriers du Périgord - Solabaie Périgeux",
+        "slug": "compagnons-fenetriers-du-perigord-solabaie-perigeux",
+        "telephone": "05 53 05 57 14",
+        "site_web": "https://www.compagnons-fenetriers.fr/",
+        "adresse": "77 Cr Saint-Georges, 24000 Périgueux",
+        "note": 4.3,
+        "avis": 44,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11106205211399697530",
+        "nom": "A+Fenêtres",
+        "slug": "afenetres",
+        "telephone": "09 72 42 06 53",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "1373146929651595806",
+        "nom": "TK Toiture : Couvreur Périgueux Dordogne 24",
+        "slug": "tk-toiture-couvreur-perigueux-dordogne-24",
+        "telephone": "06 41 24 20 22",
+        "site_web": "https://tktoiture.fr/",
+        "adresse": "7 Rue de la Bride, 24000 Périgueux",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "coursac": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cours-de-pile": {
+    "artisans": [
+      {
+        "id": "18286888977171129491",
+        "nom": "DORDOGNE MIROITERIE FROMONT ALAIN - CREYSSE BERGERAC LALINDE",
+        "slug": "dordogne-miroiterie-fromont-alain-creysse-bergerac-lalinde",
+        "telephone": "05 53 27 25 27",
+        "site_web": "https://www.dordogne-miroiterie-bergerac.com/",
+        "adresse": "12 Rte de la Nauve, 24100 Creysse",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "2625814027824054972",
+        "nom": "Univers B",
+        "slug": "univers-b",
+        "telephone": "05 53 61 34 31",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/univers-b",
+        "adresse": "7 Rue Gustave Eiffel, 24100 Bergerac",
+        "note": 4.7,
+        "avis": 102,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12641734434544192969",
+        "nom": "Ent Steinbach Fils",
+        "slug": "ent-steinbach-fils",
+        "telephone": "07 68 17 69 93",
+        "site_web": "https://steinbach-couverture.fr/",
+        "adresse": "24100 Bergerac",
+        "note": 5,
+        "avis": 51,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17806127428379077941",
+        "nom": "L’ART DU TOIT Couvreur Bergerac",
+        "slug": "lart-du-toit-couvreur-bergerac",
+        "telephone": "07 77 83 27 31",
+        "site_web": "https://l-art-du-toit-couvreur-bergerac.fr/",
+        "adresse": "1423 Rte de Bergerac, 24520 Cours-de-Pile",
+        "note": 4.8,
+        "avis": 90,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12556276931300989068",
+        "nom": "Viale Jean-Luc",
+        "slug": "viale-jean-luc",
+        "telephone": "05 53 24 27 79",
+        "site_web": null,
+        "adresse": "52 Rte de Bazet, 24520 Cours-de-Pile",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "2045491982454050111",
+        "nom": "Batixel",
+        "slug": "batixel",
+        "telephone": "05 53 57 36 25",
+        "site_web": "https://batixel.fr/",
+        "adresse": "65 Rte de Bordeaux, 24100 Saint-Laurent-des-Vignes",
+        "note": 4.1,
+        "avis": 126,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12641734434544192969",
+        "nom": "Ent Steinbach Fils",
+        "slug": "ent-steinbach-fils",
+        "telephone": "07 68 17 69 93",
+        "site_web": "https://steinbach-couverture.fr/",
+        "adresse": "24100 Bergerac",
+        "note": 5,
+        "avis": 51,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cubjac-auvezere-val-d-ans": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "coux-et-bigaroque-mouzens": {
+    "artisans": [
+      {
+        "id": "11195884653794567060",
+        "nom": "Faget Toitures 24",
+        "slug": "faget-toitures-24",
+        "telephone": "06 86 43 38 05",
+        "site_web": "https://www.facebook.com/Faget-Toitures-24-125425168057025",
+        "adresse": "Langlade, 24220 Marnac",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8232507023999787695",
+        "nom": "Riviere Guillaume",
+        "slug": "riviere-guillaume",
+        "telephone": "05 53 61 09 63",
+        "site_web": "https://maconnerie-24-riviere.fr/",
+        "adresse": "Les Bories, 24220 Coux et Bigaroque-Mouzens",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Maçon"
+      },
+      {
+        "id": "5164360267486710764",
+        "nom": "RS Couverture Zinguerie",
+        "slug": "rs-couverture-zinguerie",
+        "telephone": "07 69 91 95 76",
+        "site_web": "https://www.rs-couverture-renovation.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15902861110572527276",
+        "nom": "La Douce Dordogne - Chambres d'Hôtes - Luxe Bed & Breakfast",
+        "slug": "la-douce-dordogne-chambres-dhotes-luxe-bed-breakfast",
+        "telephone": "07 85 22 17 65",
+        "site_web": "http://www.ladoucedordogne.com/",
+        "adresse": "Le, 3563 Rte de Bigaroque, 24220 Coux et Bigaroque-Mouzens",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "12567107736591261062",
+        "nom": "NS Multiservice",
+        "slug": "ns-multiservice",
+        "telephone": "06 02 71 29 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12898696854279610823",
+        "nom": "Dal Santo Roland",
+        "slug": "dal-santo-roland",
+        "telephone": "05 53 31 69 93",
+        "site_web": null,
+        "adresse": "24220 Coux et Bigaroque-Mouzens",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14265200971095734253",
+        "nom": "EI PAGE PAUL",
+        "slug": "ei-page-paul",
+        "telephone": "07 89 40 04 80",
+        "site_web": "https://eipagepaul.fr/",
+        "adresse": "3394 Rte de Bigaroque, 24220 Coux et Bigaroque-Mouzens",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8707164088957366627",
+        "nom": "DECAPTOU",
+        "slug": "decaptou",
+        "telephone": "06 30 70 56 30",
+        "site_web": "https://www.decaptou-perigord.com/",
+        "adresse": "Saint Georges, 24220 Coux et Bigaroque-Mouzens",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de sablage"
+      }
+    ]
+  },
+  "creysse": {
+    "artisans": [
+      {
+        "id": "2390856174162423343",
+        "nom": "Art et Fenêtres - Vergnes",
+        "slug": "art-et-fenetres-vergnes",
+        "telephone": "05 53 63 24 89",
+        "site_web": "https://vergnes.artetfenetres.com/",
+        "adresse": "ZA, 24100 Creysse",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "6846171189696297683",
+        "nom": "Ets Pierre Vergnes et Fils - Bergerac",
+        "slug": "ets-pierre-vergnes-et-fils-bergerac",
+        "telephone": "05 53 63 24 89",
+        "site_web": "http://www.vergnesmateriaux.com/",
+        "adresse": "18 Rte de la Nauve, 24100 Creysse",
+        "note": 4.6,
+        "avis": 21,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "4725062231068077725",
+        "nom": "MODUL MENUISERIE",
+        "slug": "modul-menuiserie",
+        "telephone": "06 31 98 78 98",
+        "site_web": "https://www.modulmenuiserie.fr/",
+        "adresse": "13 Rte du Vieux Troche, 24100 Creysse",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "excideuil": {
+    "artisans": [
+      {
+        "id": "920609617750657079",
+        "nom": "Les Grandes Fenêtres Villa Les Roses",
+        "slug": "les-grandes-fenetres-villa-les-roses",
+        "telephone": "05 53 62 08 20",
+        "site_web": "https://www.lesgrandesfenetres.fr/",
+        "adresse": "8 Rue Jean Chavoix, 24160 Excideuil",
+        "note": 5,
+        "avis": 2,
+        "type": "Centre culturel"
+      }
+    ]
+  },
+  "eymet": {
+    "artisans": [
+      {
+        "id": "614985326094875322",
+        "nom": "APM COMTE MAURIN- Terres de fenêtre",
+        "slug": "apm-comte-maurin-terres-de-fenetre",
+        "telephone": "05 53 61 94 89",
+        "site_web": "https://www.apm24.fr/",
+        "adresse": "15 Rue du Temple, 24500 Eymet",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-douze": {
+    "artisans": [
+      {
+        "id": "15920734716296730062",
+        "nom": "Menuiserie Alu 24",
+        "slug": "menuiserie-alu-24",
+        "telephone": "05 53 35 45 50",
+        "site_web": "https://www.menuiserie-alu24.fr/",
+        "adresse": "975 Rue Jules Supervielle, 24330 Boulazac Isle Manoire",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "le-fleix": {
+    "artisans": [
+      {
+        "id": "5322583340963294615",
+        "nom": "Périgord Construction Bois",
+        "slug": "perigord-construction-bois",
+        "telephone": "06 82 40 22 23",
+        "site_web": "https://perigordconstructionbois.com/",
+        "adresse": "230 rue de la paix, 24130 Le Fleix",
+        "note": 5,
+        "avis": 7,
+        "type": "Constructeur de maisons en bois"
+      }
+    ]
+  },
+  "la-force": {
+    "artisans": [
+      {
+        "id": "16772591886413665406",
+        "nom": "Lapeyre-Cuisine-Menuiserie-Salle de bain-Portail- Fenêtres-Trélissac-Périgueux-Boulazac",
+        "slug": "lapeyre-cuisine-menuiserie-salle-de-bain-portail-fenetres-trelissac-perigueux-boulazac",
+        "telephone": "05 53 03 38 20",
+        "site_web": "https://magasins.lapeyre.fr/nouvelle-aquitaine/dordogne/lapeyre-perigueux-57",
+        "adresse": "17 Av. de l'Automobile, 24750 Trélissac",
+        "note": 4,
+        "avis": 321,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6273536115625568753",
+        "nom": "PREUX GREGORY",
+        "slug": "preux-gregory",
+        "telephone": "05 53 31 27 79",
+        "site_web": "https://www.yp-couverture-pg-menuiserie.fr/",
+        "adresse": "Le Penot, Rte de Mareuil, 24370 Saint-Julien-de-Lampon",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6954462940414722437",
+        "nom": "LV Menuiserie",
+        "slug": "lv-menuiserie",
+        "telephone": "05 53 04 44 45",
+        "site_web": "https://www.lvmenuiserie.fr/",
+        "adresse": "4, IMPASSE DES CHAUMES, Rte de Campagne, 24260 Le Bugue",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "les-eyzies": {
+    "artisans": [
+      {
+        "id": "1735833935973584484",
+        "nom": "Bois et Bâtiments",
+        "slug": "bois-et-batiments",
+        "telephone": "06 74 08 70 26",
+        "site_web": "https://couverture-dordogne.com/",
+        "adresse": "lieu-dit les guignes, 24620",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lamonzie-saint-martin": {
+    "artisans": [
+      {
+        "id": "6447401967013326872",
+        "nom": "Miroiterie David Roques-Menuiserie Bergerac-Menuiserie alu pvc-Serrurier-Fenêtres-Volets roulants-dépannage vitrerie-Store",
+        "slug": "miroiterie-david-roques-menuiserie-bergerac-menuiserie-alu-pvc-serrurier-fenetres-volets-roulants-depannage-vitrerie-store",
+        "telephone": "05 53 58 33 87",
+        "site_web": "https://www.miroiterie-roques.fr/",
+        "adresse": "12 Route des Chardonnerets, 24100 Saint-Laurent-des-Vignes",
+        "note": 3.8,
+        "avis": 58,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9122259051626425124",
+        "nom": "Secure toiture",
+        "slug": "secure-toiture",
+        "telephone": "07 80 64 32 87",
+        "site_web": null,
+        "adresse": "7 Chem. du Nardou, 24680 Lamonzie-Saint-Martin",
+        "note": 5,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8594175220543119193",
+        "nom": "TR Couverture 24",
+        "slug": "tr-couverture-24",
+        "telephone": "06 52 15 15 64",
+        "site_web": "https://www.tr-couverture-24.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "9875344406963760197",
+        "nom": "Thomas Toit",
+        "slug": "thomas-toit",
+        "telephone": "06 07 48 23 76",
+        "site_web": "https://thomastoit-couvreur-bergerac.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gardonne": {
+    "artisans": [
+      {
+        "id": "8667022212280754973",
+        "nom": "Prestige Peinture",
+        "slug": "prestige-peinture",
+        "telephone": "06 20 29 40 61",
+        "site_web": "http://prestige-peinture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "jumilhac-le-grand": {
+    "artisans": [
+      {
+        "id": "6079085558568548967",
+        "nom": "Château de Jumilhac et ses Jardins",
+        "slug": "chateau-de-jumilhac-et-ses-jardins",
+        "telephone": "06 16 22 97 69",
+        "site_web": "http://chateaudejumilhac.com/fr/horaires-de-visites/",
+        "adresse": "Pl. du Château, 24630 Jumilhac-le-Grand",
+        "note": 4.4,
+        "avis": 1882,
+        "type": "Château"
+      }
+    ]
+  },
+  "lamothe-montravel": {
+    "artisans": [
+      {
+        "id": "2796131524323203032",
+        "nom": "Volets Verts",
+        "slug": "volets-verts",
+        "telephone": "05 53 61 09 33",
+        "site_web": null,
+        "adresse": "17 Route De Montaigne, 24230 Lamothe-Montravel",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Appartement avec services"
+      }
+    ]
+  },
+  "lalinde": {
+    "artisans": [
+      {
+        "id": "6375396488193939118",
+        "nom": "Menuiserie Bretou",
+        "slug": "menuiserie-bretou",
+        "telephone": "05 53 61 16 55",
+        "site_web": "https://menuiserie-bretou.fr/",
+        "adresse": "35 impasse du Noyer Zone Artisanale, 24150 Lalinde",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4765709293338913593",
+        "nom": "Ligny Bruno SOLABAIE Lalinde",
+        "slug": "ligny-bruno-solabaie-lalinde",
+        "telephone": "05 53 74 19 38",
+        "site_web": "https://www.solabaie.fr/entreprise-menuiserie/dordogne/lalinde/ligny-bruno-menuiserie-334/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+        "adresse": "les galandoux, 24150 Lalinde",
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "eyraud-crempse-maurens": {
+    "artisans": [
+      {
+        "id": "328188690562022532",
+        "nom": "Eyraud-Crempse-Maurens",
+        "slug": "eyraud-crempse-maurens",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Eyraud-Crempse-Maurens",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "lembras": {
+    "artisans": [
+      {
+        "id": "13747272237820750130",
+        "nom": "Lembras",
+        "slug": "lembras",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Lembras",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "le-lardin-saint-lazare": {
+    "artisans": [
+      {
+        "id": "214806154577917037",
+        "nom": "Latournerie Jean-François",
+        "slug": "latournerie-jean-francois",
+        "telephone": "06 28 41 00 30",
+        "site_web": null,
+        "adresse": "15 Village, 24570 Le Lardin-Saint-Lazare",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "14845022893442312494",
+        "nom": "Menuiserie Lapouge",
+        "slug": "menuiserie-lapouge",
+        "telephone": "05 53 51 39 25",
+        "site_web": "http://menuiserie-lapouge.com/",
+        "adresse": "18 Av. du 8 Mai 1945, 24570 Le Lardin-Saint-Lazare",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16136785369289066361",
+        "nom": "Pierre Agencement Menuiserie PAM",
+        "slug": "pierre-agencement-menuiserie-pam",
+        "telephone": "06 64 89 67 62",
+        "site_web": "https://pam-menuiserie.fr/",
+        "adresse": "Chem. du Peu, 24570 Le Lardin-Saint-Lazare",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "menesplet": {
+    "artisans": [
+      {
+        "id": "6564645841399434173",
+        "nom": "MG SERVICE 24 - Couvreur Zingueur et nettoyage toiture",
+        "slug": "mg-service-24-couvreur-zingueur-et-nettoyage-toiture",
+        "telephone": "06 16 37 56 72",
+        "site_web": "https://mgservice24.fr/",
+        "adresse": "8 Imp. des Lantanas, 24700 Ménesplet",
+        "note": 5,
+        "avis": 66,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15825800563534156735",
+        "nom": "SAS MENUISERIES MENESPLESIENNES",
+        "slug": "sas-menuiseries-menesplesiennes",
+        "telephone": "05 53 21 28 20",
+        "site_web": "https://www.menuiseriesmenesplesiennes.fr/",
+        "adresse": "2 rue du Grand Chemin, 24700 Ménesplet",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1562623653106449854",
+        "nom": "L'Atelier Du Perigord",
+        "slug": "latelier-du-perigord",
+        "telephone": "06 75 47 05 12",
+        "site_web": null,
+        "adresse": "67 Rue du Stade, 24700 Ménesplet",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17285010621037110568",
+        "nom": "Mvp peinture 24 peintre en bâtiment",
+        "slug": "mvp-peinture-24-peintre-en-batiment",
+        "telephone": "06 70 38 77 38",
+        "site_web": "https://gratuit-3820913.webador.fr/?_gl=1*193lv7u*_ga*MTkxMzQyNTgwNy4xNjk1NDU4NDc0*_ga_E6PZPGE4QM*MTY5NTQ1ODQ3NC4xLjEuMTY5NTQ2MDE0NC42MC4wLjA.",
+        "adresse": "6 Rue du Lac, 24700 Ménesplet",
+        "note": 5,
+        "avis": 7,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "marsac-sur-l-isle": {
+    "artisans": [
+      {
+        "id": "1398332300222163108",
+        "nom": "Concept Pose",
+        "slug": "concept-pose",
+        "telephone": "06 49 01 61 81",
+        "site_web": "https://conceptpose.com/",
+        "adresse": "Rue du Vélodrome, 24000 Périgueux",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10279739901020475565",
+        "nom": "Technitoit Périgueux",
+        "slug": "technitoit-perigueux",
+        "telephone": "05 18 23 20 26",
+        "site_web": "https://www.technitoit.com/agence/perigueux",
+        "adresse": "11 Rue des Commerces, 24430 Marsac-sur-l'Isle",
+        "note": 4.3,
+        "avis": 36,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13589418530150313405",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "05 53 03 48 83",
+        "site_web": "https://www.gustaverideau.com/agences/perigueux-marsac-sur-lisle/?utm_campaign=marsacsurlisle&utm_medium=GMB&utm_source=google",
+        "adresse": "24 Av. Louis Suder, 24430 Marsac-sur-l'Isle",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8480621675929393688",
+        "nom": "Ouvertures Périgourdines",
+        "slug": "ouvertures-perigourdines",
+        "telephone": "05 53 13 58 62",
+        "site_web": "https://www.ouverturesperigourdines.fr/",
+        "adresse": "1 All. du Port, 24000 Périgueux",
+        "note": 5,
+        "avis": 25,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18178689593936042681",
+        "nom": "Batixel",
+        "slug": "batixel",
+        "telephone": "05 53 57 31 59",
+        "site_web": "http://batixel.fr/",
+        "adresse": "Rue de Florence, 24750 Boulazac Isle Manoire",
+        "note": 4.6,
+        "avis": 53,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17307057833551798790",
+        "nom": "SARL JULIEN",
+        "slug": "sarl-julien",
+        "telephone": "05 53 04 73 82",
+        "site_web": null,
+        "adresse": "5 Bd de l'Industrie, 24430 Marsac-sur-l'Isle",
+        "note": 4.9,
+        "avis": 66,
+        "type": "Serrurier"
+      },
+      {
+        "id": "3885348977240973169",
+        "nom": "Mister Menuiserie Marsac-sur-l'Isle (Périgueux)",
+        "slug": "mister-menuiserie-marsac-sur-lisle-perigueux",
+        "telephone": "05 53 04 70 61",
+        "site_web": "https://www.mistermenuiserie.com/shop/mistermenuiserie-perigueux.html?utm_source=GMB&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "3 Av. du Parc, 24430 Marsac-sur-l'Isle",
+        "note": 4.1,
+        "avis": 100,
+        "type": "Magasin"
+      }
+    ]
+  },
+  "mareuil-en-perigord": {
+    "artisans": [
+      {
+        "id": "6353266812085511668",
+        "nom": "SARL MARTIN",
+        "slug": "sarl-martin",
+        "telephone": "05 53 60 92 77",
+        "site_web": "http://sarlmartin-vieuxmareuil.site-solocal.com/",
+        "adresse": "11 bis Rue des Deux Lavoirs, 24340 Mareuil en Périgord",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "montcaret": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "mensignac": {
+    "artisans": [
+      {
+        "id": "9920127539977697512",
+        "nom": "DIFF MAT-GROSFILLEX - Menuiseries Alu-Pvc-Bois-Fenêtres-Portes-Portails-Volets Roulants-Mobilier de jardin-PERIGUEUX-DORDOGNE",
+        "slug": "diff-mat-grosfillex-menuiseries-alu-pvc-bois-fenetres-portes-portails-volets-roulants-mobilier-de-jardin-perigueux-dordogne",
+        "telephone": "05 53 06 79 41",
+        "site_web": "https://www.menuiserie-diffmat-dordogne.fr/",
+        "adresse": "168 Av. Maréchal Juin, 24000 Périgueux",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "montignac-lascaux": {
+    "artisans": [
+      {
+        "id": "3423076832961677687",
+        "nom": "2M Diffusion - Maison du Menuisier",
+        "slug": "2m-diffusion-maison-du-menuisier",
+        "telephone": "05 53 51 42 42",
+        "site_web": "https://montignac-lascaux.maisondumenuisier.fr/",
+        "adresse": "22 Rue de Juillet, 24290 Montignac-Lascaux",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12602842299044776038",
+        "nom": "Menuiserie Delort - Agencement MDA",
+        "slug": "menuiserie-delort-agencement-mda",
+        "telephone": "05 53 50 51 44",
+        "site_web": "http://www.menuiserie-mda.fr/",
+        "adresse": "8 Av. de la Gare, 24290 Montignac-Lascaux",
+        "note": 5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11241575238913278444",
+        "nom": "Menuiserie Laborde",
+        "slug": "menuiserie-laborde",
+        "telephone": "05 53 51 82 13",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/menuiserie-laborde",
+        "adresse": "605 Rte de Sarlat, 24290 Aubas",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7136207162097034282",
+        "nom": "menuiseries-seguy",
+        "slug": "menuiseries-seguy",
+        "telephone": "05 53 51 71 71",
+        "site_web": "http://menuiseries-seguy.com/",
+        "adresse": "496 Condat Road, 24290 Montignac-Lascaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de portes"
+      },
+      {
+        "id": "16297450338923390182",
+        "nom": "Delpit Gerald",
+        "slug": "delpit-gerald",
+        "telephone": "06 12 95 29 83",
+        "site_web": "http://www.dordogne-menuiserie.com/",
+        "adresse": "24290 Auriac-du-Périgord",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8388316169123768912",
+        "nom": "Delpit Gerald",
+        "slug": "delpit-gerald",
+        "telephone": "06 12 95 29 83",
+        "site_web": "http://www.facebook.com/geralddelpitmenuiserie",
+        "adresse": "Lieu-dit Messoul Le Bors, 24290 Montignac-Lascaux",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11241575238913278444",
+        "nom": "Menuiserie Laborde",
+        "slug": "menuiserie-laborde",
+        "telephone": "05 53 51 82 13",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/menuiserie-laborde",
+        "adresse": "605 Rte de Sarlat, 24290 Aubas",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1321166202897240393",
+        "nom": "Menuiseries Seguy",
+        "slug": "menuiseries-seguy",
+        "telephone": "05 53 51 71 71",
+        "site_web": "http://www.menuiseries-seguy.fr/",
+        "adresse": "ZA de Franqueville, 24290 Montignac-Lascaux",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "montrem": {
+    "artisans": [
+      {
+        "id": "16633974073919143361",
+        "nom": "Montrem",
+        "slug": "montrem",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24110 Montrem",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "montpon-menesterol": {
+    "artisans": [
+      {
+        "id": "8250263597031350024",
+        "nom": "SARL green'home technology",
+        "slug": "sarl-greenhome-technology",
+        "telephone": "06 95 45 92 70",
+        "site_web": null,
+        "adresse": "20 Rue Thiers, 24700 Montpon-Ménestérol",
+        "note": 5,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15451163755061721564",
+        "nom": "DIFAB 24 - Terres de Fenêtre",
+        "slug": "difab-24-terres-de-fenetre",
+        "telephone": "05 53 81 24 46",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/difab-24-terres-de-fenetre?utm_source=gmb",
+        "adresse": "1 Rue de la Liberté, 24400 Saint-Médard-de-Mussidan",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin"
+      },
+      {
+        "id": "9788081874421975371",
+        "nom": "JMD Services",
+        "slug": "jmd-services",
+        "telephone": "09 70 35 29 52",
+        "site_web": "http://j-m-dservices.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "31 Rte du Champ de Tir, 24700 Le Pizou",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15666620746079442583",
+        "nom": "Atelier Couvreur Montpon-Menesterol Demoussage Toiture, Renovation Toit, Isolation Comble, Etanchéité",
+        "slug": "atelier-couvreur-montpon-menesterol-demoussage-toiture-renovation-toit-isolation-comble-etancheite",
+        "telephone": "05 64 45 00 77",
+        "site_web": "https://atelier-montpon-menesterol-toiture.ovh/",
+        "adresse": "1 Imp. Winston Churchill, 24700 Montpon-Ménestérol",
+        "note": 5,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9082585507684273865",
+        "nom": "Hiel Couvreur zingueur",
+        "slug": "hiel-couvreur-zingueur",
+        "telephone": "06 52 09 83 46",
+        "site_web": "https://hiel-couvreur.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7750278116468879955",
+        "nom": "Technifloat",
+        "slug": "technifloat",
+        "telephone": "05 53 82 87 50",
+        "site_web": null,
+        "adresse": "24700 Montpon-Ménestérol",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "champcevinel": {
+    "artisans": [
+      {
+        "id": "16409744778624384322",
+        "nom": "AVATIX",
+        "slug": "avatix",
+        "telephone": "03 70 88 94 97",
+        "site_web": "https://avatix.fr/",
+        "adresse": "22 All. des Sarthes, 24750 Champcevinel",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9283323254815900818",
+        "nom": "L'Atelier Ombre & Lumière - Pergolas Bioclimatiques",
+        "slug": "latelier-ombre-lumiere-pergolas-bioclimatiques",
+        "telephone": "05 53 13 50 10",
+        "site_web": "https://www.atelierombrelumiere.fr/",
+        "adresse": "Rue du Vieux Puits, 24750 Champcevinel",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "1749442959147543069",
+        "nom": "Périgord Bois",
+        "slug": "perigord-bois",
+        "telephone": "05 53 04 68 22",
+        "site_web": "http://www.perigordbois.fr/",
+        "adresse": "60 Rue de la Paix, 24750 Champcevinel",
+        "note": 4,
+        "avis": 46,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "18092490500172783721",
+        "nom": "La Maison Périgord",
+        "slug": "la-maison-perigord",
+        "telephone": "05 53 04 68 22",
+        "site_web": "https://lamaisonperigord.fr/",
+        "adresse": "60 Rue de la Paix, 24750 Champcevinel",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "neuvic": {
+    "artisans": [
+      {
+        "id": "5995126956068294260",
+        "nom": "Jeremy ALARIC Menuiserie Escalier Ferronnerie",
+        "slug": "jeremy-alaric-menuiserie-escalier-ferronnerie",
+        "telephone": "06 43 74 78 67",
+        "site_web": "https://alaricjeremy.wixsite.com/menuiserie",
+        "adresse": "25 Rue Jacques Prévert, 24190 Neuvic sur l'isle",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8948063870172172062",
+        "nom": "Clauzel Zinguerie",
+        "slug": "clauzel-zinguerie",
+        "telephone": "06 83 30 49 88",
+        "site_web": null,
+        "adresse": "Rue du Majoral Fournier, 24190 Neuvic",
+        "note": 1,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "15451163755061721564",
+        "nom": "DIFAB 24 - Terres de Fenêtre",
+        "slug": "difab-24-terres-de-fenetre",
+        "telephone": "05 53 81 24 46",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/difab-24-terres-de-fenetre?utm_source=gmb",
+        "adresse": "1 Rue de la Liberté, 24400 Saint-Médard-de-Mussidan",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Magasin"
+      },
+      {
+        "id": "18359067671831543406",
+        "nom": "Menuiserie Gaillard Thierry",
+        "slug": "menuiserie-gaillard-thierry",
+        "telephone": "05 53 81 52 24",
+        "site_web": null,
+        "adresse": "18 Av. Bordeaux, 24190 Neuvic",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5766881818014753897",
+        "nom": "Ferreira Sarl",
+        "slug": "ferreira-sarl",
+        "telephone": "05 53 81 89 35",
+        "site_web": null,
+        "adresse": "24190 Neuvic",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "6803327136923617963",
+        "nom": "Primoc bâtiment 24",
+        "slug": "primoc-batiment-24",
+        "telephone": "06 05 58 83 76",
+        "site_web": "http://www.primocbatiment24.fr/",
+        "adresse": "60 Av. Bordeaux, 24190 Neuvic sur L'Isle",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "18129107889517192981",
+        "nom": "SARL POTHIER",
+        "slug": "sarl-pothier",
+        "telephone": "06 73 91 50 04",
+        "site_web": null,
+        "adresse": "Rue du Tuquet, 24190 Neuvic",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "bergerac": {
+    "artisans": [
+      {
+        "id": "3432524744490103782",
+        "nom": "CASÉO Bergerac",
+        "slug": "caseo-bergerac",
+        "telephone": "05 53 27 25 16",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-bergerac-bergerac-116",
+        "adresse": "Le Terme Nord, Rte d'Agen, 24100 Bergerac",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12578351704569151473",
+        "nom": "TRYBA Bergerac",
+        "slug": "tryba-bergerac",
+        "telephone": "05 18 23 12 85",
+        "site_web": "https://www.tryba.com/espace-conseil/24/tryba-bergerac/?utm_campaign=Tryba_Bergerac&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "26 Boul. Charles Garaud, 24100 Bergerac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14606199042134698385",
+        "nom": "Portes et Volets PREVOT",
+        "slug": "portes-et-volets-prevot",
+        "telephone": "05 53 57 22 19",
+        "site_web": "https://portesetvoletsprevot.fr/",
+        "adresse": "Rte de Bordeaux, 24100 Bergerac",
+        "note": 3.8,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15427414562218995288",
+        "nom": "Renov Toitures 24",
+        "slug": "renov-toitures-24",
+        "telephone": "06 86 91 10 89",
+        "site_web": "https://www.renovtoiture-24.fr/",
+        "adresse": "4 Chem. du Barrage O, 24100 Bergerac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3207433354024938132",
+        "nom": "Baies & Bastide",
+        "slug": "baies-bastide",
+        "telephone": "05 53 23 98 51",
+        "site_web": "http://baies-bastide.com/",
+        "adresse": "Rte de Bordeaux, 24100 Bergerac",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2625814027824054972",
+        "nom": "Univers B",
+        "slug": "univers-b",
+        "telephone": "05 53 61 34 31",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/univers-b",
+        "adresse": "7 Rue Gustave Eiffel, 24100 Bergerac",
+        "note": 4.7,
+        "avis": 102,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14096830855915228076",
+        "nom": "Futur Bâtiment Couvreur Bergerac",
+        "slug": "futur-batiment-couvreur-bergerac",
+        "telephone": "06 04 46 03 10",
+        "site_web": "https://futur-batiment-24.fr/",
+        "adresse": "Chem. de la Graulet, 24100 Bergerac",
+        "note": 4.9,
+        "avis": 74,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14443417470467261135",
+        "nom": "Passion d'Autrefois",
+        "slug": "passion-dautrefois",
+        "telephone": "05 53 24 07 33",
+        "site_web": "http://www.passiondautrefois.fr/",
+        "adresse": "50 Rte de Bordeaux, 24100 Saint-Laurent-des-Vignes",
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17251615650771135501",
+        "nom": "DECOMAT - Bergerac",
+        "slug": "decomat-bergerac",
+        "telephone": "05 53 27 25 16",
+        "site_web": "https://www.deco-mat.fr/",
+        "adresse": "Le terme Nord, 24100 Bergerac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "16910755290783324402",
+        "nom": "Véranda et pergola à Bergerac en Dordogne",
+        "slug": "veranda-et-pergola-a-bergerac-en-dordogne",
+        "telephone": "05 53 73 01 43",
+        "site_web": "https://www.veranda-perigord.fr/contact",
+        "adresse": "26 Boul. Charles Garaud, 24100 Bergerac",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "mouleydier": {
+    "artisans": [
+      {
+        "id": "9920127539977697512",
+        "nom": "DIFF MAT-GROSFILLEX - Menuiseries Alu-Pvc-Bois-Fenêtres-Portes-Portails-Volets Roulants-Mobilier de jardin-PERIGUEUX-DORDOGNE",
+        "slug": "diff-mat-grosfillex-menuiseries-alu-pvc-bois-fenetres-portes-portails-volets-roulants-mobilier-de-jardin-perigueux-dordogne",
+        "telephone": "05 53 06 79 41",
+        "site_web": "https://www.menuiserie-diffmat-dordogne.fr/",
+        "adresse": "168 Av. Maréchal Juin, 24000 Périgueux",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "mussidan": {
+    "artisans": [
+      {
+        "id": "5494963680041127853",
+        "nom": "ART ET FENETRES - Art et Habitat Mussidan",
+        "slug": "art-et-fenetres-art-et-habitat-mussidan",
+        "telephone": "05 53 04 26 74",
+        "site_web": "http://art-et-habitat.artetfenetres.com/",
+        "adresse": "40 Rue de la Libération, 24400 Mussidan",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "18155634977439572517",
+        "nom": "1 RUE DE LA LIBERTE",
+        "slug": "1-rue-de-la-liberte",
+        "telephone": "05 53 81 24 46",
+        "site_web": null,
+        "adresse": "4 Rue de la Liberté, 24400 Saint-Médard-de-Mussidan",
+        "note": 4,
+        "avis": 1,
+        "type": "Magasin"
+      }
+    ]
+  },
+  "pays-de-belves": {
+    "artisans": [
+      {
+        "id": "305308004244267707",
+        "nom": "Ventelou Pascal",
+        "slug": "ventelou-pascal",
+        "telephone": "05 53 29 35 91",
+        "site_web": null,
+        "adresse": "24170 Orliac",
+        "note": 4,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "3811415549437606271",
+        "nom": "Design’Menuiseries",
+        "slug": "designmenuiseries",
+        "telephone": "05 53 04 80 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/designmenuiseries",
+        "adresse": "34 Av. de la Libération, 24260 Le Bugue",
+        "note": 4.7,
+        "avis": 30,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "carsac-aillac": {
+    "artisans": [
+      {
+        "id": "13414067598614924448",
+        "nom": "Carsac-Aillac",
+        "slug": "carsac-aillac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24200 Carsac-Aillac",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "le-buisson-de-cadouin": {
+    "artisans": [
+      {
+        "id": "10292142545158655966",
+        "nom": "Cloître de Cadouin",
+        "slug": "cloitre-de-cadouin",
+        "telephone": "05 53 63 36 28",
+        "site_web": "https://cloitre-cadouin.fr/fr/",
+        "adresse": "Pl. de l'Abbaye, 24480 Le Buisson-de-Cadouin",
+        "note": 4.3,
+        "avis": 2435,
+        "type": "Site historique"
+      },
+      {
+        "id": "2890487455916600841",
+        "nom": "MENUISERIE ARCHAMBAUD",
+        "slug": "menuiserie-archambaud",
+        "telephone": "05 53 22 01 45",
+        "site_web": null,
+        "adresse": "Zone Artisanale La Séguinie, 24480 Le Buisson-de-Cadouin",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12183977046279773888",
+        "nom": "Entreprise Guy",
+        "slug": "entreprise-guy",
+        "telephone": "05 53 22 02 77",
+        "site_web": null,
+        "adresse": "Lieu-dit La Seguinie, 24480 Le Buisson-de-Cadouin",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Maçon"
+      },
+      {
+        "id": "3064101995606818818",
+        "nom": "Poilleux SARL",
+        "slug": "poilleux-sarl",
+        "telephone": "05 53 22 02 22",
+        "site_web": "http://www.poilleux-fioul-dordogne.fr/",
+        "adresse": "1 Pl. Mianne, 24480 Le Buisson-de-Cadouin",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Station-service"
+      }
+    ]
+  },
+  "brantome-en-perigord": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "antonne-et-trigonant": {
+    "artisans": [
+      {
+        "id": "15146892181907639562",
+        "nom": "AMM 24",
+        "slug": "amm-24",
+        "telephone": "06 38 31 91 45",
+        "site_web": null,
+        "adresse": "17 Rte de Limoges, 24420 Antonne-et-Trigonant",
+        "note": 5,
+        "avis": 19,
+        "type": "Siège social"
+      },
+      {
+        "id": "17682488963034139067",
+        "nom": "Atelier Declics",
+        "slug": "atelier-declics",
+        "telephone": "05 53 08 98 53",
+        "site_web": "https://www.facebook.com/profile.php?id=61566400621344",
+        "adresse": "11ter Rue du Jolibois, 24420 Antonne-et-Trigonant",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans la décoration d'intérieur"
+      }
+    ]
+  },
+  "boulazac-isle-manoire": {
+    "artisans": [
+      {
+        "id": "15785377018100788105",
+        "nom": "Label Fenetre",
+        "slug": "label-fenetre",
+        "telephone": "05 53 13 96 46",
+        "site_web": "https://www.labelfenetre-24.com/",
+        "adresse": "27 Rue René Desmaison, 24750 Boulazac Isle Manoire",
+        "note": 4,
+        "avis": 38,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13472474155974896967",
+        "nom": "TRYBA Boulazac",
+        "slug": "tryba-boulazac",
+        "telephone": "05 18 23 12 86",
+        "site_web": "https://www.tryba.com/espace-conseil/24/tryba-boulazac/?utm_campaign=Tryba_Boulazac&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "Rue Jules Supervielle, 24330 Boulazac Isle Manoire",
+        "note": 4.7,
+        "avis": 43,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cenac-et-saint-julien": {
+    "artisans": [
+      {
+        "id": "16235945062620464368",
+        "nom": "Design Conception _ La Boutique du Menuisier",
+        "slug": "design-conception-la-boutique-du-menuisier",
+        "telephone": "05 53 04 80 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/design-conception",
+        "adresse": "9 Bis Pl. de Lattre de Tassigny, 24200 Sarlat-la-Canéda",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17250594807199032539",
+        "nom": "Ets Mandral et Fils",
+        "slug": "ets-mandral-et-fils",
+        "telephone": "05 53 28 22 96",
+        "site_web": null,
+        "adresse": "Moulin Rouge, 421 Ldt la Borie, 24250 Cénac-et-Saint-Julien",
+        "note": 4,
+        "avis": 4,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "4796361402460006980",
+        "nom": "Esprit Couverture",
+        "slug": "esprit-couverture",
+        "telephone": "06 76 69 79 81",
+        "site_web": null,
+        "adresse": "ZAE Pech Mercier, 24250 Cénac-et-Saint-Julien",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9286725102509656295",
+        "nom": "Audrerie Alain",
+        "slug": "audrerie-alain",
+        "telephone": "05 53 30 42 16",
+        "site_web": "http://www.audrerie-charpente.fr/",
+        "adresse": "zone artisanale Pech Mercier, 203 Rte des Bâtisseurs, 24250 Cénac-et-Saint-Julien",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "le-bugue": {
+    "artisans": [
+      {
+        "id": "11569054404135827485",
+        "nom": "menuiserie lalot",
+        "slug": "menuiserie-lalot",
+        "telephone": "06 82 03 41 32",
+        "site_web": null,
+        "adresse": "Zi La Plaine, Le Bugue",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3811415549437606271",
+        "nom": "Design’Menuiseries",
+        "slug": "designmenuiseries",
+        "telephone": "05 53 04 80 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/designmenuiseries",
+        "adresse": "34 Av. de la Libération, 24260 Le Bugue",
+        "note": 4.7,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11424593588398643682",
+        "nom": "Giovani artisan",
+        "slug": "giovani-artisan",
+        "telephone": "06 45 34 77 62",
+        "site_web": "https://www.reinard-giovanni-couvreur.fr/",
+        "adresse": "La planete, 24260 Le Bugue",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16127344210626299388",
+        "nom": "VALBUSA - Serrurerie • Métallerie • Menuiserie - en Dordogne Périgord",
+        "slug": "valbusa-serrurerie-metallerie-menuiserie-en-dordogne-perigord",
+        "telephone": "05 53 08 76 58",
+        "site_web": "http://www.valbusa.com/",
+        "adresse": "La Piste, 24260 Le Bugue",
+        "note": 4,
+        "avis": 13,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "agonac": {
+    "artisans": [
+      {
+        "id": "7872614943252896288",
+        "nom": "Ergf",
+        "slug": "ergf",
+        "telephone": "05 53 07 89 28",
+        "site_web": "http://www.ergfsarl.com/",
+        "adresse": "1234 Rte du Lac Lagraule, 24460 Agonac",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "13263701596785516572",
+        "nom": "Verral Stéphane",
+        "slug": "verral-stephane",
+        "telephone": "05 53 06 16 28",
+        "site_web": "https://verral-peinture.com/",
+        "adresse": "6-8 Rue d'Almunia de San Juan, 24460 Agonac",
+        "note": 5,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "8157601801012128787",
+        "nom": "Avenir Rénovations Périgueux",
+        "slug": "avenir-renovations-perigueux",
+        "telephone": "05 18 23 21 92",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-24-perigueux/",
+        "adresse": "73 Rue du 8 Mai, 24430 Marsac-sur-l'Isle",
+        "note": 1,
+        "avis": 4,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "annesse-et-beaulieu": {
+    "artisans": [
+      {
+        "id": "14148740595781338216",
+        "nom": "Annesse-et-Beaulieu",
+        "slug": "annesse-et-beaulieu",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24430 Annesse-et-Beaulieu",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "bassillac-et-auberoche": {
+    "artisans": [
+      {
+        "id": "18037979696876028127",
+        "nom": "Compagnons Fenêtriers du Périgord - Solabaie Périgeux",
+        "slug": "compagnons-fenetriers-du-perigord-solabaie-perigeux",
+        "telephone": "05 53 05 57 14",
+        "site_web": "https://www.compagnons-fenetriers.fr/",
+        "adresse": "77 Cr Saint-Georges, 24000 Périgueux",
+        "note": 4.3,
+        "avis": 44,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "beaumontois-en-perigord": {
+    "artisans": [
+      {
+        "id": "2089623239310512880",
+        "nom": "Beaumontois en Périgord",
+        "slug": "beaumontois-en-perigord",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24440 Beaumontois en Périgord",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "vergt": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7728788449301269183",
+        "nom": "Menuiserie Neuf Et Renov",
+        "slug": "menuiserie-neuf-et-renov",
+        "telephone": "06 77 69 83 45",
+        "site_web": null,
+        "adresse": "6 Bd Eugène Leroy, 24380 Vergt",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16720757668409573560",
+        "nom": "Art & Fenêtres - Montesson",
+        "slug": "art-fenetres-montesson",
+        "telephone": "01 30 49 14 46",
+        "site_web": "https://artetfenetresiso.fr/",
+        "adresse": "269 Av. Gabriel Péri, 78360 Montesson",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "riberac": {
+    "artisans": [
+      {
+        "id": "9587692927953049319",
+        "nom": "Miroiterie Lamothe",
+        "slug": "miroiterie-lamothe",
+        "telephone": "05 53 91 35 22",
+        "site_web": null,
+        "adresse": "3 Rue Henri Crassat, 24600 Ribérac",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "proissans": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "port-sainte-foy-et-ponchapt": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "razac-sur-l-isle": {
+    "artisans": [
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Couvreur"
+      },
+      {
+        "id": "608508219573381385",
+        "nom": "KparK Boulogne Billancourt",
+        "slug": "kpark-boulogne-billancourt",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/120-kpark-boulogne-billancourt?utm_source=gmb",
+        "adresse": "14 Av. du Général Leclerc, 92100 Boulogne-Billancourt",
+        "note": 3.8,
+        "avis": 54,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "le-pizou": {
+    "artisans": [
+      {
+        "id": "3690315745464018047",
+        "nom": "renova pose 24",
+        "slug": "renova-pose-24",
+        "telephone": "06 89 56 71 06",
+        "site_web": null,
+        "adresse": "Fournet, 24410 Parcoul-Chenaud",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-roche-chalais": {
+    "artisans": [
+      {
+        "id": "6339276492509144965",
+        "nom": "Point.P - La Roche-Chalais",
+        "slug": "pointp-la-roche-chalais",
+        "telephone": "05 53 91 32 99",
+        "site_web": "https://www.pointp.fr/infos-agence/la-roche-chalais-point-p-1399",
+        "adresse": "Lieu-dit, Boisdron, 24490 La Roche-Chalais",
+        "note": 4.4,
+        "avis": 21,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4101367240261701300",
+        "nom": "EURL A N RENOV",
+        "slug": "eurl-a-n-renov",
+        "telephone": "06 37 88 50 94",
+        "site_web": "https://www.facebook.com/A-N-RENOV-102002885205601/",
+        "adresse": "15 lotissement, Batier, 24490 La Roche-Chalais",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9659513176857786738",
+        "nom": "Landreau Matériaux - Matco 24 - Tout Faire",
+        "slug": "landreau-materiaux-matco-24-tout-faire",
+        "telephone": "05 53 91 08 71",
+        "site_web": "https://landreau-groupe.fr/",
+        "adresse": "Balan S, 24490 La Roche-Chalais",
+        "note": 4.3,
+        "avis": 94,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15134169108186194768",
+        "nom": "Facade 24 V.j.",
+        "slug": "facade-24-vj",
+        "telephone": "05 53 91 37 29",
+        "site_web": "https://www.ravalementfacade24.fr/",
+        "adresse": "Les Justices, 24490 La Roche-Chalais",
+        "note": 3.1,
+        "avis": 11,
+        "type": "Société de construction de piscine"
+      },
+      {
+        "id": "11790673883491769755",
+        "nom": "Climabitat",
+        "slug": "climabitat",
+        "telephone": "07 57 57 91 54",
+        "site_web": "https://www.instagram.com/climabitat16/?utm_source=gmb",
+        "adresse": "67 Rte de Bordeaux, 16210 Chalais",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "prigonrieux": {
+    "artisans": [
+      {
+        "id": "15470948590352669062",
+        "nom": "Prigonrieux Menuiserie",
+        "slug": "prigonrieux-menuiserie",
+        "telephone": "06 19 83 35 28",
+        "site_web": "http://www.prigonrieux-menuiserie.fr/",
+        "adresse": "16 Imp. de Cavalerie, 24130 Prigonrieux",
+        "note": 4.3,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3609920655379085085",
+        "nom": "Stores de France",
+        "slug": "stores-de-france",
+        "telephone": "05 53 57 32 17",
+        "site_web": "https://www.storesdefrance.com/",
+        "adresse": "5 Rue François Lasternas, 24130 Prigonrieux",
+        "note": 5,
+        "avis": 139,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-antoine-de-breuilh": {
+    "artisans": [
+      {
+        "id": "10530397749642339558",
+        "nom": "Normandin Pascal",
+        "slug": "normandin-pascal",
+        "telephone": "06 80 04 35 20",
+        "site_web": null,
+        "adresse": "Rte de Péricou, 24230 Saint-Antoine-de-Breuilh",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "42386119111687081",
+        "nom": "Dordogne Déco",
+        "slug": "dordogne-deco",
+        "telephone": "05 53 63 09 32",
+        "site_web": null,
+        "adresse": "22 ZA le Bon Dieu, 24230 Saint-Antoine-de-Breuilh",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Magasin d'articles pour l'aménagement paysager"
+      },
+      {
+        "id": "3287332097673046282",
+        "nom": "Chauffage technique by blondy",
+        "slug": "chauffage-technique-by-blondy",
+        "telephone": "05 53 22 02 00",
+        "site_web": "https://chauffage-technique.fr/",
+        "adresse": "1220 Chem. des Novettes, 24230 Saint-Antoine-de-Breuilh",
+        "note": 3.6,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "10355280620971088541",
+        "nom": "Atout Fers",
+        "slug": "atout-fers",
+        "telephone": "07 62 33 10 09",
+        "site_web": null,
+        "adresse": "26 Av. du Périgord, 24230 Saint-Antoine-de-Breuilh",
+        "note": 0,
+        "avis": 0,
+        "type": "Soudeur"
+      }
+    ]
+  },
+  "saint-astier": {
+    "artisans": [
+      {
+        "id": "12421526589170618583",
+        "nom": "Chaux de Saint-Astier",
+        "slug": "chaux-de-saint-astier",
+        "telephone": "05 53 54 11 25",
+        "site_web": "https://www.saint-astier.com/?utm_source=gmb",
+        "adresse": "28 bis Rte de Montanceix, 24110 Saint-Astier",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Fabricant"
+      },
+      {
+        "id": "91811980566037976",
+        "nom": "Menuiserie Parade",
+        "slug": "menuiserie-parade",
+        "telephone": "05 53 07 07 30",
+        "site_web": "https://www.menuiserie-parade.fr/",
+        "adresse": "32 Av. Jean Jaurès, 24110 Saint-Astier",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7577236343887506892",
+        "nom": "Point.P - Saint-Astier",
+        "slug": "pointp-saint-astier",
+        "telephone": "05 53 54 11 47",
+        "site_web": "https://www.pointp.fr/infos-agence/st-astier-point-p-3714",
+        "adresse": "Rue Henri Rebière, 24110 Saint-Astier",
+        "note": 4.2,
+        "avis": 75,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14659532216927192717",
+        "nom": "Créa Conseil Habitat",
+        "slug": "crea-conseil-habitat",
+        "telephone": "06 15 06 50 66",
+        "site_web": "https://www.creaconseilhabitat.com/",
+        "adresse": "2915 Rte de la Scie, 24110 Saint-Astier",
+        "note": 5,
+        "avis": 13,
+        "type": "Cabinet d'architecte d'intérieur"
+      },
+      {
+        "id": "4917875491197170118",
+        "nom": "SONEX SARL",
+        "slug": "sonex-sarl",
+        "telephone": "05 53 54 14 48",
+        "site_web": "https://www.sonex-24.fr/",
+        "adresse": "39 Rue Paul Bert, 24110 Saint-Astier",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "4236503744830238562",
+        "nom": "BASTIEN MENUISERIE",
+        "slug": "bastien-menuiserie",
+        "telephone": "07 88 31 70 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-aulaye-puymangou": {
+    "artisans": [
+      {
+        "id": "7066022319656533202",
+        "nom": "Kiriel Etablissements Andrieux",
+        "slug": "kiriel-etablissements-andrieux",
+        "telephone": "05 53 90 30 70",
+        "site_web": null,
+        "adresse": "zone, Les Grands Champs, 24410",
+        "note": 4.3,
+        "avis": 45,
+        "type": "Jardinerie"
+      },
+      {
+        "id": "3690315745464018047",
+        "nom": "renova pose 24",
+        "slug": "renova-pose-24",
+        "telephone": "06 89 56 71 06",
+        "site_web": null,
+        "adresse": "Fournet, 24410 Parcoul-Chenaud",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10872849722523525611",
+        "nom": "Boulangerie Vital Patrice",
+        "slug": "boulangerie-vital-patrice",
+        "telephone": "05 53 90 82 64",
+        "site_web": "http://www.lapetrie.fr/",
+        "adresse": "Pl. Pasteur, 24410 St Aulaye-Puymangou",
+        "note": 4.5,
+        "avis": 43,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "13296405239776859113",
+        "nom": "STM 24 Société de Traitement des Métaux",
+        "slug": "stm-24-societe-de-traitement-des-metaux",
+        "telephone": "05 53 90 64 04",
+        "site_web": "http://stm24.fr/",
+        "adresse": "53 Voie de l'Artisanat, Petit Acaud ZA, 24410",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Service de polissage des métaux"
+      },
+      {
+        "id": "493989532515427260",
+        "nom": "Saint aulaye construction",
+        "slug": "saint-aulaye-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1034 Les Granges N, 24410 St Aulaye-Puymangou",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-cyprien": {
+    "artisans": [
+      {
+        "id": "3401225287369509038",
+        "nom": "FAUVEL MENUISERIES",
+        "slug": "fauvel-menuiseries",
+        "telephone": "07 88 20 34 80",
+        "site_web": null,
+        "adresse": "827 Rte des Fées, 24220 Saint-Cyprien",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11195884653794567060",
+        "nom": "Faget Toitures 24",
+        "slug": "faget-toitures-24",
+        "telephone": "06 86 43 38 05",
+        "site_web": "https://www.facebook.com/Faget-Toitures-24-125425168057025",
+        "adresse": "Langlade, 24220 Marnac",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18318550354001004304",
+        "nom": "SAS Cypriote",
+        "slug": "sas-cypriote",
+        "telephone": "05 53 29 21 58",
+        "site_web": "https://cypriote.fr/",
+        "adresse": "ZA du Récolat n°8, 24220 Saint-Cyprien",
+        "note": 4.1,
+        "avis": 16,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "5597034041017093728",
+        "nom": "Menuiserie Mickael",
+        "slug": "menuiserie-mickael",
+        "telephone": "06 28 36 16 59",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11111511752656221197",
+        "nom": "RENOVAD",
+        "slug": "renovad",
+        "telephone": "06 46 13 28 82",
+        "site_web": "https://menuisier-renovad.fr/",
+        "adresse": "16 Rue du Gargal, 66750 Saint-Cyprien",
+        "note": 5,
+        "avis": 77,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rouffignac-saint-cernin-de-reilhac": {
+    "artisans": [
+      {
+        "id": "15995468081573837352",
+        "nom": "VISIO-OPTIC",
+        "slug": "visio-optic",
+        "telephone": "05 53 45 85 38",
+        "site_web": "https://www.visio-optic-24.fr/",
+        "adresse": "Av. du Général de Gaulle, 24580 Rouffignac-Saint-Cernin-de-Reilhac",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Opticien"
+      },
+      {
+        "id": "2552436344953285105",
+        "nom": "Renovbat 24",
+        "slug": "renovbat-24",
+        "telephone": "05 53 42 34 06",
+        "site_web": null,
+        "adresse": "Lieu dit, 24580 Rouffignac-Saint-Cernin-de-Reilhac",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3811415549437606271",
+        "nom": "Design’Menuiseries",
+        "slug": "designmenuiseries",
+        "telephone": "05 53 04 80 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/designmenuiseries",
+        "adresse": "34 Av. de la Libération, 24260 Le Bugue",
+        "note": 4.7,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1638838535244470386",
+        "nom": "Dordogne Toitures",
+        "slug": "dordogne-toitures",
+        "telephone": "05 53 61 06 28",
+        "site_web": "https://www.dordogne-toiture.fr/?utm_source=gmb",
+        "adresse": "Zae, Rte du Roc de la Peyre, 24240 Sigoulès-et-Flaugeac",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14857589502676312643",
+        "nom": "Menuiserie Pagès",
+        "slug": "menuiserie-pages",
+        "telephone": "06 76 99 04 28",
+        "site_web": "https://menuiserie-pages.com/",
+        "adresse": "ZA Les Farges, 433 Rte d'Aquitaine, 24580 Rouffignac-Saint-Cernin-de-Reilhac",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15508284140823530244",
+        "nom": "SAS Nicolas",
+        "slug": "sas-nicolas",
+        "telephone": "06 86 72 42 91",
+        "site_web": null,
+        "adresse": "160 Voie des Farges, 24580 Rouffignac-Saint-Cernin-de-Reilhac",
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "13332903337374984671",
+        "nom": "BOURGOIN AGENCEMENT",
+        "slug": "bourgoin-agencement",
+        "telephone": "06 72 28 00 36",
+        "site_web": "https://www.facebook.com/share/1KVZb4yppq/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3296196810078099",
+        "nom": "Espace Bois 24",
+        "slug": "espace-bois-24",
+        "telephone": "06 80 71 75 16",
+        "site_web": "http://www.espace-bois24.com/",
+        "adresse": "Les Brandières, 24260 Journiac",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3577054107064962669",
+        "nom": "Boulangerie Blondy",
+        "slug": "boulangerie-blondy",
+        "telephone": "05 53 05 40 68",
+        "site_web": null,
+        "adresse": "Grande rue, 24580 Rouffignac-Saint-Cernin-de-Reilhac",
+        "note": 4.4,
+        "avis": 318,
+        "type": "Boulangerie"
+      }
+    ]
+  },
+  "piegut-pluviers": {
+    "artisans": [
+      {
+        "id": "2969278792800322373",
+        "nom": "Gedimat Périgord Matériaux - Piegut-Pluviers",
+        "slug": "gedimat-perigord-materiaux-piegut-pluviers",
+        "telephone": "05 53 56 46 11",
+        "site_web": "https://www.gedimat.fr/2170-magasin-gedimat-perigord-materiaux-piegut-pluviers.htm",
+        "adresse": "ZA de, 24630 Piégut-Pluviers",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "8487728717771712327",
+        "nom": "CC Zinc - Bonin Léo",
+        "slug": "cc-zinc-bonin-leo",
+        "telephone": "06 31 99 85 40",
+        "site_web": "http://cczinc.fr/",
+        "adresse": "51 Rue de la Résistance, 24360 Piégut-Pluviers",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-front-de-pradoux": {
+    "artisans": [
+      {
+        "id": "11851648363148115840",
+        "nom": "Mazière",
+        "slug": "maziere",
+        "telephone": "05 53 82 09 27",
+        "site_web": null,
+        "adresse": "21 Rue Beaufort, 24400 Saint-Front-de-Pradoux",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "5494963680041127853",
+        "nom": "ART ET FENETRES - Art et Habitat Mussidan",
+        "slug": "art-et-fenetres-art-et-habitat-mussidan",
+        "telephone": "05 53 04 26 74",
+        "site_web": "http://art-et-habitat.artetfenetres.com/",
+        "adresse": "40 Rue de la Libération, 24400 Mussidan",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "4707598320859381",
+        "nom": "Laurière et Fils SA",
+        "slug": "lauriere-et-fils-sa",
+        "telephone": "05 53 82 80 00",
+        "site_web": "http://www.groupe-lauriere.com/",
+        "adresse": "4 rue de Lagut, 24400 Saint-Front-de-Pradoux",
+        "note": 3.8,
+        "avis": 21,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9821156344681234557",
+        "nom": "Mazière Electricité",
+        "slug": "maziere-electricite",
+        "telephone": "05 53 82 09 27",
+        "site_web": "https://www.maziere-electricite.fr/",
+        "adresse": "24400 Saint-Front-de-Pradoux",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "18037979696876028127",
+        "nom": "Compagnons Fenêtriers du Périgord - Solabaie Périgeux",
+        "slug": "compagnons-fenetriers-du-perigord-solabaie-perigeux",
+        "telephone": "05 53 05 57 14",
+        "site_web": "https://www.compagnons-fenetriers.fr/",
+        "adresse": "77 Cr Saint-Georges, 24000 Périgueux",
+        "note": 4.3,
+        "avis": 44,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9346247740360104469",
+        "nom": "SOCIETE DES ETABLISSEMENTS LOPEZ",
+        "slug": "societe-des-etablissements-lopez",
+        "telephone": "05 53 80 38 29",
+        "site_web": "https://www.facebook.com/Lopez-Christian-Ets-178756659662389/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "6071863010779119476",
+        "nom": "jose dos santos",
+        "slug": "jose-dos-santos",
+        "telephone": "06 31 66 78 48",
+        "site_web": null,
+        "adresse": "14 rue de la Forge, 24400 Saint-Front-de-Pradoux",
+        "note": 5,
+        "avis": 6,
+        "type": "Maçon"
+      },
+      {
+        "id": "9535764885128178700",
+        "nom": "TECHSOLS",
+        "slug": "techsols",
+        "telephone": "06 08 66 75 16",
+        "site_web": null,
+        "adresse": "127 Rte Du Chatenet, 24400 Saint-Front-de-Pradoux",
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "92793208051730158",
+        "nom": "Garage Barradis",
+        "slug": "garage-barradis",
+        "telephone": "05 53 81 15 83",
+        "site_web": null,
+        "adresse": "78 ROUTE DE RIBERAC, 24400 Saint-Front-de-Pradoux",
+        "note": 4.8,
+        "avis": 14,
+        "type": "Mécanicien"
+      },
+      {
+        "id": "15320017804183997494",
+        "nom": "Borderie Patrick",
+        "slug": "borderie-patrick",
+        "telephone": "05 53 81 26 60",
+        "site_web": null,
+        "adresse": "Rue du meynieux 14, 24400 Saint-Front-de-Pradoux",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "val-de-louyre-et-caudeau": {
+    "artisans": [
+      {
+        "id": "6389132318240712553",
+        "nom": "LMVM",
+        "slug": "lmvm",
+        "telephone": "06 08 45 44 17",
+        "site_web": "http://menuisier-dordogne.fr/",
+        "adresse": "24510 Val de Louyre et Caudeau",
+        "note": 5,
+        "avis": 5,
+        "type": null
+      }
+    ]
+  },
+  "saint-laurent-des-vignes": {
+    "artisans": [
+      {
+        "id": "15427414562218995288",
+        "nom": "Renov Toitures 24",
+        "slug": "renov-toitures-24",
+        "telephone": "06 86 91 10 89",
+        "site_web": "https://www.renovtoiture-24.fr/",
+        "adresse": "4 Chem. du Barrage O, 24100 Bergerac",
+        "note": 4.9,
+        "avis": 176,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2045491982454050111",
+        "nom": "Batixel",
+        "slug": "batixel",
+        "telephone": "05 53 57 36 25",
+        "site_web": "https://batixel.fr/",
+        "adresse": "65 Rte de Bordeaux, 24100 Saint-Laurent-des-Vignes",
+        "note": 4.1,
+        "avis": 126,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10172355504817958305",
+        "nom": "Metallerie Bergeracoise",
+        "slug": "metallerie-bergeracoise",
+        "telephone": "05 53 57 74 78",
+        "site_web": null,
+        "adresse": "2 Rte du Monteil, 24100 Saint-Laurent-des-Vignes",
+        "note": 3.2,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14443417470467261135",
+        "nom": "Passion d'Autrefois",
+        "slug": "passion-dautrefois",
+        "telephone": "05 53 24 07 33",
+        "site_web": "http://www.passiondautrefois.fr/",
+        "adresse": "50 Rte de Bordeaux, 24100 Saint-Laurent-des-Vignes",
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6447401967013326872",
+        "nom": "Miroiterie David Roques-Menuiserie Bergerac-Menuiserie alu pvc-Serrurier-Fenêtres-Volets roulants-dépannage vitrerie-Store",
+        "slug": "miroiterie-david-roques-menuiserie-bergerac-menuiserie-alu-pvc-serrurier-fenetres-volets-roulants-depannage-vitrerie-store",
+        "telephone": "05 53 58 33 87",
+        "site_web": "https://www.miroiterie-roques.fr/",
+        "adresse": "12 Route des Chardonnerets, 24100 Saint-Laurent-des-Vignes",
+        "note": 3.8,
+        "avis": 58,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "1998624233550822164",
+        "nom": "MSRD",
+        "slug": "msrd",
+        "telephone": "05 53 58 33 87",
+        "site_web": "http://www.miroiterie-roques.fr/",
+        "adresse": "Route de Bordeaux La Cavaille, 24100 Bergerac",
+        "note": 1,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-medard-de-mussidan": {
+    "artisans": [
+      {
+        "id": "18155634977439572517",
+        "nom": "1 RUE DE LA LIBERTE",
+        "slug": "1-rue-de-la-liberte",
+        "telephone": "05 53 81 24 46",
+        "site_web": null,
+        "adresse": "4 Rue de la Liberté, 24400 Saint-Médard-de-Mussidan",
+        "note": 4,
+        "avis": 1,
+        "type": "Magasin"
+      },
+      {
+        "id": "15451163755061721564",
+        "nom": "DIFAB 24 - Terres de Fenêtre",
+        "slug": "difab-24-terres-de-fenetre",
+        "telephone": "05 53 81 24 46",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/difab-24-terres-de-fenetre?utm_source=gmb",
+        "adresse": "1 Rue de la Liberté, 24400 Saint-Médard-de-Mussidan",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Magasin"
+      },
+      {
+        "id": "5540034810444963898",
+        "nom": "Point.P - Mussidan",
+        "slug": "pointp-mussidan",
+        "telephone": "05 53 81 01 14",
+        "site_web": "https://www.pointp.fr/infos-agence/st-medard-de-mussidan-point-p-1568",
+        "adresse": "Rue Marcel Janet, 24400 Saint-Médard-de-Mussidan",
+        "note": 4.2,
+        "avis": 54,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-pardoux-la-riviere": {
+    "artisans": [
+      {
+        "id": "13466979640578740880",
+        "nom": "Menuiserie Bouchaud",
+        "slug": "menuiserie-bouchaud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Imp. de la Baticole, 24470 Saint-Pardoux-la-Rivière",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "10432074466519323954",
+        "nom": "LeheRicy Menuiserie",
+        "slug": "lehericy-menuiserie",
+        "telephone": "06 41 49 59 78",
+        "site_web": "https://www.facebook.com/profile.php?id=61559722804627",
+        "adresse": "Rue de la Voie Ferrée, Imp. de la Baticole, 24470 Saint-Pardoux-la-Rivière",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-leon-sur-l-isle": {
+    "artisans": [
+      {
+        "id": "8092971409414122045",
+        "nom": "ENTREPRISE VOLLET",
+        "slug": "entreprise-vollet",
+        "telephone": "06 19 92 19 52",
+        "site_web": "https://www.vollet-multiservices.fr/",
+        "adresse": "Le Bourdial, 549 Av. Ambroise Croizat, 24110 Saint-Léon-sur-l'Isle",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-laurent-des-hommes": {
+    "artisans": [
+      {
+        "id": "15920734716296730062",
+        "nom": "Menuiserie Alu 24",
+        "slug": "menuiserie-alu-24",
+        "telephone": "05 53 35 45 50",
+        "site_web": "https://www.menuiserie-alu24.fr/",
+        "adresse": "975 Rue Jules Supervielle, 24330 Boulazac Isle Manoire",
+        "note": 4.8,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1014135125281255585",
+        "nom": "Menuiserie Vieilleville & Fils",
+        "slug": "menuiserie-vieilleville-fils",
+        "telephone": "05 53 81 70 46",
+        "site_web": "https://www.facebook.com/MenuiserieVieilleville/",
+        "adresse": "Bénévent, 24400 Saint-Laurent-des-Hommes",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3536281156194540981",
+        "nom": "Vieilleville Franck",
+        "slug": "vieilleville-franck",
+        "telephone": "05 53 82 25 39",
+        "site_web": null,
+        "adresse": "3 Rue de la Fontaine, 24400 Saint-Laurent-des-Hommes",
+        "note": 5,
+        "avis": 4,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "saint-privat-en-perigord": {
+    "artisans": [
+      {
+        "id": "15041453505007187949",
+        "nom": "Portes Fenêtres du Périgord",
+        "slug": "portes-fenetres-du-perigord",
+        "telephone": "05 53 52 07 41",
+        "site_web": "http://www.pfp24.fr/",
+        "adresse": "La Grange N, 24800 Saint-Jory-de-Chalais",
+        "note": 4.3,
+        "avis": 24,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "salignac-eyvigues": {
+    "artisans": [
+      {
+        "id": "7017432351814360320",
+        "nom": "Prouillac et Fils",
+        "slug": "prouillac-et-fils",
+        "telephone": "05 53 28 81 20",
+        "site_web": "https://www.materiaux-construction-dordogne.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "63 Chem. du Vallon, 24590 Salignac-Eyvigues",
+        "note": 4.5,
+        "avis": 58,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-pierre-d-eyraud": {
+    "artisans": [
+      {
+        "id": "9460522628010974271",
+        "nom": "CBJ Concept",
+        "slug": "cbj-concept",
+        "telephone": "06 73 06 60 62",
+        "site_web": "https://menuiserie-cbj-concept-24.fr/",
+        "adresse": "24 Rte des Barreaux, 24130 Saint-Pierre-d'Eyraud",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "terrasson-lavilledieu": {
+    "artisans": [
+      {
+        "id": "15625412692030587613",
+        "nom": "TM 24 - Couverture",
+        "slug": "tm-24-couverture",
+        "telephone": "06 45 00 81 81",
+        "site_web": "https://tm24couverture.fr/",
+        "adresse": "5 Av. Pierre Brossolette, 24120 Terrasson-Lavilledieu",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16260875296696444228",
+        "nom": "Avenir Rénovations - Terrasson-Lavilledieu",
+        "slug": "avenir-renovations-terrasson-lavilledieu",
+        "telephone": "05 33 52 25 01",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-24-terrasson-lavilledieu/",
+        "adresse": "32 Av. Charles de Gaulle, 24120 Terrasson-Lavilledieu",
+        "note": 4.8,
+        "avis": 72,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16222710272507912398",
+        "nom": "FG Fermeture",
+        "slug": "fg-fermeture",
+        "telephone": "05 53 50 13 97",
+        "site_web": "http://fgfermeture.site-solocal.com/",
+        "adresse": "3 Pl. de la Vergne, 24120 Terrasson-Lavilledieu",
+        "note": 5,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15229155011833777257",
+        "nom": "Desplanches",
+        "slug": "desplanches",
+        "telephone": "05 53 50 42 73",
+        "site_web": "https://www.desplanches24.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1408 route de Périgueux, 24120 Pazayac",
+        "note": 5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1050242462123666908",
+        "nom": "B.P Menuiserie",
+        "slug": "bp-menuiserie",
+        "telephone": "05 53 51 50 41",
+        "site_web": "https://www.bp-menuiserie-correze.fr/",
+        "adresse": "4 Av. Victor Hugo, 24120 Terrasson-Lavilledieu",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12158567255499640161",
+        "nom": "SARL PENARD COUVERTURE",
+        "slug": "sarl-penard-couverture",
+        "telephone": "06 89 78 42 68",
+        "site_web": "https://sarlpenard.fr/",
+        "adresse": "16 Rue Auguste Lumière, 24120 Terrasson-Lavilledieu",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15577537769546823982",
+        "nom": "Eurl Durand Dominique",
+        "slug": "eurl-durand-dominique",
+        "telephone": "05 53 51 06 06",
+        "site_web": "https://couverture-durand.fr/",
+        "adresse": "15 Rue Pierre Proudhon, 24120 Terrasson-Lavilledieu",
+        "note": 4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5407070602628156286",
+        "nom": "BSA MENUISERIE MOLAS",
+        "slug": "bsa-menuiserie-molas",
+        "telephone": "05 53 50 06 29",
+        "site_web": "https://www.facebook.com/bsa.menuiseries/?utm_source=gmb",
+        "adresse": "ZI du Coutal, 24120 Terrasson-Lavilledieu",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sarliac-sur-l-isle": {
+    "artisans": [
+      {
+        "id": "12332540169289132159",
+        "nom": "CHOURY SARL",
+        "slug": "choury-sarl",
+        "telephone": "05 53 05 03 07",
+        "site_web": "http://www.choury.fr/",
+        "adresse": "1 Rte Nationale, 24420 Sarliac-sur-l'Isle",
+        "note": 5,
+        "avis": 94,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sorges-et-ligueux-en-perigord": {
+    "artisans": [
+      {
+        "id": "11209070526841497587",
+        "nom": "DSR Boutet Philippe",
+        "slug": "dsr-boutet-philippe",
+        "telephone": "06 32 44 92 43",
+        "site_web": "https://www.dsr-plaquiste.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "17195163737627190539",
+        "nom": "Mairie de Sorges et Ligueux en Périgord",
+        "slug": "mairie-de-sorges-et-ligueux-en-perigord",
+        "telephone": "05 53 35 68 00",
+        "site_web": "https://www.sorges-perigord.com/",
+        "adresse": "1 Pl. de la Mairie, 24420 Sorges et Ligueux en Périgord",
+        "note": 4.3,
+        "avis": 10,
+        "type": "Hôtel de ville"
+      }
+    ]
+  },
+  "sarlat-la-caneda": {
+    "artisans": [
+      {
+        "id": "2488158018343062243",
+        "nom": "Menuiserie Soulhie, Bois Alu PVC - Sarlat",
+        "slug": "menuiserie-soulhie-bois-alu-pvc-sarlat",
+        "telephone": "05 53 02 56 55",
+        "site_web": "https://www.menuiserie-soulhie.fr/menuiserie-sarlat-la-caneda/",
+        "adresse": "188 Av. Joséphine Baker, 24200 Sarlat-la-Canéda",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16235945062620464368",
+        "nom": "Design Conception _ La Boutique du Menuisier",
+        "slug": "design-conception-la-boutique-du-menuisier",
+        "telephone": "05 53 04 80 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/design-conception",
+        "adresse": "9 Bis Pl. de Lattre de Tassigny, 24200 Sarlat-la-Canéda",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17574687892975041380",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "05 55 87 88 63",
+        "site_web": "https://magasins.lapeyre.fr/nouvelle-aquitaine/correze/lapeyre-brive-la-gaillarde-26",
+        "adresse": "Rue Armand Sourie, 19100 Brive-la-Gaillarde",
+        "note": 4,
+        "avis": 318,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "3587119341157481376",
+        "nom": "Design Fenêtres 24",
+        "slug": "design-fenetres-24",
+        "telephone": "06 82 89 73 23",
+        "site_web": "https://www.designfenetres24.fr/",
+        "adresse": "216 Av. Aristide Briand, 24200 Sarlat-la-Canéda",
+        "note": 5,
+        "avis": 4,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "12472198237595262772",
+        "nom": "Art et Fenêtres - Vergnes",
+        "slug": "art-et-fenetres-vergnes",
+        "telephone": "05 53 31 18 98",
+        "site_web": "https://vergnes.artetfenetres.com/",
+        "adresse": "Zone commerciale de madrazes, Rte du Lot, 24200 Sarlat-la-Canéda",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10045882364139815984",
+        "nom": "TRYBA Sarlat-la-Canéda",
+        "slug": "tryba-sarlat-la-caneda",
+        "telephone": "05 18 23 12 87",
+        "site_web": "https://www.tryba.com/espace-conseil/24/tryba-sarlat-la-caneda/?utm_campaign=Tryba_Sarlat-la-Caneda&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "193 Av. Thiers, 24200 Sarlat-la-Canéda",
+        "note": 5,
+        "avis": 127,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16235945062620464368",
+        "nom": "Design Conception _ La Boutique du Menuisier",
+        "slug": "design-conception-la-boutique-du-menuisier",
+        "telephone": "05 53 04 80 38",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/design-conception",
+        "adresse": "9 Bis Pl. de Lattre de Tassigny, 24200 Sarlat-la-Canéda",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8056942868734018392",
+        "nom": "Foissac Fermetures",
+        "slug": "foissac-fermetures",
+        "telephone": "05 53 31 48 40",
+        "site_web": "https://foissacfermetures.fr/?utm_source=gmb",
+        "adresse": "1604 Av. du Périgord, 24200 Sarlat-la-Canéda",
+        "note": 5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17752005931675333076",
+        "nom": "VMP 24 -Terres de Fenêtre- Menuiserie-Vitrerie Miroiterie-Serrurerie",
+        "slug": "vmp-24-terres-de-fenetre-menuiserie-vitrerie-miroiterie-serrurerie",
+        "telephone": "06 75 74 97 23",
+        "site_web": "http://www.vmp24.fr/",
+        "adresse": "123 Av. Joséphine Baker, 24200 Sarlat-la-Canéda",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14352908497020098659",
+        "nom": "Société de Menuiserie Mercier Vaunac",
+        "slug": "societe-de-menuiserie-mercier-vaunac",
+        "telephone": "05 53 59 41 46",
+        "site_web": "http://www.mercier-vaunac.com/",
+        "adresse": "405 Av. du Périgord, 24200 Sarlat-la-Canéda",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sigoules-et-flaugeac": {
+    "artisans": [
+      {
+        "id": "1638838535244470386",
+        "nom": "Dordogne Toitures",
+        "slug": "dordogne-toitures",
+        "telephone": "05 53 61 06 28",
+        "site_web": "https://www.dordogne-toiture.fr/?utm_source=gmb",
+        "adresse": "Zae, Rte du Roc de la Peyre, 24240 Sigoulès-et-Flaugeac",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "siorac-en-perigord": {
+    "artisans": [
+      {
+        "id": "5049655140833451332",
+        "nom": "DA Habitat 24 Couvreur à Siorac-en-Périgord Dordogne",
+        "slug": "da-habitat-24-couvreur-a-siorac-en-perigord-dordogne",
+        "telephone": "06 34 20 17 74",
+        "site_web": "https://da-habitat-24.fr/",
+        "adresse": "Chem. du Perron, 24170 Siorac-en-Périgord",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sourzac": {
+    "artisans": [
+      {
+        "id": "3078012205727170436",
+        "nom": "Andrieux et fils",
+        "slug": "andrieux-et-fils",
+        "telephone": "05 53 81 20 63",
+        "site_web": "https://andrieuxetfils24.fr/",
+        "adresse": "184 Rte Sébastienne Guyot, 24400 Sourzac",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Maçon"
+      },
+      {
+        "id": "2391588403115080063",
+        "nom": "Gedimat Broulard Materiaux - Sourzac",
+        "slug": "gedimat-broulard-materiaux-sourzac",
+        "telephone": "05 53 82 08 88",
+        "site_web": "https://www.gedimat.fr/?magDest=2545",
+        "adresse": "45 Rte des Abeilles, 24400 Sourzac",
+        "note": 4.4,
+        "avis": 67,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "6396992349317330896",
+        "nom": "Joĕl Joubert",
+        "slug": "joel-joubert",
+        "telephone": "06 07 97 13 35",
+        "site_web": "https://artisan-plaquiste-peintre-dordogne.fr/",
+        "adresse": "216 Les Pieces Longues, 24400 Sourzac",
+        "note": 1,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "9511677920868683613",
+        "nom": "Serrur'express 24",
+        "slug": "serrurexpress-24",
+        "telephone": "05 53 81 08 42",
+        "site_web": "https://serrurexpress24.fr/contact/",
+        "adresse": "200 Rte du Grand Bois, 24400 Sourzac",
+        "note": 0,
+        "avis": 0,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "thiviers": {
+    "artisans": [
+      {
+        "id": "16772591886413665406",
+        "nom": "Lapeyre-Cuisine-Menuiserie-Salle de bain-Portail- Fenêtres-Trélissac-Périgueux-Boulazac",
+        "slug": "lapeyre-cuisine-menuiserie-salle-de-bain-portail-fenetres-trelissac-perigueux-boulazac",
+        "telephone": "05 53 03 38 20",
+        "site_web": "https://magasins.lapeyre.fr/nouvelle-aquitaine/dordogne/lapeyre-perigueux-57",
+        "adresse": "17 Av. de l'Automobile, 24750 Trélissac",
+        "note": 4,
+        "avis": 321,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13249782889307880100",
+        "nom": "Meyzie",
+        "slug": "meyzie",
+        "telephone": "05 53 55 03 27",
+        "site_web": "https://www.menuiserie-meyzie-thiviers.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "6 Pass. des Bohémiens, 24800 Thiviers",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13106657763716585906",
+        "nom": "PASCAL DEMONTPION",
+        "slug": "pascal-demontpion",
+        "telephone": "09 70 35 24 29",
+        "site_web": "http://www.menuiserie-alu-demontpion.com/",
+        "adresse": "51 Rue du Labeur, 24800 Eyzerac",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "8157601801012128787",
+        "nom": "Avenir Rénovations Périgueux",
+        "slug": "avenir-renovations-perigueux",
+        "telephone": "05 18 23 21 92",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-24-perigueux/",
+        "adresse": "73 Rue du 8 Mai, 24430 Marsac-sur-l'Isle",
+        "note": 1,
+        "avis": 4,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "sanilhac": {
+    "artisans": [
+      {
+        "id": "299243194919069232",
+        "nom": "Dubois Turban - Couverture et Zinguerie",
+        "slug": "dubois-turban-couverture-et-zinguerie",
+        "telephone": "05 53 53 30 50",
+        "site_web": "https://duboisturban.fr/",
+        "adresse": "Av. de Borie Marty, 24660 Sanilhac",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14320804855503914572",
+        "nom": "Dordogne Isol Confort",
+        "slug": "dordogne-isol-confort",
+        "telephone": "05 53 08 76 88",
+        "site_web": "http://dordogneisolconfort.fr/",
+        "adresse": "125 Av. de Borie Marty, 24660 Sanilhac",
+        "note": 4.1,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9920127539977697512",
+        "nom": "DIFF MAT-GROSFILLEX - Menuiseries Alu-Pvc-Bois-Fenêtres-Portes-Portails-Volets Roulants-Mobilier de jardin-PERIGUEUX-DORDOGNE",
+        "slug": "diff-mat-grosfillex-menuiseries-alu-pvc-bois-fenetres-portes-portails-volets-roulants-mobilier-de-jardin-perigueux-dordogne",
+        "telephone": "05 53 06 79 41",
+        "site_web": "https://www.menuiserie-diffmat-dordogne.fr/",
+        "adresse": "168 Av. Maréchal Juin, 24000 Périgueux",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Vitrier"
+      },
+      {
+        "id": "1373146929651595806",
+        "nom": "TK Toiture : Couvreur Périgueux Dordogne 24",
+        "slug": "tk-toiture-couvreur-perigueux-dordogne-24",
+        "telephone": "06 41 24 20 22",
+        "site_web": "https://tktoiture.fr/",
+        "adresse": "7 Rue de la Bride, 24000 Périgueux",
+        "note": 5,
+        "avis": 203,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9946452596214680734",
+        "nom": "Lagorce Rénovation Dordogne",
+        "slug": "lagorce-renovation-dordogne",
+        "telephone": "05 53 08 76 88",
+        "site_web": "https://lagorcerenovation.fr/",
+        "adresse": "125 Av. de Borie Marty, 24660 Sanilhac",
+        "note": 4.7,
+        "avis": 109,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "9030381835390271629",
+        "nom": "CETEC Maîtrise d’œuvre",
+        "slug": "cetec-maitrise-duvre",
+        "telephone": "05 53 02 85 40",
+        "site_web": null,
+        "adresse": "le carré des pros, 24660 Sanilhac",
+        "note": 5,
+        "avis": 1,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "8261567977056067589",
+        "nom": "Déco 24 - Peinture & Décoration",
+        "slug": "deco-24-peinture-decoration",
+        "telephone": "05 53 05 82 06",
+        "site_web": "http://www.facebook.com/Manuel.Rodrigue24/?utm_source=gmb",
+        "adresse": "42 Rte de Jargues, 24660 Sanilhac",
+        "note": 5,
+        "avis": 33,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "15549623584749744094",
+        "nom": "ETS Lévêque",
+        "slug": "ets-leveque",
+        "telephone": "05 53 46 60 56",
+        "site_web": "http://www.ets-leveque.fr/",
+        "adresse": "N21, 24660 Sanilhac",
+        "note": 4.3,
+        "avis": 104,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "thenon": {
+    "artisans": [
+      {
+        "id": "3871140094016805323",
+        "nom": "Thenon rénovation",
+        "slug": "thenon-renovation",
+        "telephone": "06 50 20 50 33",
+        "site_web": "https://thenon-renovation.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "velines": {
+    "artisans": [
+      {
+        "id": "1223865503678341605",
+        "nom": "Vélines",
+        "slug": "velines",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24230 Vélines",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "perigueux": {
+    "artisans": [
+      {
+        "id": "8480621675929393688",
+        "nom": "Ouvertures Périgourdines",
+        "slug": "ouvertures-perigourdines",
+        "telephone": "05 53 13 58 62",
+        "site_web": "https://www.ouverturesperigourdines.fr/",
+        "adresse": "1 All. du Port, 24000 Périgueux",
+        "note": 5,
+        "avis": 25,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15451163755061721564",
+        "nom": "DIFAB 24 - Terres de Fenêtre",
+        "slug": "difab-24-terres-de-fenetre",
+        "telephone": "05 53 81 24 46",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/difab-24-terres-de-fenetre?utm_source=gmb",
+        "adresse": "1 Rue de la Liberté, 24400 Saint-Médard-de-Mussidan",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Magasin"
+      },
+      {
+        "id": "62141728906770647",
+        "nom": "ART ET FENETRES - Art et Habitat Trélissac",
+        "slug": "art-et-fenetres-art-et-habitat-trelissac",
+        "telephone": "05 53 04 26 74",
+        "site_web": "https://art-et-habitat.artetfenetres.com/",
+        "adresse": "63 Av. Michel Grandou, 24750 Trélissac",
+        "note": 4.9,
+        "avis": 167,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "1398332300222163108",
+        "nom": "Concept Pose",
+        "slug": "concept-pose",
+        "telephone": "06 49 01 61 81",
+        "site_web": "https://conceptpose.com/",
+        "adresse": "Rue du Vélodrome, 24000 Périgueux",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17477047689414352096",
+        "nom": "Côté Pose Fenêtres Pvc, bois & portes d'entrée, Pergolas, volets Aluminium Périgueux 24",
+        "slug": "cote-pose-fenetres-pvc-bois-portes-dentree-pergolas-volets-aluminium-perigueux-24",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://www.cotepose.com/",
+        "adresse": "54 Rue du Président Wilson, 24000 Périgueux",
+        "note": 4.7,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6673248858253776479",
+        "nom": "E.C.H Menuiseries",
+        "slug": "ech-menuiseries",
+        "telephone": "06 82 91 92 72",
+        "site_web": "https://ech-menuiseries.fr/",
+        "adresse": "199 Bd du Petit Change, 24000 Périgueux",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15035502171782077874",
+        "nom": "Menuiserie SALAVERT",
+        "slug": "menuiserie-salavert",
+        "telephone": "05 53 05 40 27",
+        "site_web": "https://www.menuiseriesalavert.fr/",
+        "adresse": "Rte de Bergerac, 24660 Coulounieix-Chamiers",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tocane-saint-apre": {
+    "artisans": [
+      {
+        "id": "14813290391251210929",
+        "nom": "Nadal Yves Entr Générale Bâtiment",
+        "slug": "nadal-yves-entr-generale-batiment",
+        "telephone": "05 53 90 70 82",
+        "site_web": "http://www.nadal-yves-maconnerie.fr/",
+        "adresse": "486 Rte Jean Moulin, 24350 Tocane-Saint-Apre",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "trelissac": {
+    "artisans": [
+      {
+        "id": "6480155569229233666",
+        "nom": "Green House • Menuiseries • Pompe à chaleur • Climatisation • Fenêtres et volets - Périgueux - Dordogne",
+        "slug": "green-house-menuiseries-pompe-a-chaleur-climatisation-fenetres-et-volets-perigueux-dordogne",
+        "telephone": "05 53 13 61 33",
+        "site_web": "http://www.greenhouse-perigueux.fr/",
+        "adresse": "112B Av. Michel Grandou, 24750 Trélissac",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  }
+}

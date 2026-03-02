@@ -1,0 +1,2239 @@
+{
+  "pont-du-casse": {
+    "artisans": [
+      {
+        "id": "102608443804495718",
+        "nom": "IDEKA",
+        "slug": "ideka",
+        "telephone": "05 53 95 14 53",
+        "site_web": "https://ideka47.fr/",
+        "adresse": "1830 Av. de Cahors, 47480 Pont-du-Casse",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3444344626518251187",
+        "nom": "SARL N. R. FERMETURES",
+        "slug": "sarl-n-r-fermetures",
+        "telephone": "05 53 67 11 12",
+        "site_web": "https://www.nrfermeturesagen.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rue des Entrepreneurs, 47480 Pont-du-Casse",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17084259018904839371",
+        "nom": "Agen Miroiterie - Distri’Ferm",
+        "slug": "agen-miroiterie-distriferm",
+        "telephone": "06 80 05 47 37",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/agen-miroiterie?utm_source=gmb",
+        "adresse": "1930 Av. de Cahors, 47480 Pont-du-Casse",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5325373260113774415",
+        "nom": "BAT INN",
+        "slug": "bat-inn",
+        "telephone": "06 60 54 09 53",
+        "site_web": "https://batinn.fr/",
+        "adresse": "27 Av. des Pins, 31470 Fonsorbes",
+        "note": 5,
+        "avis": 27,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13065315902552997647",
+        "nom": "Abc Toitures",
+        "slug": "abc-toitures",
+        "telephone": "05 53 66 90 60",
+        "site_web": "http://abc-toiture.com/?utm_source=gmb",
+        "adresse": "11 Av. Jean Serres, 47480 Pont-du-Casse",
+        "note": 4.2,
+        "avis": 34,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6806865568046982154",
+        "nom": "ETS LAURENT - Tout faire bois - Agence Delsol Pont Du Casse",
+        "slug": "ets-laurent-tout-faire-bois-agence-delsol-pont-du-casse",
+        "telephone": "05 53 66 59 79",
+        "site_web": "https://www.toutfaire.fr/delsol-bois-et-materiaux-pont-du-casse.html",
+        "adresse": "Chem. de Borie ZA de, 47480 Pont-du-Casse",
+        "note": 4.5,
+        "avis": 43,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "11454868877659032238",
+        "nom": "Renov Habitat",
+        "slug": "renov-habitat",
+        "telephone": "06 59 44 86 84",
+        "site_web": "https://renov-habitat-occitanie.fr/",
+        "adresse": "Lieu Dit La Pachère, 32500 Fleurance",
+        "note": 5,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15996971306046966438",
+        "nom": "Air & LUX Installateur Conseil Expert VELUX",
+        "slug": "air-lux-installateur-conseil-expert-velux",
+        "telephone": "06 34 99 45 41",
+        "site_web": "https://www.air-et-lux.com/",
+        "adresse": "160 Rue des Poiriers, 31600 Saint-Clar-de-Rivière",
+        "note": 4.9,
+        "avis": 80,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8700504344571009575",
+        "nom": "ARTISAN MARTIN Couvreur à Brax 47 Lot-et-Garonne",
+        "slug": "artisan-martin-couvreur-a-brax-47-lot-et-garonne",
+        "telephone": "06 06 81 22 67",
+        "site_web": "http://couvreure-47.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "brax": {
+    "artisans": [
+      {
+        "id": "1721698877479831944",
+        "nom": "SFS MENUISERIE",
+        "slug": "sfs-menuiserie",
+        "telephone": "06 59 66 09 42",
+        "site_web": "https://agen-menuiserie-sfs.fr/",
+        "adresse": "Lieu dit Lasparguere ZAC Terrasse Garonne, 47310 Brax",
+        "note": 4.8,
+        "avis": 86,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cancon": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "boe": {
+    "artisans": [
+      {
+        "id": "6621386842441677153",
+        "nom": "HABITAT TOITURE - Couvreur - Nettoyage et démoussage de toiture",
+        "slug": "habitat-toiture-couvreur-nettoyage-et-demoussage-de-toiture",
+        "telephone": "06 22 31 34 66",
+        "site_web": "https://habitat-toiture.fr/",
+        "adresse": "28 Rue Jean Rostand, 47550 Boé",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bias": {
+    "artisans": [
+      {
+        "id": "13801811012032826614",
+        "nom": "Le Vitrier 47",
+        "slug": "le-vitrier-47",
+        "telephone": "05 53 41 73 96",
+        "site_web": null,
+        "adresse": "2415 Av. Pont des Martinets, 47300 Bias",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "16643677914549018549",
+        "nom": "Nomat Ecofermetures - fenetre - volet - portail - Menuiserie sainte livrade sur lot",
+        "slug": "nomat-ecofermetures-fenetre-volet-portail-menuiserie-sainte-livrade-sur-lot",
+        "telephone": "05 47 01 10 48",
+        "site_web": "https://www.nomatecofermeture.fr/",
+        "adresse": "4 Av. René Bouchon, 47110 Sainte-Livrade-sur-Lot",
+        "note": 4.8,
+        "avis": 44,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16309768862718099160",
+        "nom": "Les Menuisiers des Occitans - Bias",
+        "slug": "les-menuisiers-des-occitans-bias",
+        "telephone": "05 53 70 02 20",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/les-menuisiers-des-occitans-bias",
+        "adresse": "541 Av. de Bordeaux, 47300 Bias",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7948001534678089211",
+        "nom": "Menuisor",
+        "slug": "menuisor",
+        "telephone": "06 62 26 96 98",
+        "site_web": "https://www.menuisor.com/",
+        "adresse": "Pierrou, 47300 Villeneuve-sur-Lot",
+        "note": 4.9,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5056005593448846438",
+        "nom": "Aquitaine Aluminium Service",
+        "slug": "aquitaine-aluminium-service",
+        "telephone": "05 53 49 38 66",
+        "site_web": null,
+        "adresse": "2415 Av. Pont des Martinets, 47300 Bias",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "buzet-sur-baise": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "casseneuil": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bon-encontre": {
+    "artisans": [
+      {
+        "id": "4794216449653692362",
+        "nom": "BIAUT SARL",
+        "slug": "biaut-sarl",
+        "telephone": "05 53 47 76 34",
+        "site_web": "http://www.biaut-charpente.fr/",
+        "adresse": "Rue Georges Clemenceau, 47240 Bon-Encontre",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "casteljaloux": {
+    "artisans": [
+      {
+        "id": "4758563034464800564",
+        "nom": "Giber Menuiserie",
+        "slug": "giber-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rte de Cocumont, 47700 Casteljaloux",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11961559773487137612",
+        "nom": "Ent Capdegelle Laurent",
+        "slug": "ent-capdegelle-laurent",
+        "telephone": "05 53 93 06 82",
+        "site_web": "http://www.menuiserie-capdegelle.fr/",
+        "adresse": "11 Rue Robert Celles, 47700 Casteljaloux",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "747767029678266765",
+        "nom": "Menuiserie Sudiro",
+        "slug": "menuiserie-sudiro",
+        "telephone": "05 53 93 03 48",
+        "site_web": "https://menuiserie-sudiro.com/",
+        "adresse": "26 Rue de Belloc, 47700 Casteljaloux",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "castelmoron-sur-lot": {
+    "artisans": [
+      {
+        "id": "7948001534678089211",
+        "nom": "Menuisor",
+        "slug": "menuisor",
+        "telephone": "06 62 26 96 98",
+        "site_web": "https://www.menuisor.com/",
+        "adresse": "Pierrou, 47300 Villeneuve-sur-Lot",
+        "note": 4.9,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "castillonnes": {
+    "artisans": [
+      {
+        "id": "12750628608990937240",
+        "nom": "Point.P - Castillonnes",
+        "slug": "pointp-castillonnes",
+        "telephone": "05 53 36 94 14",
+        "site_web": "https://www.pointp.fr/infos-agence/castillonnes-point-p-1248",
+        "adresse": "ZI DU COUSTOU, N21, 47330 Castillonnès",
+        "note": 3.9,
+        "avis": 22,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "caudecoste": {
+    "artisans": [
+      {
+        "id": "9007110267593806013",
+        "nom": "CALLISTO Toiture",
+        "slug": "callisto-toiture",
+        "telephone": "05 53 68 00 10",
+        "site_web": "https://www.callisto-toiture.com/",
+        "adresse": "61 Rte d'Agen, 47310 Estillac",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "castelculier": {
+    "artisans": [
+      {
+        "id": "2196342926246889773",
+        "nom": "Ouvertures GARRIGUES",
+        "slug": "ouvertures-garrigues",
+        "telephone": "05 53 98 52 52",
+        "site_web": "http://ouvertures-garrigues.com/",
+        "adresse": "RD813, 47240 Castelculier",
+        "note": 4.9,
+        "avis": 25,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "clairac": {
+    "artisans": [
+      {
+        "id": "1987791607811633339",
+        "nom": "Entreprise Belle Maison",
+        "slug": "entreprise-belle-maison",
+        "telephone": "06 50 63 67 40",
+        "site_web": "http://www.entreprise-bellemaison.fr/",
+        "adresse": "Stainte livrade sur lot FR, 2008 Rte de Merdassou, 47110",
+        "note": 4.9,
+        "avis": 86,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cocumont": {
+    "artisans": [
+      {
+        "id": "13812012915735709947",
+        "nom": "Protection solaire cocumont",
+        "slug": "protection-solaire-cocumont",
+        "telephone": "09 79 11 55 08",
+        "site_web": null,
+        "adresse": "Zone Artisanale Limoges, 47250 Cocumont",
+        "note": 4,
+        "avis": 1,
+        "type": "Entrepôt"
+      }
+    ]
+  },
+  "beaupuy": {
+    "artisans": [
+      {
+        "id": "17723802224171943002",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": "05 53 88 70 59",
+        "site_web": "https://lghabitat.com/",
+        "adresse": "5 Imp. Doumayne, 47200 Marmande",
+        "note": 4.6,
+        "avis": 68,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "colayrac-saint-cirq": {
+    "artisans": [
+      {
+        "id": "6786371322691325374",
+        "nom": "Eurl V B Fermetures",
+        "slug": "eurl-v-b-fermetures",
+        "telephone": "06 18 27 16 24",
+        "site_web": null,
+        "adresse": "ZA champs de Labarthe, 47450 Colayrac-Saint-Cirq",
+        "note": 4,
+        "avis": 4,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12134655651876364346",
+        "nom": "DÉPÔT DISCOUNT",
+        "slug": "depot-discount",
+        "telephone": "05 53 96 49 03",
+        "site_web": "http://www.depot-discount.fr/",
+        "adresse": "1 Allee la Chaise, 47450 Colayrac-Saint-Cirq",
+        "note": 4.2,
+        "avis": 94,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "duras": {
+    "artisans": [
+      {
+        "id": "12636030169912480591",
+        "nom": "Evrard Alain",
+        "slug": "evrard-alain",
+        "telephone": "05 53 83 71 36",
+        "site_web": null,
+        "adresse": "7 Rue Paul Persil, 47120 Duras",
+        "note": 4.5,
+        "avis": 30,
+        "type": "Boucherie"
+      },
+      {
+        "id": "11481072626232621325",
+        "nom": "MAISON GUIGNARD PEINTURES",
+        "slug": "maison-guignard-peintures",
+        "telephone": "06 40 33 21 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "9841269690663728188",
+        "nom": "Château des Ducs de Duras",
+        "slug": "chateau-des-ducs-de-duras",
+        "telephone": "05 33 14 00 38",
+        "site_web": "http://www.chateau-de-duras.com/",
+        "adresse": "Place du Château, 47120 Duras",
+        "note": 4.5,
+        "avis": 3564,
+        "type": "Château"
+      },
+      {
+        "id": "4883800614643665768",
+        "nom": "Charpente Renaux",
+        "slug": "charpente-renaux",
+        "telephone": "06 74 06 57 90",
+        "site_web": "https://www.facebook.com/pages/category/Carpenter/EURL-Charpente-Renaux-2302980013080640/",
+        "adresse": "Lieu-dit Saint Eyrard, 50 Rte de Bonin, 47120 Duras",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "estillac": {
+    "artisans": [
+      {
+        "id": "9007110267593806013",
+        "nom": "CALLISTO Toiture",
+        "slug": "callisto-toiture",
+        "telephone": "05 53 68 00 10",
+        "site_web": "https://www.callisto-toiture.com/",
+        "adresse": "61 Rte d'Agen, 47310 Estillac",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7448529469352678959",
+        "nom": "Avenir Rénovations Agen",
+        "slug": "avenir-renovations-agen",
+        "telephone": "05 33 52 35 67",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-47-agen/",
+        "adresse": "20 Av. de la Marne, 47520 Le Passage",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1974770823730150827",
+        "nom": "Serrurerie Menuiserie Sopel",
+        "slug": "serrurerie-menuiserie-sopel",
+        "telephone": "05 53 98 09 50",
+        "site_web": "https://www.sopel-menuiserie-agen.fr/",
+        "adresse": "50 Rte d'Agen, 47310 Estillac",
+        "note": 4.6,
+        "avis": 43,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "la-croix-blanche": {
+    "artisans": [
+      {
+        "id": "10778811689822975471",
+        "nom": "RENOV ' MENUISERIES",
+        "slug": "renov-menuiseries",
+        "telephone": "05 53 71 85 93",
+        "site_web": "https://www.renovmenuiseries.fr/",
+        "adresse": "Zac de Parasol, Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 4.9,
+        "avis": 62,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "damazan": {
+    "artisans": [
+      {
+        "id": "6713524464059676330",
+        "nom": "Ambonati",
+        "slug": "ambonati",
+        "telephone": "05 53 84 18 41",
+        "site_web": "http://www.groupe-ambonati.com/",
+        "adresse": "ZA de la confluence, 3 Rte de Saint-Léon, 47160 Damazan",
+        "note": 3.6,
+        "avis": 25,
+        "type": null
+      }
+    ]
+  },
+  "feugarolles": {
+    "artisans": [
+      {
+        "id": "15996971306046966438",
+        "nom": "Air & LUX Installateur Conseil Expert VELUX",
+        "slug": "air-lux-installateur-conseil-expert-velux",
+        "telephone": "06 34 99 45 41",
+        "site_web": "https://www.air-et-lux.com/",
+        "adresse": "160 Rue des Poiriers, 31600 Saint-Clar-de-Rivière",
+        "note": 4.9,
+        "avis": 80,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "foulayronnes": {
+    "artisans": [
+      {
+        "id": "3792353018103438290",
+        "nom": "B&FENETRES",
+        "slug": "bfenetres",
+        "telephone": "05 53 48 29 16",
+        "site_web": "https://www.b-fenetres.fr/?utm_source=gmb",
+        "adresse": "Rouge, 47510 Foulayronnes",
+        "note": 4.6,
+        "avis": 12,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "fourques-sur-garonne": {
+    "artisans": [
+      {
+        "id": "15135613201039404256",
+        "nom": "Menuiserie Véranda Garonne Alu",
+        "slug": "menuiserie-veranda-garonne-alu",
+        "telephone": "05 53 93 76 92",
+        "site_web": null,
+        "adresse": "536 All. de Pont des Sables Allée De, 47200 Fourques-sur-Garonne",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8026599038742056244",
+        "nom": "CASÉO Marmande",
+        "slug": "caseo-marmande",
+        "telephone": "05 53 93 76 92",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-marmande-fourques-sur-garonne-109",
+        "adresse": "536 All. de Pont des Sables, 47200 Fourques-sur-Garonne",
+        "note": 5,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "fumel": {
+    "artisans": [
+      {
+        "id": "12353805612875856580",
+        "nom": "Les Menuisiers Des Occitans",
+        "slug": "les-menuisiers-des-occitans",
+        "telephone": "05 53 75 50 06",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/les-menuisiers-des-occitans",
+        "adresse": "331 Zone du Haut Agenais, 47500 Montayral",
+        "note": 4.8,
+        "avis": 96,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1002298209348376014",
+        "nom": "CASÉO Fumel",
+        "slug": "caseo-fumel",
+        "telephone": "05 53 71 25 67",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-fumel-saint-vite-77",
+        "adresse": "Chemin du Mayne Lieu-dit, 47500 Saint-Vite",
+        "note": 4.7,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15923633905513759675",
+        "nom": "Gabarre Jean-Marc",
+        "slug": "gabarre-jean-marc",
+        "telephone": "05 53 40 92 31",
+        "site_web": "http://www.gabarre.fr/",
+        "adresse": "Florimont, Route de Périgueux, 47500 Fumel",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "hautefage-la-tour": {
+    "artisans": [
+      {
+        "id": "5895780448094568598",
+        "nom": "Avenir Rénovations - Villeneuve Sur Lot",
+        "slug": "avenir-renovations-villeneuve-sur-lot",
+        "telephone": "05 33 52 35 69",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-47-agen/",
+        "adresse": "238 Chem. de Loulmède, 47140 Auradou",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "11466729725820171375",
+        "nom": "La boutique du portail",
+        "slug": "la-boutique-du-portail",
+        "telephone": "09 70 14 88 88",
+        "site_web": "https://www.laboutiqueduportail.com/fr/",
+        "adresse": "169 Route de la vallée de cambes, 47300 Pujols",
+        "note": 4.5,
+        "avis": 1216,
+        "type": "Fabricant"
+      },
+      {
+        "id": "9378963737639041024",
+        "nom": "Marché Minut",
+        "slug": "marche-minut",
+        "telephone": "05 53 71 69 67",
+        "site_web": null,
+        "adresse": "D103, 47340 Hautefage-la-Tour",
+        "note": 4,
+        "avis": 4,
+        "type": "Épicerie"
+      }
+    ]
+  },
+  "miramont-de-guyenne": {
+    "artisans": [
+      {
+        "id": "15781499429594936874",
+        "nom": "Valognes Menuiserie - Menuisier Miramont-de-Guyenne",
+        "slug": "valognes-menuiserie-menuisier-miramont-de-guyenne",
+        "telephone": "05 53 79 54 05",
+        "site_web": "https://valognes-menuiseries.fr/",
+        "adresse": "1250 impasse des Peupliers, 47800 Saint-Pardoux-Isaac",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8823421156085450661",
+        "nom": "Renov'Art - Menuiseries PVC et alu",
+        "slug": "renovart-menuiseries-pvc-et-alu",
+        "telephone": "05 37 04 11 52",
+        "site_web": "https://www.renovart-ouvertures.fr/landings/?utm_source=gmb&utm_medium=referral&utm_campaign=lien-principal-fiche-gmb",
+        "adresse": "53 Av. de Paris, 47800 Miramont-de-Guyenne",
+        "note": 4.1,
+        "avis": 50,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "12473718687443115010",
+        "nom": "Artisan MG Couvreur Miramont-de-Guyenne : Réparation Fuite Toit - Démoussage Toiture - Pose Tuiles - Étanchéité",
+        "slug": "artisan-mg-couvreur-miramont-de-guyenne-reparation-fuite-toit-demoussage-toiture-pose-tuiles-etancheite",
+        "telephone": "05 33 14 01 28",
+        "site_web": "https://artisan-mg-couvreur.eu/",
+        "adresse": "30 Rue du Temple, 47800 Miramont-de-Guyenne",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4891989920009571370",
+        "nom": "Menuiserie Szpala",
+        "slug": "menuiserie-szpala",
+        "telephone": "06 47 21 64 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4901127421423622702",
+        "nom": "Menuiserie Industrielle",
+        "slug": "menuiserie-industrielle",
+        "telephone": "05 53 93 31 60",
+        "site_web": "https://www.menuiserieindustrielle.fr/?utm_source=gmb",
+        "adresse": "29 rue marcel mennechet, 47800 Miramont-de-Guyenne",
+        "note": 4.5,
+        "avis": 186,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "lafox": {
+    "artisans": [
+      {
+        "id": "16538541225276742326",
+        "nom": "RN Menuiserie - Menuisier à Agen RGE - Valence d'Agen - Lectoure - Villeneuve-sur-Lot",
+        "slug": "rn-menuiserie-menuisier-a-agen-rge-valence-dagen-lectoure-villeneuve-sur-lot",
+        "telephone": "05 53 95 91 16",
+        "site_web": "https://www.rn-menuiserie.fr/",
+        "adresse": "Lieu dit terrefort, 492 route d'agen, 47240 Lafox",
+        "note": 4.7,
+        "avis": 142,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "monflanquin": {
+    "artisans": [
+      {
+        "id": "3869671081909787135",
+        "nom": "Janouix",
+        "slug": "janouix",
+        "telephone": "05 53 36 53 21",
+        "site_web": null,
+        "adresse": "47150 Monflanquin",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8941380501413692253",
+        "nom": "Eurl Granzotto",
+        "slug": "eurl-granzotto",
+        "telephone": "05 53 36 77 80",
+        "site_web": null,
+        "adresse": "47150 Monflanquin",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "gontaud-de-nogaret": {
+    "artisans": [
+      {
+        "id": "13725935612154327031",
+        "nom": "coutié claude",
+        "slug": "coutie-claude",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "47400 Gontaud-de-Nogaret",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16889878861550796999",
+        "nom": "Gontaud Préfa",
+        "slug": "gontaud-prefa",
+        "telephone": "05 53 83 44 99",
+        "site_web": "http://gontaudprefa.fr/",
+        "adresse": "Sansot, 47400 Gontaud-de-Nogaret",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Constructeur de structures en béton"
+      }
+    ]
+  },
+  "monsempron-libos": {
+    "artisans": [
+      {
+        "id": "3896439961364090531",
+        "nom": "Tellus-ceram",
+        "slug": "tellus-ceram",
+        "telephone": "05 53 71 13 01",
+        "site_web": "http://tellus-ing.com/",
+        "adresse": "Rue Beausoleil, 47500 Monsempron-Libos",
+        "note": 3.8,
+        "avis": 14,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "moirax": {
+    "artisans": [
+      {
+        "id": "14775022682661650717",
+        "nom": "Vert & Net - Tonte et entretien de jardins - Débroussaillage - Agen et environs",
+        "slug": "vert-net-tonte-et-entretien-de-jardins-debroussaillage-agen-et-environs",
+        "telephone": "06 82 30 61 57",
+        "site_web": null,
+        "adresse": "1719 Voie de César, 47310 Moirax",
+        "note": 5,
+        "avis": 9,
+        "type": "Jardin"
+      },
+      {
+        "id": "4794216449653692362",
+        "nom": "BIAUT SARL",
+        "slug": "biaut-sarl",
+        "telephone": "05 53 47 76 34",
+        "site_web": "http://www.biaut-charpente.fr/",
+        "adresse": "Rue Georges Clemenceau, 47240 Bon-Encontre",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4479855731788519003",
+        "nom": "CHB Komilfo",
+        "slug": "chb-komilfo",
+        "telephone": "05 53 65 99 18",
+        "site_web": "https://www.komilfo.fr/",
+        "adresse": "89 Av. Georges Clemenceau, 47600 Nérac",
+        "note": 4.6,
+        "avis": 76,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5870364098984100794",
+        "nom": "Brasero Loco",
+        "slug": "brasero-loco",
+        "telephone": "06 16 37 07 77",
+        "site_web": "http://braseroloco.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 24,
+        "type": "Magasin d'articles de barbecue"
+      },
+      {
+        "id": "4454741543165107547",
+        "nom": "Frédéric Riva",
+        "slug": "frederic-riva",
+        "telephone": "06 61 75 20 44",
+        "site_web": "https://www.couvreur-prohabitatrenovationriva.fr/",
+        "adresse": "Chem. du Rieumort, 47310 Brax",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nerac": {
+    "artisans": [
+      {
+        "id": "10023091371431356642",
+        "nom": "Hennobois - SOLABAIE Nérac",
+        "slug": "hennobois-solabaie-nerac",
+        "telephone": "05 53 65 85 62",
+        "site_web": "https://henno-bois.com/",
+        "adresse": "2948 Rue de Bordeaux, 47600 Nérac",
+        "note": 4.9,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4479855731788519003",
+        "nom": "CHB Komilfo",
+        "slug": "chb-komilfo",
+        "telephone": "05 53 65 99 18",
+        "site_web": "https://www.komilfo.fr/",
+        "adresse": "89 Av. Georges Clemenceau, 47600 Nérac",
+        "note": 4.6,
+        "avis": 76,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2888121086393946562",
+        "nom": "Service du Bâtiment SARL - Dal'Alu",
+        "slug": "service-du-batiment-sarl-dalalu",
+        "telephone": "05 53 65 00 35",
+        "site_web": "https://sdb47.com/",
+        "adresse": "ZI LABARRE, 47600 Nérac",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-passage": {
+    "artisans": [
+      {
+        "id": "17123698314395339411",
+        "nom": "A.R.Menuiserie",
+        "slug": "armenuiserie",
+        "telephone": "07 88 27 10 37",
+        "site_web": "https://www.ar-menuiserie47.fr/",
+        "adresse": "42 Av. Paul Bême, 47520 Le Passage",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11549292955074056838",
+        "nom": "OuvertureS - SainT Martin Menuiserie",
+        "slug": "ouvertures-saint-martin-menuiserie",
+        "telephone": "05 53 67 69 02",
+        "site_web": "https://www.ouvertures.com/expert/saintmartinmenuiserie",
+        "adresse": "121 Av. Michel Ricard, 47520 Le Passage",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8709997696732030486",
+        "nom": "RenoVerso Menuiserie",
+        "slug": "renoverso-menuiserie",
+        "telephone": "05 53 48 24 92",
+        "site_web": "https://www.renoverso.fr/",
+        "adresse": "51 Bd Eugène Pelletan, 47000 Agen",
+        "note": 4.9,
+        "avis": 186,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "montayral": {
+    "artisans": [
+      {
+        "id": "10801508063202951085",
+        "nom": "Sarl ROUX",
+        "slug": "sarl-roux",
+        "telephone": "05 53 49 48 65",
+        "site_web": "https://www.facebook.com/DalAluNational",
+        "adresse": "419 zone du Haut Agenais, 47500 Montayral",
+        "note": 3,
+        "avis": 3,
+        "type": "Installation et entretien de gouttières"
+      },
+      {
+        "id": "15954037204104224299",
+        "nom": "Gilet Aluminium",
+        "slug": "gilet-aluminium",
+        "telephone": "05 53 40 74 47",
+        "site_web": null,
+        "adresse": "D911, 47500 Montayral",
+        "note": 4,
+        "avis": 1,
+        "type": null
+      }
+    ]
+  },
+  "layrac": {
+    "artisans": [
+      {
+        "id": "720309796567196887",
+        "nom": "Miroiterie Capel",
+        "slug": "miroiterie-capel",
+        "telephone": "05 53 99 46 12",
+        "site_web": null,
+        "adresse": "ZAC la Roubiague, 47390 Layrac",
+        "note": 4.3,
+        "avis": 30,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "laplume": {
+    "artisans": [
+      {
+        "id": "9251410552797513746",
+        "nom": "Laplume tp",
+        "slug": "laplume-tp",
+        "telephone": "06 78 04 09 61",
+        "site_web": "https://laplumetp-47.fr/",
+        "adresse": "Rebequet, 47310 Laplume",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "penne-d-agenais": {
+    "artisans": [
+      {
+        "id": "1641529381403964630",
+        "nom": "MENUI + | Menuiserie à Agen : Fenêtres PVC/Alu/Bois, Volets, Portes & Agencement (Terrasse Bois, Parquet, Dressing)",
+        "slug": "menui-menuiserie-a-agen-fenetres-pvcalubois-volets-portes-agencement-terrasse-bois-parquet-dressing",
+        "telephone": "06 29 67 55 26",
+        "site_web": "https://menuiplus.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 18,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lavardac": {
+    "artisans": [
+      {
+        "id": "187395396727313222",
+        "nom": "ETS LAURENT - Tout faire bois - Agence Delsol Lavardac",
+        "slug": "ets-laurent-tout-faire-bois-agence-delsol-lavardac",
+        "telephone": "05 53 65 50 32",
+        "site_web": "https://www.toutfaire.fr/delsol-bois-et-materiaux-lavardac.html",
+        "adresse": "Route d'Agen, 47230 Lavardac",
+        "note": 4.4,
+        "avis": 33,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "11639187046734526185",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "05 53 66 95 10",
+        "site_web": "https://magasins.lapeyre.fr/nouvelle-aquitaine/lot-et-garonne/lapeyre-agen-112",
+        "adresse": "route D'Auch, 47550 Boé",
+        "note": 4.2,
+        "avis": 298,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "1769231989192163897",
+        "nom": "Charpente Bejna Pierre",
+        "slug": "charpente-bejna-pierre",
+        "telephone": "05 53 97 58 76",
+        "site_web": "http://www.charpentierzingueurbejna.com/",
+        "adresse": "7 Imp. de la Ténarèze, 47230 Lavardac",
+        "note": 5,
+        "avis": 5,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "laroque-timbaut": {
+    "artisans": [
+      {
+        "id": "5530366725832481084",
+        "nom": "BS MENUISERIE 47",
+        "slug": "bs-menuiserie-47",
+        "telephone": "07 67 13 99 32",
+        "site_web": "http://www.bsmenuiserie47.fr/",
+        "adresse": "30 Av. du Périgord, 47340 Laroque-Timbaut",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": "05 53 87 97 52",
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "4 Rue Ribalous, 47340 Laroque-Timbaut",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "ledat": {
+    "artisans": [
+      {
+        "id": "8010145476696265585",
+        "nom": "Etex Villeneuve s/ Lot",
+        "slug": "etex-villeneuve-s-lot",
+        "telephone": "05 53 40 35 00",
+        "site_web": "http://www.siniat.fr/",
+        "adresse": "Zoning Industriel Bordeneuve du Rooy, Rue Ampère, 47300 Villeneuve-sur-Lot",
+        "note": 4.2,
+        "avis": 15,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "1987791607811633339",
+        "nom": "Entreprise Belle Maison",
+        "slug": "entreprise-belle-maison",
+        "telephone": "06 50 63 67 40",
+        "site_web": "http://www.entreprise-bellemaison.fr/",
+        "adresse": "Stainte livrade sur lot FR, 2008 Rte de Merdassou, 47110",
+        "note": 4.9,
+        "avis": 86,
+        "type": "Couvreur"
+      },
+      {
+        "id": "729120023569953870",
+        "nom": "DS Couverture",
+        "slug": "ds-couverture",
+        "telephone": "07 66 73 65 13",
+        "site_web": "http://dscouverture47.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "marmande": {
+    "artisans": [
+      {
+        "id": "8843146676347611801",
+        "nom": "GLACE ALU 47",
+        "slug": "glace-alu-47",
+        "telephone": "05 53 20 91 23",
+        "site_web": null,
+        "adresse": "75 Bd de la Liberté, 47200 Marmande",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13852649230641783326",
+        "nom": "La Boutique du Menuisier - Menuiserie David",
+        "slug": "la-boutique-du-menuisier-menuiserie-david",
+        "telephone": "05 53 94 83 85",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/menuiserie-david",
+        "adresse": "108 Av. des Martyrs de la Résistance, 47200 Marmande",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17493026812116513045",
+        "nom": "Komilfo Maison Du Store et de L'Enseigne à Marmande - Fenêtres, Volets, Pergolas, Stores, Portes, Portails, Portes de garage",
+        "slug": "komilfo-maison-du-store-et-de-lenseigne-a-marmande-fenetres-volets-pergolas-stores-portes-portails-portes-de-garage",
+        "telephone": "05 53 64 11 19",
+        "site_web": "https://www.komilfo.fr/magasins/maison-store-enseigne-marmande-47?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "ZAC de la Plaine, 4 Rue Albert Einstein, 47200 Marmande",
+        "note": 4.7,
+        "avis": 155,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8994868684829599607",
+        "nom": "Schiro Menuiseries Et Fermetures",
+        "slug": "schiro-menuiseries-et-fermetures",
+        "telephone": "05 53 84 72 83",
+        "site_web": "http://www.facebook.com/Schiro-Constructions-et-Menuiseries-816624011725081?utm_source=gmb",
+        "adresse": "Baillas, Allée Georges Brassens, 47200 Marmande",
+        "note": 3.9,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17723802224171943002",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": "05 53 88 70 59",
+        "site_web": "https://lghabitat.com/",
+        "adresse": "5 Imp. Doumayne, 47200 Marmande",
+        "note": 4.6,
+        "avis": 68,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6461748543353764869",
+        "nom": "Ges Habitat Marmande",
+        "slug": "ges-habitat-marmande",
+        "telephone": "05 53 64 16 90",
+        "site_web": "http://www.geshabitat.com/",
+        "adresse": "73 Av. Pierre Buffin, 47200 Marmande",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15287846116605142884",
+        "nom": "Menuiserie Massartic",
+        "slug": "menuiserie-massartic",
+        "telephone": "05 53 94 39 55",
+        "site_web": "https://www.menuiserie-massartic.fr/",
+        "adresse": "Rte de Marmande N 8, 47400 Fauguerolles",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5746144994646212394",
+        "nom": "BATIMAN THOMAS ROUX MENUISERIE",
+        "slug": "batiman-thomas-roux-menuiserie",
+        "telephone": "05 53 71 72 36",
+        "site_web": "http://www.thomasroux-menuiserie.com/",
+        "adresse": "25 Av. de Villeneuve, 47140 Saint-Sylvestre-sur-Lot",
+        "note": 4.9,
+        "avis": 141,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12118603630447366975",
+        "nom": "Ges Habitat Tonneins",
+        "slug": "ges-habitat-tonneins",
+        "telephone": "05 53 83 87 21",
+        "site_web": "http://www.geshabitat.com/",
+        "adresse": "52 Cr de l'Abbé Lanusse, 47400 Tonneins",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16538541225276742326",
+        "nom": "RN Menuiserie - Menuisier à Agen RGE - Valence d'Agen - Lectoure - Villeneuve-sur-Lot",
+        "slug": "rn-menuiserie-menuisier-a-agen-rge-valence-dagen-lectoure-villeneuve-sur-lot",
+        "telephone": "05 53 95 91 16",
+        "site_web": "https://www.rn-menuiserie.fr/",
+        "adresse": "Lieu dit terrefort, 492 route d'agen, 47240 Lafox",
+        "note": 4.7,
+        "avis": 142,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "le-mas-d-agenais": {
+    "artisans": [
+      {
+        "id": "750848093785747767",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "05 53 48 90 58",
+        "site_web": "https://www.menuiserie-motard-agen47.fr/?utm_source=gmb",
+        "adresse": "240 Av. du Général Leclerc, 47000 Agen",
+        "note": 4.7,
+        "avis": 187,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12136356118288287194",
+        "nom": "HN Couverture couvreur 47",
+        "slug": "hn-couverture-couvreur-47",
+        "telephone": "07 86 93 98 72",
+        "site_web": "https://www.entreprise-toiture-47.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "aiguillon": {
+    "artisans": [
+      {
+        "id": "1549155749467292513",
+        "nom": "DELTA DECO",
+        "slug": "delta-deco",
+        "telephone": "05 53 79 67 68",
+        "site_web": "https://www.eldotravo.fr/pro/delta_deco/",
+        "adresse": "ZAC DE, 47190 Aiguillon",
+        "note": 4.7,
+        "avis": 45,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "14044642872003230739",
+        "nom": "C.D.A Comptoir des Affaires",
+        "slug": "cda-comptoir-des-affaires",
+        "telephone": "05 53 88 29 70",
+        "site_web": "http://www.cdasite.fr/",
+        "adresse": "14 Rue d'Argenteau, 47190 Aiguillon",
+        "note": 4.5,
+        "avis": 175,
+        "type": "Magasin discount"
+      },
+      {
+        "id": "13165805522640740251",
+        "nom": "Laffitte Jean Pierre Ébénisterie",
+        "slug": "laffitte-jean-pierre-ebenisterie",
+        "telephone": "06 41 88 70 85",
+        "site_web": "https://www.houzz.fr/professionnels/artisan-menuisier-et-ebeniste/atelier-d-ebenisterie-jean-pierre-laffitte-pfvwfr-pf~60302978",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "3227580763125575129",
+        "nom": "CLOUPEAU SARL",
+        "slug": "cloupeau-sarl",
+        "telephone": "05 53 79 65 35",
+        "site_web": "http://cloupeau.fr/",
+        "adresse": "11 Rue Lucie Aubrac, 47190 Aiguillon",
+        "note": 4.2,
+        "avis": 25,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "astaffort": {
+    "artisans": [
+      {
+        "id": "8909618124658479108",
+        "nom": "Lestieux Jean-Marc",
+        "slug": "lestieux-jean-marc",
+        "telephone": "05 53 67 04 79",
+        "site_web": "http://menuiserie-lestieux.fr/",
+        "adresse": "Hontoumazos, 47220 Astaffort",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9343079017905669361",
+        "nom": "Sarl Grattieri-Esteve - Plaquiste",
+        "slug": "sarl-grattieri-esteve-plaquiste",
+        "telephone": "06 15 07 75 95",
+        "site_web": "https://grattieri-esteve-batiment.fr/",
+        "adresse": "Chem. de Pouchiou, 47220 Astaffort",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "agen": {
+    "artisans": [
+      {
+        "id": "1641529381403964630",
+        "nom": "MENUI + | Menuiserie à Agen : Fenêtres PVC/Alu/Bois, Volets, Portes & Agencement (Terrasse Bois, Parquet, Dressing)",
+        "slug": "menui-menuiserie-a-agen-fenetres-pvcalubois-volets-portes-agencement-terrasse-bois-parquet-dressing",
+        "telephone": "06 29 67 55 26",
+        "site_web": "https://menuiplus.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1721698877479831944",
+        "nom": "SFS MENUISERIE",
+        "slug": "sfs-menuiserie",
+        "telephone": "06 59 66 09 42",
+        "site_web": "https://agen-menuiserie-sfs.fr/",
+        "adresse": "Lieu dit Lasparguere ZAC Terrasse Garonne, 47310 Brax",
+        "note": 4.8,
+        "avis": 86,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15023675515508693315",
+        "nom": "Menuiseries du Sud-Ouest",
+        "slug": "menuiseries-du-sud-ouest",
+        "telephone": "05 64 72 02 48",
+        "site_web": "http://www.les-menuiseries-du-sud-ouest.fr/",
+        "adresse": "23 Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4346761443065245157",
+        "nom": "HF DIFFUSION - MENUISIER AGEN",
+        "slug": "hf-diffusion-menuisier-agen",
+        "telephone": "05 53 47 55 31",
+        "site_web": "https://hfdiffusion47.fr/",
+        "adresse": "RD813, Route de Toulouse, 47240 Bon-Encontre",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6206132938817750083",
+        "nom": "Ribeiro",
+        "slug": "ribeiro",
+        "telephone": "06 26 24 65 01",
+        "site_web": "https://www.facebook.com/profile.php?id=100083453222483",
+        "adresse": "Sarl Ribeiro Laurent, 230 Rue de la Gare, 47550 Boé",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Magasin de rideaux"
+      },
+      {
+        "id": "7882674248206098480",
+        "nom": "Cabirol Charpente & Construction Maison Bois",
+        "slug": "cabirol-charpente-construction-maison-bois",
+        "telephone": "05 53 96 72 84",
+        "site_web": "http://www.cabirolcharpente.fr/",
+        "adresse": "Rue Georges Clemenceau, 47240 Bon-Encontre",
+        "note": 5,
+        "avis": 3,
+        "type": "Constructeur de maisons en bois"
+      }
+    ]
+  },
+  "meilhan-sur-garonne": {
+    "artisans": [
+      {
+        "id": "17723802224171943002",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": "05 53 88 70 59",
+        "site_web": "https://lghabitat.com/",
+        "adresse": "5 Imp. Doumayne, 47200 Marmande",
+        "note": 4.6,
+        "avis": 68,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mezin": {
+    "artisans": [
+      {
+        "id": "13954056867780513497",
+        "nom": "Mène Jean-Louis",
+        "slug": "mene-jean-louis",
+        "telephone": "05 53 65 75 93",
+        "site_web": null,
+        "adresse": "Z.A de Lange, 47170 Mézin",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6800389891647258415",
+        "nom": "Sarl Barranger R.m",
+        "slug": "sarl-barranger-rm",
+        "telephone": "05 53 97 30 51",
+        "site_web": "http://www.menuiseriebarrangermezin.com/",
+        "adresse": "1 Rue de la Ténarèze, 47170 Mézin",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5935334711655310271",
+        "nom": "ducos lucas",
+        "slug": "ducos-lucas",
+        "telephone": "06 47 68 15 20",
+        "site_web": null,
+        "adresse": "151 za de l'ange, 47170 Mézin",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "barbaste": {
+    "artisans": [
+      {
+        "id": "15996971306046966438",
+        "nom": "Air & LUX Installateur Conseil Expert VELUX",
+        "slug": "air-lux-installateur-conseil-expert-velux",
+        "telephone": "06 34 99 45 41",
+        "site_web": "https://www.air-et-lux.com/",
+        "adresse": "160 Rue des Poiriers, 31600 Saint-Clar-de-Rivière",
+        "note": 4.9,
+        "avis": 80,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "aubiac": {
+    "artisans": [
+      {
+        "id": "16157987797041459382",
+        "nom": "Miossec TP",
+        "slug": "miossec-tp",
+        "telephone": "09 61 21 96 23",
+        "site_web": null,
+        "adresse": "1 Rte de Gaugelin, 47310 Aubiac",
+        "note": 1,
+        "avis": 1,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "4923651872224001476",
+        "nom": "Foucher Franck",
+        "slug": "foucher-franck",
+        "telephone": "05 53 87 07 01",
+        "site_web": null,
+        "adresse": "Lamartine, 47310 Aubiac",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "7775654151647547012",
+        "nom": "Casonato Frères Sarl",
+        "slug": "casonato-freres-sarl",
+        "telephone": "05 53 67 83 74",
+        "site_web": "https://www.casonatofreres.com/",
+        "adresse": "25 Rte de Ségougnac, 47310 Aubiac",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "335698697952511138",
+        "nom": "Stat Dugarcin",
+        "slug": "stat-dugarcin",
+        "telephone": "05 53 67 81 35",
+        "site_web": "https://fayattp.fayat.com/contact",
+        "adresse": "10 Rte de Gaugelin, 47310 Aubiac",
+        "note": 4,
+        "avis": 6,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "saint-vite": {
+    "artisans": [
+      {
+        "id": "1002298209348376014",
+        "nom": "CASÉO Fumel",
+        "slug": "caseo-fumel",
+        "telephone": "05 53 71 25 67",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-fumel-saint-vite-77",
+        "adresse": "Chemin du Mayne Lieu-dit, 47500 Saint-Vite",
+        "note": 4.7,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "serignac-sur-garonne": {
+    "artisans": [
+      {
+        "id": "3550155044043184374",
+        "nom": "Expo Dom",
+        "slug": "expo-dom",
+        "telephone": "05 56 36 15 15",
+        "site_web": "https://www.expodom.fr/?utm_source=gmb",
+        "adresse": "22 All. Félix Nadar, 33700 Mérignac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15996971306046966438",
+        "nom": "Air & LUX Installateur Conseil Expert VELUX",
+        "slug": "air-lux-installateur-conseil-expert-velux",
+        "telephone": "06 34 99 45 41",
+        "site_web": "https://www.air-et-lux.com/",
+        "adresse": "160 Rue des Poiriers, 31600 Saint-Clar-de-Rivière",
+        "note": 4.9,
+        "avis": 80,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8700504344571009575",
+        "nom": "ARTISAN MARTIN Couvreur à Brax 47 Lot-et-Garonne",
+        "slug": "artisan-martin-couvreur-a-brax-47-lot-et-garonne",
+        "telephone": "06 06 81 22 67",
+        "site_web": "http://couvreure-47.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17736233834337494762",
+        "nom": "LGA rénovations Electricien - Plombier, Sérignac-sur-Garonne, rénovation complète de salle de bain et dépannage",
+        "slug": "lga-renovations-electricien-plombier-serignac-sur-garonne-renovation-complete-de-salle-de-bain-et-depannage",
+        "telephone": "06 89 53 51 83",
+        "site_web": "https://www.google.com/search?q=LGA+r%C3%A9novations+Electricien+-+Plombier&rlz=1C1UEAD_frFR1139FR1141&oq=lga&gs_lcrp=EgZjaHJvbWUqCAgCEEUYJxg7MggIABBFGCcYOzIRCAEQRRg5GEMYsQMYgAQYigUyCAgCEEUYJxg7MhAIAxAuGK8BGMcBGIAEGI4FMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg9MgYIBxBFGD3SAQgzODYyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&zx=1744128130674&no_sw_cr=1",
+        "adresse": "7 chemin de plaisance haut, 47310 Sérignac-sur-Garonne",
+        "note": 5,
+        "avis": 21,
+        "type": "Électricien"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13818561522972157106",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/nouvelle-aquitaine/gironde/installateur-expert-en-pose-velux-a-bordeaux",
+        "adresse": "5 Rue Fénelon, 33000 Bordeaux",
+        "note": 4.9,
+        "avis": 89,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11454868877659032238",
+        "nom": "Renov Habitat",
+        "slug": "renov-habitat",
+        "telephone": "06 59 44 86 84",
+        "site_web": "https://renov-habitat-occitanie.fr/",
+        "adresse": "Lieu Dit La Pachère, 32500 Fleurance",
+        "note": 5,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17486309298873904817",
+        "nom": "VERRE SOLUTIONS BORDEAUX (Miroiterie des 2 Rives)",
+        "slug": "verre-solutions-bordeaux-miroiterie-des-2-rives",
+        "telephone": "05 56 43 40 85",
+        "site_web": "https://agence.verre-solutions.com/29-verre-solutions-bordeaux-miroiterie-des-2-rives?utm_source=gmb",
+        "adresse": "50 All. Isaac Newton, 33127 Saint-Jean-d'Illac",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "saint-sylvestre-sur-lot": {
+    "artisans": [
+      {
+        "id": "5746144994646212394",
+        "nom": "BATIMAN THOMAS ROUX MENUISERIE",
+        "slug": "batiman-thomas-roux-menuiserie",
+        "telephone": "05 53 71 72 36",
+        "site_web": "http://www.thomasroux-menuiserie.com/",
+        "adresse": "25 Av. de Villeneuve, 47140 Saint-Sylvestre-sur-Lot",
+        "note": 4.9,
+        "avis": 141,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villereal": {
+    "artisans": [
+      {
+        "id": "15240459997551510440",
+        "nom": "Opticien Villeréal - Atol Mon Opticien",
+        "slug": "opticien-villereal-atol-mon-opticien",
+        "telephone": "05 53 36 41 20",
+        "site_web": "https://magasins.atol.fr/france/cible-villereal-669?utm_medium=gbp&utm_source=partoo",
+        "adresse": "3 Pl. de la Halle, 47210 Villeréal",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Opticien"
+      },
+      {
+        "id": "11090077636632445954",
+        "nom": "Pajot Entreprise SAS",
+        "slug": "pajot-entreprise-sas",
+        "telephone": "05 53 36 02 72",
+        "site_web": "http://www.pajot-entreprise.com/?utm_source=gmb",
+        "adresse": "301 Viale Bas, 47210 Villeréal",
+        "note": 3.7,
+        "avis": 10,
+        "type": "Service d'entretien et de réparation de fosses septiques"
+      },
+      {
+        "id": "10205031710380886277",
+        "nom": "Marty Et Fils",
+        "slug": "marty-et-fils",
+        "telephone": "06 71 64 41 55",
+        "site_web": "https://www.martyetfils-47.fr/",
+        "adresse": "Zone artisanal Caillou, Chem. de Caillou, 47210 Villeréal",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "saint-pardoux-isaac": {
+    "artisans": [
+      {
+        "id": "15781499429594936874",
+        "nom": "Valognes Menuiserie - Menuisier Miramont-de-Guyenne",
+        "slug": "valognes-menuiserie-menuisier-miramont-de-guyenne",
+        "telephone": "05 53 79 54 05",
+        "site_web": "https://valognes-menuiseries.fr/",
+        "adresse": "1250 impasse des Peupliers, 47800 Saint-Pardoux-Isaac",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8823421156085450661",
+        "nom": "Renov'Art - Menuiseries PVC et alu",
+        "slug": "renovart-menuiseries-pvc-et-alu",
+        "telephone": "05 37 04 11 52",
+        "site_web": "https://www.renovart-ouvertures.fr/landings/?utm_source=gmb&utm_medium=referral&utm_campaign=lien-principal-fiche-gmb",
+        "adresse": "53 Av. de Paris, 47800 Miramont-de-Guyenne",
+        "note": 4.1,
+        "avis": 50,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "villeneuve-sur-lot": {
+    "artisans": [
+      {
+        "id": "7948001534678089211",
+        "nom": "Menuisor",
+        "slug": "menuisor",
+        "telephone": "06 62 26 96 98",
+        "site_web": "https://www.menuisor.com/",
+        "adresse": "Pierrou, 47300 Villeneuve-sur-Lot",
+        "note": 4.9,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15023675515508693315",
+        "nom": "Menuiseries du Sud-Ouest",
+        "slug": "menuiseries-du-sud-ouest",
+        "telephone": "05 64 72 02 48",
+        "site_web": "http://www.les-menuiseries-du-sud-ouest.fr/",
+        "adresse": "23 Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10778811689822975471",
+        "nom": "RENOV ' MENUISERIES",
+        "slug": "renov-menuiseries",
+        "telephone": "05 53 71 85 93",
+        "site_web": "https://www.renovmenuiseries.fr/",
+        "adresse": "Zac de Parasol, Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 4.9,
+        "avis": 62,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5899935586738170915",
+        "nom": "Promobat",
+        "slug": "promobat",
+        "telephone": "05 53 40 05 08",
+        "site_web": "http://www.facebook.com/Promobat-47-416875315407019?utm_source=gmb",
+        "adresse": "ZAC PARASOL, Rue Marcel et Gaston Cavaillé, 47300 Villeneuve-sur-Lot",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6049539237649312776",
+        "nom": "Mirovil - Miroiterie Villeneuvoise",
+        "slug": "mirovil-miroiterie-villeneuvoise",
+        "telephone": "05 53 40 31 19",
+        "site_web": "https://mirovil.fr/",
+        "adresse": "Zac du Villeneuvois, Rue Georges Charpak, 47300 Villeneuve-sur-Lot",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "seyches": {
+    "artisans": [
+      {
+        "id": "1438770929835087601",
+        "nom": "Couverture Riva - Couvreur Zingueur Marmande Seyches Miramont - 47",
+        "slug": "couverture-riva-couvreur-zingueur-marmande-seyches-miramont-47",
+        "telephone": "06 89 39 37 54",
+        "site_web": "https://www.entreprise-riva-47.fr/",
+        "adresse": "646 Rte de Miramont, 47350 Seyches",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7996486472463329012",
+        "nom": "Dorkel Toiture 47",
+        "slug": "dorkel-toiture-47",
+        "telephone": "06 80 48 24 77",
+        "site_web": "https://www.dorkel-toiture.fr/",
+        "adresse": "648 Rte de Miramont, 47350 Seyches",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10134833802612235794",
+        "nom": "Société Enduits Façades Imperméables SEFI",
+        "slug": "societe-enduits-facades-impermeables-sefi",
+        "telephone": "05 53 94 25 72",
+        "site_web": "http://www.sefi-facades.fr/",
+        "adresse": "134 ZA Jeanberty, 47350 Seyches",
+        "note": 5,
+        "avis": 0,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "port-sainte-marie": {
+    "artisans": [
+      {
+        "id": "16643677914549018549",
+        "nom": "Nomat Ecofermetures - fenetre - volet - portail - Menuiserie sainte livrade sur lot",
+        "slug": "nomat-ecofermetures-fenetre-volet-portail-menuiserie-sainte-livrade-sur-lot",
+        "telephone": "05 47 01 10 48",
+        "site_web": "https://www.nomatecofermeture.fr/",
+        "adresse": "4 Av. René Bouchon, 47110 Sainte-Livrade-sur-Lot",
+        "note": 4.8,
+        "avis": 44,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sainte-bazeille": {
+    "artisans": [
+      {
+        "id": "2109450526928909159",
+        "nom": "Sentis Fabrice",
+        "slug": "sentis-fabrice",
+        "telephone": "06 68 01 73 01",
+        "site_web": "http://www.sentis-peinture.fr/",
+        "adresse": "lieu-dit Grangeotte, 47180 Sainte-Bazeille",
+        "note": 3,
+        "avis": 2,
+        "type": "Magasin de peinture"
+      },
+      {
+        "id": "4901127421423622702",
+        "nom": "Menuiserie Industrielle",
+        "slug": "menuiserie-industrielle",
+        "telephone": "05 53 93 31 60",
+        "site_web": "https://www.menuiserieindustrielle.fr/?utm_source=gmb",
+        "adresse": "29 rue marcel mennechet, 47800 Miramont-de-Guyenne",
+        "note": 4.5,
+        "avis": 186,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10055095853523782754",
+        "nom": "mr.hortica couvreur charpentier zingueur rénovation entretien de toiture recharge de fuite réparation de toiture",
+        "slug": "mrhortica-couvreur-charpentier-zingueur-renovation-entretien-de-toiture-recharge-de-fuite-reparation-de-toiture",
+        "telephone": "06 23 92 50 87",
+        "site_web": "https://www.entreprisehortica.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10549928913302308914",
+        "adresse": "Lachère, 47200 Virazeil",
+        "note": 4.9,
+        "avis": 72,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14999288381822782632",
+        "nom": "Viva La Couleur",
+        "slug": "viva-la-couleur",
+        "telephone": "05 53 20 82 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "11961559773487137612",
+        "nom": "Ent Capdegelle Laurent",
+        "slug": "ent-capdegelle-laurent",
+        "telephone": "05 53 93 06 82",
+        "site_web": "http://www.menuiserie-capdegelle.fr/",
+        "adresse": "11 Rue Robert Celles, 47700 Casteljaloux",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7984596335029749925",
+        "nom": "LG47",
+        "slug": "lg47",
+        "telephone": "05 53 65 70 29",
+        "site_web": "http://www.socomex-47.fr/",
+        "adresse": "2108 Rte de Bordeaux, 47180 Sainte-Bazeille",
+        "note": 3.3,
+        "avis": 16,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "17723802224171943002",
+        "nom": "LG Habitat",
+        "slug": "lg-habitat",
+        "telephone": "05 53 88 70 59",
+        "site_web": "https://lghabitat.com/",
+        "adresse": "5 Imp. Doumayne, 47200 Marmande",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sainte-colombe-en-bruilhois": {
+    "artisans": [
+      {
+        "id": "1721698877479831944",
+        "nom": "SFS MENUISERIE",
+        "slug": "sfs-menuiserie",
+        "telephone": "06 59 66 09 42",
+        "site_web": "https://agen-menuiserie-sfs.fr/",
+        "adresse": "Lieu dit Lasparguere ZAC Terrasse Garonne, 47310 Brax",
+        "note": 4.8,
+        "avis": 86,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "roquefort": {
+    "artisans": [
+      {
+        "id": "2778974664443689510",
+        "nom": "Selosse Rénovation COUVREUR Zingueur à Agen",
+        "slug": "selosse-renovation-couvreur-zingueur-a-agen",
+        "telephone": "06 06 71 06 47",
+        "site_web": "http://selosse-renovation.fr/",
+        "adresse": "proche d'Agen, 17 Chem. du Pinche, 47520 Le Passage",
+        "note": 4.8,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9007110267593806013",
+        "nom": "CALLISTO Toiture",
+        "slug": "callisto-toiture",
+        "telephone": "05 53 68 00 10",
+        "site_web": "https://www.callisto-toiture.com/",
+        "adresse": "61 Rte d'Agen, 47310 Estillac",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16643677914549018549",
+        "nom": "Nomat Ecofermetures - fenetre - volet - portail - Menuiserie sainte livrade sur lot",
+        "slug": "nomat-ecofermetures-fenetre-volet-portail-menuiserie-sainte-livrade-sur-lot",
+        "telephone": "05 47 01 10 48",
+        "site_web": "https://www.nomatecofermeture.fr/",
+        "adresse": "4 Av. René Bouchon, 47110 Sainte-Livrade-sur-Lot",
+        "note": 4.8,
+        "avis": 44,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1987791607811633339",
+        "nom": "Entreprise Belle Maison",
+        "slug": "entreprise-belle-maison",
+        "telephone": "06 50 63 67 40",
+        "site_web": "http://www.entreprise-bellemaison.fr/",
+        "adresse": "Stainte livrade sur lot FR, 2008 Rte de Merdassou, 47110",
+        "note": 4.9,
+        "avis": 86,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8909618124658479108",
+        "nom": "Lestieux Jean-Marc",
+        "slug": "lestieux-jean-marc",
+        "telephone": "05 53 67 04 79",
+        "site_web": "http://menuiserie-lestieux.fr/",
+        "adresse": "Hontoumazos, 47220 Astaffort",
+        "note": 4.6,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "pujols": {
+    "artisans": [
+      {
+        "id": "6738557834622867224",
+        "nom": "Renov Pro 47 - Couvreur Façadier Agen",
+        "slug": "renov-pro-47-couvreur-facadier-agen",
+        "telephone": "06 01 99 62 44",
+        "site_web": "https://www.renov-pro47.fr/",
+        "adresse": "292 Av. de Scorailles, 47300 Villeneuve-sur-Lot",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14757606674820342609",
+        "nom": "Ball et Fils",
+        "slug": "ball-et-fils",
+        "telephone": "05 53 70 66 25",
+        "site_web": "https://www.menuiserie-ball.fr/",
+        "adresse": "481 Côte de Laudie, 47300 Pujols",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12551713310492722229",
+        "nom": "Point.P - Villeneuve-sur-Lot Pujols",
+        "slug": "pointp-villeneuve-sur-lot-pujols",
+        "telephone": "05 53 49 61 70",
+        "site_web": "https://www.pointp.fr/infos-agence/villeneuve-pujols-point-p-1303",
+        "adresse": "16 Av. d'Agen, 47300 Pujols",
+        "note": 4.2,
+        "avis": 82,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "632427534902501611",
+        "nom": "JPAD",
+        "slug": "jpad",
+        "telephone": "06 03 60 11 46",
+        "site_web": "https://sites.google.com/view/jpadnettoyeurdevitres",
+        "adresse": "route de la vallee du mail, 47300 Pujols",
+        "note": 5,
+        "avis": 13,
+        "type": "Entreprise de nettoyage de vitres"
+      },
+      {
+        "id": "13561283991230711355",
+        "nom": "Maison Familiale Rurale de Pujols",
+        "slug": "maison-familiale-rurale-de-pujols",
+        "telephone": "05 53 36 22 66",
+        "site_web": "http://mfrpujols.fr/",
+        "adresse": "Chemin du Bosc, 47300 Pujols",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Établissement d'enseignement professionnel"
+      }
+    ]
+  },
+  "tonneins": {
+    "artisans": [
+      {
+        "id": "7848213856733793432",
+        "nom": "Menuiserie Garonnaise",
+        "slug": "menuiserie-garonnaise",
+        "telephone": "05 53 84 47 56",
+        "site_web": "https://www.menuiserie-garonnaise.com/",
+        "adresse": "8 Rue Jean Panno, 47400 Tonneins",
+        "note": 5,
+        "avis": 79,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12118603630447366975",
+        "nom": "Ges Habitat Tonneins",
+        "slug": "ges-habitat-tonneins",
+        "telephone": "05 53 83 87 21",
+        "site_web": "http://www.geshabitat.com/",
+        "adresse": "52 Cr de l'Abbé Lanusse, 47400 Tonneins",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1707979253238956040",
+        "nom": "HOMKIA - Domaxia Tonneins",
+        "slug": "homkia-domaxia-tonneins",
+        "telephone": "05 53 20 03 20",
+        "site_web": "https://www.homkia.fr/nos-points-conseils/tonneins-47/",
+        "adresse": "13 Av. Pierre Mendès France, 47400 Tonneins",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12823790989221427223",
+        "nom": "menuiserie",
+        "slug": "menuiserie",
+        "telephone": "06 64 59 12 33",
+        "site_web": null,
+        "adresse": "Rue Tarride, 47400 Tonneins",
+        "note": 0,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "5492975901205305399",
+        "nom": "Atelier Bois Agenais",
+        "slug": "atelier-bois-agenais",
+        "telephone": "05 53 83 91 63",
+        "site_web": "https://www.facebook.com/abagenais/?locale=fr_FR",
+        "adresse": "Rue Albert Einstein, 47400 Tonneins",
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3831090776498171027",
+        "nom": "Tous Matériaux - Tout Faire",
+        "slug": "tous-materiaux-tout-faire",
+        "telephone": "05 53 84 88 20",
+        "site_web": "https://www.toutfaire.fr/tous-materiaux-tonneins.html",
+        "adresse": "Av. Pierre Mendès France, 47400 Tonneins",
+        "note": 4.6,
+        "avis": 50,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "virazeil": {
+    "artisans": [
+      {
+        "id": "10055095853523782754",
+        "nom": "mr.hortica couvreur charpentier zingueur rénovation entretien de toiture recharge de fuite réparation de toiture",
+        "slug": "mrhortica-couvreur-charpentier-zingueur-renovation-entretien-de-toiture-recharge-de-fuite-reparation-de-toiture",
+        "telephone": "06 23 92 50 87",
+        "site_web": "https://www.entreprisehortica.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10549928913302308914",
+        "adresse": "Lachère, 47200 Virazeil",
+        "note": 4.9,
+        "avis": 72,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-temple-sur-lot": {
+    "artisans": [
+      {
+        "id": "4698950128217811752",
+        "nom": "Bouteyre Pierre",
+        "slug": "bouteyre-pierre",
+        "telephone": "05 53 01 22 79",
+        "site_web": null,
+        "adresse": "Av. de Verdun, 47110 Le Temple-sur-Lot",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-hilaire-de-lusignan": {
+    "artisans": [
+      {
+        "id": "750848093785747767",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "05 53 48 90 58",
+        "site_web": "https://www.menuiserie-motard-agen47.fr/?utm_source=gmb",
+        "adresse": "240 Av. du Général Leclerc, 47000 Agen",
+        "note": 4.7,
+        "avis": 187,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5746144994646212394",
+        "nom": "BATIMAN THOMAS ROUX MENUISERIE",
+        "slug": "batiman-thomas-roux-menuiserie",
+        "telephone": "05 53 71 72 36",
+        "site_web": "http://www.thomasroux-menuiserie.com/",
+        "adresse": "25 Av. de Villeneuve, 47140 Saint-Sylvestre-sur-Lot",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3652105076824175314",
+        "nom": "Menuiseries du Sud-Ouest",
+        "slug": "menuiseries-du-sud-ouest",
+        "telephone": "05 64 72 02 48",
+        "site_web": "https://www.les-menuiseries-du-sud-ouest.fr/",
+        "adresse": "23 Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1721698877479831944",
+        "nom": "SFS MENUISERIE",
+        "slug": "sfs-menuiserie",
+        "telephone": "06 59 66 09 42",
+        "site_web": "https://agen-menuiserie-sfs.fr/",
+        "adresse": "Lieu dit Lasparguere ZAC Terrasse Garonne, 47310 Brax",
+        "note": 4.8,
+        "avis": 86,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16827944015405730555",
+        "nom": "Instinct Pierres Agen",
+        "slug": "instinct-pierres-agen",
+        "telephone": "05 54 01 03 90",
+        "site_web": "https://instinctpierres.fr/",
+        "adresse": "16 le péage, 47450 Saint-Hilaire-de-Lusignan",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Magasin de carrelage"
+      }
+    ]
+  },
+  "sainte-livrade-sur-lot": {
+    "artisans": [
+      {
+        "id": "6990864609841467084",
+        "nom": "DELTA BATIMENT, COUVREUR CHARPENTIER,ARTISAN PEINTRE",
+        "slug": "delta-batiment-couvreur-charpentierartisan-peintre",
+        "telephone": "06 05 26 16 01",
+        "site_web": "http://deltabatiment47.fr/",
+        "adresse": "Rte de Merdassou, 47110 Sainte-Livrade-sur-Lot",
+        "note": 4.9,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17267099729597882210",
+        "nom": "Aluminier Agréé Technal S.M.L.G.",
+        "slug": "aluminier-agree-technal-smlg",
+        "telephone": "05 53 49 49 90",
+        "site_web": null,
+        "adresse": "5 Rue des Silos, 47110 Sainte-Livrade-sur-Lot",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10326796410241007648",
+        "nom": "Loubat Fermetures",
+        "slug": "loubat-fermetures",
+        "telephone": "05 53 01 00 59",
+        "site_web": "https://www.loubatfermetures.fr/",
+        "adresse": "ZI Le Rossignol, Rte de Villeneuve, 47110 Sainte-Livrade-sur-Lot",
+        "note": 3.9,
+        "avis": 89,
+        "type": "Fabricant"
+      },
+      {
+        "id": "5351770126641408385",
+        "nom": "Monjales - Tout Faire",
+        "slug": "monjales-tout-faire",
+        "telephone": "05 53 01 01 47",
+        "site_web": "https://www.toutfaire.fr/monjales-sainte-livrade-sur-lot.html",
+        "adresse": "Rte de Casseneuil, 47110 Sainte-Livrade-sur-Lot",
+        "note": 4.3,
+        "avis": 46,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  }
+}

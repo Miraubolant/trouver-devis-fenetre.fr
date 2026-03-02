@@ -1,0 +1,116 @@
+{
+  "paris": {
+    "artisans": [
+      {
+        "id": "7226301193733021327",
+        "nom": "Paris Verrière",
+        "slug": "paris-verriere",
+        "telephone": "06 30 81 80 11",
+        "site_web": "https://www.parisverriere.fr/",
+        "adresse": "10 Rue de la Paix, 75002 Paris",
+        "note": 1,
+        "avis": 2,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7702673322381122390",
+        "nom": "Marseille Verrière",
+        "slug": "marseille-verriere",
+        "telephone": "06 30 81 80 11",
+        "site_web": "http://marseille-verriere.fr/",
+        "adresse": "10 Rue de la Paix, 75002 Paris",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4764806930067336946",
+        "nom": "BM FERMETURES",
+        "slug": "bm-fermetures",
+        "telephone": "09 77 08 11 54",
+        "site_web": "http://www.bmfermetures.fr/",
+        "adresse": "14 Rue Saint-Merri, 75004 Paris",
+        "note": 5,
+        "avis": 104,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1906460800485617886",
+        "nom": "CreaFermeture - Installateur Agréé Velux",
+        "slug": "creafermeture-installateur-agree-velux",
+        "telephone": "07 88 62 09 37",
+        "site_web": "https://creafermeture.fr/",
+        "adresse": "5 Rue des Suisses, 75014 Paris",
+        "note": 4.9,
+        "avis": 79,
+        "type": "Couvreur"
+      },
+      {
+        "id": "393094641864557431",
+        "nom": "Reparation Fenetre Paris toute marque: cremone,poignee",
+        "slug": "reparation-fenetre-paris-toute-marque-cremonepoignee",
+        "telephone": "06 51 85 75 38",
+        "site_web": "https://www.paris-fenetre.fr/",
+        "adresse": "102 Av. des Champs-Élysées, 75008 Paris",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13065682994183862532",
+        "nom": "Etablissement Laroche",
+        "slug": "etablissement-laroche",
+        "telephone": "01 42 51 53 81",
+        "site_web": "https://www.etablissements-laroche.fr/",
+        "adresse": "4 Rue Pasquier, 75008 Paris",
+        "note": 4.7,
+        "avis": 83,
+        "type": "Électricien"
+      },
+      {
+        "id": "2508635765786773166",
+        "nom": "La fermeture parisienne",
+        "slug": "la-fermeture-parisienne",
+        "telephone": "01 30 80 51 05",
+        "site_web": "https://www.lafermetureparisienne.fr/",
+        "adresse": "Cour intérieure, 15 Bis Rue de Marignan, 75008 Paris",
+        "note": 4.7,
+        "avis": 30,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11149952402893473059",
+        "nom": "Bricorome",
+        "slug": "bricorome",
+        "telephone": "01 44 90 08 89",
+        "site_web": "https://vitrier-paris-75008.fr/",
+        "adresse": "64 Rue de Rome, 75008 Paris",
+        "note": 4.6,
+        "avis": 78,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      }
+    ]
+  }
+}

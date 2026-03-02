@@ -1,0 +1,4545 @@
+{
+  "bussac-sur-charente": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "fouras": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "breuil-magne": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bourgneuf": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "breuillet": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16262587522901452888",
+        "nom": "Fenêtres & Vérandas LUZ",
+        "slug": "fenetres-verandas-luz",
+        "telephone": "05 46 21 37 21",
+        "site_web": "https://www.fenetresluz.com/menuiserie-alu-bois-pvc-royan/",
+        "adresse": "54 Rte du Magarin, 17920 Breuillet",
+        "note": 4.9,
+        "avis": 48,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5409870939251740738",
+        "nom": "Parthenay Menuiserie 17",
+        "slug": "parthenay-menuiserie-17",
+        "telephone": "05 46 22 78 67",
+        "site_web": "http://parthenaymenuiserie17.fr/",
+        "adresse": "3 Rte du Magarin, 17920 Breuillet",
+        "note": 4.4,
+        "avis": 71,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12157967066877351839",
+        "nom": "Lrmc Couverture",
+        "slug": "lrmc-couverture",
+        "telephone": "05 46 06 32 51",
+        "site_web": "http://www.lrmc-couverture.fr/?utm_source=gmb",
+        "adresse": "Rte du Cailleau, 17920 Breuillet",
+        "note": 4.2,
+        "avis": 31,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bussac-foret": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "burie": {
+    "artisans": [
+      {
+        "id": "901334243767088133",
+        "nom": "Burie Matériaux - Tout Faire",
+        "slug": "burie-materiaux-tout-faire",
+        "telephone": "05 46 94 90 15",
+        "site_web": "https://www.toutfaire.fr/burie-materiaux-burie.html",
+        "adresse": "5 Av. Malakoff, 17770 Burie",
+        "note": 4.7,
+        "avis": 79,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "cabariot": {
+    "artisans": [
+      {
+        "id": "15989636124252629028",
+        "nom": "SV Enduit",
+        "slug": "sv-enduit",
+        "telephone": "05 46 88 40 64",
+        "site_web": "http://fr-fr.facebook.com/SarlSvEnduit",
+        "adresse": "17 T Chem. du Vignaud, 17430 Cabariot",
+        "note": 5,
+        "avis": 7,
+        "type": "Façadier"
+      },
+      {
+        "id": "16339272629238641170",
+        "nom": "H CONCEPT GALERIE - Menuiserie",
+        "slug": "h-concept-galerie-menuiserie",
+        "telephone": "05 54 07 07 95",
+        "site_web": "https://hconceptgalerie.fr/",
+        "adresse": "107 Av. Michel Crépeau, 17000 La Rochelle",
+        "note": 5,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1488618316729501842",
+        "nom": "Wilson Lobry",
+        "slug": "wilson-lobry",
+        "telephone": "06 62 14 16 72",
+        "site_web": "https://wrl-couverture.fr/Accueil",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 54,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8962644458157476826",
+        "nom": "MAT SARL LA BOUTIQUE DU MENUISIER",
+        "slug": "mat-sarl-la-boutique-du-menuisier",
+        "telephone": "05 46 82 10 08",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/m-a-t-rochefort",
+        "adresse": "90 Av. du Dr Dieras, 17300 Rochefort",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chaniers": {
+    "artisans": [
+      {
+        "id": "7151856054133588756",
+        "nom": "Répar'stores",
+        "slug": "reparstores",
+        "telephone": "05 86 30 29 35",
+        "site_web": "https://www.reparstores.com/intervenants/48-sebastien-lafond?utm_source=google&utm_medium=gmb&utm_campaign=saintes-royan-rochefort&utm_term=liensiteweb",
+        "adresse": "21 Rue du Mimosa, 17610 Chaniers",
+        "note": 4.8,
+        "avis": 105,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "chaillevette": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cercoux": {
+    "artisans": [
+      {
+        "id": "6594797480726968215",
+        "nom": "NEOWATT",
+        "slug": "neowatt",
+        "telephone": "06 76 70 53 21",
+        "site_web": null,
+        "adresse": "1 chemin de girard, 17270 Cercoux",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "18391762850738291738",
+        "nom": "Amozigh Lucie",
+        "slug": "amozigh-lucie",
+        "telephone": "05 46 86 07 85",
+        "site_web": null,
+        "adresse": "Maison Médicale, 1 Rue Vigne de la Petite, 17270 Cercoux",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Podologue"
+      },
+      {
+        "id": "11988793985208284590",
+        "nom": "Tendance Archi",
+        "slug": "tendance-archi",
+        "telephone": "06 80 61 30 08",
+        "site_web": "https://www.tendance-archi.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Architecte"
+      },
+      {
+        "id": "15377178519479544483",
+        "nom": "Pharmacie Amarot",
+        "slug": "pharmacie-amarot",
+        "telephone": "05 46 04 71 28",
+        "site_web": null,
+        "adresse": "Le Bourg, 17270 Cercoux",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Pharmacie"
+      },
+      {
+        "id": "6414072927148523223",
+        "nom": "Elec Chris Cite",
+        "slug": "elec-chris-cite",
+        "telephone": "06 06 75 59 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 71,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "chatelaillon-plage": {
+    "artisans": [
+      {
+        "id": "714559860876899775",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/nouvelle-aquitaine/charente-maritime",
+        "adresse": "70 Rue du 18 Juin, 17138 Puilboreau",
+        "note": 5,
+        "avis": 50,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9317518810040079115",
+        "nom": "Toituriers de l'Ouest",
+        "slug": "toituriers-de-louest",
+        "telephone": "05 46 43 88 60",
+        "site_web": "https://www.toituriersdelouest.com/",
+        "adresse": "ZA les Bonneveaux, 1 Rue Des Terriers, 17220 Saint-Vivien",
+        "note": 4.8,
+        "avis": 56,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1605056828257053300",
+        "nom": "Chatel Entreprise",
+        "slug": "chatel-entreprise",
+        "telephone": "05 46 56 23 45",
+        "site_web": "http://www.chatel-entreprise-couverture.fr/",
+        "adresse": "10 rue Guy SZEWC, Rue Guy Szewc ZA du, 17340 Châtelaillon-Plage",
+        "note": 4.7,
+        "avis": 29,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-chapelle-des-pots": {
+    "artisans": [
+      {
+        "id": "10033307283949967427",
+        "nom": "Fenetrier POLYPOSE menuiseries",
+        "slug": "fenetrier-polypose-menuiseries",
+        "telephone": "05 45 68 60 60",
+        "site_web": "https://www.polypose-menuiseries.fr/realisation?utm_source=gmb",
+        "adresse": "95 Rue du Dr Jean, 17100 Saintes",
+        "note": 4.8,
+        "avis": 89,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10750532791006831057",
+        "nom": "PM RENOVATION",
+        "slug": "pm-renovation",
+        "telephone": "05 46 97 76 47",
+        "site_web": "http://pmrenovation17.com/",
+        "adresse": "82C Rte de Burie, 17100 La Chapelle-des-Pots",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "le-chateau-d-oleron": {
+    "artisans": [
+      {
+        "id": "8976256099227515084",
+        "nom": "Couverture Zinguerie Oleronaise",
+        "slug": "couverture-zinguerie-oleronaise",
+        "telephone": "05 46 76 07 10",
+        "site_web": "https://couverture-zinguerie-oleronaise.fr/",
+        "adresse": "ZA, La Beaucoursière, 17480 Le Château-d'Oléron",
+        "note": 4.9,
+        "avis": 121,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2714058673176459184",
+        "nom": "Alu Gouttière SARL - DAL'ALU",
+        "slug": "alu-gouttiere-sarl-dalalu",
+        "telephone": "05 46 76 10 95",
+        "site_web": "https://alu-gouttiere.dalalu.com/",
+        "adresse": "242 Bis Av. de la Beaucoursière, 17480 Le Château-d'Oléron",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "charron": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chevanceaux": {
+    "artisans": [
+      {
+        "id": "8427103055373918684",
+        "nom": "Casteix Bois Charpente",
+        "slug": "casteix-bois-charpente",
+        "telephone": "06 71 02 49 60",
+        "site_web": "https://www.casteix-bois-charpente.fr/",
+        "adresse": "LD LA TARDERIE, 1 Rte de Chez Grimard, 17210 Chevanceaux",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "cire-d-aunis": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "corme-royal": {
+    "artisans": [
+      {
+        "id": "8757050630374965073",
+        "nom": "Rénov Toiture 17",
+        "slug": "renov-toiture-17",
+        "telephone": "07 45 84 93 84",
+        "site_web": "https://www.renove-toiture-17.fr/",
+        "adresse": "66 Bd de la Marne, 17200 Royan",
+        "note": 5,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2355594340167734008",
+        "nom": "Pépinières de Corme-Royal",
+        "slug": "pepinieres-de-corme-royal",
+        "telephone": "05 46 92 32 32",
+        "site_web": "http://www.pepinieresdecormeroyal.fr/",
+        "adresse": "10 Rue de la Dorinière, 17600 Corme-Royal",
+        "note": 4.7,
+        "avis": 582,
+        "type": "Pépinière"
+      },
+      {
+        "id": "9642597715314930638",
+        "nom": "Repar'stores La Rochelle - Réparation volets roulants et stores",
+        "slug": "reparstores-la-rochelle-reparation-volets-roulants-et-stores",
+        "telephone": "05 86 30 21 69",
+        "site_web": "https://www.reparstores.com/intervenants/39-francisco-fernandes?utm_source=google&utm_medium=gmb&utm_campaign=la-rochelle&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 117,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "chermignac": {
+    "artisans": [
+      {
+        "id": "15492253863706785550",
+        "nom": "Fonck J.M et fils",
+        "slug": "fonck-jm-et-fils",
+        "telephone": "05 46 92 67 50",
+        "site_web": "https://www.macon-saintes.fr/",
+        "adresse": "20 Rue des Moinards, 17460 Chermignac",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Maçon"
+      },
+      {
+        "id": "11884106982327394743",
+        "nom": "Batiland Duvignau Matériaux",
+        "slug": "batiland-duvignau-materiaux",
+        "telephone": "05 46 92 07 07",
+        "site_web": "https://duvignau.batiland.fr/?utm_source=gmb",
+        "adresse": "101 Av. de Saintonge, 17460 Chermignac",
+        "note": 4.5,
+        "avis": 26,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "cherac": {
+    "artisans": [
+      {
+        "id": "1578024342849103267",
+        "nom": "KparK Saintes",
+        "slug": "kpark-saintes",
+        "telephone": "05 32 81 00 20",
+        "site_web": "https://magasins.kpark.fr/16-kpark-saintes?utm_source=gmb",
+        "adresse": "115 Av. Gambetta, 17100 Saintes",
+        "note": 4.5,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16083063004975611746",
+        "nom": "Charles Couvreur",
+        "slug": "charles-couvreur",
+        "telephone": "07 60 67 75 31",
+        "site_web": "https://charles-couvreur-cognac.fr/",
+        "adresse": "10rue des haut de, 16100 Javrezac",
+        "note": 4.4,
+        "avis": 165,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "clavette": {
+    "artisans": [
+      {
+        "id": "14877473567572477589",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-la-rochelle/",
+        "adresse": "150 Rue Emile Normandin, 17000 La Rochelle",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11927384872804921529",
+        "nom": "UNE HISTOIRE DE TOIT - POITOU CHARENTES",
+        "slug": "une-histoire-de-toit-poitou-charentes",
+        "telephone": "05 34 51 63 71",
+        "site_web": "http://www.unehistoiredetoit.fr/",
+        "adresse": "107 Av. Michel Crépeau, 17000 La Rochelle",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "corme-ecluse": {
+    "artisans": [
+      {
+        "id": "18187075099216598628",
+        "nom": "Toitures Charentaises",
+        "slug": "toitures-charentaises",
+        "telephone": "06 63 90 80 18",
+        "site_web": "https://toitures-charentaises.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-couarde-sur-mer": {
+    "artisans": [
+      {
+        "id": "8315602247497467498",
+        "nom": "Pichaud Sarl",
+        "slug": "pichaud-sarl",
+        "telephone": "05 46 29 81 52",
+        "site_web": null,
+        "adresse": "20 Zone Artisanale, 17670 La Couarde-sur-Mer",
+        "note": 4,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3386717084205849401",
+        "nom": "XAVIER BAPTISTA",
+        "slug": "xavier-baptista",
+        "telephone": "06 27 02 87 30",
+        "site_web": "https://www.xavierbaptista.fr/",
+        "adresse": "5 Chemin des Artisans, Les Feux Morins, 17670 La Couarde-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "4520593540038360349",
+        "nom": "Morgan Caillé Sarl",
+        "slug": "morgan-caille-sarl",
+        "telephone": "06 73 79 44 43",
+        "site_web": "http://www.facebook.com/morgancaille",
+        "adresse": "za Gros Jonc Impasse de la Brise de 17580, Le Bois-Plage-en-Ré",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "courcon": {
+    "artisans": [
+      {
+        "id": "9143941627785519658",
+        "nom": "AGCM",
+        "slug": "agcm",
+        "telephone": "06 38 19 30 77",
+        "site_web": "https://www.agcm17.fr/",
+        "adresse": "8 Rue du Pré Galop, 17170 Courçon",
+        "note": 5,
+        "avis": 13,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "echillais": {
+    "artisans": [
+      {
+        "id": "14671019037184621183",
+        "nom": "MC Menuiseries",
+        "slug": "mc-menuiseries",
+        "telephone": "07 78 63 33 69",
+        "site_web": "https://www.sarl-mc-menuiseries.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 17,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "dolus-d-oleron": {
+    "artisans": [
+      {
+        "id": "73759364001060056",
+        "nom": "Art et Fenêtres Oléron TDM",
+        "slug": "art-et-fenetres-oleron-tdm",
+        "telephone": "05 46 83 66 65",
+        "site_web": "https://td-menuiseries.artetfenetres.com/adresses-magasins/dolus-d-oleron-17550.php?utm_campaign=GMB_oleron&utm_medium=organic&utm_source=GMB",
+        "adresse": "13 Centre Commercial la Jarrie, 17550 Dolus-d'Oléron",
+        "note": 4.9,
+        "avis": 102,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ecoyeux": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bords": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cozes": {
+    "artisans": [
+      {
+        "id": "5621532753746635598",
+        "nom": "Cendre Arnaud",
+        "slug": "cendre-arnaud",
+        "telephone": "06 81 54 45 37",
+        "site_web": "https://www.menuiserie-cendre-arnaud.fr/",
+        "adresse": "19 Rue de la Grande Gorce, 17120 Cozes",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2778369742423082852",
+        "nom": "OuvertureS Cozes Menuiserie",
+        "slug": "ouvertures-cozes-menuiserie",
+        "telephone": "05 46 05 82 50",
+        "site_web": null,
+        "adresse": "7-10 Rte de Saujon, 17120 Cozes",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10682369086179739708",
+        "nom": "renov'home",
+        "slug": "renovhome",
+        "telephone": "06 31 20 39 80",
+        "site_web": "https://renovhome17.fr/",
+        "adresse": "28 Bd de Bonnes Nouvelles, 17120 Cozes",
+        "note": 5,
+        "avis": 6,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "16615728653363516233",
+        "nom": "Burie Matériaux - Tout Faire",
+        "slug": "burie-materiaux-tout-faire",
+        "telephone": "05 46 73 32 58",
+        "site_web": "https://www.toutfaire.fr/burie-materiaux-cozes.html",
+        "adresse": "10 Imp. les Groix, 17120 Cozes",
+        "note": 4.6,
+        "avis": 33,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10383420713138594156",
+        "nom": "Fayant Menuiserie",
+        "slug": "fayant-menuiserie",
+        "telephone": "06 61 30 97 73",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "croix-chapeau": {
+    "artisans": [
+      {
+        "id": "10953142135315563672",
+        "nom": "HTA Menuiseries et Fermetures",
+        "slug": "hta-menuiseries-et-fermetures",
+        "telephone": "05 46 66 13 33",
+        "site_web": "https://hta17.fr/",
+        "adresse": "18 Rue des Éoliennes, 17220 Saint-Médard-d'Aunis",
+        "note": 4.8,
+        "avis": 74,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "esnandes": {
+    "artisans": [
+      {
+        "id": "16793870880558331393",
+        "nom": "Komilfo Burgeot Stores à La Rochelle - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-burgeot-stores-a-la-rochelle-pergolas-stores-fenetres-menuiseries",
+        "telephone": "05 46 68 03 64",
+        "site_web": "https://www.komilfo.fr/magasins/burgeot-stores-rochelle-17?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "5 rue du 8 mai, ZAC de Beaulieu, 17138 Puilboreau",
+        "note": 4.6,
+        "avis": 110,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "dompierre-sur-mer": {
+    "artisans": [
+      {
+        "id": "2619250083427833162",
+        "nom": "Enault bois",
+        "slug": "enault-bois",
+        "telephone": "05 46 35 73 98",
+        "site_web": "https://enault-bois.fr/",
+        "adresse": "10 Rue Volta, 17139 Dompierre-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "588170625271646392",
+        "nom": "COUVERTURE ROBIN",
+        "slug": "couverture-robin",
+        "telephone": "06 82 26 75 37",
+        "site_web": "https://robincouverture.fr/",
+        "adresse": "8 Sq. de la Solidarité, 17139 Dompierre-sur-Mer",
+        "note": 4.6,
+        "avis": 47,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12474185791676730838",
+        "nom": "Anthony Services+",
+        "slug": "anthony-services",
+        "telephone": "06 76 13 18 21",
+        "site_web": "https://www.facebook.com/Anthony.services.plus",
+        "adresse": "26B Rue Jacques Archambault, 17139 Dompierre-sur-Mer",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10233192136845668277",
+        "nom": "Entreprise GEOFFRIAUD",
+        "slug": "entreprise-geoffriaud",
+        "telephone": "05 46 44 63 55",
+        "site_web": "http://www.geoffriaud17.fr/",
+        "adresse": "29 Rue Ampère, 17139 Dompierre-sur-Mer",
+        "note": 4.3,
+        "avis": 71,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8441023108364116252",
+        "nom": "MPH 17 Menuisier Dompierre-sur-mer",
+        "slug": "mph-17-menuisier-dompierre-sur-mer",
+        "telephone": "05 46 67 82 12",
+        "site_web": "https://www.mph17.net/",
+        "adresse": "3C Rue Ampère, 17139 Dompierre-sur-Mer",
+        "note": 3.1,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "ferrieres": {
+    "artisans": [
+      {
+        "id": "3890632873848879165",
+        "nom": "Secre D'Exterieur By Decostores Atlantique",
+        "slug": "secre-dexterieur-by-decostores-atlantique",
+        "telephone": "06 71 54 77 09",
+        "site_web": "https://www.decostores-atlantique.fr/",
+        "adresse": "123 Rue de la Juillerie, 17170 Ferrières",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "etaules": {
+    "artisans": [
+      {
+        "id": "273646194903709035",
+        "nom": "Brault Entreprise",
+        "slug": "brault-entreprise",
+        "telephone": "06 13 11 05 36",
+        "site_web": null,
+        "adresse": "30 Rue des Niels, 17750 Étaules",
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "10251237882287784417",
+        "nom": "Sarl Bouquin et fils",
+        "slug": "sarl-bouquin-et-fils",
+        "telephone": "06 68 52 17 09",
+        "site_web": "http://www.carreleur-charente-maritime.fr/contact",
+        "adresse": "13 All. de Creuse, 17750 Étaules",
+        "note": 3,
+        "avis": 2,
+        "type": "Carreleur"
+      }
+    ]
+  },
+  "la-flotte": {
+    "artisans": [
+      {
+        "id": "2112411924167806750",
+        "nom": "Komilfo Burgeot Stores à La Flotte en Ré - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-burgeot-stores-a-la-flotte-en-re-pergolas-stores-fenetres-menuiseries",
+        "telephone": "05 46 09 89 99",
+        "site_web": "https://www.komilfo.fr/magasins/burgeot-stores-ile-re-17?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "le village de la croix michaud, 10 Les Caillotières O, 17630 La Flotte",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "forges": {
+    "artisans": [
+      {
+        "id": "935200211726242097",
+        "nom": "Menuiserie PRV Composites",
+        "slug": "menuiserie-prv-composites",
+        "telephone": "05 46 07 57 81",
+        "site_web": "https://menuiserie-prv-17.fr/",
+        "adresse": "Zone Industrielle Ouest, Rue Théodore Tournat, 17700 Surgères",
+        "note": 4.5,
+        "avis": 127,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4194163788356496121",
+        "nom": "AMP Aunis",
+        "slug": "amp-aunis",
+        "telephone": "06 19 60 15 90",
+        "site_web": "http://amp-aunis.com/",
+        "adresse": "8 Imp. du Logis, 17290 Forges",
+        "note": 3,
+        "avis": 2,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "17320062853434404621",
+        "nom": "Art et Fenêtres Rochefort TD Menuiseries",
+        "slug": "art-et-fenetres-rochefort-td-menuiseries",
+        "telephone": "05 46 83 66 65",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/vergeroux-17300.php",
+        "adresse": "2 Chem. de l'Aire de Loisirs, 17300 Vergeroux",
+        "note": 4.8,
+        "avis": 114,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10813376696035335755",
+        "nom": "AMP Aunis",
+        "slug": "amp-aunis",
+        "telephone": "06 19 60 15 90",
+        "site_web": "https://amp-aunis.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "fontcouverte": {
+    "artisans": [
+      {
+        "id": "13218377867050340511",
+        "nom": "Travaux Déco 17 – Couvreur Toiture & Façade à Saintes",
+        "slug": "travaux-deco-17-couvreur-toiture-facade-a-saintes",
+        "telephone": "06 63 88 02 66",
+        "site_web": "https://www.travauxdeco17.fr/",
+        "adresse": "5 Rte de Montignac, 17100 Fontcouverte",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "andilly": {
+    "artisans": [
+      {
+        "id": "349412320816481410",
+        "nom": "Miroiterie Joints Polis",
+        "slug": "miroiterie-joints-polis",
+        "telephone": "01 30 10 54 10",
+        "site_web": "https://www.mjp95.fr/",
+        "adresse": "6 avenue Curés Zone Industrielle Des Cures, 95580 Andilly",
+        "note": 5,
+        "avis": 46,
+        "type": "Atelier de réparation du verre"
+      }
+    ]
+  },
+  "aigrefeuille-d-aunis": {
+    "artisans": [
+      {
+        "id": "9859754171754473965",
+        "nom": "Gaudissard Entreprise",
+        "slug": "gaudissard-entreprise",
+        "telephone": "05 46 35 42 48",
+        "site_web": "http://www.gaudissard.fr/",
+        "adresse": "32 rue Fief Girard Zone Industrielle Du Fief Girard, 17290 Aigrefeuille-d'Aunis",
+        "note": 4.5,
+        "avis": 273,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "angliers": {
+    "artisans": [
+      {
+        "id": "714559860876899775",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/nouvelle-aquitaine/charente-maritime",
+        "adresse": "70 Rue du 18 Juin, 17138 Puilboreau",
+        "note": 5,
+        "avis": 50,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "arvert": {
+    "artisans": [
+      {
+        "id": "9570426428285300112",
+        "nom": "Sarl HAM Menuiserie",
+        "slug": "sarl-ham-menuiserie",
+        "telephone": "05 46 36 87 46",
+        "site_web": "http://www.ham17.com/",
+        "adresse": "ZAC des Bregaudières, 17390 La Tremblade",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11972837352922791575",
+        "nom": "Menuiserie Treseux Milly",
+        "slug": "menuiserie-treseux-milly",
+        "telephone": "07 49 42 94 21",
+        "site_web": "https://www.instagram.com/menuiseriemtm/",
+        "adresse": "16 Rue du Petit Paris, 17530 Arvert",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4857933918982876938",
+        "nom": "Fil Verre",
+        "slug": "fil-verre",
+        "telephone": "05 46 26 94 13",
+        "site_web": "https://www.menuiserie-miroiterie-charente-maritime.fr/",
+        "adresse": "69 Rte de Poitiers, 17400 Saint-Julien-de-l'Escap",
+        "note": 3.9,
+        "avis": 25,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2163155788224728144",
+        "nom": "AC Menuiseries Fermetures",
+        "slug": "ac-menuiseries-fermetures",
+        "telephone": "05 46 76 70 19",
+        "site_web": "http://www.ac-menuiseries-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1107199149879090256",
+        "nom": "Bel'Habitat 17",
+        "slug": "belhabitat-17",
+        "telephone": "05 46 22 74 46",
+        "site_web": "https://www.belhabitat17.fr/?utm_source=gmb",
+        "adresse": "13 Rue des Bernards de Coux, 17530 Arvert",
+        "note": 5,
+        "avis": 57,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "benon": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "angoulins": {
+    "artisans": [
+      {
+        "id": "4834985308125393899",
+        "nom": "Label Menuiseries La Rochelle - Fenêtres Aluminium, PVC et Bois",
+        "slug": "label-menuiseries-la-rochelle-fenetres-aluminium-pvc-et-bois",
+        "telephone": "05 46 07 28 10",
+        "site_web": "https://www.labelmenuiseries.com/",
+        "adresse": "2 Imp. des Fourneaux, 17690 Angoulins",
+        "note": 4.6,
+        "avis": 46,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "ars-en-re": {
+    "artisans": [
+      {
+        "id": "8335975879144733124",
+        "nom": "Mouilleron",
+        "slug": "mouilleron",
+        "telephone": "05 46 29 40 58",
+        "site_web": "http://www.mouilleron-menuiserie.fr/",
+        "adresse": "2 Rue du Gâte Grenier, 17590 Ars-en-Ré",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "berneuil": {
+    "artisans": [
+      {
+        "id": "1622747874871368300",
+        "nom": "SARL Sorbier et fils",
+        "slug": "sarl-sorbier-et-fils",
+        "telephone": "06 24 80 06 40",
+        "site_web": "https://www.sorbieretfils.fr/",
+        "adresse": "8 Rue du Porche, 17460 Berneuil",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "aulnay": {
+    "artisans": [
+      {
+        "id": "18188987507741705761",
+        "nom": "Guerineau Sarl",
+        "slug": "guerineau-sarl",
+        "telephone": "05 46 58 60 06",
+        "site_web": "https://guerineausarl.fr/",
+        "adresse": "12 Rte de Poitiers, 17470 Aulnay",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Artisanat"
+      }
+    ]
+  },
+  "aytre": {
+    "artisans": [
+      {
+        "id": "15749706571995002460",
+        "nom": "La Rochelle Menuiseries",
+        "slug": "la-rochelle-menuiseries",
+        "telephone": "05 16 59 06 70",
+        "site_web": "http://www.lrmenuiseries.com/?utm_source=gmb",
+        "adresse": "5 Rue Le Verrier, 17440 Aytré",
+        "note": 5,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13528047017712952481",
+        "nom": "La Boutique Du Menuisier La Rochelle",
+        "slug": "la-boutique-du-menuisier-la-rochelle",
+        "telephone": "05 46 31 50 91",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/morin-diffusion",
+        "adresse": "41 Av. du Commandant Lisiack, 17440 Aytré",
+        "note": 4.5,
+        "avis": 54,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11960771522744223767",
+        "nom": "ID Menuiseries SARL",
+        "slug": "id-menuiseries-sarl",
+        "telephone": "05 46 41 74 85",
+        "site_web": "https://www.id-menuiseries.fr/",
+        "adresse": "110 Rue nationale, 17220 La Jarne",
+        "note": 4.9,
+        "avis": 288,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15239003523446414363",
+        "nom": "Eurl Audonneau",
+        "slug": "eurl-audonneau",
+        "telephone": "05 17 26 14 17",
+        "site_web": null,
+        "adresse": "20 Rue Newton, 17440 Aytré",
+        "note": 4.9,
+        "avis": 25,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14217026744751108965",
+        "nom": "MCN",
+        "slug": "mcn",
+        "telephone": "06 22 18 19 69",
+        "site_web": "https://www.menuiserie-mcn-la-rochelle.fr/",
+        "adresse": "1 Rue Copernic, 17440 Aytré",
+        "note": 1,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7622117879435704045",
+        "nom": "AMAC-Atlantique - Agence La Rochelle",
+        "slug": "amac-atlantique-agence-la-rochelle",
+        "telephone": "05 46 06 95 95",
+        "site_web": "http://amac-atlantique.fr/",
+        "adresse": "1 bis Rue Einstein, 17440 Aytré",
+        "note": 3.8,
+        "avis": 13,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "4869239285535498476",
+        "nom": "VM Matériaux",
+        "slug": "vm-materiaux",
+        "telephone": "05 46 30 06 30",
+        "site_web": "https://magasin.vm-materiaux.fr/5-vm-materiaux-aytre?utm_source=gmb",
+        "adresse": "Rue des Rouhauds, 17440 Aytré",
+        "note": 4.3,
+        "avis": 138,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2663397925469618716",
+        "nom": "MENUISERIE DENIS POUPEAU",
+        "slug": "menuiserie-denis-poupeau",
+        "telephone": "06 14 83 67 61",
+        "site_web": "http://www.menuiserie-poupeau.com/",
+        "adresse": "5 Rue de la Résistance, 17440 Aytré",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6136062280404261335",
+        "nom": "SMG 17",
+        "slug": "smg-17",
+        "telephone": "05 46 42 56 38",
+        "site_web": "https://www.smg17.com/",
+        "adresse": "25 Rue Le Verrier, 17440 Aytré",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3141906676768509757",
+        "nom": "Fournier Menuiserie SARL",
+        "slug": "fournier-menuiserie-sarl",
+        "telephone": "05 46 34 03 04",
+        "site_web": "http://www.ema17.com/?utm_source=gmb",
+        "adresse": "1 Rue Christophe Colomb, 17440 Aytré",
+        "note": 3.8,
+        "avis": 30,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "beurlay": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-bois-plage-en-re": {
+    "artisans": [
+      {
+        "id": "6236472189396641363",
+        "nom": "Menuiserie E. DOLLET",
+        "slug": "menuiserie-e-dollet",
+        "telephone": "06 79 96 05 97",
+        "site_web": null,
+        "adresse": "2 Rue du Coutord, 17580 Le Bois-Plage-en-Ré",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "mirambeau": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "meschers-sur-gironde": {
+    "artisans": [
+      {
+        "id": "7335698843428430331",
+        "nom": "Renov Toiture et Façade 17 Couvreur Meschers‑sur‑Gironde",
+        "slug": "renov-toiture-et-facade-17-couvreur-mescherssurgironde",
+        "telephone": "06 58 81 34 15",
+        "site_web": "https://dubois-renovation-17.fr/",
+        "adresse": null,
+        "note": 3.6,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "meursac": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4996499361577816270",
+        "nom": "Billot Christian",
+        "slug": "billot-christian",
+        "telephone": "09 70 35 17 54",
+        "site_web": "http://www.billotmaisonbois.com/",
+        "adresse": "46 Rte du Bersoleau, 17120 Meursac",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8757050630374965073",
+        "nom": "Rénov Toiture 17",
+        "slug": "renov-toiture-17",
+        "telephone": "07 45 84 93 84",
+        "site_web": "https://www.renove-toiture-17.fr/",
+        "adresse": "66 Bd de la Marne, 17200 Royan",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montendre": {
+    "artisans": [
+      {
+        "id": "6165089643094234307",
+        "nom": "SAS Taudin Fabricant Menuiserie Portes Fenêtre Portails Maison Bois",
+        "slug": "sas-taudin-fabricant-menuiserie-portes-fenetre-portails-maison-bois",
+        "telephone": "05 46 70 63 86",
+        "site_web": "https://www.menuiserie-taudin-17.com/",
+        "adresse": "9 Zoning Industriel Landes du Lézard, 17130 Montendre",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8027679370520475769",
+        "nom": "Logeo Confort Montendre Site3 5",
+        "slug": "logeo-confort-montendre-site3-5",
+        "telephone": "05 46 48 67 99",
+        "site_web": "http://www.logeo-confort.fr/",
+        "adresse": "8 Pl. des Halles, 17130 Montendre",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-georges-des-coteaux": {
+    "artisans": [
+      {
+        "id": "3367795877990366607",
+        "nom": "France Menuisiers Saintes",
+        "slug": "france-menuisiers-saintes",
+        "telephone": "05 46 97 77 76",
+        "site_web": "https://www.france-menuisiers.fr/agence/menuisier-saintes/?utm_source=gmb",
+        "adresse": "Rue des Plaines, 17810 Saint-Georges-des-Coteaux",
+        "note": 4.7,
+        "avis": 86,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1578024342849103267",
+        "nom": "KparK Saintes",
+        "slug": "kpark-saintes",
+        "telephone": "05 32 81 00 20",
+        "site_web": "https://magasins.kpark.fr/16-kpark-saintes?utm_source=gmb",
+        "adresse": "115 Av. Gambetta, 17100 Saintes",
+        "note": 4.5,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3416789979299670438",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-saintes/",
+        "adresse": "Parc Atlantique, Rue des Plaines, 17810 Saint-Georges-des-Coteaux",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8962644458157476826",
+        "nom": "MAT SARL LA BOUTIQUE DU MENUISIER",
+        "slug": "mat-sarl-la-boutique-du-menuisier",
+        "telephone": "05 46 82 10 08",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/m-a-t-rochefort",
+        "adresse": "90 Av. du Dr Dieras, 17300 Rochefort",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15644751074955671350",
+        "nom": "Gamme Baie-Huet Saintes",
+        "slug": "gamme-baie-huet-saintes",
+        "telephone": "05 46 92 71 75",
+        "site_web": "https://gammebaie.com/renovation-gamme-baie-saintes/",
+        "adresse": "3 ZC de la Bobinerie, Saint Georges des Côteaux, 17112 Saintes",
+        "note": 4.8,
+        "avis": 45,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "les-mathes": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "matha": {
+    "artisans": [
+      {
+        "id": "14627894555554766415",
+        "nom": "Bonnaud Brice",
+        "slug": "bonnaud-brice",
+        "telephone": "05 46 58 59 73",
+        "site_web": null,
+        "adresse": "22 Rue de Saint-Jean d'Angély, 17160 Matha",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "medis": {
+    "artisans": [
+      {
+        "id": "10257397285123800774",
+        "nom": "Espace Fenêtre",
+        "slug": "espace-fenetre",
+        "telephone": "05 46 06 21 69",
+        "site_web": "http://espace-fenetre.wixsite.com/espace-fenetre",
+        "adresse": "90 Rte de Saujon, 17600 Médis",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10597732238927253227",
+        "nom": "Saintonge Romane Menuiserie Royan",
+        "slug": "saintonge-romane-menuiserie-royan",
+        "telephone": "05 46 06 55 83",
+        "site_web": "https://saintonge-romane-menuiserie.fr/",
+        "adresse": "202 Rte de Royan, 17600 Médis",
+        "note": 4.9,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10782613237883041177",
+        "nom": "MARION",
+        "slug": "marion",
+        "telephone": "05 46 06 75 85",
+        "site_web": "http://www.marion-couverture.fr/",
+        "adresse": "60 Rte de Saujon, 17600 Médis",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montguyon": {
+    "artisans": [
+      {
+        "id": "6130811204064034654",
+        "nom": "Mr.Bricolage Montguyon",
+        "slug": "mrbricolage-montguyon",
+        "telephone": "05 46 04 17 04",
+        "site_web": "https://magasin.mr-bricolage.fr/448-mr-bricolage-montguyon?utm_source=gmb",
+        "adresse": "ZONE COMMERCIALE, Clairvent, 17270 Montguyon",
+        "note": 1,
+        "avis": 1,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "nieul-sur-mer": {
+    "artisans": [
+      {
+        "id": "8673284213395254915",
+        "nom": "Ateliers Bois et Matières",
+        "slug": "ateliers-bois-et-matieres",
+        "telephone": "05 46 37 93 20",
+        "site_web": "http://www.ateliersboisetmatieres.fr/",
+        "adresse": "4 Rue des Wagonnets, 17137 Nieul-sur-Mer",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1793018444954835044",
+        "nom": "Menuiserie Vitrerie Atlantique Véranda Fenêtre Volet Roulant PVC Alu Mixte",
+        "slug": "menuiserie-vitrerie-atlantique-veranda-fenetre-volet-roulant-pvc-alu-mixte",
+        "telephone": "07 63 20 85 45",
+        "site_web": "http://www.menuiserie-vitrerie-atlantique.com/",
+        "adresse": "14 Rue du Pressoir, 17137 Nieul-sur-Mer",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "714559860876899775",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/nouvelle-aquitaine/charente-maritime",
+        "adresse": "70 Rue du 18 Juin, 17138 Puilboreau",
+        "note": 5,
+        "avis": 50,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15936542116556950709",
+        "nom": "Menuiserie",
+        "slug": "menuiserie",
+        "telephone": "05 46 35 19 22",
+        "site_web": "http://www.briquettes-bois-17.fr/",
+        "adresse": "3 Rue de la Gralette, 17137 Nieul-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "montlieu-la-garde": {
+    "artisans": [
+      {
+        "id": "17126655822073884816",
+        "nom": "LG AUTO sas franchisé indépendant TOP CARROSSERIE Réparation CAMPING-CAR",
+        "slug": "lg-auto-sas-franchise-independant-top-carrosserie-reparation-camping-car",
+        "telephone": "05 46 04 53 71",
+        "site_web": "http://www.top-carrosserie.fr/",
+        "adresse": "6 Rte de Montendre, 17210 Montlieu-la-Garde",
+        "note": 4.8,
+        "avis": 60,
+        "type": "Atelier de carrosserie automobile"
+      },
+      {
+        "id": "1447716914104375163",
+        "nom": "SARL BMTB.BOUTIQUE DU MENUISIER",
+        "slug": "sarl-bmtbboutique-du-menuisier",
+        "telephone": "05 57 58 22 56",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/bmtb",
+        "adresse": "85 Rue des Droits de l'Homme, 33240 Saint-André-de-Cubzac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13885863447163915828",
+        "nom": "Garage Paille - Citroën",
+        "slug": "garage-paille-citroen",
+        "telephone": "05 46 04 44 43",
+        "site_web": "https://reseau.citroen.fr/reparateur-montlieu-la-garde",
+        "adresse": "68 Av. de la République, 17210 Montlieu-la-Garde",
+        "note": 4.5,
+        "avis": 84,
+        "type": "Concessionnaire Citroën"
+      }
+    ]
+  },
+  "nuaille-d-aunis": {
+    "artisans": [
+      {
+        "id": "11927384872804921529",
+        "nom": "UNE HISTOIRE DE TOIT - POITOU CHARENTES",
+        "slug": "une-histoire-de-toit-poitou-charentes",
+        "telephone": "05 34 51 63 71",
+        "site_web": "http://www.unehistoiredetoit.fr/",
+        "adresse": "107 Av. Michel Crépeau, 17000 La Rochelle",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6675638519959832513",
+        "nom": "Etancheite Rochelaise",
+        "slug": "etancheite-rochelaise",
+        "telephone": "05 46 35 44 92",
+        "site_web": "http://www.etancheite-rochelaise.fr/",
+        "adresse": "15 Chem. des Aveugles, 17540 Nuaillé-d'Aunis",
+        "note": 3,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "muron": {
+    "artisans": [
+      {
+        "id": "16364847010607111780",
+        "nom": "Diffusion Rochefortaise De Bois Et Menuiserie DRBM",
+        "slug": "diffusion-rochefortaise-de-bois-et-menuiserie-drbm",
+        "telephone": "05 46 99 19 40",
+        "site_web": "http://www.drbm.fr/",
+        "adresse": "140 Av. d'Aunis, 17430 Tonnay-Charente",
+        "note": 4.6,
+        "avis": 31,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "nieulle-sur-seudre": {
+    "artisans": [
+      {
+        "id": "17030209561548991952",
+        "nom": "Seudre Menuiserie",
+        "slug": "seudre-menuiserie",
+        "telephone": "06 59 30 43 16",
+        "site_web": "http://seudre-menuiserie.fr/",
+        "adresse": "23 Rue Isaac Garesche, 17600 Nieulle-sur-Seudre",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "nieul-les-saintes": {
+    "artisans": [
+      {
+        "id": "3529853793935089057",
+        "nom": "DUTHIN STEPHANE",
+        "slug": "duthin-stephane",
+        "telephone": "06 81 45 72 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1588825622305959372",
+        "nom": "Ets DURAND - Saintes",
+        "slug": "ets-durand-saintes",
+        "telephone": "05 46 74 31 76",
+        "site_web": "https://www.durand-saintes.fr/",
+        "adresse": "15 Bd de Recouvrance, 17100 Saintes",
+        "note": 4.4,
+        "avis": 96,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13197182109041746542",
+        "nom": "Duthin Stéphane",
+        "slug": "duthin-stephane",
+        "telephone": "09 50 51 24 62",
+        "site_web": null,
+        "adresse": "51 Rue des Quatre Vent, 17810 Nieul-lès-Saintes",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "9703938389441782857",
+        "nom": "DOUCHEZ COUVERTURE 17 Urgence toiture, dépannage toiture 7j/7",
+        "slug": "douchez-couverture-17-urgence-toiture-depannage-toiture-7j7",
+        "telephone": "05 45 35 46 74",
+        "site_web": "https://www.couvreur-17-douchez.fr/",
+        "adresse": "30 Cr Paul Doumer, 17100 Saintes",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11975836996714359269",
+        "nom": "Douchet Tony Couverture",
+        "slug": "douchet-tony-couverture",
+        "telephone": "06 63 48 83 24",
+        "site_web": "http://www.couverture-saintes.fr/",
+        "adresse": "22 Rue Gautier, 17100 Saintes",
+        "note": 4,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9642597715314930638",
+        "nom": "Repar'stores La Rochelle - Réparation volets roulants et stores",
+        "slug": "reparstores-la-rochelle-reparation-volets-roulants-et-stores",
+        "telephone": "05 86 30 21 69",
+        "site_web": "https://www.reparstores.com/intervenants/39-francisco-fernandes?utm_source=google&utm_medium=gmb&utm_campaign=la-rochelle&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 117,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "perigny": {
+    "artisans": [
+      {
+        "id": "17650362573419247941",
+        "nom": "Eralu",
+        "slug": "eralu",
+        "telephone": "05 46 44 12 59",
+        "site_web": "http://www.ermitage-eralu.fr/",
+        "adresse": "42 Av. Joliot-Curie, 17180 Périgny",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "56739505192665625",
+        "nom": "Jollivet",
+        "slug": "jollivet",
+        "telephone": "05 46 44 45 34",
+        "site_web": "https://www.menuiseriejollivet.fr/?utm_source=gmb",
+        "adresse": "4 A Av. Louis Lumière, 17180 Périgny",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13270977327602012",
+        "nom": "Asturienne Perigny - Matériaux de couverture pour toitures",
+        "slug": "asturienne-perigny-materiaux-de-couverture-pour-toitures",
+        "telephone": "05 46 51 42 50",
+        "site_web": "https://www.asturienne.fr/infos-agence/la-rochelle-asturienne-4911",
+        "adresse": "2 Av. Paul Langevin, 17180 Périgny",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "16760971117392649384",
+        "nom": "Newloc La Rochelle - Perigny",
+        "slug": "newloc-la-rochelle-perigny",
+        "telephone": "05 46 51 15 15",
+        "site_web": "https://www.newloc.fr/",
+        "adresse": "11 Rue Edmé Mariotte, 17180 Périgny",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Agence de location de matériel"
+      },
+      {
+        "id": "5740163328817844986",
+        "nom": "sarl astran17",
+        "slug": "sarl-astran17",
+        "telephone": "06 62 13 16 67",
+        "site_web": null,
+        "adresse": "59 Grande Rue, 17180 Périgny",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17479585920206227931",
+        "nom": "BigMat Duclos Bois et Matériaux",
+        "slug": "bigmat-duclos-bois-et-materiaux",
+        "telephone": "05 46 50 60 00",
+        "site_web": "https://www.bigmat.fr/duclos-bois-et-materiaux/perigny/",
+        "adresse": "5 Rue Joseph Cugnot, 17180 Périgny",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "13806530841092154863",
+        "nom": "SEE VINET, menuisier à Perigny",
+        "slug": "see-vinet-menuisier-a-perigny",
+        "telephone": "05 46 44 12 24",
+        "site_web": "https://www.see-vinet.fr/",
+        "adresse": "86 Rue de Chagnolet, 17180 Périgny",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9553145850810899482",
+        "nom": "Point.P - Aytré",
+        "slug": "pointp-aytre",
+        "telephone": "05 46 44 64 00",
+        "site_web": "https://www.pointp.fr/infos-agence/aytre-point-p-3618",
+        "adresse": "Za Belle Aire Nord, 9 Rue Pascal, 17440 Aytré",
+        "note": 4.1,
+        "avis": 135,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "pons": {
+    "artisans": [
+      {
+        "id": "7090560559637946611",
+        "nom": "Master Agencement",
+        "slug": "master-agencement",
+        "telephone": "07 83 49 19 78",
+        "site_web": "https://blaisaurelien17.wixsite.com/menuisieradomicile",
+        "adresse": "9 Rte de Villars, 17800 Pons",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pont-l-abbe-d-arnoult": {
+    "artisans": [
+      {
+        "id": "13136701877721900316",
+        "nom": "GAYLOR MENUISERIE",
+        "slug": "gaylor-menuiserie",
+        "telephone": "05 46 97 38 18",
+        "site_web": "http://www.fabrication-bois-17.com/",
+        "adresse": "ZA DE LIAUZE, 11 Rue Nicolas Jacques Conté, 17250 Pont-l'Abbé-d'Arnoult",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Magasin"
+      },
+      {
+        "id": "18372682558359191471",
+        "nom": "FG couverture",
+        "slug": "fg-couverture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZA de Liauze, rue Nicolas Appert, 17250 Pont-l'Abbé-d'Arnoult",
+        "note": 3,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15482258680121440417",
+        "nom": "Menuiserie Bordier",
+        "slug": "menuiserie-bordier",
+        "telephone": "05 46 95 65 26",
+        "site_web": "https://menuiseriebordier.fr/",
+        "adresse": "ZA De Liauze, 12 Rue Nicolas Jacques Conté, 17250 Pont-l'Abbé-d'Arnoult",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "essouvert": {
+    "artisans": [
+      {
+        "id": "16339272629238641170",
+        "nom": "H CONCEPT GALERIE - Menuiserie",
+        "slug": "h-concept-galerie-menuiserie",
+        "telephone": "05 54 07 07 95",
+        "site_web": "https://hconceptgalerie.fr/",
+        "adresse": "107 Av. Michel Crépeau, 17000 La Rochelle",
+        "note": 5,
+        "avis": 28,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "port-d-envaux": {
+    "artisans": [
+      {
+        "id": "214370496974480792",
+        "nom": "EDEN HABITAT",
+        "slug": "eden-habitat",
+        "telephone": "05 17 25 40 03",
+        "site_web": "http://www.eden-habitat.com/",
+        "adresse": "2 Rue de la Voie Romaine, 17600 Saint-Romain-de-Benet",
+        "note": 4.9,
+        "avis": 106,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3416789979299670438",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-saintes/",
+        "adresse": "Parc Atlantique, Rue des Plaines, 17810 Saint-Georges-des-Coteaux",
+        "note": 2.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17320062853434404621",
+        "nom": "Art et Fenêtres Rochefort TD Menuiseries",
+        "slug": "art-et-fenetres-rochefort-td-menuiseries",
+        "telephone": "05 46 83 66 65",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/vergeroux-17300.php",
+        "adresse": "2 Chem. de l'Aire de Loisirs, 17300 Vergeroux",
+        "note": 4.8,
+        "avis": 114,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "retaud": {
+    "artisans": [
+      {
+        "id": "7151509581109241470",
+        "nom": "MENUISERIE CHAUVET",
+        "slug": "menuiserie-chauvet",
+        "telephone": "05 46 92 65 93",
+        "site_web": "http://www.chauvet-menuiserie.com/",
+        "adresse": "1 Rte de Cozes, 17460 Rétaud",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rivedoux-plage": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "puilboreau": {
+    "artisans": [
+      {
+        "id": "13629969354935702318",
+        "nom": "Beaulieu Menuiseries - La Rochelle - Puilboreau",
+        "slug": "beaulieu-menuiseries-la-rochelle-puilboreau",
+        "telephone": "05 46 67 13 31",
+        "site_web": "http://www.beaulieumenuiseries.fr/",
+        "adresse": "59 Rue du 18 Juin, 17138 Puilboreau",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "1839126576976227126",
+        "nom": "HALLER",
+        "slug": "haller",
+        "telephone": "05 46 67 17 91",
+        "site_web": "https://www.haller17.com/",
+        "adresse": "31 Rue Pablo Picasso, 17138 Puilboreau",
+        "note": 4.6,
+        "avis": 26,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6889518776431956705",
+        "nom": "Menuiserie Bardet",
+        "slug": "menuiserie-bardet",
+        "telephone": "05 46 67 35 05",
+        "site_web": "http://www.menuiserie-bardet.fr/",
+        "adresse": "32 Rue des Dames, 17138 Puilboreau",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3551536474657238417",
+        "nom": "Carrés de Lumière",
+        "slug": "carres-de-lumiere",
+        "telephone": "05 16 85 80 70",
+        "site_web": "https://www.carresdelumiere.com/",
+        "adresse": "7 Pl. Charles de Gaulle, 17138 Puilboreau",
+        "note": 4.8,
+        "avis": 297,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16793870880558331393",
+        "nom": "Komilfo Burgeot Stores à La Rochelle - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-burgeot-stores-a-la-rochelle-pergolas-stores-fenetres-menuiseries",
+        "telephone": "05 46 68 03 64",
+        "site_web": "https://www.komilfo.fr/magasins/burgeot-stores-rochelle-17?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "5 rue du 8 mai, ZAC de Beaulieu, 17138 Puilboreau",
+        "note": 4.6,
+        "avis": 110,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "la-rochelle": {
+    "artisans": [
+      {
+        "id": "18381593389515039649",
+        "nom": "VERRE SOLUTIONS LA ROCHELLE",
+        "slug": "verre-solutions-la-rochelle",
+        "telephone": "05 46 00 12 14",
+        "site_web": "https://agence.verre-solutions.com/30-verre-solutions-la-rochelle?utm_source=gmb",
+        "adresse": "58 Rue de Québec, 17000 La Rochelle",
+        "note": 4.2,
+        "avis": 58,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "13528047017712952481",
+        "nom": "La Boutique Du Menuisier La Rochelle",
+        "slug": "la-boutique-du-menuisier-la-rochelle",
+        "telephone": "05 46 31 50 91",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/morin-diffusion",
+        "adresse": "41 Av. du Commandant Lisiack, 17440 Aytré",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13918455552743605594",
+        "nom": "Art et Fenêtres La Rochelle TD Menuiseries",
+        "slug": "art-et-fenetres-la-rochelle-td-menuiseries",
+        "telephone": "05 46 69 10 15",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/la-rochelle-17000.php",
+        "adresse": "93 Bd André Sautel, 17000 La Rochelle",
+        "note": 4.9,
+        "avis": 123,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10244564563214465785",
+        "nom": "SG Atlantique",
+        "slug": "sg-atlantique",
+        "telephone": "05 46 28 61 44",
+        "site_web": "http://www.sg-atlantique.fr/",
+        "adresse": "13 Rue des Chirons Greniers, 17000 La Rochelle",
+        "note": 4.8,
+        "avis": 33,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8011021820643351367",
+        "nom": "Ets Dorchini - Couvreur la Rochelle",
+        "slug": "ets-dorchini-couvreur-la-rochelle",
+        "telephone": "06 82 15 72 06",
+        "site_web": "http://www.couvreur-dorchini-17.fr/",
+        "adresse": "36 Av. du Champ de Mars, 17000 La Rochelle",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-ronde": {
+    "artisans": [
+      {
+        "id": "5545803351762002937",
+        "nom": "Menuiserie Beaubeau Benjamin",
+        "slug": "menuiserie-beaubeau-benjamin",
+        "telephone": "06 32 95 89 96",
+        "site_web": null,
+        "adresse": "26 Rue de l'Oreau, 17170 La Ronde",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "rochefort": {
+    "artisans": [
+      {
+        "id": "10307008924851031814",
+        "nom": "Les Toitures Helfrich",
+        "slug": "les-toitures-helfrich",
+        "telephone": "06 60 53 64 36",
+        "site_web": "https://www.artisan-rochefort.fr/",
+        "adresse": "28 RUE DE LA CASSE, 17300 Rochefort",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13583338882068441971",
+        "nom": "TRYBA Rochefort",
+        "slug": "tryba-rochefort",
+        "telephone": "05 18 23 20 72",
+        "site_web": "https://www.tryba.com/espace-conseil/17/tryba-rochefort/?utm_campaign=Tryba_Rochefort&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "28 Rue Toufaire, 17300 Rochefort",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11997697488647548004",
+        "nom": "France Menuisiers Rochefort",
+        "slug": "france-menuisiers-rochefort",
+        "telephone": "05 46 99 00 99",
+        "site_web": "https://agence.france-menuisiers.fr/3-france-menuisiers-rochefort?utm_source=gmb",
+        "adresse": "26 avenue Marcel DASSAULT, Pl. Amiral Pierre Martin, 17300 Rochefort",
+        "note": 4.5,
+        "avis": 42,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "980660128769325577",
+        "nom": "Etablissement Benon Sylvain Menuiseries",
+        "slug": "etablissement-benon-sylvain-menuiseries",
+        "telephone": "05 16 35 55 21",
+        "site_web": "https://www.facebook.com/profile.php?id=61561012289833&utm_source=gmb",
+        "adresse": "Zac De La Varenne, 3 Rue Louis Pasteur, 17430 Tonnay-Charente",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15896906597098883886",
+        "nom": "B&C",
+        "slug": "bc",
+        "telephone": "05 46 89 76 43",
+        "site_web": null,
+        "adresse": "40 Av. d'Aunis, 17300 Rochefort",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "royan": {
+    "artisans": [
+      {
+        "id": "1076604344647286511",
+        "nom": "LABEL MENUISERIES ROYAN Fenêtres Royan alu, pvc - Portail - Porte d'entrée - Store banne",
+        "slug": "label-menuiseries-royan-fenetres-royan-alu-pvc-portail-porte-dentree-store-banne",
+        "telephone": "05 46 07 28 10",
+        "site_web": "https://www.labelmenuiseries.com/?utm_source=gmb",
+        "adresse": "za, La Queue de l'Ane, 13 Rue Rudolf Diesel, 17200 Saint-Sulpice-de-Royan",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "8875536228342314946",
+        "nom": "Euro menuiseries Royan",
+        "slug": "euro-menuiseries-royan",
+        "telephone": "05 46 02 62 75",
+        "site_web": "https://www.gmt-menuiseries.com/euro-menuiseries/",
+        "adresse": "11 Rue Denis Papin ZC, 17200 Royan",
+        "note": 4.4,
+        "avis": 19,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6403558797363979810",
+        "nom": "Art et Fenêtres Royan TD Menuiseries",
+        "slug": "art-et-fenetres-royan-td-menuiseries",
+        "telephone": "05 46 38 58 00",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/royan-17200.php",
+        "adresse": "8 Pl. du Dr Gantier, 17200 Royan",
+        "note": 4.9,
+        "avis": 56,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13837322393269739032",
+        "nom": "AMAC Atlantique",
+        "slug": "amac-atlantique",
+        "telephone": "05 46 06 95 95",
+        "site_web": "http://www.amac-atlantique.fr/",
+        "adresse": "6 Rue Rudolf Diesel, 17200 Saint-Sulpice-de-Royan",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "15947877947565453680",
+        "nom": "Menuiserie Rochereau",
+        "slug": "menuiserie-rochereau",
+        "telephone": "05 46 39 81 07",
+        "site_web": "https://www.menuiserie-rochereau.com/?utm_source=gmb",
+        "adresse": "Za, La Queue de l'Ane, 5 Rue Rudolf Diesel, 17200 Saint-Sulpice-de-Royan",
+        "note": 4.2,
+        "avis": 84,
+        "type": "Fabricant"
+      },
+      {
+        "id": "16669588132675445045",
+        "nom": "Les Toits de Royan",
+        "slug": "les-toits-de-royan",
+        "telephone": "05 46 39 93 38",
+        "site_web": "http://www.rayratetfils-batiment.fr/",
+        "adresse": null,
+        "note": 3.9,
+        "avis": 8,
+        "type": "Société immobilière"
+      },
+      {
+        "id": "3171087882395399300",
+        "nom": "Mister Toiture Royan",
+        "slug": "mister-toiture-royan",
+        "telephone": "05 46 05 37 51",
+        "site_web": "https://mistertoiture.com/agence/mister-toiture-royan/?utm_source=gmb&utm_medium=gmb",
+        "adresse": "1 Rue Louis Lépine, 17200 Royan",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sablonceaux": {
+    "artisans": [
+      {
+        "id": "16714743931812053835",
+        "nom": "Vignoble Biteau",
+        "slug": "vignoble-biteau",
+        "telephone": "06 08 30 45 67",
+        "site_web": "https://www.vignoble-biteau.com/",
+        "adresse": "1 Imp. de la Maison Neuve, 17600 Sablonceaux",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Vignoble"
+      },
+      {
+        "id": "15420856890064562848",
+        "nom": "La Boul'ange de Sablonceaux",
+        "slug": "la-boulange-de-sablonceaux",
+        "telephone": "05 46 96 92 56",
+        "site_web": null,
+        "adresse": "54 Rue du Pont, 17600 Sablonceaux",
+        "note": 4.5,
+        "avis": 119,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "5618431160166503281",
+        "nom": "S.C.P Couverture Couvreur Zingueur",
+        "slug": "scp-couverture-couvreur-zingueur",
+        "telephone": "06 81 51 60 15",
+        "site_web": "https://allo-artisant.fr/",
+        "adresse": "109 Rte de Saujon, 17600 Sablonceaux",
+        "note": 5,
+        "avis": 22,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-agnant": {
+    "artisans": [
+      {
+        "id": "5280424630458306305",
+        "nom": "Julien NEUVIALLE",
+        "slug": "julien-neuvialle",
+        "telephone": "06 50 81 41 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9919963516059695334",
+        "nom": "JD BATI",
+        "slug": "jd-bati",
+        "telephone": "06 67 99 44 32",
+        "site_web": "https://www.jd-bati.fr/",
+        "adresse": "4 Rue Des Iris, 17620 Saint-Agnant",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-andre-de-lidon": {
+    "artisans": [
+      {
+        "id": "14901226574971070624",
+        "nom": "Neau Christophe",
+        "slug": "neau-christophe",
+        "telephone": "05 46 06 93 15",
+        "site_web": "http://neaumenuisier.fr/",
+        "adresse": "Ham. de la Marronière, 17260 Saint-André-de-Lidon",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3623164147174943327",
+        "nom": "2RM17",
+        "slug": "2rm17",
+        "telephone": "05 16 35 97 89",
+        "site_web": "https://sites.google.com/view/menuiseriepvc/accueil",
+        "adresse": "9 Rue du Maréchal Leclerc, 17110 Saint-Georges-de-Didonne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "saint-aigulin": {
+    "artisans": [
+      {
+        "id": "6674013807445048390",
+        "nom": "CD Pose",
+        "slug": "cd-pose",
+        "telephone": "05 46 04 01 84",
+        "site_web": "http://dubessetchristophe.site-solocal.com/",
+        "adresse": "2 le Roudier, 17360 Saint-Aigulin",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6063191594429390288",
+        "nom": "Panneaux Massifs de Saintonge",
+        "slug": "panneaux-massifs-de-saintonge",
+        "telephone": "05 46 04 90 48",
+        "site_web": "https://www.escaliers-dachary.fr/",
+        "adresse": "Rue Pasteur, 17360 Saint-Aigulin",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "saint-augustin": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-christophe": {
+    "artisans": [
+      {
+        "id": "10925311919167146352",
+        "nom": "SOROSTOR",
+        "slug": "sorostor",
+        "telephone": "05 46 27 23 23",
+        "site_web": "https://www.sorostor.fr/",
+        "adresse": "1 Rue Saint-Exupéry, 17220 Saint-Christophe",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-denis-d-oleron": {
+    "artisans": [
+      {
+        "id": "9952396582059790083",
+        "nom": "Menuiserie Monteiro",
+        "slug": "menuiserie-monteiro",
+        "telephone": "06 68 37 74 87",
+        "site_web": "http://www.menuiserie-monteiro.com/",
+        "adresse": "2 A Rue des Chardonnettes, 17650 Saint-Denis-d'Oléron",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sainte-gemme": {
+    "artisans": [
+      {
+        "id": "18278733554038680872",
+        "nom": "Clair de Baie SAINTES – Menuiseries PVC - Alu - bois - Fenêtres, Portes, Volets...",
+        "slug": "clair-de-baie-saintes-menuiseries-pvc-alu-bois-fenetres-portes-volets",
+        "telephone": null,
+        "site_web": "https://www.clairdebaie.fr/",
+        "adresse": "18 Bd Guillet Maillet Bâtiment Charente- 3ème étage, 17100 Saintes",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2090218132094318926",
+        "nom": "Vinet Yannick",
+        "slug": "vinet-yannick",
+        "telephone": "05 46 96 21 13",
+        "site_web": "https://www.yannickvinet-17.fr/",
+        "adresse": "2 Bois des Barreaux, 17250 Sainte-Gemme",
+        "note": 1,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "saint-georges-de-didonne": {
+    "artisans": [
+      {
+        "id": "18230660095785947647",
+        "nom": "sas PRINCE Frères",
+        "slug": "sas-prince-freres",
+        "telephone": "05 46 05 78 34",
+        "site_web": "https://www.princefreres.fr/",
+        "adresse": "3 Rue Lavoisier, 17110 Saint-Georges-de-Didonne",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "le-gua": {
+    "artisans": [
+      {
+        "id": "7654815528578355286",
+        "nom": "Etablissements Berusseau",
+        "slug": "etablissements-berusseau",
+        "telephone": "05 46 22 80 47",
+        "site_web": null,
+        "adresse": "Le, 29 Rue Samuel Champlain, 17600 Le Gua",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "les-gonds": {
+    "artisans": [
+      {
+        "id": "2261684159182537660",
+        "nom": "CASÉO Saintes",
+        "slug": "caseo-saintes",
+        "telephone": "05 46 74 31 76",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saintes-saintes-101",
+        "adresse": "15 Bd de Recouvrance, 17100 Saintes",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18394382664760395320",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "05 46 90 61 78",
+        "site_web": "https://www.gustaverideau.com/agences/saintes/?utm_campaign=saintes&utm_medium=GMB&utm_source=google",
+        "adresse": "6 Rue de la Roue, 17100 Saintes",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14005949396167594106",
+        "nom": "Geay Menuiserie",
+        "slug": "geay-menuiserie",
+        "telephone": "05 46 96 42 85",
+        "site_web": "http://www.geaymenuiserie.fr/",
+        "adresse": "2 Rue de la Boisnarderie, 17100 Saintes",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "saint-genis-de-saintonge": {
+    "artisans": [
+      {
+        "id": "13854548816286509990",
+        "nom": "Batiland Duvignau Matériaux",
+        "slug": "batiland-duvignau-materiaux",
+        "telephone": "05 46 70 07 05",
+        "site_web": "https://duvignau.batiland.fr/?utm_source=gmb",
+        "adresse": "73 Av. de Saintes, 17240 Saint-Genis-de-Saintonge",
+        "note": 4,
+        "avis": 38,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1916137869543723862",
+        "nom": "AMCC",
+        "slug": "amcc",
+        "telephone": "05 46 48 34 53",
+        "site_web": "https://www.facebook.com/settings?tab=profile&section=username",
+        "adresse": "ZA Terres du Poteau, Chem. du Poteau, 17240 Saint-Genis-de-Saintonge",
+        "note": 4,
+        "avis": 11,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13233508491651392083",
+        "nom": "Fenêtres & Vérandas LUZ (anciennement Fenêtres PARTHENAY) - Concept Alu - JONZAC",
+        "slug": "fenetres-verandas-luz-anciennement-fenetres-parthenay-concept-alu-jonzac",
+        "telephone": "05 46 70 48 38",
+        "site_web": "https://www.fenetresluz.com/",
+        "adresse": "14 Bis Rte de Saint-Genis, 17500 Saint-Germain-de-Lusignan",
+        "note": 4.8,
+        "avis": 125,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "gemozac": {
+    "artisans": [
+      {
+        "id": "10317905224370819266",
+        "nom": "MAT SARL LA BOUTIQUE DU MENUISIER",
+        "slug": "mat-sarl-la-boutique-du-menuisier",
+        "telephone": "09 83 88 02 02",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/mat?utm_source=gmb",
+        "adresse": "71-73 Cr de l'Europe, 17200 Royan",
+        "note": 4.8,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14899565411951784042",
+        "nom": "DEPEUX Menuiserie",
+        "slug": "depeux-menuiserie",
+        "telephone": "05 46 92 20 93",
+        "site_web": null,
+        "adresse": "19 Rue des Tilleuls, 17260 Gémozac",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13197446787825158011",
+        "nom": "Bougnoteau Sarl",
+        "slug": "bougnoteau-sarl",
+        "telephone": "05 46 94 22 22",
+        "site_web": "https://bougnoteausarl.fr/",
+        "adresse": "6 Rue Les Parpaillons, 17260 Gémozac",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18436944052533062273",
+        "nom": "SAS FGV",
+        "slug": "sas-fgv",
+        "telephone": "05 46 91 90 18",
+        "site_web": null,
+        "adresse": "9 Rue des Tilleuls, 17260 Gémozac",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4802440243359082143",
+        "nom": "Fouche Pere Et Fils",
+        "slug": "fouche-pere-et-fils",
+        "telephone": "05 46 94 24 24",
+        "site_web": "https://sarl-fouche-pere-et-fils.webnode.fr/",
+        "adresse": "24 Rue Carnot, 17260 Gémozac",
+        "note": 3.5,
+        "avis": 10,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "la-jarrie": {
+    "artisans": [
+      {
+        "id": "11960771522744223767",
+        "nom": "ID Menuiseries SARL",
+        "slug": "id-menuiseries-sarl",
+        "telephone": "05 46 41 74 85",
+        "site_web": "https://www.id-menuiseries.fr/",
+        "adresse": "110 Rue nationale, 17220 La Jarne",
+        "note": 4.9,
+        "avis": 288,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14877473567572477589",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-la-rochelle/",
+        "adresse": "150 Rue Emile Normandin, 17000 La Rochelle",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10953142135315563672",
+        "nom": "HTA Menuiseries et Fermetures",
+        "slug": "hta-menuiseries-et-fermetures",
+        "telephone": "05 46 66 13 33",
+        "site_web": "https://hta17.fr/",
+        "adresse": "18 Rue des Éoliennes, 17220 Saint-Médard-d'Aunis",
+        "note": 4.8,
+        "avis": 74,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10925311919167146352",
+        "nom": "SOROSTOR",
+        "slug": "sorostor",
+        "telephone": "05 46 27 23 23",
+        "site_web": "https://www.sorostor.fr/",
+        "adresse": "1 Rue Saint-Exupéry, 17220 Saint-Christophe",
+        "note": 4.2,
+        "avis": 19,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "l-houmeau": {
+    "artisans": [
+      {
+        "id": "3465035115846044664",
+        "nom": "Atelier Vinet",
+        "slug": "atelier-vinet",
+        "telephone": "05 46 50 98 67",
+        "site_web": "http://www.facebook.com/AtelierVinetOfficiel/",
+        "adresse": "L, 6 Rue des Tamaris Za De, 17137 L'Houmeau",
+        "note": 4.1,
+        "avis": 13,
+        "type": "Artisanat"
+      }
+    ]
+  },
+  "la-jarne": {
+    "artisans": [
+      {
+        "id": "11960771522744223767",
+        "nom": "ID Menuiseries SARL",
+        "slug": "id-menuiseries-sarl",
+        "telephone": "05 46 41 74 85",
+        "site_web": "https://www.id-menuiseries.fr/",
+        "adresse": "110 Rue nationale, 17220 La Jarne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lagord": {
+    "artisans": [
+      {
+        "id": "7159226707735619223",
+        "nom": "RAPID' MIROITERIE - Menuiserie - Pergola à La Rochelle, Ile de ré (17)",
+        "slug": "rapid-miroiterie-menuiserie-pergola-a-la-rochelle-ile-de-re-17",
+        "telephone": "05 46 41 00 63",
+        "site_web": "https://www.rapidmiroiterie.fr/",
+        "adresse": "12 Rue des Greffières, 17140 Lagord",
+        "note": 4.5,
+        "avis": 36,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "16793870880558331393",
+        "nom": "Komilfo Burgeot Stores à La Rochelle - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-burgeot-stores-a-la-rochelle-pergolas-stores-fenetres-menuiseries",
+        "telephone": "05 46 68 03 64",
+        "site_web": "https://www.komilfo.fr/magasins/burgeot-stores-rochelle-17?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "5 rue du 8 mai, ZAC de Beaulieu, 17138 Puilboreau",
+        "note": 4.6,
+        "avis": 110,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1615669194442870681",
+        "nom": "LSK-MONSIEUR STORE",
+        "slug": "lsk-monsieur-store",
+        "telephone": "05 46 41 00 63",
+        "site_web": "https://www.lsk-habitat.fr/",
+        "adresse": "12 Rue des Greffières, 17140 Lagord",
+        "note": 4.5,
+        "avis": 241,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "4537121391986188054",
+        "nom": "LSK OUTDOOR - Pergola, Carport, Abri de jardin, à La Rochelle, Ile de ré (17)",
+        "slug": "lsk-outdoor-pergola-carport-abri-de-jardin-a-la-rochelle-ile-de-re-17",
+        "telephone": "05 46 41 00 63",
+        "site_web": "https://lskoutdoor.fr/",
+        "adresse": "12 Rue des Greffières, 17140 Lagord",
+        "note": 5,
+        "avis": 5,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "348527828363929882",
+        "nom": "Solar Tech 17 La Rochelle",
+        "slug": "solar-tech-17-la-rochelle",
+        "telephone": "05 46 37 60 65",
+        "site_web": null,
+        "adresse": "6 Rue Auguste Perret, 17140 Lagord",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Magasin de rideaux et stores"
+      }
+    ]
+  },
+  "longeves": {
+    "artisans": [
+      {
+        "id": "3028807203053684835",
+        "nom": "APH - Avenir Protection Habitat - ISOLATION - TOITURE - ISOLATON EXTERIEUR - RGE - Partenaire EDF - COUVREUR",
+        "slug": "aph-avenir-protection-habitat-isolation-toiture-isolaton-exterieur-rge-partenaire-edf-couvreur",
+        "telephone": "05 46 34 90 44",
+        "site_web": "https://www.groupe-active-habitat.com/",
+        "adresse": "1 Imp. de la Biche Rose, 17230 Longèves",
+        "note": 4.8,
+        "avis": 31,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "jonzac": {
+    "artisans": [
+      {
+        "id": "10070452278506762507",
+        "nom": "Ferre Degave SARL",
+        "slug": "ferre-degave-sarl",
+        "telephone": "05 46 48 29 56",
+        "site_web": "http://www.couverture-menuiserie-jonzac.fr/contact",
+        "adresse": "4 Le Vivier, 17500 Allas-Champagne",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9905426670902244454",
+        "nom": "ESPI BATIMENT",
+        "slug": "espi-batiment",
+        "telephone": "05 46 49 26 82",
+        "site_web": "https://www.espi-batiment.fr/?utm_source=gmb",
+        "adresse": "35 Av. Mac Créa Fletcher, 17500 Jonzac",
+        "note": 4.5,
+        "avis": 58,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "17065290073405673378",
+        "nom": "Riché Sarl",
+        "slug": "riche-sarl",
+        "telephone": "05 46 48 10 94",
+        "site_web": "https://www.societeriche.fr/",
+        "adresse": "Rte de Mirambeau, 17500 Jonzac",
+        "note": 4.4,
+        "avis": 11,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7581815429653225510",
+        "nom": "Vérandas CONCEPT ALU",
+        "slug": "verandas-concept-alu",
+        "telephone": "05 46 70 48 38",
+        "site_web": "https://www.conceptalu.com/points-de-vente/charente-maritime/17-verandas-jonzac/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+        "adresse": "14 bis Rte de Saint-Genis, 17500 Saint-Germain-de-Lusignan",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "749117580037692861",
+        "nom": "BMS 17",
+        "slug": "bms-17",
+        "telephone": "09 66 89 61 98",
+        "site_web": null,
+        "adresse": "Chez Bascle, Rte de Mirambeau, 17500 Jonzac",
+        "note": 2.4,
+        "avis": 5,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2591174720708948686",
+        "nom": "Isolation Toiture Façade",
+        "slug": "isolation-toiture-facade",
+        "telephone": "05 46 86 12 62",
+        "site_web": "http://www.itf17.fr/",
+        "adresse": "25 Av. Mgr Chauvin, 17500 Jonzac",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "10703523700111906599",
+        "nom": "SARL AM MENUISERIES CHARPENTES",
+        "slug": "sarl-am-menuiseries-charpentes",
+        "telephone": "05 17 24 16 55",
+        "site_web": "http://www.ammenuiseriescharpentes.fr/",
+        "adresse": "16 Chez Daufour, 17500 Saint-Germain-de-Lusignan",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "marennes-hiers-brouage": {
+    "artisans": [
+      {
+        "id": "3744595467307719803",
+        "nom": "Entreprise Regondeau",
+        "slug": "entreprise-regondeau",
+        "telephone": "05 46 85 03 30",
+        "site_web": "http://www.regondeau.com/",
+        "adresse": "15 Rue des Entrepreneurs, 17320 Marennes-Hiers-Brouage",
+        "note": 4.4,
+        "avis": 63,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2163155788224728144",
+        "nom": "AC Menuiseries Fermetures",
+        "slug": "ac-menuiseries-fermetures",
+        "telephone": "05 46 76 70 19",
+        "site_web": "http://www.ac-menuiseries-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "lussant": {
+    "artisans": [
+      {
+        "id": "714559860876899775",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/nouvelle-aquitaine/charente-maritime",
+        "adresse": "70 Rue du 18 Juin, 17138 Puilboreau",
+        "note": 5,
+        "avis": 50,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "marans": {
+    "artisans": [
+      {
+        "id": "1512252635532886789",
+        "nom": "ATS",
+        "slug": "ats",
+        "telephone": "07 78 40 86 02",
+        "site_web": "https://www.menuiserie-marans-ats.fr/",
+        "adresse": "Paul Couzinet, 1 terAv, Av. Paul Couzinet, 17230 Marans",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15211491070613595946",
+        "nom": "Menuiserie Simonnet Palardy",
+        "slug": "menuiserie-simonnet-palardy",
+        "telephone": "05 46 01 01 68",
+        "site_web": "http://www.simonnet-palardy.fr/?utm_source=gmb",
+        "adresse": "ZI du Port, 17230 Marans",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3347238609460801427",
+        "nom": "FALTEL",
+        "slug": "faltel",
+        "telephone": "05 46 01 19 13",
+        "site_web": "http://www.faltel17.fr/",
+        "adresse": "134 Rte de la Rochelle, 17230 Marans",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Magasin de matériel de surveillance"
+      },
+      {
+        "id": "1000412793664660248",
+        "nom": "Menuiserie Robin",
+        "slug": "menuiserie-robin",
+        "telephone": "05 46 01 04 63",
+        "site_web": "https://www.menuiserierobin.com/",
+        "adresse": "101 Rte de la Rochelle, 17230 Marans",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-medard-d-aunis": {
+    "artisans": [
+      {
+        "id": "10953142135315563672",
+        "nom": "HTA Menuiseries et Fermetures",
+        "slug": "hta-menuiseries-et-fermetures",
+        "telephone": "05 46 66 13 33",
+        "site_web": "https://hta17.fr/",
+        "adresse": "18 Rue des Éoliennes, 17220 Saint-Médard-d'Aunis",
+        "note": 4.8,
+        "avis": 74,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-nazaire-sur-charente": {
+    "artisans": [
+      {
+        "id": "17320062853434404621",
+        "nom": "Art et Fenêtres Rochefort TD Menuiseries",
+        "slug": "art-et-fenetres-rochefort-td-menuiseries",
+        "telephone": "05 46 83 66 65",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/vergeroux-17300.php",
+        "adresse": "2 Chem. de l'Aire de Loisirs, 17300 Vergeroux",
+        "note": 4.8,
+        "avis": 114,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11997697488647548004",
+        "nom": "France Menuisiers Rochefort",
+        "slug": "france-menuisiers-rochefort",
+        "telephone": "05 46 99 00 99",
+        "site_web": "https://agence.france-menuisiers.fr/3-france-menuisiers-rochefort?utm_source=gmb",
+        "adresse": "26 avenue Marcel DASSAULT, Pl. Amiral Pierre Martin, 17300 Rochefort",
+        "note": 4.5,
+        "avis": 42,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-ouen-d-aunis": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "714559860876899775",
+        "nom": "A CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/nouvelle-aquitaine/charente-maritime",
+        "adresse": "70 Rue du 18 Juin, 17138 Puilboreau",
+        "note": 5,
+        "avis": 50,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16187894806978626366",
+        "nom": "B'PLAST COIGNIERES",
+        "slug": "bplast-coignieres",
+        "telephone": "01 61 06 20 26",
+        "site_web": "https://www.bplast.fr/agence/bplast-coignieres/?utm_source=gmb",
+        "adresse": "201 N10, 78310 Coignières",
+        "note": 4.5,
+        "avis": 436,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sainte-marie-de-re": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-grand-village-plage": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-palais-sur-mer": {
+    "artisans": [
+      {
+        "id": "9155455876886237174",
+        "nom": "ATEAM menuisier",
+        "slug": "ateam-menuisier",
+        "telephone": "07 61 49 96 88",
+        "site_web": "https://www.ateam-menuiserie.fr/",
+        "adresse": "8b Rue des Myosotis, 17420 Saint-Palais-sur-Mer",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9894306535104344680",
+        "nom": "Dalle 17 SARL",
+        "slug": "dalle-17-sarl",
+        "telephone": "05 46 23 85 77",
+        "site_web": "https://www.dalle17-gouttieres-alu.fr/?utm_source=gmb",
+        "adresse": "101 Av Général de Gaulle, 17420 Saint-Palais-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3686710574488773732",
+        "nom": "Entreprise Hervé CHARLES - Entreprise Menuiserie Métallerie Serrurerie Ferronnerie d'art près Royan",
+        "slug": "entreprise-herve-charles-entreprise-menuiserie-metallerie-serrurerie-ferronnerie-dart-pres-royan",
+        "telephone": "05 46 23 43 00",
+        "site_web": "https://www.facebook.com/profile.php?id=100090356146733",
+        "adresse": "Zone Artisanale La Borderie 2 rue Raoul Soulard, 17420 Saint-Palais-sur-Mer",
+        "note": 3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13459921060904837231",
+        "nom": "Villeger Aurélien",
+        "slug": "villeger-aurelien",
+        "telephone": "06 98 11 21 32",
+        "site_web": "https://www.menuisier-villeger-aurelien.fr/",
+        "adresse": "29 Av. de Verdun, 17420 Saint-Palais-sur-Mer",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "saint-mard": {
+    "artisans": [
+      {
+        "id": "17320062853434404621",
+        "nom": "Art et Fenêtres Rochefort TD Menuiseries",
+        "slug": "art-et-fenetres-rochefort-td-menuiseries",
+        "telephone": "05 46 83 66 65",
+        "site_web": "https://td-menuiseries-rochefort.artetfenetres.com/adresses-magasins/vergeroux-17300.php",
+        "adresse": "2 Chem. de l'Aire de Loisirs, 17300 Vergeroux",
+        "note": 4.8,
+        "avis": 114,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-martin-de-re": {
+    "artisans": [
+      {
+        "id": "1217043151945010360",
+        "nom": "Menuis're",
+        "slug": "menuisre",
+        "telephone": "05 46 09 42 85",
+        "site_web": "http://www.menuisre.com/",
+        "adresse": "37 Chem. du Breuil, 17410 Saint-Martin-de-Ré",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-pierre-d-oleron": {
+    "artisans": [
+      {
+        "id": "11367227416507802609",
+        "nom": "Art Innov Menuiseries",
+        "slug": "art-innov-menuiseries",
+        "telephone": "05 46 47 29 46",
+        "site_web": null,
+        "adresse": "82 Av. de Bel air, 17310 Saint-Pierre-d'Oléron",
+        "note": 4.7,
+        "avis": 13,
+        "type": null
+      },
+      {
+        "id": "9034272912518882381",
+        "nom": "Menuiserie Rochereau",
+        "slug": "menuiserie-rochereau",
+        "telephone": "05 46 85 40 34",
+        "site_web": "http://www.menuiserie-rochereau.com/",
+        "adresse": "3 Av. de Bonnemie, 17310 Saint-Pierre-d'Oléron",
+        "note": 3.9,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17056972481541762523",
+        "nom": "Idéal Menuiserie",
+        "slug": "ideal-menuiserie",
+        "telephone": "05 46 76 45 87",
+        "site_web": null,
+        "adresse": "ZA LE PERROTIN, 9 Rue Du Perrotin, 17310 Saint-Pierre-d'Oléron",
+        "note": 4.6,
+        "avis": 9,
+        "type": null
+      },
+      {
+        "id": "13796525478760083995",
+        "nom": "SAS Menuiserie Gaboriaud",
+        "slug": "sas-menuiserie-gaboriaud",
+        "telephone": "05 46 47 33 84",
+        "site_web": null,
+        "adresse": "34 Rte de Saint-Georges, 17310 Saint-Pierre-d'Oléron",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "73759364001060056",
+        "nom": "Art et Fenêtres Oléron TDM",
+        "slug": "art-et-fenetres-oleron-tdm",
+        "telephone": "05 46 83 66 65",
+        "site_web": "https://td-menuiseries.artetfenetres.com/adresses-magasins/dolus-d-oleron-17550.php?utm_campaign=GMB_oleron&utm_medium=organic&utm_source=GMB",
+        "adresse": "13 Centre Commercial la Jarrie, 17550 Dolus-d'Oléron",
+        "note": 4.9,
+        "avis": 102,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1827059361141280503",
+        "nom": "Entreprise Regondeau",
+        "slug": "entreprise-regondeau",
+        "telephone": "05 46 85 03 30",
+        "site_web": "http://www.regondeau.com/",
+        "adresse": "54 Av. du Moulin Blanc, 17310 Saint-Pierre-d'Oléron",
+        "note": 3.3,
+        "avis": 9,
+        "type": "Magasin"
+      },
+      {
+        "id": "17431349412130274785",
+        "nom": "Concept Isolation Fermetures",
+        "slug": "concept-isolation-fermetures",
+        "telephone": "05 46 47 41 14",
+        "site_web": "https://www.conceptisolationfermeture.fr/?utm_source=gmb",
+        "adresse": "55 Av. de Bel air, 17310 Saint-Pierre-d'Oléron",
+        "note": 4.7,
+        "avis": 62,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8425158567567060468",
+        "nom": "MBAP Oléronaise",
+        "slug": "mbap-oleronaise",
+        "telephone": "05 46 47 26 91",
+        "site_web": "http://www.mbapoleronaise.com/?utm_source=gmb",
+        "adresse": "3 ZA de l'Oumière, 17310 Saint-Pierre-d'Oléron",
+        "note": 4.9,
+        "avis": 129,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18145506856565135565",
+        "nom": "SARL THIOU",
+        "slug": "sarl-thiou",
+        "telephone": "05 46 75 36 14",
+        "site_web": null,
+        "adresse": "15 ZA de l'Oumière, 17310 Saint-Pierre-d'Oléron",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Constructeur immobilier"
+      },
+      {
+        "id": "10815421231581365011",
+        "nom": "Atelier Dupuy menuiserie",
+        "slug": "atelier-dupuy-menuiserie",
+        "telephone": "06 63 48 77 64",
+        "site_web": "https://www.atelier-dupuy-menuiserie.fr/contact-devis-gratuit-menuisier-saint-pierre-d-oleron-17310",
+        "adresse": "82 Rue des Garnaudières, 17310 Saint-Pierre-d'Oléron",
+        "note": 3,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "saint-romain-de-benet": {
+    "artisans": [
+      {
+        "id": "214370496974480792",
+        "nom": "EDEN HABITAT",
+        "slug": "eden-habitat",
+        "telephone": "05 17 25 40 03",
+        "site_web": "http://www.eden-habitat.com/",
+        "adresse": "2 Rue de la Voie Romaine, 17600 Saint-Romain-de-Benet",
+        "note": 4.9,
+        "avis": 106,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-sauveur-d-aunis": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-porchaire": {
+    "artisans": [
+      {
+        "id": "10068394775437759046",
+        "nom": "Toitures et Façades de France | Entrepreneur en toiture à Saint Porchaire",
+        "slug": "toitures-et-facades-de-france-entrepreneur-en-toiture-a-saint-porchaire",
+        "telephone": "05 17 28 01 84",
+        "site_web": "https://tf-france.fr/",
+        "adresse": "3 Rue du Stade, 17250 Saint-Porchaire",
+        "note": 5,
+        "avis": 118,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8896141031511546366",
+        "nom": "L'Empreinte Du Bois",
+        "slug": "lempreinte-du-bois",
+        "telephone": "06 73 11 35 84",
+        "site_web": "http://www.lempreintedubois-gf.com/",
+        "adresse": "31 Rue des Coudraies, 17250 Saint-Porchaire",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-rogatien": {
+    "artisans": [
+      {
+        "id": "11927384872804921529",
+        "nom": "UNE HISTOIRE DE TOIT - POITOU CHARENTES",
+        "slug": "une-histoire-de-toit-poitou-charentes",
+        "telephone": "05 34 51 63 71",
+        "site_web": "http://www.unehistoiredetoit.fr/",
+        "adresse": "107 Av. Michel Crépeau, 17000 La Rochelle",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10953142135315563672",
+        "nom": "HTA Menuiseries et Fermetures",
+        "slug": "hta-menuiseries-et-fermetures",
+        "telephone": "05 46 66 13 33",
+        "site_web": "https://hta17.fr/",
+        "adresse": "18 Rue des Éoliennes, 17220 Saint-Médard-d'Aunis",
+        "note": 4.8,
+        "avis": 74,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12706328449106215620",
+        "nom": "SPM HABITAT Sarl",
+        "slug": "spm-habitat-sarl",
+        "telephone": "06 82 70 01 98",
+        "site_web": "https://www.spmhabitat.fr/",
+        "adresse": "33 Rue de la Rochelle, 17220 Saint-Rogatien",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "12452272833697357667",
+        "nom": "Prv Composites",
+        "slug": "prv-composites",
+        "telephone": "05 46 07 57 81",
+        "site_web": "https://www.menuiserie-prv-17.fr/",
+        "adresse": "60 bis Bd André Sautel, 17000 La Rochelle",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10381682388116000788",
+        "nom": "L’ART’ISAN FRANÇAIS",
+        "slug": "lartisan-francais",
+        "telephone": "06 59 38 99 64",
+        "site_web": "https://www.lartisanfrancais.com/",
+        "adresse": "1 Rue des Biocarburants Bâtiment A, 17220 Saint-Médard-d'Aunis",
+        "note": 4.9,
+        "avis": 51,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-savinien": {
+    "artisans": [
+      {
+        "id": "8096023203512598314",
+        "nom": "AMP BESSON COUVREUR ZINGUEUR",
+        "slug": "amp-besson-couvreur-zingueur",
+        "telephone": "05 46 91 70 64",
+        "site_web": "http://www.amp-couverture.fr/",
+        "adresse": "10 Rue des Mongeays, 17350 Saint-Savinien",
+        "note": 3.3,
+        "avis": 12,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-sulpice-de-royan": {
+    "artisans": [
+      {
+        "id": "15947877947565453680",
+        "nom": "Menuiserie Rochereau",
+        "slug": "menuiserie-rochereau",
+        "telephone": "05 46 39 81 07",
+        "site_web": "https://www.menuiserie-rochereau.com/?utm_source=gmb",
+        "adresse": "Za, La Queue de l'Ane, 5 Rue Rudolf Diesel, 17200 Saint-Sulpice-de-Royan",
+        "note": 4.2,
+        "avis": 84,
+        "type": "Fabricant"
+      },
+      {
+        "id": "13837322393269739032",
+        "nom": "AMAC Atlantique",
+        "slug": "amac-atlantique",
+        "telephone": "05 46 06 95 95",
+        "site_web": "http://www.amac-atlantique.fr/",
+        "adresse": "6 Rue Rudolf Diesel, 17200 Saint-Sulpice-de-Royan",
+        "note": 4.4,
+        "avis": 144,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "17164825586959563244",
+        "nom": "SAS EURO NEGOCE",
+        "slug": "sas-euro-negoce",
+        "telephone": "05 46 39 83 64",
+        "site_web": null,
+        "adresse": "20 Rue Antoine de Saint-Exupery, 17200 Saint-Sulpice-de-Royan",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "1076604344647286511",
+        "nom": "LABEL MENUISERIES ROYAN Fenêtres Royan alu, pvc - Portail - Porte d'entrée - Store banne",
+        "slug": "label-menuiseries-royan-fenetres-royan-alu-pvc-portail-porte-dentree-store-banne",
+        "telephone": "05 46 07 28 10",
+        "site_web": "https://www.labelmenuiseries.com/?utm_source=gmb",
+        "adresse": "za, La Queue de l'Ane, 13 Rue Rudolf Diesel, 17200 Saint-Sulpice-de-Royan",
+        "note": 3.9,
+        "avis": 27,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "10597732238927253227",
+        "nom": "Saintonge Romane Menuiserie Royan",
+        "slug": "saintonge-romane-menuiserie-royan",
+        "telephone": "05 46 06 55 83",
+        "site_web": "https://saintonge-romane-menuiserie.fr/",
+        "adresse": "202 Rte de Royan, 17600 Médis",
+        "note": 4.9,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12878897427288477527",
+        "nom": "Sifap",
+        "slug": "sifap",
+        "telephone": "05 46 23 03 10",
+        "site_web": "https://www.sifap17.fr/",
+        "adresse": "Rte de Royan, 17200 Saint-Sulpice-de-Royan",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Fournisseur d'aluminium"
+      },
+      {
+        "id": "7360270368801447470",
+        "nom": "Menuiserie Sauquet",
+        "slug": "menuiserie-sauquet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Chem. de Bernezac, 17200 Saint-Sulpice-de-Royan",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5071469548667947477",
+        "nom": "A.F.C.M",
+        "slug": "afcm",
+        "telephone": "05 46 23 80 54",
+        "site_web": "http://www.afcm-royan.com/",
+        "adresse": "72 Av. Aliénor d'Aquitaine, 17200 Royan",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sainte-soulle": {
+    "artisans": [
+      {
+        "id": "588170625271646392",
+        "nom": "COUVERTURE ROBIN",
+        "slug": "couverture-robin",
+        "telephone": "06 82 26 75 37",
+        "site_web": "https://robincouverture.fr/",
+        "adresse": "8 Sq. de la Solidarité, 17139 Dompierre-sur-Mer",
+        "note": 4.6,
+        "avis": 47,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3317930954629231824",
+        "nom": "Etie Menuiserie",
+        "slug": "etie-menuiserie",
+        "telephone": "05 46 37 54 38",
+        "site_web": "https://etiemenuiserie.fr/",
+        "adresse": "275 Rte de Loire, 17220 Sainte-Soulle",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14979937348463606999",
+        "nom": "Atelier A2 Agencement, Agencement sur-mesure à Sainte Soulle",
+        "slug": "atelier-a2-agencement-agencement-sur-mesure-a-sainte-soulle",
+        "telephone": "05 17 26 11 27",
+        "site_web": "http://www.atelier-a2.fr/",
+        "adresse": "23 Fief des Prises, 17220 Sainte-Soulle",
+        "note": 5,
+        "avis": 1,
+        "type": "Décorateur d'intérieur"
+      },
+      {
+        "id": "6496187914281299049",
+        "nom": "SEMA (sté d'ébénisterie et de menuiserie artisanale)",
+        "slug": "sema-ste-debenisterie-et-de-menuiserie-artisanale",
+        "telephone": "05 46 35 41 47",
+        "site_web": "https://www.sema-menuiserie.com/",
+        "adresse": "1 Rue Des Charmilles, 17220 Sainte-Soulle",
+        "note": 3.9,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15214033760703191473",
+        "nom": "Bernard Frères Sarl",
+        "slug": "bernard-freres-sarl",
+        "telephone": "05 46 37 37 71",
+        "site_web": null,
+        "adresse": "35 Rue du Chemin Vert, 17220 Sainte-Soulle",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Maçon"
+      },
+      {
+        "id": "5053473170576623778",
+        "nom": "JMP Menuiserie",
+        "slug": "jmp-menuiserie",
+        "telephone": "06 78 37 79 75",
+        "site_web": "http://www.votremenuisier.fr/",
+        "adresse": "4 Rle des Laboureurs, 17540 Vérines",
+        "note": 5,
+        "avis": 16,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-trojan-les-bains": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-xandre": {
+    "artisans": [
+      {
+        "id": "16793870880558331393",
+        "nom": "Komilfo Burgeot Stores à La Rochelle - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-burgeot-stores-a-la-rochelle-pergolas-stores-fenetres-menuiseries",
+        "telephone": "05 46 68 03 64",
+        "site_web": "https://www.komilfo.fr/magasins/burgeot-stores-rochelle-17?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "5 rue du 8 mai, ZAC de Beaulieu, 17138 Puilboreau",
+        "note": 4.6,
+        "avis": 110,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13894357244944679967",
+        "nom": "APM 17",
+        "slug": "apm-17",
+        "telephone": "06 77 90 01 70",
+        "site_web": "https://m.facebook.com/p/APM-17-100087309813542/",
+        "adresse": "1 Rue Marie Curie, 17138 Saint-Xandre",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8141758455495374432",
+        "nom": "KLEIN Couverture - Zinguerie - Isolation",
+        "slug": "klein-couverture-zinguerie-isolation",
+        "telephone": "07 78 80 82 98",
+        "site_web": "http://www.kleingregory.com/",
+        "adresse": "49 Rue Lavoisier, 17138 Saint-Xandre",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-vivien": {
+    "artisans": [
+      {
+        "id": "4781407027049904108",
+        "nom": "Rodriguez Stores Et Volets",
+        "slug": "rodriguez-stores-et-volets",
+        "telephone": "05 46 51 88 88",
+        "site_web": "http://www.rodriguezstoresetvolets.fr/",
+        "adresse": "45 Rue des Petits Bonneveaux, 17220 Saint-Vivien",
+        "note": 4.3,
+        "avis": 32,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "9317518810040079115",
+        "nom": "Toituriers de l'Ouest",
+        "slug": "toituriers-de-louest",
+        "telephone": "05 46 43 88 60",
+        "site_web": "https://www.toituriersdelouest.com/",
+        "adresse": "ZA les Bonneveaux, 1 Rue Des Terriers, 17220 Saint-Vivien",
+        "note": 4.8,
+        "avis": 56,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saintes": {
+    "artisans": [
+      {
+        "id": "18394382664760395320",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "05 46 90 61 78",
+        "site_web": "https://www.gustaverideau.com/agences/saintes/?utm_campaign=saintes&utm_medium=GMB&utm_source=google",
+        "adresse": "6 Rue de la Roue, 17100 Saintes",
+        "note": 4.2,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "18278733554038680872",
+        "nom": "Clair de Baie SAINTES – Menuiseries PVC - Alu - bois - Fenêtres, Portes, Volets...",
+        "slug": "clair-de-baie-saintes-menuiseries-pvc-alu-bois-fenetres-portes-volets",
+        "telephone": null,
+        "site_web": "https://www.clairdebaie.fr/",
+        "adresse": "18 Bd Guillet Maillet Bâtiment Charente- 3ème étage, 17100 Saintes",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3416789979299670438",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-saintes/",
+        "adresse": "Parc Atlantique, Rue des Plaines, 17810 Saint-Georges-des-Coteaux",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1578024342849103267",
+        "nom": "KparK Saintes",
+        "slug": "kpark-saintes",
+        "telephone": "05 32 81 00 20",
+        "site_web": "https://magasins.kpark.fr/16-kpark-saintes?utm_source=gmb",
+        "adresse": "115 Av. Gambetta, 17100 Saintes",
+        "note": 4.5,
+        "avis": 84,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17853973516272827243",
+        "nom": "Technitoit Saintes",
+        "slug": "technitoit-saintes",
+        "telephone": "05 33 52 29 50",
+        "site_web": "https://www.technitoit.com/agence/charente-maritime-17-saintes-renovation?utm_source=google&utm_medium=gmb",
+        "adresse": "ZI des Charriers, 11 Rue des Brandes, 17100 Saintes",
+        "note": 4.3,
+        "avis": 147,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15644751074955671350",
+        "nom": "Gamme Baie-Huet Saintes",
+        "slug": "gamme-baie-huet-saintes",
+        "telephone": "05 46 92 71 75",
+        "site_web": "https://gammebaie.com/renovation-gamme-baie-saintes/",
+        "adresse": "3 ZC de la Bobinerie, Saint Georges des Côteaux, 17112 Saintes",
+        "note": 4.8,
+        "avis": 45,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7204401892165976170",
+        "nom": "Euro Menuiseries Saintes",
+        "slug": "euro-menuiseries-saintes",
+        "telephone": "05 46 93 33 44",
+        "site_web": "https://www.gmt-menuiseries.com/euro-menuiseries/",
+        "adresse": "8 Rue de la Boisnarderie, 17100 Saintes",
+        "note": 4.6,
+        "avis": 45,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14623434891092829563",
+        "nom": "Fenêtre",
+        "slug": "fenetre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17100 Saintes",
+        "note": 0,
+        "avis": 0,
+        "type": "Arrêt de bus"
+      },
+      {
+        "id": "2261684159182537660",
+        "nom": "CASÉO Saintes",
+        "slug": "caseo-saintes",
+        "telephone": "05 46 74 31 76",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saintes-saintes-101",
+        "adresse": "15 Bd de Recouvrance, 17100 Saintes",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1588825622305959372",
+        "nom": "Ets DURAND - Saintes",
+        "slug": "ets-durand-saintes",
+        "telephone": "05 46 74 31 76",
+        "site_web": "https://www.durand-saintes.fr/",
+        "adresse": "15 Bd de Recouvrance, 17100 Saintes",
+        "note": 4.4,
+        "avis": 96,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "salles-sur-mer": {
+    "artisans": [
+      {
+        "id": "8490640360982423769",
+        "nom": "Stores de France",
+        "slug": "stores-de-france",
+        "telephone": "07 82 01 91 95",
+        "site_web": "https://www.storesdefrance.com/agence/la-rochelle/",
+        "adresse": "9 Rue de la Pierre Taillée, 17220 Salles-sur-Mer",
+        "note": 5,
+        "avis": 32,
+        "type": "Magasin de stores et de rideaux"
+      }
+    ]
+  },
+  "saint-laurent-de-la-pree": {
+    "artisans": [
+      {
+        "id": "16777292197136422084",
+        "nom": "MENUISERIE PENNEL",
+        "slug": "menuiserie-pennel",
+        "telephone": "05 46 84 01 99",
+        "site_web": null,
+        "adresse": "130 Grande Rue, 17450 Saint-Laurent-de-la-Prée",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6455962475950947130",
+        "nom": "Concept bois",
+        "slug": "concept-bois",
+        "telephone": "06 70 74 70 49",
+        "site_web": "https://www.concept-bois-larochelle.com/",
+        "adresse": "272 Rue des Carrés, 17450 Saint-Laurent-de-la-Prée",
+        "note": 4.9,
+        "avis": 66,
+        "type": "Constructeur de terrasses"
+      },
+      {
+        "id": "16097579694474300858",
+        "nom": "Esprit Terrasse Bois",
+        "slug": "esprit-terrasse-bois",
+        "telephone": "06 33 78 27 12",
+        "site_web": "https://www.esprit-terrasse-bois.fr/",
+        "adresse": "105 Rte du Bois Brûle, 17450 Saint-Laurent-de-la-Prée",
+        "note": 5,
+        "avis": 13,
+        "type": "Constructeur de terrasses"
+      }
+    ]
+  },
+  "saujon": {
+    "artisans": [
+      {
+        "id": "14072109771148055102",
+        "nom": "ART RENOV Saujon",
+        "slug": "art-renov-saujon",
+        "telephone": "05 46 06 99 90",
+        "site_web": "http://www.artrenov.fr/",
+        "adresse": "62 Rue Carnot, 17600 Saujon",
+        "note": 4.7,
+        "avis": 76,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11743907496474281778",
+        "nom": "ASF17 - SOLABAIE - RENOVAL",
+        "slug": "asf17-solabaie-renoval",
+        "telephone": "05 46 02 51 61",
+        "site_web": "https://www.asf17.fr/",
+        "adresse": "16 A Chem. Vert, 17600 Saujon",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9208236200206860583",
+        "nom": "AB RENOV",
+        "slug": "ab-renov",
+        "telephone": "05 46 05 47 18",
+        "site_web": "http://www.abrenov.net/",
+        "adresse": "ZA Les Touzelleries, 30 Chem. Vert, 17600 Saujon",
+        "note": 4.6,
+        "avis": 86,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12570706354834400525",
+        "nom": "CCJ 17 MENUISERIE",
+        "slug": "ccj-17-menuiserie",
+        "telephone": "09 82 53 19 31",
+        "site_web": "http://ccj17.fr/",
+        "adresse": "4 Imp. de la Roue, 17600 Saujon",
+        "note": 4.8,
+        "avis": 28,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "214370496974480792",
+        "nom": "EDEN HABITAT",
+        "slug": "eden-habitat",
+        "telephone": "05 17 25 40 03",
+        "site_web": "http://www.eden-habitat.com/",
+        "adresse": "2 Rue de la Voie Romaine, 17600 Saint-Romain-de-Benet",
+        "note": 4.9,
+        "avis": 106,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14830913893778188949",
+        "nom": "Patrimoine Menuiseries EURL - Partenaire Arcades et Baies",
+        "slug": "patrimoine-menuiseries-eurl-partenaire-arcades-et-baies",
+        "telephone": "05 46 23 66 01",
+        "site_web": "https://www.facebook.com/people/Patrimoine-Menuiseries/100032982832190/",
+        "adresse": "zc de l'atlantique, 1 All. de la Pointe, 17600 Saujon",
+        "note": 4,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16945180366977234118",
+        "nom": "ASF 17 - Rénoval",
+        "slug": "asf-17-renoval",
+        "telephone": "05 46 02 51 61",
+        "site_web": "https://www.renoval-veranda.com/",
+        "adresse": "16A chemin du vert, 17600 Saujon",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4696664235445903154",
+        "nom": "Asf 17 - Pergolas & Carports",
+        "slug": "asf-17-pergolas-carports",
+        "telephone": "05 46 02 51 61",
+        "site_web": "https://www.pergola-17.fr/",
+        "adresse": "ZA Les Touzelleries, 16 A Chem. Vert, 17600 Saujon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      }
+    ]
+  },
+  "semussac": {
+    "artisans": [
+      {
+        "id": "14375663357306485499",
+        "nom": "Ledent Menuiserie",
+        "slug": "ledent-menuiserie",
+        "telephone": "05 46 06 47 83",
+        "site_web": "https://ledent-menuiserie.fr/",
+        "adresse": "zac, Za Le Pre Chardon, Pré Chardon, 17120 Semussac",
+        "note": 5,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13401539105654308423",
+        "nom": "Alliance Menuiserie",
+        "slug": "alliance-menuiserie",
+        "telephone": "06 68 31 68 30",
+        "site_web": null,
+        "adresse": "5 Pré Chardon, 17120 Semussac",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "soubise": {
+    "artisans": [
+      {
+        "id": "4310101747662160836",
+        "nom": "Depann'Volet17 (ADV17)",
+        "slug": "depannvolet17-adv17",
+        "telephone": "07 63 75 94 98",
+        "site_web": "https://www.adv17.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 19,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "thenac": {
+    "artisans": [
+      {
+        "id": "11927384872804921529",
+        "nom": "UNE HISTOIRE DE TOIT - POITOU CHARENTES",
+        "slug": "une-histoire-de-toit-poitou-charentes",
+        "telephone": "05 34 51 63 71",
+        "site_web": "http://www.unehistoiredetoit.fr/",
+        "adresse": "107 Av. Michel Crépeau, 17000 La Rochelle",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "surgeres": {
+    "artisans": [
+      {
+        "id": "935200211726242097",
+        "nom": "Menuiserie PRV Composites",
+        "slug": "menuiserie-prv-composites",
+        "telephone": "05 46 07 57 81",
+        "site_web": "https://menuiserie-prv-17.fr/",
+        "adresse": "Zone Industrielle Ouest, Rue Théodore Tournat, 17700 Surgères",
+        "note": 4.5,
+        "avis": 127,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tesson": {
+    "artisans": [
+      {
+        "id": "16735460505705914797",
+        "nom": "Tesson",
+        "slug": "tesson",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17460 Tesson",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "tonnay-boutonne": {
+    "artisans": [
+      {
+        "id": "16364847010607111780",
+        "nom": "Diffusion Rochefortaise De Bois Et Menuiserie DRBM",
+        "slug": "diffusion-rochefortaise-de-bois-et-menuiserie-drbm",
+        "telephone": "05 46 99 19 40",
+        "site_web": "http://www.drbm.fr/",
+        "adresse": "140 Av. d'Aunis, 17430 Tonnay-Charente",
+        "note": 4.6,
+        "avis": 31,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "6034263101784413688",
+        "nom": "SEMNORT",
+        "slug": "semnort",
+        "telephone": "05 46 33 20 54",
+        "site_web": "https://www.semnort.fr/",
+        "adresse": "26 Rte de Rochefort, 17380 Tonnay-Boutonne",
+        "note": 4,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "980660128769325577",
+        "nom": "Etablissement Benon Sylvain Menuiseries",
+        "slug": "etablissement-benon-sylvain-menuiseries",
+        "telephone": "05 16 35 55 21",
+        "site_web": "https://www.facebook.com/profile.php?id=61561012289833&utm_source=gmb",
+        "adresse": "Zac De La Varenne, 3 Rue Louis Pasteur, 17430 Tonnay-Charente",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-thou": {
+    "artisans": [
+      {
+        "id": "889807393382941385",
+        "nom": "CM 17 Menuiserie",
+        "slug": "cm-17-menuiserie",
+        "telephone": "06 66 56 86 88",
+        "site_web": "https://www.cm17-menuiserie.fr/",
+        "adresse": "22 Rue De Bel Air, 17290 Le Thou",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "la-devise": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "trizay": {
+    "artisans": [
+      {
+        "id": "289870376680197360",
+        "nom": "Trizay",
+        "slug": "trizay",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Trizay",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "tonnay-charente": {
+    "artisans": [
+      {
+        "id": "8256929561354844042",
+        "nom": "Actuel Verre Miroiterie",
+        "slug": "actuel-verre-miroiterie",
+        "telephone": "05 46 99 70 81",
+        "site_web": "https://actuelmiroiterie.fr/",
+        "adresse": "6 Rue Germaine Tillion, 17430 Tonnay-Charente",
+        "note": 4.3,
+        "avis": 43,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "17800836973730142869",
+        "nom": "Renov Facade 17",
+        "slug": "renov-facade-17",
+        "telephone": "06 58 16 03 61",
+        "site_web": "http://www.renovfacade.fr/",
+        "adresse": "4 Rue des Jardins, 17430 Tonnay-Charente",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "vaux-sur-mer": {
+    "artisans": [
+      {
+        "id": "10317905224370819266",
+        "nom": "MAT SARL LA BOUTIQUE DU MENUISIER",
+        "slug": "mat-sarl-la-boutique-du-menuisier",
+        "telephone": "09 83 88 02 02",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/mat?utm_source=gmb",
+        "adresse": "71-73 Cr de l'Europe, 17200 Royan",
+        "note": 4.8,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3210113357698809898",
+        "nom": "Avenir Rénovations Royan (17)",
+        "slug": "avenir-renovations-royan-17",
+        "telephone": "05 18 23 20 56",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-17-royan/",
+        "adresse": "16 Chem. de la Ronze, 17920 Breuillet",
+        "note": 4,
+        "avis": 4,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "8403537263290347568",
+        "nom": "CASÉO Royan",
+        "slug": "caseo-royan",
+        "telephone": "05 46 38 80 65",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-royan-vaux-sur-mer-102",
+        "adresse": "6 Rue Georges Claude, 17640 Vaux-sur-Mer",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6819029161990351291",
+        "nom": "Monsieur Store - Royan Stores",
+        "slug": "monsieur-store-royan-stores",
+        "telephone": "05 46 23 95 29",
+        "site_web": "http://www.monsieurstore.com/magasin/royan-17640.html?utm_source=gmb",
+        "adresse": "Zone Industrielle Du Plain, 81 Rue de la Roche, 17640 Vaux-sur-Mer",
+        "note": 4.7,
+        "avis": 401,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "17999820714975418616",
+        "nom": "Le Store Royannais",
+        "slug": "le-store-royannais",
+        "telephone": "05 79 97 94 92",
+        "site_web": "http://www.lestore-royannais.fr/?utm_source=gmb",
+        "adresse": "27 Rue Paul-Emile Victor, 17640 Vaux-sur-Mer",
+        "note": 5,
+        "avis": 54,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "3623164147174943327",
+        "nom": "2RM17",
+        "slug": "2rm17",
+        "telephone": "05 16 35 97 89",
+        "site_web": "https://sites.google.com/view/menuiseriepvc/accueil",
+        "adresse": "9 Rue du Maréchal Leclerc, 17110 Saint-Georges-de-Didonne",
+        "note": 4.9,
+        "avis": 75,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13317936591888419267",
+        "nom": "Ets DURAND - Royan",
+        "slug": "ets-durand-royan",
+        "telephone": "05 46 38 80 65",
+        "site_web": "https://www.durand-saintes.fr/",
+        "adresse": "6 Rue Georges Claude, 17640 Vaux-sur-Mer",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8875536228342314946",
+        "nom": "Euro menuiseries Royan",
+        "slug": "euro-menuiseries-royan",
+        "telephone": "05 46 02 62 75",
+        "site_web": "https://www.gmt-menuiseries.com/euro-menuiseries/",
+        "adresse": "11 Rue Denis Papin ZC, 17200 Royan",
+        "note": 4.4,
+        "avis": 19,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16962427212425083707",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "05 46 06 94 97",
+        "site_web": "https://www.gustaverideau.com/agences/vaux-sur-mer-royan/?utm_campaign=vaux&utm_medium=GMB&utm_source=google",
+        "adresse": "Chem. de Bel air, 17640 Vaux-sur-Mer",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16262587522901452888",
+        "nom": "Fenêtres & Vérandas LUZ",
+        "slug": "fenetres-verandas-luz",
+        "telephone": "05 46 21 37 21",
+        "site_web": "https://www.fenetresluz.com/menuiserie-alu-bois-pvc-royan/",
+        "adresse": "54 Rte du Magarin, 17920 Breuillet",
+        "note": 4.9,
+        "avis": 48,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "la-tremblade": {
+    "artisans": [
+      {
+        "id": "9570426428285300112",
+        "nom": "Sarl HAM Menuiserie",
+        "slug": "sarl-ham-menuiserie",
+        "telephone": "05 46 36 87 46",
+        "site_web": "http://www.ham17.com/",
+        "adresse": "ZAC des Bregaudières, 17390 La Tremblade",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16740245163815304107",
+        "nom": "Guillon François",
+        "slug": "guillon-francois",
+        "telephone": "05 46 36 55 43",
+        "site_web": null,
+        "adresse": "7 Rue Capitaine Rousseau, 17390 La Tremblade",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12416420395666097685",
+        "nom": "Gedimat D.M.T - La Tremblade",
+        "slug": "gedimat-dmt-la-tremblade",
+        "telephone": "05 46 36 09 39",
+        "site_web": "https://www.gedimat.fr/1489-magasin-gedimat-d-m-t-la-tremblade.htm",
+        "adresse": "12 Rue des Nougers, 17390 La Tremblade",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2163155788224728144",
+        "nom": "AC Menuiseries Fermetures",
+        "slug": "ac-menuiseries-fermetures",
+        "telephone": "05 46 76 70 19",
+        "site_web": "http://www.ac-menuiseries-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5570706573473095760",
+        "nom": "Couverture Lenoir 17",
+        "slug": "couverture-lenoir-17",
+        "telephone": "05 48 28 60 10",
+        "site_web": "http://couverture-lenoir.fr/",
+        "adresse": "8 Chem. de Saute Chèvre, 17390 La Tremblade",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "yves": {
+    "artisans": [
+      {
+        "id": "16584447600823808070",
+        "nom": "La Pointe d'Yves",
+        "slug": "la-pointe-dyves",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "17340 Yves",
+        "note": 4.3,
+        "avis": 176,
+        "type": "Point de vue"
+      }
+    ]
+  },
+  "port-des-barques": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-hilaire-de-villefranche": {
+    "artisans": [
+      {
+        "id": "15887291751197438797",
+        "nom": "Menuiserie Des Rochers",
+        "slug": "menuiserie-des-rochers",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rue des Rochers, 17770 Saint-Hilaire-de-Villefranche",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3284276709535626186",
+        "nom": "CZ Maçonnerie",
+        "slug": "cz-maconnerie",
+        "telephone": "06 79 89 66 09",
+        "site_web": null,
+        "adresse": "20 Av. de Saint-Jean d'Angély, 17770 Saint-Hilaire-de-Villefranche",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "5072828985772810772",
+        "nom": "CZ Couverture Zinguerie",
+        "slug": "cz-couverture-zinguerie",
+        "telephone": "06 79 89 66 09",
+        "site_web": "https://www.sarlcz.com/",
+        "adresse": "20 Av. de Saint-Jean d'Angély, 17770 Saint-Hilaire-de-Villefranche",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-georges-d-oleron": {
+    "artisans": [
+      {
+        "id": "4423823068394646881",
+        "nom": "BREUIL Kévin / Installateur agréé VELUX / Pose de menuiseries",
+        "slug": "breuil-kevin-installateur-agree-velux-pose-de-menuiseries",
+        "telephone": "07 78 16 08 89",
+        "site_web": "https://breuilkevin-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-jean-d-angely": {
+    "artisans": [
+      {
+        "id": "5908114923372517218",
+        "nom": "HOMKiA",
+        "slug": "homkia",
+        "telephone": "05 46 59 01 52",
+        "site_web": "https://www.homkia.fr/nos-points-conseils/menuiserie-saint-jean-angely/",
+        "adresse": "44 Av. de Rochefort, 17400 Saint-Jean-d'Angély",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7566864890801475491",
+        "nom": "Bati Innov Poitou Charentes - Terres de Fenêtre",
+        "slug": "bati-innov-poitou-charentes-terres-de-fenetre",
+        "telephone": "05 46 32 23 90",
+        "site_web": "https://bati-innov.eu/",
+        "adresse": "2 Rue Alex Dumas, 17400 Saint-Jean-d'Angély",
+        "note": 4.6,
+        "avis": 53,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18184700379936914846",
+        "nom": "GR Rénovation Fenêtres et Energies",
+        "slug": "gr-renovation-fenetres-et-energies",
+        "telephone": "05 46 26 16 06",
+        "site_web": "https://www.gr-renovation.fr/",
+        "adresse": "114 Rue France III, 17400 Saint-Jean-d'Angély",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2779713122738347381",
+        "nom": "SOCOVER - Vérandas et Menuiseries à St-Jean-d'Angély",
+        "slug": "socover-verandas-et-menuiseries-a-st-jean-dangely",
+        "telephone": "05 46 59 01 52",
+        "site_web": "https://www.veranda-socover.fr/",
+        "adresse": "44 Av. de Rochefort, 17400 Saint-Jean-d'Angély",
+        "note": 3.9,
+        "avis": 163,
+        "type": "Vitrier"
+      },
+      {
+        "id": "17418744772438219144",
+        "nom": "SARL Menuiserie Delaunay",
+        "slug": "sarl-menuiserie-delaunay",
+        "telephone": "06 88 53 70 58",
+        "site_web": null,
+        "adresse": "ZI La sacristinerie, 4 Rue du Fief du Guet, 17400 St Jean D'Angėly",
+        "note": 5,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10886169233454493081",
+        "nom": "Mp rénovation 17",
+        "slug": "mp-renovation-17",
+        "telephone": "06 58 36 12 60",
+        "site_web": "https://couvreur-urgence.fr/",
+        "adresse": "12 Av. du Point du Jour, 17400 Saint-Jean-d'Angély",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11671423290689206799",
+        "nom": "WILLY Couvreur et Ravalement Peinture Saint jean d'Angely",
+        "slug": "willy-couvreur-et-ravalement-peinture-saint-jean-dangely",
+        "telephone": "06 44 93 90 25",
+        "site_web": "https://willy-couvreur-facadier.e-monsite.com/",
+        "adresse": "131 Fbg Saint-Eutrope, 17400 Saint-Jean-d'Angély",
+        "note": 5,
+        "avis": 129,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17283786060472773627",
+        "nom": "Bâti-Rénov",
+        "slug": "bati-renov",
+        "telephone": "05 46 59 00 61",
+        "site_web": null,
+        "adresse": "2 Rue du Péage, 17400 Saint-Jean-d'Angély",
+        "note": 2.7,
+        "avis": 14,
+        "type": "Fournisseur de produits plastiques"
+      },
+      {
+        "id": "4857933918982876938",
+        "nom": "Fil Verre",
+        "slug": "fil-verre",
+        "telephone": "05 46 26 94 13",
+        "site_web": "https://www.menuiserie-miroiterie-charente-maritime.fr/",
+        "adresse": "69 Rte de Poitiers, 17400 Saint-Julien-de-l'Escap",
+        "note": 3.9,
+        "avis": 25,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9968779931725573718",
+        "nom": "Etablissements Guillas",
+        "slug": "etablissements-guillas",
+        "telephone": "05 46 32 52 22",
+        "site_web": "https://www.artisansartipole.fr/artisans/etablissement-guillas-17400-agenceur-menuisier-charpentier-ebeniste-menuisier-ossature",
+        "adresse": "ZA La Grenoblerie, 12 Rue Octavie Coudreau, 17400 Saint-Jean-d'Angély",
+        "note": 4,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-germain-de-lusignan": {
+    "artisans": [
+      {
+        "id": "13233508491651392083",
+        "nom": "Fenêtres & Vérandas LUZ (anciennement Fenêtres PARTHENAY) - Concept Alu - JONZAC",
+        "slug": "fenetres-verandas-luz-anciennement-fenetres-parthenay-concept-alu-jonzac",
+        "telephone": "05 46 70 48 38",
+        "site_web": "https://www.fenetresluz.com/",
+        "adresse": "14 Bis Rte de Saint-Genis, 17500 Saint-Germain-de-Lusignan",
+        "note": 4.8,
+        "avis": 125,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10703523700111906599",
+        "nom": "SARL AM MENUISERIES CHARPENTES",
+        "slug": "sarl-am-menuiseries-charpentes",
+        "telephone": "05 17 24 16 55",
+        "site_web": "http://www.ammenuiseriescharpentes.fr/",
+        "adresse": "16 Chez Daufour, 17500 Saint-Germain-de-Lusignan",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7581815429653225510",
+        "nom": "Vérandas CONCEPT ALU",
+        "slug": "verandas-concept-alu",
+        "telephone": "05 46 70 48 38",
+        "site_web": "https://www.conceptalu.com/points-de-vente/charente-maritime/17-verandas-jonzac/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+        "adresse": "14 bis Rte de Saint-Genis, 17500 Saint-Germain-de-Lusignan",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-georges-du-bois": {
+    "artisans": [
+      {
+        "id": "4198450826560293492",
+        "nom": "SAPA, Spécialiste traitement de bois et termites Charente-Maritime",
+        "slug": "sapa-specialiste-traitement-de-bois-et-termites-charente-maritime",
+        "telephone": "05 46 27 94 20",
+        "site_web": "https://www.sapa-traitement.com/charente-maritime-17.html",
+        "adresse": "25 Rue de l'Industrie, 17700 Saint-Georges-du-Bois",
+        "note": 4.3,
+        "avis": 51,
+        "type": "Service d'extermination des nuisibles"
+      }
+    ]
+  },
+  "saint-jean-de-liversay": {
+    "artisans": [
+      {
+        "id": "11489071279693935241",
+        "nom": "Atelier Fournier ︱Cuisiniste & Menuisier La Rochelle",
+        "slug": "atelier-fournier-cuisiniste-menuisier-la-rochelle",
+        "telephone": "06 81 72 94 31",
+        "site_web": "https://www.atelier-fournier17.fr/",
+        "adresse": "8 Rue de la Sèvre, 17170 Saint-Jean-de-Liversay",
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3091575023688199749",
+        "nom": "Gabflo",
+        "slug": "gabflo",
+        "telephone": "06 63 57 95 39",
+        "site_web": null,
+        "adresse": "13 Rue du Four, 17170 Saint-Jean-de-Liversay",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "saint-hippolyte": {
+    "artisans": [
+      {
+        "id": "10023013316273969376",
+        "nom": "Baritaux Escalier & Menuiserie",
+        "slug": "baritaux-escalier-menuiserie",
+        "telephone": "09 81 76 63 41",
+        "site_web": "http://www.baritaux17.fr/",
+        "adresse": "5 bis Imp. Pierre Berne, 17430 Saint-Hippolyte",
+        "note": 5,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8962644458157476826",
+        "nom": "MAT SARL LA BOUTIQUE DU MENUISIER",
+        "slug": "mat-sarl-la-boutique-du-menuisier",
+        "telephone": "05 46 82 10 08",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/m-a-t-rochefort",
+        "adresse": "90 Av. du Dr Dieras, 17300 Rochefort",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15256784473180476840",
+        "nom": "SARL Fabien BRASSAUD - Plaquiste/jointeur",
+        "slug": "sarl-fabien-brassaud-plaquistejointeur",
+        "telephone": "06 87 87 85 75",
+        "site_web": null,
+        "adresse": "6 Chem. des Guêts, 17430 Saint-Hippolyte",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "saint-just-luzac": {
+    "artisans": [
+      {
+        "id": "2163155788224728144",
+        "nom": "AC Menuiseries Fermetures",
+        "slug": "ac-menuiseries-fermetures",
+        "telephone": "05 46 76 70 19",
+        "site_web": "http://www.ac-menuiseries-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 13,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  }
+}

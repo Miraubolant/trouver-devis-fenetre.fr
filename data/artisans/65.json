@@ -1,0 +1,973 @@
+{
+  "barbazan-debat": {
+    "artisans": [
+      {
+        "id": "6082582767906510588",
+        "nom": "Marmer Menuiserie",
+        "slug": "marmer-menuiserie",
+        "telephone": "05 62 33 82 26",
+        "site_web": "http://www.marmer.fr/",
+        "adresse": "13 Bis Av. de Toulouse, 65690 Barbazan-Debat",
+        "note": 3.8,
+        "avis": 43,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "la-barthe-de-neste": {
+    "artisans": [
+      {
+        "id": "9593249778973939964",
+        "nom": "MENATE",
+        "slug": "menate",
+        "telephone": "06 80 20 77 06",
+        "site_web": "https://www.menate65.fr/",
+        "adresse": "16 La Bouchette, 65130 Laborde",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15405460479304312282",
+        "nom": "Fritz Joël",
+        "slug": "fritz-joel",
+        "telephone": "05 62 98 13 40",
+        "site_web": null,
+        "adresse": "13 Rte d'Espagne, 65250 La Barthe-de-Neste",
+        "note": 3,
+        "avis": 2,
+        "type": "Charpentier"
+      },
+      {
+        "id": "13939254469507226751",
+        "nom": "Menuisiers Bagnérais",
+        "slug": "menuisiers-bagnerais",
+        "telephone": "05 62 95 33 39",
+        "site_web": "https://www.les-menuisiers-bagnerais.fr/?utm_source=gmb",
+        "adresse": "23 Av. du Général Leclerc, 65200 Bagnères-de-Bigorre",
+        "note": 3.9,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "403969526061572687",
+        "nom": "Sarl FRITZ JOEL ET FILS",
+        "slug": "sarl-fritz-joel-et-fils",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 chemin du pic d'arneille, 65250 La Barthe-de-Neste",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "andrest": {
+    "artisans": [
+      {
+        "id": "14912108392886667050",
+        "nom": "ENTREPRISE LERDA",
+        "slug": "entreprise-lerda",
+        "telephone": "05 62 31 16 02",
+        "site_web": "http://www.lerda-menuiserie.fr/",
+        "adresse": "4 Rue des Acacias, 65390 Andrest",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "vic-en-bigorre": {
+    "artisans": [
+      {
+        "id": "8516823437172599276",
+        "nom": "MMS Pyrénées menuiserie ALU/ACIER/ PVC",
+        "slug": "mms-pyrenees-menuiserie-aluacier-pvc",
+        "telephone": "06 25 23 93 41",
+        "site_web": "https://www.mmspyrenees.com/",
+        "adresse": "265 Chem. de la Herray, 65500 Vic-en-Bigorre",
+        "note": 3,
+        "avis": 10,
+        "type": "Manufacture de métal"
+      },
+      {
+        "id": "11659363182974933434",
+        "nom": "SARREMÉJEAN - Matériaux et Bricolage",
+        "slug": "sarremejean-materiaux-et-bricolage",
+        "telephone": "05 62 96 70 02",
+        "site_web": "https://sarremejean.fr/",
+        "adresse": "ZI, 44 Chem. de l'Auvergnat, 65500 Vic-en-Bigorre",
+        "note": 4.6,
+        "avis": 52,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13147395981925131934",
+        "nom": "PEINTURE ET COUVERTURE",
+        "slug": "peinture-et-couverture",
+        "telephone": "06 74 66 48 17",
+        "site_web": null,
+        "adresse": "Rue du Chemin Vert, 65500 Vic-en-Bigorre",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2850242066096364765",
+        "nom": "Fourcade Menuiserie",
+        "slug": "fourcade-menuiserie",
+        "telephone": "05 62 92 31 06",
+        "site_web": "http://www.fourcademenuiserie.fr/",
+        "adresse": "Zone Industrielle de, 40 Chemin Vieux, La Herray, 65500 Vic-en-Bigorre",
+        "note": 4.2,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5910755037359648681",
+        "nom": "Confort Menuiseries",
+        "slug": "confort-menuiseries",
+        "telephone": "05 62 31 98 14",
+        "site_web": "http://www.sas-confort-menuiseries.fr/",
+        "adresse": "6 B Rte de Rabastens, 65800 Orleix",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4406957594233420351",
+        "nom": "Peyrou Bruno",
+        "slug": "peyrou-bruno",
+        "telephone": "06 76 88 99 78",
+        "site_web": null,
+        "adresse": "12 route de Juillan Parc activité des Pyrénées départementale 7, 65420 Ibos",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "aureilhan": {
+    "artisans": [
+      {
+        "id": "703570732733993414",
+        "nom": "CREABAT Menuiseries - Fenêtres / Portes / Volets / Portails / Stores / Automatismes",
+        "slug": "creabat-menuiseries-fenetres-portes-volets-portails-stores-automatismes",
+        "telephone": "05 62 96 91 10",
+        "site_web": "https://www.creabatmenuiseries.fr/",
+        "adresse": "42 Av. Jean Jaurès, 65800 Aureilhan",
+        "note": 5,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17557269313015988638",
+        "nom": "Miradour La Boutique du Menuisier Tarbes",
+        "slug": "miradour-la-boutique-du-menuisier-tarbes",
+        "telephone": "05 67 45 80 21",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/jpf-menuiseries-miradour",
+        "adresse": "9 Av. Jean Jaurès, 65800 Aureilhan",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "argeles-gazost": {
+    "artisans": [
+      {
+        "id": "12257509042354763096",
+        "nom": "Extra - Moder'N Ménager",
+        "slug": "extra-modern-menager",
+        "telephone": "05 62 90 35 25",
+        "site_web": "https://www.extra.fr/magasin/extra-argeles-gazost",
+        "adresse": "3 Av. Pierre de Coubertin, 65400 Argelès-Gazost",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "lannemezan": {
+    "artisans": [
+      {
+        "id": "16078635157980344910",
+        "nom": "DV Toiture : Charpentier-Couvreur-Zingueur Pyrénées 65 Nettoyage Reparation Renovation",
+        "slug": "dv-toiture-charpentier-couvreur-zingueur-pyrenees-65-nettoyage-reparation-renovation",
+        "telephone": "06 15 96 09 86",
+        "site_web": "https://dvtoiture.fr/",
+        "adresse": "165 Rue des Bans, 65300 Lannemezan",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "132492535533661922",
+        "nom": "OuvertureS - Lannemezan - Clair de Jour",
+        "slug": "ouvertures-lannemezan-clair-de-jour",
+        "telephone": "05 62 40 54 92",
+        "site_web": "https://lannemezan.ouvertures.com/?utm_campaign=GMB_lannemezan&utm_medium=organic&utm_source=GMB",
+        "adresse": "75 Bd du Futur, 65300 Lannemezan",
+        "note": 4.9,
+        "avis": 63,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9063787835900391665",
+        "nom": "ABP Menuiseries Lannemezan",
+        "slug": "abp-menuiseries-lannemezan",
+        "telephone": "05 62 00 10 20",
+        "site_web": "https://abpmenuiserie.fr/",
+        "adresse": "Imp. du Gypaète, 65300 Lannemezan",
+        "note": 4.4,
+        "avis": 65,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2043961191940817624",
+        "nom": "RICAUD SEBASTIEN MENUISIER",
+        "slug": "ricaud-sebastien-menuisier",
+        "telephone": "06 83 10 17 42",
+        "site_web": "https://ricaudsebastien6.wixsite.com/menuisier",
+        "adresse": "Zone Peyrehitte, 17 Rue de Peyrehitte, 65300 Lannemezan",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14615801253483866",
+        "nom": "HD 65",
+        "slug": "hd-65",
+        "telephone": "05 62 39 29 17",
+        "site_web": "https://hd65.fr/",
+        "adresse": "47 Rue Thiers, 65300 Lannemezan",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bagneres-de-bigorre": {
+    "artisans": [
+      {
+        "id": "13844420858606407920",
+        "nom": "MS Rénovation",
+        "slug": "ms-renovation",
+        "telephone": "06 80 80 75 20",
+        "site_web": "https://msrenovation.fr/",
+        "adresse": "Rue du 8 Mai 1945, 65200 Bagnères-de-Bigorre",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "borderes-sur-l-echez": {
+    "artisans": [
+      {
+        "id": "6352686065339137643",
+        "nom": "Sarl Center Menuiserie",
+        "slug": "sarl-center-menuiserie",
+        "telephone": "05 62 37 18 71",
+        "site_web": "https://www.center-menuiserie.fr/",
+        "adresse": "1 Rue de l'Industrie, 65320 Bordères-sur-l'Échez",
+        "note": 3.9,
+        "avis": 15,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "bazet": {
+    "artisans": [
+      {
+        "id": "13579784691645170426",
+        "nom": "Batiman ,Renov'aktion ,Menuiserie Entreprises",
+        "slug": "batiman-renovaktion-menuiserie-entreprises",
+        "telephone": "05 81 59 99 50",
+        "site_web": "https://www.renovaktion.com/?utm_source=gmb",
+        "adresse": "26 Rte de Bordeaux, 65460 Bazet",
+        "note": 4.6,
+        "avis": 149,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "horgues": {
+    "artisans": [
+      {
+        "id": "16297297315936906848",
+        "nom": "ravivtoit",
+        "slug": "ravivtoit",
+        "telephone": "06 37 24 26 70",
+        "site_web": "https://www.ravivtoit.fr/contact/",
+        "adresse": "11 Ter Rue du Pic du Midi, 65310 Horgues",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "campan": {
+    "artisans": [
+      {
+        "id": "15149004134849341224",
+        "nom": "FALLIERO IBOS | FABRICANT-POSEUR - VERANDAS - MENUISERIES ALU & PVC - VOLETS - PORTAILS",
+        "slug": "falliero-ibos-fabricant-poseur-verandas-menuiseries-alu-pvc-volets-portails",
+        "telephone": "05 62 33 91 11",
+        "site_web": "https://falliero.fr/",
+        "adresse": "11 Rue du Troumouse, 65420 Ibos",
+        "note": 4.3,
+        "avis": 101,
+        "type": "Fabricant"
+      },
+      {
+        "id": "10674188246807717412",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "05 62 33 71 19",
+        "site_web": "https://magasins.lapeyre.fr/occitanie/hautes-pyrenees/lapeyre-tarbes-125",
+        "adresse": "50 Av. du Pouey, 65420 Ibos",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "583393010964661283",
+        "nom": "PYRENEES ISOLATION CONFORT",
+        "slug": "pyrenees-isolation-confort",
+        "telephone": "06 17 45 44 90",
+        "site_web": "http://pyreneesisolationconfort.site-solocal.com/?utm_source=gmb",
+        "adresse": "16 RUE DU LEVANT, 65190 Clarac",
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15032322095623577575",
+        "nom": "Allegret Francis",
+        "slug": "allegret-francis",
+        "telephone": "05 62 91 77 37",
+        "site_web": null,
+        "adresse": "Rue du Layris, 65710 Campan",
+        "note": 5,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "gerde": {
+    "artisans": [
+      {
+        "id": "13061035527123678136",
+        "nom": "Alti-Toit couvreur zingueur Tarbes Pau",
+        "slug": "alti-toit-couvreur-zingueur-tarbes-pau",
+        "telephone": "05 35 53 92 43",
+        "site_web": "https://altitoit.fr/",
+        "adresse": "126 Chem. de Lanardonne, 65320 Bordères-sur-l'Échez",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "juillan": {
+    "artisans": [
+      {
+        "id": "4406957594233420351",
+        "nom": "Peyrou Bruno",
+        "slug": "peyrou-bruno",
+        "telephone": "06 76 88 99 78",
+        "site_web": null,
+        "adresse": "12 route de Juillan Parc activité des Pyrénées départementale 7, 65420 Ibos",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "capvern": {
+    "artisans": [
+      {
+        "id": "12020350123600656994",
+        "nom": "Laran Eric",
+        "slug": "laran-eric",
+        "telephone": "05 62 39 17 99",
+        "site_web": null,
+        "adresse": "150 Rue de la Bigorre, 65130 Capvern",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17553287395041382131",
+        "nom": "TOITURE 65",
+        "slug": "toiture-65",
+        "telephone": "07 80 01 62 44",
+        "site_web": "https://www.toiture65.fr/",
+        "adresse": "Rue Pasteur, 65300 Lannemezan",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "laloubere": {
+    "artisans": [
+      {
+        "id": "3150556327932112433",
+        "nom": "Andreu decor",
+        "slug": "andreu-decor",
+        "telephone": "05 62 45 14 17",
+        "site_web": "http://andreuclaude-tarbes.site-solocal.com/",
+        "adresse": "Centre Commercial Carrefour, Route de Bagnères, 65310 Laloubère",
+        "note": 4,
+        "avis": 4,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "10264973530948369840",
+        "nom": "ALLIANCE TOITURES OCCITANE",
+        "slug": "alliance-toitures-occitane",
+        "telephone": "05 62 36 66 60",
+        "site_web": "http://alliancetoiture.fr/",
+        "adresse": "3 Rue du Maréchal Foch, 65310 Laloubère",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13061035527123678136",
+        "nom": "Alti-Toit couvreur zingueur Tarbes Pau",
+        "slug": "alti-toit-couvreur-zingueur-tarbes-pau",
+        "telephone": "05 35 53 92 43",
+        "site_web": "https://altitoit.fr/",
+        "adresse": "126 Chem. de Lanardonne, 65320 Bordères-sur-l'Échez",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8405017331829171086",
+        "nom": "Charpente Weexsteen (Sarl)",
+        "slug": "charpente-weexsteen-sarl",
+        "telephone": "06 80 06 56 79",
+        "site_web": "http://charpentew.fr/",
+        "adresse": "19 Rue de l'Allée, 65310 Laloubère",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "pierrefitte-nestalas": {
+    "artisans": [
+      {
+        "id": "17345910399101876251",
+        "nom": "Bicci Peinture",
+        "slug": "bicci-peinture",
+        "telephone": "05 31 17 66 89",
+        "site_web": "http://www.biccipeinture.fr/",
+        "adresse": "5 Prats, 65260 Pierrefitte-Nestalas",
+        "note": 5,
+        "avis": 9,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "6689158807377784176",
+        "nom": "Pierrefitte Peinture",
+        "slug": "pierrefitte-peinture",
+        "telephone": "06 47 93 07 58",
+        "site_web": "https://pierrefittepeinture.fr/",
+        "adresse": "53 Av. Jean Moulin, 65260 Pierrefitte-Nestalas",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "ibos": {
+    "artisans": [
+      {
+        "id": "5501067348281787432",
+        "nom": "MRM Menuiserie - Tarbes",
+        "slug": "mrm-menuiserie-tarbes",
+        "telephone": "05 62 96 04 51",
+        "site_web": "https://mrm65.fr/",
+        "adresse": "Proche Mcdonald, Zoning Industriel, 9 Rte de Pau, 65420 Ibos",
+        "note": 4.8,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3134446929176347862",
+        "nom": "CASÉO Tarbes",
+        "slug": "caseo-tarbes",
+        "telephone": "05 62 31 76 10",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-tarbes-ibos-13",
+        "adresse": "35 Av. du Pouey, 65420 Ibos",
+        "note": 4.1,
+        "avis": 177,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18104517861832825757",
+        "nom": "Les Vérandas du Sud Ouest",
+        "slug": "les-verandas-du-sud-ouest",
+        "telephone": "05 62 34 15 64",
+        "site_web": "http://www.facebook.com/vso65/?utm_source=gmb",
+        "adresse": "4 Bis Chem. de la Trav., 65420 Ibos",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "13952236783909150434",
+        "nom": "Energy Menuiseries",
+        "slug": "energy-menuiseries",
+        "telephone": "05 62 37 59 24",
+        "site_web": "https://www.energy-menuiseries.com/",
+        "adresse": "2 Rue de l'Ardiden, 65420 Ibos",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12395344145967130730",
+        "nom": "Energy Menuiserie",
+        "slug": "energy-menuiserie",
+        "telephone": "05 62 37 59 24",
+        "site_web": "https://www.energy-menuiseries.com/",
+        "adresse": "11 Rue du Gabizos, 65420 Ibos",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3914040476869360227",
+        "nom": "Habit'confort Pyrénées SARL",
+        "slug": "habitconfort-pyrenees-sarl",
+        "telephone": "05 62 34 84 72",
+        "site_web": "http://www.habitconfort.fr/",
+        "adresse": "47 Av. du Pouey, 65420 Ibos",
+        "note": 4.2,
+        "avis": 25,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12587238469294080585",
+        "nom": "Duboé Et Fils SARL",
+        "slug": "duboe-et-fils-sarl",
+        "telephone": "05 62 34 54 78",
+        "site_web": "https://www.duboe-menuiserie.com/",
+        "adresse": "43 Rue François Marquès, 65000 Tarbes",
+        "note": 4.8,
+        "avis": 59,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15149004134849341224",
+        "nom": "FALLIERO IBOS | FABRICANT-POSEUR - VERANDAS - MENUISERIES ALU & PVC - VOLETS - PORTAILS",
+        "slug": "falliero-ibos-fabricant-poseur-verandas-menuiseries-alu-pvc-volets-portails",
+        "telephone": "05 62 33 91 11",
+        "site_web": "https://falliero.fr/",
+        "adresse": "11 Rue du Troumouse, 65420 Ibos",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "louey": {
+    "artisans": [
+      {
+        "id": "13061035527123678136",
+        "nom": "Alti-Toit couvreur zingueur Tarbes Pau",
+        "slug": "alti-toit-couvreur-zingueur-tarbes-pau",
+        "telephone": "05 35 53 92 43",
+        "site_web": "https://altitoit.fr/",
+        "adresse": "126 Chem. de Lanardonne, 65320 Bordères-sur-l'Échez",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "lourdes": {
+    "artisans": [
+      {
+        "id": "16387260969616660452",
+        "nom": "Eurl JEAUNEAU - La Boutique du Menuisier Lourdes",
+        "slug": "eurl-jeauneau-la-boutique-du-menuisier-lourdes",
+        "telephone": "05 62 95 67 06",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/sarl-jeauneau-la-boutique-du-menuisier-lourdes",
+        "adresse": "48 Bd du Centenaire, 65100 Lourdes",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11687444548072309874",
+        "nom": "Prestige menuiseries",
+        "slug": "prestige-menuiseries",
+        "telephone": "07 87 47 45 43",
+        "site_web": "http://prestigemenuiserieslourdes.fr/",
+        "adresse": "11 Pl. des Pyrénées, 65100 Lourdes",
+        "note": 3.5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1886286879487562316",
+        "nom": "Menuiserie BEARN STORES ET FENETRES",
+        "slug": "menuiserie-bearn-stores-et-fenetres",
+        "telephone": "05 62 42 19 15",
+        "site_web": "http://www.bearnstores.fr/",
+        "adresse": "18 Bd du Centenaire, 65100 Lourdes",
+        "note": 4.1,
+        "avis": 72,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "maubourguet": {
+    "artisans": [
+      {
+        "id": "13061035527123678136",
+        "nom": "Alti-Toit couvreur zingueur Tarbes Pau",
+        "slug": "alti-toit-couvreur-zingueur-tarbes-pau",
+        "telephone": "05 35 53 92 43",
+        "site_web": "https://altitoit.fr/",
+        "adresse": "126 Chem. de Lanardonne, 65320 Bordères-sur-l'Échez",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "odos": {
+    "artisans": [
+      {
+        "id": "2789324259995316881",
+        "nom": "GlassAuto ODOS",
+        "slug": "glassauto-odos",
+        "telephone": "09 87 30 47 99",
+        "site_web": "https://www.glassauto.fr/centre/glassauto-odos",
+        "adresse": "40 Av. de Lourdes, 65310 Odos",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "8169220040752101263",
+        "nom": "Pyrenees Menuiseries",
+        "slug": "pyrenees-menuiseries",
+        "telephone": "05 62 37 26 60",
+        "site_web": "http://www.pyrenees-menuiseries.com/",
+        "adresse": "4 Rue de l'Adour, 65600 Séméac",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "semeac": {
+    "artisans": [
+      {
+        "id": "16510676799412186418",
+        "nom": "JMF ENTREPRISE COUVERTURE PYRÉNÉES : Maître Charpentier Couvreur Zingueur 65 Tarbes Pau Lourdes",
+        "slug": "jmf-entreprise-couverture-pyrenees-maitre-charpentier-couvreur-zingueur-65-tarbes-pau-lourdes",
+        "telephone": "06 59 97 00 65",
+        "site_web": "https://jmf-couverturepyrenees.fr/",
+        "adresse": "15 Rue de la Palanque, 65600 Séméac",
+        "note": 4.9,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "rabastens-de-bigorre": {
+    "artisans": [
+      {
+        "id": "3915976641387112970",
+        "nom": "SARREMÉJEAN - Matériaux et Bricolage",
+        "slug": "sarremejean-materiaux-et-bricolage",
+        "telephone": "05 62 96 60 49",
+        "site_web": "https://sarremejean.fr/",
+        "adresse": "30 Rue du Château, 65140 Rabastens-de-Bigorre",
+        "note": 4.5,
+        "avis": 24,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "15211044832745843045",
+        "nom": "Sud Ouest Habitat - Art et Fenêtres",
+        "slug": "sud-ouest-habitat-art-et-fenetres",
+        "telephone": "05 62 36 09 99",
+        "site_web": "https://sud-ouest-habitat.artetfenetres.com/",
+        "adresse": "Route de Rabastens Galerie marchande centre commercial E.Leclerc, 65800 Orleix",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15412633520148603226",
+        "nom": "Weldom Rabastens de Bigorre",
+        "slug": "weldom-rabastens-de-bigorre",
+        "telephone": "05 62 96 60 36",
+        "site_web": "https://www.weldom.fr/m/weldom-rabastens-de-bigorre",
+        "adresse": "32 Rue du Château, 65140 Rabastens-de-Bigorre",
+        "note": 4.6,
+        "avis": 389,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "ossun": {
+    "artisans": [
+      {
+        "id": "2284995091254648366",
+        "nom": "FFcouverture",
+        "slug": "ffcouverture",
+        "telephone": "06 64 96 06 26",
+        "site_web": "https://ff-couverture.fr/",
+        "adresse": "Chem. du Barat Chele, 65100 Poueyferré",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6324299668935865280",
+        "nom": "N. Martin",
+        "slug": "n-martin",
+        "telephone": "06 41 26 51 75",
+        "site_web": "https://couvreur65.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13492904763453854146",
+        "nom": "L'Expert Fenêtre Béarn Confort Isolation",
+        "slug": "lexpert-fenetre-bearn-confort-isolation",
+        "telephone": "05 59 04 81 77",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/pau/",
+        "adresse": "22 Rue de Coarraze, 64000 Pau",
+        "note": 4.8,
+        "avis": 71,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "oursbelille": {
+    "artisans": [
+      {
+        "id": "13061035527123678136",
+        "nom": "Alti-Toit couvreur zingueur Tarbes Pau",
+        "slug": "alti-toit-couvreur-zingueur-tarbes-pau",
+        "telephone": "05 35 53 92 43",
+        "site_web": "https://altitoit.fr/",
+        "adresse": "126 Chem. de Lanardonne, 65320 Bordères-sur-l'Échez",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pouzac": {
+    "artisans": [
+      {
+        "id": "15383246890985385771",
+        "nom": "Filbet Menuiserie",
+        "slug": "filbet-menuiserie",
+        "telephone": "05 67 45 43 69",
+        "site_web": "https://filbet-menuiserie.fr/",
+        "adresse": "1 Av. de la Mongie, 65200 Pouzac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tournay": {
+    "artisans": [
+      {
+        "id": "13054346843200288020",
+        "nom": "Genty Eric",
+        "slug": "genty-eric",
+        "telephone": "05 62 35 27 55",
+        "site_web": "https://menuiserie-genty.fr/",
+        "adresse": "35 Av. de Bagnères, 65190 Tournay",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15532987506232570527",
+        "nom": "Stéphane Milhas - Aménagements extérieurs & espaces verts",
+        "slug": "stephane-milhas-amenagements-exterieurs-espaces-verts",
+        "telephone": "06 15 11 68 58",
+        "site_web": "https://www.milhas-design-exterieur.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "9266819754300610764",
+        "nom": "Gedimat Pomes Darre - Tournay",
+        "slug": "gedimat-pomes-darre-tournay",
+        "telephone": "05 62 35 79 10",
+        "site_web": "http://www.gedimat.fr/index.php?magDest=1463",
+        "adresse": "Zone Artisanale le, Zone Artisanale, 10 Rensou, 65190 Tournay",
+        "note": 4.4,
+        "avis": 35,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10520171131173008174",
+        "nom": "PIC BOIS Pyrénées",
+        "slug": "pic-bois-pyrenees",
+        "telephone": "05 62 35 29 16",
+        "site_web": "https://www.pic-bois.com/",
+        "adresse": "35 Av. de Bagnères, 65190 Tournay",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "saint-pe-de-bigorre": {
+    "artisans": [
+      {
+        "id": "2284995091254648366",
+        "nom": "FFcouverture",
+        "slug": "ffcouverture",
+        "telephone": "06 64 96 06 26",
+        "site_web": "https://ff-couverture.fr/",
+        "adresse": "Chem. du Barat Chele, 65100 Poueyferré",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tarbes": {
+    "artisans": [
+      {
+        "id": "2226968212882330228",
+        "nom": "Vérandas CONCEPT ALU",
+        "slug": "verandas-concept-alu",
+        "telephone": "05 62 34 44 31",
+        "site_web": "https://www.conceptalu.com/points-de-vente/hautes-pyrenees/65-verandas-tarbes/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+        "adresse": "10 Pl. Germain Claverie, 65000 Tarbes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17183245332576474746",
+        "nom": "Demestre couverture peintures",
+        "slug": "demestre-couverture-peintures",
+        "telephone": "06 34 18 01 51",
+        "site_web": null,
+        "adresse": "30 Rue Puvis de Chavannes, 65000 Tarbes",
+        "note": 4.9,
+        "avis": 240,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14631329921722410050",
+        "nom": "TFP Toutes Fenêtres et Portes",
+        "slug": "tfp-toutes-fenetres-et-portes",
+        "telephone": "05 62 90 37 80",
+        "site_web": "https://toutesfenetresportes.fr/",
+        "adresse": "4 Rue des Gargousses, 65000 Tarbes",
+        "note": 4.8,
+        "avis": 65,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3417899269246569335",
+        "nom": "Menuiserie Habitat",
+        "slug": "menuiserie-habitat",
+        "telephone": "05 62 34 44 31",
+        "site_web": "https://menuiserie-habitat-tarbes.com/",
+        "adresse": "10 Pl. Germain Claverie, 65000 Tarbes",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "16049197648480690874",
+        "nom": "VMM",
+        "slug": "vmm",
+        "telephone": "05 62 34 05 55",
+        "site_web": "http://www.vmm.fr/",
+        "adresse": "9 Av. d'Azereix, 65000 Tarbes",
+        "note": 4.9,
+        "avis": 148,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "13579784691645170426",
+        "nom": "Batiman ,Renov'aktion ,Menuiserie Entreprises",
+        "slug": "batiman-renovaktion-menuiserie-entreprises",
+        "telephone": "05 81 59 99 50",
+        "site_web": "https://www.renovaktion.com/?utm_source=gmb",
+        "adresse": "26 Rte de Bordeaux, 65460 Bazet",
+        "note": 4.6,
+        "avis": 149,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6082582767906510588",
+        "nom": "Marmer Menuiserie",
+        "slug": "marmer-menuiserie",
+        "telephone": "05 62 33 82 26",
+        "site_web": "http://www.marmer.fr/",
+        "adresse": "13 Bis Av. de Toulouse, 65690 Barbazan-Debat",
+        "note": 3.8,
+        "avis": 43,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1011691545360243286",
+        "nom": "Hestia Menuiserie Agencement",
+        "slug": "hestia-menuiserie-agencement",
+        "telephone": "06 58 09 95 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "soues": {
+    "artisans": [
+      {
+        "id": "13924426060384947463",
+        "nom": "Miroiterie Feresin",
+        "slug": "miroiterie-feresin",
+        "telephone": "05 62 33 01 99",
+        "site_web": "https://www.miroiterie-feresin.fr/",
+        "adresse": "13 Av. de la Libération, 65430 Soues",
+        "note": 4.4,
+        "avis": 36,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  }
+}

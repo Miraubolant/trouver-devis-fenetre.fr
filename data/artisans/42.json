@@ -1,0 +1,4823 @@
+{
+  "chambles": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chamboeuf": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-chambon-feugerolles": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chandon": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "montagny": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cellieu": {
+    "artisans": [
+      {
+        "id": "15170140447847031473",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/loire/installateur-expert-en-pose-velux-a-saint-etienne",
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10091130618148327191",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "04 72 50 95 52",
+        "site_web": "https://www.acielouvert.com/",
+        "adresse": "2 Rue Gabriel Bourdarias, 69200 Vénissieux",
+        "note": 5,
+        "avis": 155,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "charlieu": {
+    "artisans": [
+      {
+        "id": "2391556874518496508",
+        "nom": "B&B Concept Isolation",
+        "slug": "bb-concept-isolation",
+        "telephone": "04 27 62 34 50",
+        "site_web": "http://www.conceptisolation.fr/",
+        "adresse": "12 Rue Jean Jaurès, 42190 Charlieu",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11739067662826441109",
+        "nom": "SP menuiserie",
+        "slug": "sp-menuiserie",
+        "telephone": "06 24 59 03 96",
+        "site_web": "https://www.facebook.com/profile.php?id=100072376752314",
+        "adresse": "17 Rue Dorian, 42190 Charlieu",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13097649081632378212",
+        "nom": "Menuiserie Gonnet",
+        "slug": "menuiserie-gonnet",
+        "telephone": "04 77 60 38 49",
+        "site_web": "http://www.facebook.com/pg/Menuiserie-Agencement-Gonnet-334844047362904/about/?ref=page_internal&utm_source=gmb",
+        "adresse": "34 Rue Jean Jaurès, 42190 Charlieu",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1106877637309417458",
+        "nom": "Avenir Rénovations Roanne (42)",
+        "slug": "avenir-renovations-roanne-42",
+        "telephone": "04 20 98 40 38",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-42-roanne/",
+        "adresse": "16B Bd de Valmy, 42300 Roanne",
+        "note": 5,
+        "avis": 3,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "champdieu": {
+    "artisans": [
+      {
+        "id": "15736209001821991172",
+        "nom": "EXalu Certifié Fabricant Technal",
+        "slug": "exalu-certifie-fabricant-technal",
+        "telephone": "04 77 24 07 23",
+        "site_web": "https://exalu.fr/",
+        "adresse": "106 La Corée, 42600 Champdieu",
+        "note": 3.4,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1677588673949102821",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "https://www.alabelouvertures.com/",
+        "adresse": "20 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "66498574372522606",
+        "nom": "BAL’MENUISERIE",
+        "slug": "balmenuiserie",
+        "telephone": "06 66 70 07 37",
+        "site_web": "http://balmenuiserie.fr/",
+        "adresse": "705 Rte de Montbrison road, 42600 Champdieu",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "chazelles-sur-lyon": {
+    "artisans": [
+      {
+        "id": "16093637362172781558",
+        "nom": "Terrasses Bois & Menuiseries",
+        "slug": "terrasses-bois-menuiseries",
+        "telephone": "04 77 74 37 34",
+        "site_web": null,
+        "adresse": "16 Rue Jean Meunier, 42140 Chazelles-sur-Lyon",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12400119001009379270",
+        "nom": "Bissardon Menuiserie",
+        "slug": "bissardon-menuiserie",
+        "telephone": "04 77 94 41 52",
+        "site_web": "https://bissardon.eu/",
+        "adresse": "Zone Artisanale Montfuron, 92 Imp. des Buttes, 42140 Chazelles-sur-Lyon",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "976625976949382673",
+        "nom": "fenetre24.com",
+        "slug": "fenetre24com",
+        "telephone": "04 78 14 36 46",
+        "site_web": "https://www.fenetre24.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-eintrag",
+        "adresse": "129 Rue Servient, 69003 Lyon",
+        "note": 4,
+        "avis": 457,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chateauneuf": {
+    "artisans": [
+      {
+        "id": "15393333941128897026",
+        "nom": "L'Expert Fenêtre Etablissement Riguet",
+        "slug": "lexpert-fenetre-etablissement-riguet",
+        "telephone": "02 38 58 40 01",
+        "site_web": "https://www.lexpertfenetre.fr/trouvez-un-expert/orleans",
+        "adresse": "38 Av. Albert Viger, 45110 Châteauneuf-sur-Loire",
+        "note": 4.7,
+        "avis": 52,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bussieres": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chevrieres": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "commelle-vernay": {
+    "artisans": [
+      {
+        "id": "2801868856541132610",
+        "nom": "Lg Stores",
+        "slug": "lg-stores",
+        "telephone": "06 64 94 42 61",
+        "site_web": "https://lgstores.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 14,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "11409415719683782457",
+        "nom": "RMS - ROANNE - électricien - climatisation - pompe a chaleur - VMC - Décoration intérieure",
+        "slug": "rms-roanne-electricien-climatisation-pompe-a-chaleur-vmc-decoration-interieure",
+        "telephone": "06 15 29 91 11",
+        "site_web": "http://www.rms-renov.com/",
+        "adresse": "66 Rue de l'Artisanat, 42120 Commelle-Vernay",
+        "note": 5,
+        "avis": 37,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "civens": {
+    "artisans": [
+      {
+        "id": "1044694125017913923",
+        "nom": "Comptoir des Menuisiers - Terres de Fenêtre",
+        "slug": "comptoir-des-menuisiers-terres-de-fenetre",
+        "telephone": "04 77 26 43 73",
+        "site_web": "https://www.comptoirdesmenuisiers.fr/",
+        "adresse": "22 Chem. des Entrepreneurs, 42110 Épercieux-Saint-Paul",
+        "note": 4.9,
+        "avis": 189,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14276655436552484564",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "http://alabelouvertures.com/",
+        "adresse": "20 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8053442951375427909",
+        "nom": "Couzon Raphael Menuiserie Escalier bois Terrasse bois Feurs",
+        "slug": "couzon-raphael-menuiserie-escalier-bois-terrasse-bois-feurs",
+        "telephone": "06 84 37 12 39",
+        "site_web": "http://www.amenagement-bois-couzon.fr/",
+        "adresse": "125 Imp. Des Roseaux, 42110 Civens",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "chavanay": {
+    "artisans": [
+      {
+        "id": "4804622034979618181",
+        "nom": "CZR (SARL)",
+        "slug": "czr-sarl",
+        "telephone": "09 86 47 55 97",
+        "site_web": "https://czrgroupe.fr/",
+        "adresse": "141 RN 86 1086, 42410 Chavanay",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10783990655572296487",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "https://www.alabelouvertures.com/",
+        "adresse": "101 Rue Bergson, 42000 Saint-Étienne",
+        "note": 4.8,
+        "avis": 64,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9335063690020777071",
+        "nom": "GREG POSE",
+        "slug": "greg-pose",
+        "telephone": "06 68 34 94 65",
+        "site_web": "http://www.greg-pose.com/",
+        "adresse": "146 Route Nationale 1086, 42410 Chavanay",
+        "note": 5,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "le-coteau": {
+    "artisans": [
+      {
+        "id": "9081902955273939812",
+        "nom": "FD MENUISERIES",
+        "slug": "fd-menuiseries",
+        "telephone": "06 17 41 55 12",
+        "site_web": "http://www.menuiserie-roanne-fd42.fr/",
+        "adresse": "Za, Les Plaines S, 42120 Perreux",
+        "note": 5,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13804244673975799556",
+        "nom": "E.U.R.L. Vitrerie Chartier",
+        "slug": "eurl-vitrerie-chartier",
+        "telephone": "04 77 70 06 03",
+        "site_web": null,
+        "adresse": "19 Rue Anatole France, 42120 Le Coteau",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Vitrier"
+      },
+      {
+        "id": "11039845159788431952",
+        "nom": "Côté Ouverture",
+        "slug": "cote-ouverture",
+        "telephone": "04 77 66 41 00",
+        "site_web": "http://www.cote-ouverture.fr/",
+        "adresse": "Zone Industrielle La Villette, 93 Rue Clément Ader, 42153 Riorges",
+        "note": 4,
+        "avis": 41,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1211991093754890184",
+        "nom": "KparK Roanne",
+        "slug": "kpark-roanne",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/38-kpark-roanne?utm_source=gmb",
+        "adresse": "51 Rue Jean Jaurès, 42300 Roanne",
+        "note": 4.4,
+        "avis": 117,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1640957995206281568",
+        "nom": "ACP Vérandas et Fermetures",
+        "slug": "acp-verandas-et-fermetures",
+        "telephone": "04 77 67 36 83",
+        "site_web": "https://www.acp-verandas.fr/",
+        "adresse": "139 Rue Michel Rondet, 42153 Riorges",
+        "note": 4.8,
+        "avis": 36,
+        "type": "Fournisseur de cadres en aluminium"
+      },
+      {
+        "id": "4116622342002018529",
+        "nom": "SARL CHRISDECOR",
+        "slug": "sarl-chrisdecor",
+        "telephone": "04 77 67 04 10",
+        "site_web": "https://www.chrisdecor.com/",
+        "adresse": "Les Guérins, Zone Industrielle, 42120 Le Coteau",
+        "note": 3.8,
+        "avis": 17,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "6330562804575018562",
+        "nom": "Serraille SA, Couvreur Roanne, Etanchéité, Bardage Riorges",
+        "slug": "serraille-sa-couvreur-roanne-etancheite-bardage-riorges",
+        "telephone": "04 77 68 39 13",
+        "site_web": "https://www.ets-serraille.fr/",
+        "adresse": "4 r Marcel Eizenberg, 42300 Roanne",
+        "note": 4.4,
+        "avis": 22,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1449629462835373572",
+        "nom": "Grizard Agencement",
+        "slug": "grizard-agencement",
+        "telephone": "04 77 69 33 44",
+        "site_web": "https://www.grizard-agencement.com/",
+        "adresse": "212 Av. de la Libération, 42120 Le Coteau",
+        "note": 5,
+        "avis": 2,
+        "type": "Agenceur"
+      },
+      {
+        "id": "10763170050332075104",
+        "nom": "SARL THORAL JEAN MICHEL",
+        "slug": "sarl-thoral-jean-michel",
+        "telephone": "04 77 62 84 35",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "craintilleux": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "coutouvre": {
+    "artisans": [
+      {
+        "id": "9311999417692718667",
+        "nom": "BP Menuiserie",
+        "slug": "bp-menuiserie",
+        "telephone": "04 69 34 20 91",
+        "site_web": "http://www.bp-menuiserie.com/",
+        "adresse": "3313 Grande Rue, 42460 Coutouvre",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "l-etrat": {
+    "artisans": [
+      {
+        "id": "12331282265091730988",
+        "nom": "LES MENUISERIES DU SOLEIL",
+        "slug": "les-menuiseries-du-soleil",
+        "telephone": "04 82 77 03 06",
+        "site_web": "https://volet-fenetre-saint-etienne.com/",
+        "adresse": "1070 Chem. de la Ferrière, 42170 Saint-Just-Saint-Rambert",
+        "note": 4.9,
+        "avis": 99,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "17198360490600842174",
+        "nom": "Gedimat Concept Store Carrelages Duboeuf – L’Etrat",
+        "slug": "gedimat-concept-store-carrelages-duboeuf-letrat",
+        "telephone": "04 77 79 97 83",
+        "site_web": "https://conceptstore.gedimat.fr/sols-bains/84-showroom-de-l-etrat.htm",
+        "adresse": "ZA Moulin Picon, 26 Rue du 8 Mai, 42580 L'Étrat",
+        "note": 4.5,
+        "avis": 87,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "333289579628069259",
+        "nom": "Saint Maclou",
+        "slug": "saint-maclou",
+        "telephone": "04 77 93 54 89",
+        "site_web": "http://www.saint-maclou.com/magasin-deco/saint-etienne-l-etrat",
+        "adresse": "route Departementale 1082, Rue de Ratarieux, 42580 L'Étrat",
+        "note": 3.8,
+        "avis": 276,
+        "type": "Magasin de revêtements de sol"
+      },
+      {
+        "id": "18154940758150814244",
+        "nom": "Tissus des Ursules / La Maison d'Ursule L'Etrat - St Etienne",
+        "slug": "tissus-des-ursules-la-maison-dursule-letrat-st-etienne",
+        "telephone": "04 77 74 76 49",
+        "site_web": "https://www.tissusdesursules.fr/",
+        "adresse": "74 RD 1082, Rue de Ratarieux, 42580 L'Étrat",
+        "note": 4.2,
+        "avis": 245,
+        "type": "Magasin de tissus"
+      },
+      {
+        "id": "16706992119709271278",
+        "nom": "MENUI'PRO SAINT PRIEST EN JAREZ",
+        "slug": "menuipro-saint-priest-en-jarez",
+        "telephone": "04 77 93 67 67",
+        "site_web": "https://www.menuipro.fr/",
+        "adresse": "26 Bis Rte de l'Etrat, 42270 Saint-Priest-en-Jarez",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15514436509486145193",
+        "nom": "Chassang Miroiterie Vitrerie",
+        "slug": "chassang-miroiterie-vitrerie",
+        "telephone": "04 77 32 20 60",
+        "site_web": "https://www.chassang-miroiterie.fr/",
+        "adresse": "26 bis Rte de l'Etrat, 42270 Saint-Priest-en-Jarez",
+        "note": 4.7,
+        "avis": 32,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "12593484351219454985",
+        "nom": "HDC Rénov Habitat",
+        "slug": "hdc-renov-habitat",
+        "telephone": "06 42 57 95 49",
+        "site_web": "https://hdcrenovhabitat.com/",
+        "adresse": "1 Rue des Quatre Saisons, 42100 Saint-Étienne",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cuzieu": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ecotay-l-olme": {
+    "artisans": [
+      {
+        "id": "4069008883128377769",
+        "nom": "ISOFRANCE Fenêtres & Energies - Montbrison",
+        "slug": "isofrance-fenetres-energies-montbrison",
+        "telephone": "04 77 88 24 16",
+        "site_web": "https://www.isofrance-fenetres-energies.fr/magasin/isofrance-fenetres-energies-42-montbrison/62",
+        "adresse": "56 Rue des Purelles, 42600 Montbrison",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "17139610951359588954",
+        "nom": "L'Olme",
+        "slug": "lolme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42600 Écotay-l'Olme",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "farnay": {
+    "artisans": [
+      {
+        "id": "3933564282034217994",
+        "nom": "Balthazar Saia",
+        "slug": "balthazar-saia",
+        "telephone": "06 89 88 52 08",
+        "site_web": null,
+        "adresse": "90 Chem. des Cèdres, 42320 Farnay",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "11829147102826661533",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "04 77 91 39 65",
+        "site_web": "https://magasins.lapeyre.fr/auvergne-rhone-alpes/loire/lapeyre-saint-etienne-52",
+        "adresse": "lieu dit La Porchère, 42480 La Fouillouse",
+        "note": 3.7,
+        "avis": 402,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "16708365425988126521",
+        "nom": "3R Services",
+        "slug": "3r-services",
+        "telephone": "07 83 06 09 72",
+        "site_web": "https://www.3-r-services.com/",
+        "adresse": "62 Chem. des Granges, 42340 Veauche",
+        "note": 5,
+        "avis": 15,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      },
+      {
+        "id": "6371315539958991268",
+        "nom": "Farnay Paysage",
+        "slug": "farnay-paysage",
+        "telephone": "06 12 89 32 74",
+        "site_web": "https://www.facebook.com/farnay.paysage",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "fraisses": {
+    "artisans": [
+      {
+        "id": "16714265434451561455",
+        "nom": "La Boutique du menuisier, fenêtre Firminy, volets, pergola Loire (42), porte de garage Haute-Loire (43)",
+        "slug": "la-boutique-du-menuisier-fenetre-firminy-volets-pergola-loire-42-porte-de-garage-haute-loire-43",
+        "telephone": "04 77 93 52 23",
+        "site_web": "https://boutiquemenuisier-42-43.fr/",
+        "adresse": "18 Rue Dorian, 42700 Firminy",
+        "note": 4.5,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10938324772470915259",
+        "nom": "Couverture Forezienne, couvreur & zingueur Firminy, Unieux, Fraisses",
+        "slug": "couverture-forezienne-couvreur-zingueur-firminy-unieux-fraisses",
+        "telephone": "09 50 62 57 49",
+        "site_web": null,
+        "adresse": "ZA du Parc, 42490 Fraisses",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "feurs": {
+    "artisans": [
+      {
+        "id": "1746308707876692172",
+        "nom": "MENUISERIE FOREZIENNE",
+        "slug": "menuiserie-forezienne",
+        "telephone": "04 77 26 46 54",
+        "site_web": "https://www.menuiserie-forezienne.fr/",
+        "adresse": "28 Rue René Cassin, 42110 Feurs",
+        "note": 4.6,
+        "avis": 25,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6071063893395513270",
+        "nom": "Profession Menuisier Feurs | Installateur de fenêtres et menuiseries",
+        "slug": "profession-menuisier-feurs-installateur-de-fenetres-et-menuiseries",
+        "telephone": "04 77 70 44 48",
+        "site_web": "http://www.professionmenuisier.fr/",
+        "adresse": "7 Rue de la Loire, 42110 Feurs",
+        "note": 4.7,
+        "avis": 84,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10883083572154508088",
+        "nom": "MENUI'PRO FEURS",
+        "slug": "menuipro-feurs",
+        "telephone": "04 77 27 36 71",
+        "site_web": "http://www.menuipro.fr/",
+        "adresse": "20 Rue de la Guillotière, Fbg Saint-Antoine, 42110 Feurs",
+        "note": 4.8,
+        "avis": 103,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15086747879618483961",
+        "nom": "ALUVER VITRERIE FEURS",
+        "slug": "aluver-vitrerie-feurs",
+        "telephone": "06 31 96 84 41",
+        "site_web": "https://aluver-vitrerie-feurs.fr/fr",
+        "adresse": "6 Rue du Capitole, ZI du Forum, 42110 Feurs",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "710603959985542894",
+        "nom": "Les Services Du Volet",
+        "slug": "les-services-du-volet",
+        "telephone": "04 77 26 56 48",
+        "site_web": "https://www.facebook.com/100275229714749",
+        "adresse": "8 Rue Camille Pariat, 42110 Feurs",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "15345794831597475648",
+        "nom": "Agencement Aménagement Installation Menuiserie Aluminium AAI M'Alu",
+        "slug": "agencement-amenagement-installation-menuiserie-aluminium-aai-malu",
+        "telephone": "04 77 26 54 90",
+        "site_web": "https://www.aai-m-alu.fr/?utm_source=gmb",
+        "adresse": "4 Impasse du Palatin, 42110 Feurs",
+        "note": 4.7,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "firminy": {
+    "artisans": [
+      {
+        "id": "12025256136615011873",
+        "nom": "Gauthier",
+        "slug": "gauthier",
+        "telephone": "04 77 57 39 71",
+        "site_web": "https://www.gauthier-menuiserie.fr/",
+        "adresse": "zone industrielle, 2 Chem. du Pinay, 42700 Firminy",
+        "note": 4.1,
+        "avis": 32,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "7733959489052591498",
+        "nom": "VMV Aluminier Agréé TECHNAL",
+        "slug": "vmv-aluminier-agree-technal",
+        "telephone": "04 77 61 27 91",
+        "site_web": "https://www.vmv-technal.fr/",
+        "adresse": "2 Rue Jules Vallès, 42700 Firminy",
+        "note": 3.7,
+        "avis": 20,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "13946510080572723256",
+        "nom": "Menuiserie Rousson, portes & fenetres Firminy (Loire 42)",
+        "slug": "menuiserie-rousson-portes-fenetres-firminy-loire-42",
+        "telephone": "04 77 10 93 75",
+        "site_web": "https://www.menuiserie-rousson.fr/fenetres-loire-42/",
+        "adresse": "76 bis Rue Victor Hugo, 42700 Firminy",
+        "note": 3.9,
+        "avis": 124,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-fouillouse": {
+    "artisans": [
+      {
+        "id": "2793836501419125172",
+        "nom": "fenêtres au vent",
+        "slug": "fenetres-au-vent",
+        "telephone": "06 95 45 91 86",
+        "site_web": null,
+        "adresse": "Rte de Saint-Héand, 42480 La Fouillouse",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12331282265091730988",
+        "nom": "LES MENUISERIES DU SOLEIL",
+        "slug": "les-menuiseries-du-soleil",
+        "telephone": "04 82 77 03 06",
+        "site_web": "https://volet-fenetre-saint-etienne.com/",
+        "adresse": "1070 Chem. de la Ferrière, 42170 Saint-Just-Saint-Rambert",
+        "note": 4.9,
+        "avis": 99,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "2503419627221040963",
+        "nom": "L'ART DE LA POSE - Fenêtres, portes, volets, porte de garage, portail...",
+        "slug": "lart-de-la-pose-fenetres-portes-volets-porte-de-garage-portail",
+        "telephone": "04 77 34 35 00",
+        "site_web": "https://www.lartdelapose.fr/",
+        "adresse": "5558 RD1082, 42480 La Fouillouse",
+        "note": 4.8,
+        "avis": 226,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7874193728510807155",
+        "nom": "Art Et Fenêtres A.V.I. Agencement Vitrerie",
+        "slug": "art-et-fenetres-avi-agencement-vitrerie",
+        "telephone": "04 71 75 48 01",
+        "site_web": "http://www.artetfenetres.com/index.php",
+        "adresse": "ZAC DES GOUTTERONS, Av. Hélène Boucher, 42160 Andrézieux-Bouthéon",
+        "note": 4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8089337848882312751",
+        "nom": "Menuiserie Giraud - La Fouillouse",
+        "slug": "menuiserie-giraud-la-fouillouse",
+        "telephone": "04 77 55 07 43",
+        "site_web": "https://giraudmenuiserie.com/",
+        "adresse": "All. du Bas Rollet, 42480 La Fouillouse",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10605736982698178275",
+        "nom": "Les Menuiseries d'Olivier",
+        "slug": "les-menuiseries-dolivier",
+        "telephone": "04 77 61 35 39",
+        "site_web": "https://les-menuiseries-dolivier.fr/?utm_source=gmb",
+        "adresse": "31 Av. Saint-Exupéry, 42160 Andrézieux-Bouthéon",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "l-horme": {
+    "artisans": [
+      {
+        "id": "7904082924175807247",
+        "nom": "Gedimat Delmonico Dorel - L'Horme",
+        "slug": "gedimat-delmonico-dorel-lhorme",
+        "telephone": "04 77 22 25 30",
+        "site_web": "http://www.gedimat.fr/1478-magasin-gedimat-delmonico-dorel-negoce-l-horme.htm",
+        "adresse": "70 Rue du Crêt d'Oeillet, 42152 L'Horme",
+        "note": 4.7,
+        "avis": 99,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "16251130050395145867",
+        "nom": "AXIHOME L'HORME",
+        "slug": "axihome-lhorme",
+        "telephone": "04 78 73 00 20",
+        "site_web": "http://www.renovlyonhabitat.fr/",
+        "adresse": "28 ter Cr Marin, 42152 L'Horme",
+        "note": 5,
+        "avis": 9,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "jonzieux": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-grand-croix": {
+    "artisans": [
+      {
+        "id": "14426650851426462710",
+        "nom": "PROXI FENETRES",
+        "slug": "proxi-fenetres",
+        "telephone": "04 77 55 43 72",
+        "site_web": "https://www.menuiserie-la-grand-croix.fr/",
+        "adresse": "80 Rue Louis Pasteur, 42320 La Grand-Croix",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "lentigny": {
+    "artisans": [
+      {
+        "id": "8011420789877048596",
+        "nom": "Design Compo",
+        "slug": "design-compo",
+        "telephone": "04 77 71 56 31",
+        "site_web": "https://www.designcompo.fr/",
+        "adresse": "Allée artisanale, 42155 Lentigny",
+        "note": 4.6,
+        "avis": 77,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3719543041877129384",
+        "nom": "Menuinova : Menuiserie Alu / PVC - Pergola",
+        "slug": "menuinova-menuiserie-alu-pvc-pergola",
+        "telephone": "04 77 71 56 31",
+        "site_web": "https://www.menuinova.fr/",
+        "adresse": "Les Royaux, 42155 Lentigny",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "luriecq": {
+    "artisans": [
+      {
+        "id": "14494580912236677211",
+        "nom": "Menuipacks",
+        "slug": "menuipacks",
+        "telephone": "06 18 00 80 72",
+        "site_web": "http://menuipacks.fr/",
+        "adresse": "114 impasse Des Lagunes, 42380 Luriecq",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9947582367493155087",
+        "nom": "Menuiserie Petit",
+        "slug": "menuiserie-petit",
+        "telephone": "04 77 50 08 58",
+        "site_web": "http://www.menuiseriepetit.fr/",
+        "adresse": "Zone Artisanale La Chana, 42380 Luriecq",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "l-hopital-le-grand": {
+    "artisans": [
+      {
+        "id": "1803579457019643496",
+        "nom": "A M RÉNOV 42",
+        "slug": "a-m-renov-42",
+        "telephone": "06 75 85 10 95",
+        "site_web": "https://www.amrenov42.fr/",
+        "adresse": "31 Imp. du Parc, 42210 L'Hôpital-le-Grand",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2872758146290593224",
+        "nom": "Fabrication & pose de menuiseries bois - L.C.M Menuiserie",
+        "slug": "fabrication-pose-de-menuiseries-bois-lcm-menuiserie",
+        "telephone": "04 77 76 14 57",
+        "site_web": "https://www.lcm-42.com/",
+        "adresse": "Grangeneuve, 42210 L'Hôpital-le-Grand",
+        "note": 4.5,
+        "avis": 22,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "lorette": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mably": {
+    "artisans": [
+      {
+        "id": "11554526990596641303",
+        "nom": "ISOFRANCE Fenêtres & Énergies - Roanne",
+        "slug": "isofrance-fenetres-energies-roanne",
+        "telephone": "07 68 78 39 24",
+        "site_web": "https://www.isofrance-fenetres-energies.fr/magasin/isofrance-fenetres-energies-42-mably/65",
+        "adresse": "107 Rte de Paris, 42300 Mably",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "11461051174172908363",
+        "nom": "H&M Portes et Fenêtres - Menuiserie et Pergola",
+        "slug": "hm-portes-et-fenetres-menuiserie-et-pergola",
+        "telephone": "04 77 44 08 80",
+        "site_web": "https://www.hmpf.fr/",
+        "adresse": "58 Rue Alfred de Musset, 42300 Mably",
+        "note": 4.3,
+        "avis": 38,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "lezigneux": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "marcilly-le-chatel": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "marlhes": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "andrezieux-boutheon": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "balbigny": {
+    "artisans": [
+      {
+        "id": "12742205829616629283",
+        "nom": "Défi Bois Construction",
+        "slug": "defi-bois-construction",
+        "telephone": "04 77 26 38 43",
+        "site_web": "http://www.defi-bois-construction.com/",
+        "adresse": "Zone Industrielle de Chanlat, Chem. de Chanlat, 42510 Balbigny",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11932914974429019035",
+        "nom": "Atelier bruel",
+        "slug": "atelier-bruel",
+        "telephone": "06 07 42 71 42",
+        "site_web": "http://atelier-bruel.my.canva.site/",
+        "adresse": "935 Lachat N, 42510 Balbigny",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16211814915116409726",
+        "nom": "Menuiserie Fabrice Verne",
+        "slug": "menuiserie-fabrice-verne",
+        "telephone": "04 77 28 23 61",
+        "site_web": null,
+        "adresse": "Chanlat, 42510 Balbigny",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13521387805997365307",
+        "nom": "GPF Production",
+        "slug": "gpf-production",
+        "telephone": "04 77 28 11 44",
+        "site_web": "https://www.gpf-fermetures.com/",
+        "adresse": "94 Allée de la Menuiserie ZI de, Chanlat, 42510 Balbigny",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "ambierle": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "maclas": {
+    "artisans": [
+      {
+        "id": "9077341752268272637",
+        "nom": "Les Menuisiers Du Pilat - Terres de Fenêtre - Rénovation habitat et neuf - Maclas - Pélussin - Annonay",
+        "slug": "les-menuisiers-du-pilat-terres-de-fenetre-renovation-habitat-et-neuf-maclas-pelussin-annonay",
+        "telephone": "04 74 87 38 55",
+        "site_web": "https://lesmenuisiersdupilat.fr/",
+        "adresse": "12 impasse des chenes, 42520 Maclas",
+        "note": 4.8,
+        "avis": 50,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "aveizieux": {
+    "artisans": [
+      {
+        "id": "168693299187004532",
+        "nom": "AV ETANCHEITE",
+        "slug": "av-etancheite",
+        "telephone": "06 45 56 91 75",
+        "site_web": "https://av-etancheite-42.fr/",
+        "adresse": "1426 Rte de La Gimond, 42330 Aveizieux",
+        "note": 5,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12628799327282847551",
+        "nom": "Burlet",
+        "slug": "burlet",
+        "telephone": "04 77 74 29 97",
+        "site_web": "https://www.burlet.pro/",
+        "adresse": "140 Av. Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "note": 4.5,
+        "avis": 139,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12376547122841747043",
+        "nom": "Glass Protect 42",
+        "slug": "glass-protect-42",
+        "telephone": "07 63 43 01 05",
+        "site_web": "http://www.glassprotect42.fr/",
+        "adresse": "Le Bouchet 4 Z.A Du, 42330 Aveizieux",
+        "note": 5,
+        "avis": 22,
+        "type": "Prestataire spécialisé dans les vitres teintées"
+      },
+      {
+        "id": "17901848831208498892",
+        "nom": "BV Menuiserie",
+        "slug": "bv-menuiserie",
+        "telephone": "04 77 94 43 87",
+        "site_web": null,
+        "adresse": "42330 Aveizieux",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "7514840121320635017",
+        "nom": "Anorev – Menuiseries extérieures & Électricité sur mesure",
+        "slug": "anorev-menuiseries-exterieures-electricite-sur-mesure",
+        "telephone": "06 10 24 54 73",
+        "site_web": "https://www.anorev.fr/",
+        "adresse": "6 Chem. du Duret Haut, 42330 Aveizieux",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "belmont-de-la-loire": {
+    "artisans": [
+      {
+        "id": "7534921419721745411",
+        "nom": "Millier Ludovic",
+        "slug": "millier-ludovic",
+        "telephone": "04 77 63 70 60",
+        "site_web": null,
+        "adresse": "Rte de Cours, 42670 Belmont-de-la-Loire",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "5069018651468883904",
+        "nom": "Sr Menuiseries",
+        "slug": "sr-menuiseries",
+        "telephone": "06 80 85 75 17",
+        "site_web": null,
+        "adresse": "D4, 42670 Belmont-de-la-Loire",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8694571756094905816",
+        "nom": "ART EN BOIS",
+        "slug": "art-en-bois",
+        "telephone": "06 73 45 63 81",
+        "site_web": "http://www.art-en-bois.fr/",
+        "adresse": null,
+        "note": 4.2,
+        "avis": 24,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "16682027085687229929",
+        "nom": "CBP Chassignol Bois & Parquets",
+        "slug": "cbp-chassignol-bois-parquets",
+        "telephone": "04 77 63 60 52",
+        "site_web": null,
+        "adresse": "Rte de Doris, 42670 Belmont-de-la-Loire",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "boisset-les-montrond": {
+    "artisans": [
+      {
+        "id": "15002178672315566377",
+        "nom": "Boisset-lès-Montrond",
+        "slug": "boisset-les-montrond",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42210 Boisset-lès-Montrond",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "boen-sur-lignon": {
+    "artisans": [
+      {
+        "id": "9554449923945402801",
+        "nom": "Menuiserie Nigon",
+        "slug": "menuiserie-nigon",
+        "telephone": "04 77 24 02 74",
+        "site_web": "http://www.nigonmenuiserie.fr/",
+        "adresse": "18 Rue du Faubourg Mollian, 42130 Boën-sur-Lignon",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12453352016904439872",
+        "nom": "Bricomarché Boen Sur Lignon",
+        "slug": "bricomarche-boen-sur-lignon",
+        "telephone": "04 77 76 19 16",
+        "site_web": "https://www.bricomarche.com/magasin/boen-sur-lignon/05903?store=05903&utm_source=gmb",
+        "adresse": "600 Chem. de Giraud, 42130 Boën-sur-Lignon",
+        "note": 4.1,
+        "avis": 275,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2067742014132981140",
+        "nom": "Solair'Forez - Isolation du Forez",
+        "slug": "solairforez-isolation-du-forez",
+        "telephone": "04 28 72 01 12",
+        "site_web": "https://www.solairforez.fr/",
+        "adresse": "460 Rue Raymond Dechavanne, 42130 Boën-sur-Lignon",
+        "note": 4.8,
+        "avis": 122,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "boisset-saint-priest": {
+    "artisans": [
+      {
+        "id": "290830376680036176",
+        "nom": "Boisset-Saint-Priest",
+        "slug": "boisset-saint-priest",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42560 Boisset-Saint-Priest",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "briennon": {
+    "artisans": [
+      {
+        "id": "13890562794649966467",
+        "nom": "CIZERON - Véranda - Pergola et Menuiserie Alu",
+        "slug": "cizeron-veranda-pergola-et-menuiserie-alu",
+        "telephone": "04 77 60 80 29",
+        "site_web": "http://www.cizeron.com/",
+        "adresse": "La Croix Saint-Paul 14 Route de la Benisson-Dieu, La Croix Saint-Paul, 42720 Briennon",
+        "note": 4.7,
+        "avis": 61,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bonson": {
+    "artisans": [
+      {
+        "id": "7219182058606059222",
+        "nom": "Alu Concept Bory",
+        "slug": "alu-concept-bory",
+        "telephone": "04 77 55 21 74",
+        "site_web": "https://www.alu-concept-bory-42.com/",
+        "adresse": "16 Rue des Javelottes, 42160 Bonson",
+        "note": 2.9,
+        "avis": 11,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "bourg-argental": {
+    "artisans": [
+      {
+        "id": "468940298900219653",
+        "nom": "DB'Menuiserie",
+        "slug": "dbmenuiserie",
+        "telephone": "06 67 22 09 17",
+        "site_web": "https://dbmenuisier.fr/",
+        "adresse": "27 Rue Cardinal Donnet, 42220 Bourg-Argental",
+        "note": 5,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3490161621727927859",
+        "nom": "A L D Menuiserie",
+        "slug": "a-l-d-menuiserie",
+        "telephone": "04 77 39 19 93",
+        "site_web": "https://www.ald-menuiserie.com/",
+        "adresse": "Zone Industriel, Le Péroux, 42220 Bourg-Argental",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-joseph": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "montverdun": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "roche-la-moliere": {
+    "artisans": [
+      {
+        "id": "16187894806978626366",
+        "nom": "B'PLAST COIGNIERES",
+        "slug": "bplast-coignieres",
+        "telephone": "01 61 06 20 26",
+        "site_web": "https://www.bplast.fr/agence/bplast-coignieres/?utm_source=gmb",
+        "adresse": "201 N10, 78310 Coignières",
+        "note": 4.5,
+        "avis": 436,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4133320673182882036",
+        "nom": "Fenetres plus",
+        "slug": "fenetres-plus",
+        "telephone": "09 80 42 94 04",
+        "site_web": "http://www.fenetresplus.fr/",
+        "adresse": "92 Rue La Fayette, 75009 Paris",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin"
+      }
+    ]
+  },
+  "montbrison": {
+    "artisans": [
+      {
+        "id": "14927032191791207842",
+        "nom": "Menuiserie Laurent Morlevat",
+        "slug": "menuiserie-laurent-morlevat",
+        "telephone": "04 27 62 01 26",
+        "site_web": "https://www.menuiserie-morlevat.fr/",
+        "adresse": "373 Route de la Menuiserie, 42600 Pralong",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4069008883128377769",
+        "nom": "ISOFRANCE Fenêtres & Energies - Montbrison",
+        "slug": "isofrance-fenetres-energies-montbrison",
+        "telephone": "04 77 88 24 16",
+        "site_web": "https://www.isofrance-fenetres-energies.fr/magasin/isofrance-fenetres-energies-42-montbrison/62",
+        "adresse": "56 Rue des Purelles, 42600 Montbrison",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3052276188249572732",
+        "nom": "ALU CONFORT DU FOREZ",
+        "slug": "alu-confort-du-forez",
+        "telephone": "04 77 97 62 79",
+        "site_web": "http://www.aluconfortduforez.com/",
+        "adresse": "68 Rue des Grands Chênes, 42600 Montbrison",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17795363603405401150",
+        "nom": "CASÉO Montbrison",
+        "slug": "caseo-montbrison",
+        "telephone": "04 77 58 11 66",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-montbrison-montbrison-61",
+        "adresse": "Za Des Granges, 12 Rue des Roseaux Verts, 42600 Montbrison",
+        "note": 4,
+        "avis": 68,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6706583470911807313",
+        "nom": "Solabaie Menuiserie Saint Romanaise:Fenêtres Volets Montbrison",
+        "slug": "solabaie-menuiserie-saint-romanaisefenetres-volets-montbrison",
+        "telephone": "04 77 76 62 56",
+        "site_web": "http://www.solabaie.fr/",
+        "adresse": "29 ZA des Epalits, 42610 Saint-Romain-le-Puy",
+        "note": 4.8,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2537416583812520534",
+        "nom": "La Boutique du Store Montbrison",
+        "slug": "la-boutique-du-store-montbrison",
+        "telephone": "04 77 96 92 55",
+        "site_web": "https://boutiquedustore.fr/magasin/boutique-savigneux-angel-stores/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=bouton",
+        "adresse": "8 Rue des Fours À Chaux, 42600 Savigneux",
+        "note": 4.1,
+        "avis": 48,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14286310512973836158",
+        "nom": "AD Tech",
+        "slug": "ad-tech",
+        "telephone": "04 77 97 68 71",
+        "site_web": "https://www.adtech-42.fr/",
+        "adresse": "14 Av. de Saint-Etienne, 42600 Montbrison",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "10862621712582333201",
+        "nom": "Btma Menuiserie",
+        "slug": "btma-menuiserie",
+        "telephone": "04 77 97 06 49",
+        "site_web": "http://www.btma-menuiserie.fr/",
+        "adresse": "ZI DE VAURE, 1 ALLÉE DES HARAS, ZI de Vaure, 42600 Montbrison",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13670939800132033737",
+        "nom": "Gedimat Vilvert Matériaux - Montbrison",
+        "slug": "gedimat-vilvert-materiaux-montbrison",
+        "telephone": "04 77 58 00 04",
+        "site_web": "https://www.gedimat.fr/?magDest=2567",
+        "adresse": "10 Av. des Granges, 42600 Montbrison",
+        "note": 4.7,
+        "avis": 75,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "noiretable": {
+    "artisans": [
+      {
+        "id": "12621936111911497504",
+        "nom": "girard menuiserie charpente",
+        "slug": "girard-menuiserie-charpente",
+        "telephone": "06 87 63 95 14",
+        "site_web": "https://www.girard-menuiserie-charpente.com/",
+        "adresse": "4 Imp. des Jardins, 42440 Noirétable",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "neulise": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nervieux": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "montrond-les-bains": {
+    "artisans": [
+      {
+        "id": "8556714672164393596",
+        "nom": "TRYBA Montrond les Bains",
+        "slug": "tryba-montrond-les-bains",
+        "telephone": "04 20 98 14 28",
+        "site_web": "https://www.tryba.com/espace-conseil/42/tryba-montrond-les-bains/?utm_campaign=Tryba_Montrond-les-Bains&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "165 Rue de la Sauveté, 42210 Montrond-les-Bains",
+        "note": 4.4,
+        "avis": 62,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-pacaudiere": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "perreux": {
+    "artisans": [
+      {
+        "id": "6414511347077049205",
+        "nom": "ECLAIR SUN HABITAT",
+        "slug": "eclair-sun-habitat",
+        "telephone": "01 43 53 87 43",
+        "site_web": "https://www.eclairsunhabitat.fr/",
+        "adresse": "35 Av. Ledru Rollin, 94170 Le Perreux-sur-Marne",
+        "note": 4.1,
+        "avis": 37,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "9081902955273939812",
+        "nom": "FD MENUISERIES",
+        "slug": "fd-menuiseries",
+        "telephone": "06 17 41 55 12",
+        "site_web": "http://www.menuiserie-roanne-fd42.fr/",
+        "adresse": "Za, Les Plaines S, 42120 Perreux",
+        "note": 5,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13714980899385541059",
+        "nom": "Menuiserie Peurière",
+        "slug": "menuiserie-peuriere",
+        "telephone": "04 77 68 47 35",
+        "site_web": "https://menuiseriepeuriere.wixsite.com/hostinger",
+        "adresse": "Aux Franchises N, 42120 Perreux",
+        "note": 4.5,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1211991093754890184",
+        "nom": "KparK Roanne",
+        "slug": "kpark-roanne",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/38-kpark-roanne?utm_source=gmb",
+        "adresse": "51 Rue Jean Jaurès, 42300 Roanne",
+        "note": 4.4,
+        "avis": 117,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5071785919103460533",
+        "nom": "Pologne Fenêtres Le Perreux",
+        "slug": "pologne-fenetres-le-perreux",
+        "telephone": "01 83 62 30 51",
+        "site_web": "http://www.polognefenetres.com/",
+        "adresse": "169 Bd d'Alsace Lorraine, 94170 Le Perreux-sur-Marne",
+        "note": 3.6,
+        "avis": 44,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11026180278309735641",
+        "nom": "Atoubaie - Art et Fenêtres - Rénoval",
+        "slug": "atoubaie-art-et-fenetres-renoval",
+        "telephone": "01 56 74 15 30",
+        "site_web": "https://www.atoubaie.com/",
+        "adresse": "149 Av. du Général de Gaulle, 94170 Le Perreux-sur-Marne",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "pelussin": {
+    "artisans": [
+      {
+        "id": "6728745890112563041",
+        "nom": "Menuiserie Arsac : Menuisier - Fenêtres - Volets roulants - Portes - Portails -Verandas",
+        "slug": "menuiserie-arsac-menuisier-fenetres-volets-roulants-portes-portails-verandas",
+        "telephone": "06 45 27 90 90",
+        "site_web": "https://www.menuiserie-arsac.fr/",
+        "adresse": "3 Rue du Ctr Lombard, 42410 Pélussin",
+        "note": 4.7,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9077341752268272637",
+        "nom": "Les Menuisiers Du Pilat - Terres de Fenêtre - Rénovation habitat et neuf - Maclas - Pélussin - Annonay",
+        "slug": "les-menuisiers-du-pilat-terres-de-fenetre-renovation-habitat-et-neuf-maclas-pelussin-annonay",
+        "telephone": "04 74 87 38 55",
+        "site_web": "https://lesmenuisiersdupilat.fr/",
+        "adresse": "12 impasse des chenes, 42520 Maclas",
+        "note": 4.8,
+        "avis": 50,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10783990655572296487",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "https://www.alabelouvertures.com/",
+        "adresse": "101 Rue Bergson, 42000 Saint-Étienne",
+        "note": 4.8,
+        "avis": 64,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "622615187927859476",
+        "nom": "SARL VERCASSON - Charpente Couverture Zinguerie Isolation",
+        "slug": "sarl-vercasson-charpente-couverture-zinguerie-isolation",
+        "telephone": "06 84 23 30 69",
+        "site_web": "http://www.charpente-vercasson.com/",
+        "adresse": "34 Rue Professeur Voron, 42410 Pélussin",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "panissieres": {
+    "artisans": [
+      {
+        "id": "13941927496422638427",
+        "nom": "Ouvertures d'horizon",
+        "slug": "ouvertures-dhorizon",
+        "telephone": "06 77 88 22 76",
+        "site_web": "https://www.ouverturesdhorizon.fr/",
+        "adresse": "4 Le Clos Giraud, 42360 Panissières",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "poncins": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pouilly-les-feurs": {
+    "artisans": [
+      {
+        "id": "15086747879618483961",
+        "nom": "ALUVER VITRERIE FEURS",
+        "slug": "aluver-vitrerie-feurs",
+        "telephone": "06 31 96 84 41",
+        "site_web": "https://aluver-vitrerie-feurs.fr/fr",
+        "adresse": "6 Rue du Capitole, ZI du Forum, 42110 Feurs",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6071063893395513270",
+        "nom": "Profession Menuisier Feurs | Installateur de fenêtres et menuiseries",
+        "slug": "profession-menuisier-feurs-installateur-de-fenetres-et-menuiseries",
+        "telephone": "04 77 70 44 48",
+        "site_web": "http://www.professionmenuisier.fr/",
+        "adresse": "7 Rue de la Loire, 42110 Feurs",
+        "note": 4.7,
+        "avis": 84,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "10883083572154508088",
+        "nom": "MENUI'PRO FEURS",
+        "slug": "menuipro-feurs",
+        "telephone": "04 77 27 36 71",
+        "site_web": "http://www.menuipro.fr/",
+        "adresse": "20 Rue de la Guillotière, Fbg Saint-Antoine, 42110 Feurs",
+        "note": 4.8,
+        "avis": 103,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1044694125017913923",
+        "nom": "Comptoir des Menuisiers - Terres de Fenêtre",
+        "slug": "comptoir-des-menuisiers-terres-de-fenetre",
+        "telephone": "04 77 26 43 73",
+        "site_web": "https://www.comptoirdesmenuisiers.fr/",
+        "adresse": "22 Chem. des Entrepreneurs, 42110 Épercieux-Saint-Paul",
+        "note": 4.9,
+        "avis": 189,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9797847883999010267",
+        "nom": "Menuiserie M2d",
+        "slug": "menuiserie-m2d",
+        "telephone": "04 77 27 38 15",
+        "site_web": "http://www.facebook.com/menuiseriem2d/?utm_source=gmb",
+        "adresse": "470 Rue de l'Industrie ZA, 42110 Civens",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16213853123844315012",
+        "nom": "Forez Fenêtres 42",
+        "slug": "forez-fenetres-42",
+        "telephone": "06 79 56 21 44",
+        "site_web": "https://www.forezfenetres42.fr/",
+        "adresse": "20 La Valette, 42110 Salt-en-Donzy",
+        "note": 4.8,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15345794831597475648",
+        "nom": "Agencement Aménagement Installation Menuiserie Aluminium AAI M'Alu",
+        "slug": "agencement-amenagement-installation-menuiserie-aluminium-aai-malu",
+        "telephone": "04 77 26 54 90",
+        "site_web": "https://www.aai-m-alu.fr/?utm_source=gmb",
+        "adresse": "4 Impasse du Palatin, 42110 Feurs",
+        "note": 4.7,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15825792216166747072",
+        "nom": "SAS Dumortier",
+        "slug": "sas-dumortier",
+        "telephone": "07 56 43 78 52",
+        "site_web": "https://www.charpente-dumortier.com/",
+        "adresse": "Chem. des Frères Lumière, 42110 Feurs",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6075656060629995624",
+        "nom": "SAS AYMERIC BLANCHET",
+        "slug": "sas-aymeric-blanchet",
+        "telephone": "06 68 60 80 90",
+        "site_web": "http://aymericblanchet.fr/",
+        "adresse": "155 Zone Artisanale le, Pré Coton, 42110 Pouilly-lès-Feurs",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "738498683946687656",
+        "nom": "Bert Sarl",
+        "slug": "bert-sarl",
+        "telephone": "04 77 27 01 85",
+        "site_web": null,
+        "adresse": "Les Verchères, 42110 Pouilly-lès-Feurs",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "pouilly-sous-charlieu": {
+    "artisans": [
+      {
+        "id": "14553302128869600724",
+        "nom": "EURL SAYET BERTRAND",
+        "slug": "eurl-sayet-bertrand",
+        "telephone": "04 77 69 99 12",
+        "site_web": "https://www.sayet.fr/",
+        "adresse": "Place Ennemond Thoral, 70, 173 Rue de la République, 42720 Pouilly-sous-Charlieu",
+        "note": 3.8,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2391556874518496508",
+        "nom": "B&B Concept Isolation",
+        "slug": "bb-concept-isolation",
+        "telephone": "04 27 62 34 50",
+        "site_web": "http://www.conceptisolation.fr/",
+        "adresse": "12 Rue Jean Jaurès, 42190 Charlieu",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "perigneux": {
+    "artisans": [
+      {
+        "id": "11829147102826661533",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "04 77 91 39 65",
+        "site_web": "https://magasins.lapeyre.fr/auvergne-rhone-alpes/loire/lapeyre-saint-etienne-52",
+        "adresse": "lieu dit La Porchère, 42480 La Fouillouse",
+        "note": 3.7,
+        "avis": 402,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "13446600155535357567",
+        "nom": "Montet Frères Charpente - Couverture - Etanchéité",
+        "slug": "montet-freres-charpente-couverture-etancheite",
+        "telephone": "06 70 15 58 69",
+        "site_web": null,
+        "adresse": "165 Route de St Maurice en Gourgois, 42380 Périgneux",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11855968956107030191",
+        "nom": "Chevallier Toitures",
+        "slug": "chevallier-toitures",
+        "telephone": "06 11 77 63 39",
+        "site_web": null,
+        "adresse": "78 Chemin de Grimodet, 42380 Périgneux",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9008350852172946914",
+        "nom": "MENUISERIE SIMAND",
+        "slug": "menuiserie-simand",
+        "telephone": "04 77 30 76 25",
+        "site_web": null,
+        "adresse": "42380 Périgneux",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "planfoy": {
+    "artisans": [
+      {
+        "id": "5811037757303064064",
+        "nom": "PROTEC TOIT Couvreur/Charpentier Saint-Étienne",
+        "slug": "protec-toit-couvreurcharpentier-saint-etienne",
+        "telephone": "06 68 36 44 54",
+        "site_web": "https://protec-toit-couvreur.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 35,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14277968495251852918",
+        "nom": "SAMSE Saint Etienne",
+        "slug": "samse-saint-etienne",
+        "telephone": "04 77 37 28 48",
+        "site_web": "https://www.samse.fr/agences/saint-etienne",
+        "adresse": "10 Rue des Rochettes, 42000 Saint-Étienne",
+        "note": 4.4,
+        "avis": 56,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "pouilly-les-nonains": {
+    "artisans": [
+      {
+        "id": "1474627443774300939",
+        "nom": "Modul'Agencement",
+        "slug": "modulagencement",
+        "telephone": "04 77 69 53 16",
+        "site_web": "https://modul-agencement.com/",
+        "adresse": "491 Rue d'Ouches, 42155 Pouilly-les-Nonains",
+        "note": 0,
+        "avis": 0,
+        "type": "Agenceur"
+      },
+      {
+        "id": "3719543041877129384",
+        "nom": "Menuinova : Menuiserie Alu / PVC - Pergola",
+        "slug": "menuinova-menuiserie-alu-pvc-pergola",
+        "telephone": "04 77 71 56 31",
+        "site_web": "https://www.menuinova.fr/",
+        "adresse": "Les Royaux, 42155 Lentigny",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3346725224814180488",
+        "nom": "Fenêtre de toit Conseils",
+        "slug": "fenetre-de-toit-conseils",
+        "telephone": "03 56 89 33 73",
+        "site_web": "https://www.fenetredetoitconseils.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "precieux": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-ricamarie": {
+    "artisans": [
+      {
+        "id": "7107650899112895689",
+        "nom": "Menuiserie SARI Fabricant de menuiserie, Cuisine & Bains",
+        "slug": "menuiserie-sari-fabricant-de-menuiserie-cuisine-bains",
+        "telephone": "04 77 80 03 83",
+        "site_web": "https://menuiseriesari.wixsite.com/website",
+        "adresse": "9 Rue Jean Moulin, 42150 La Ricamarie",
+        "note": 3.4,
+        "avis": 52,
+        "type": "Magasin de meubles de cuisine"
+      },
+      {
+        "id": "9967505702983783869",
+        "nom": "La Vitrerie",
+        "slug": "la-vitrerie",
+        "telephone": "04 77 21 50 60",
+        "site_web": "http://www.la-vitrerie.fr/",
+        "adresse": "Zone Artisanale de Caintin, 13 Rue Elise Gervais, 42150 La Ricamarie",
+        "note": 4.9,
+        "avis": 102,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "12593484351219454985",
+        "nom": "HDC Rénov Habitat",
+        "slug": "hdc-renov-habitat",
+        "telephone": "06 42 57 95 49",
+        "site_web": "https://hdcrenovhabitat.com/",
+        "adresse": "1 Rue des Quatre Saisons, 42100 Saint-Étienne",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18258042507889176096",
+        "nom": "Alhan Deco Façadier",
+        "slug": "alhan-deco-facadier",
+        "telephone": "06 69 19 42 89",
+        "site_web": "http://www.alhandeco.fr/",
+        "adresse": "24 Rue des Tournesols, 42150 La Ricamarie",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Façadier"
+      },
+      {
+        "id": "14301135365733978191",
+        "nom": "S-WIN Menuiserie, Fenêtres, baie vitrée alu Loire (42)",
+        "slug": "s-win-menuiserie-fenetres-baie-vitree-alu-loire-42",
+        "telephone": "04 77 56 62 86",
+        "site_web": "http://www.s-win.fr/",
+        "adresse": "Z. A. de Caintin, 2 Rue du Haut Mas, 42150 La Ricamarie",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1987774805780515760",
+        "nom": "DTS – Delta Toiture Services",
+        "slug": "dts-delta-toiture-services",
+        "telephone": "06 59 50 82 55",
+        "site_web": "https://deltatoitureservices.fr/",
+        "adresse": "9 Rue Danton, 42150 La Ricamarie",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16706992119709271278",
+        "nom": "MENUI'PRO SAINT PRIEST EN JAREZ",
+        "slug": "menuipro-saint-priest-en-jarez",
+        "telephone": "04 77 93 67 67",
+        "site_web": "https://www.menuipro.fr/",
+        "adresse": "26 Bis Rte de l'Etrat, 42270 Saint-Priest-en-Jarez",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "roanne": {
+    "artisans": [
+      {
+        "id": "11095545089013025598",
+        "nom": "CASÉO Roanne",
+        "slug": "caseo-roanne",
+        "telephone": "04 77 44 07 51",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-roanne-riorges-71",
+        "adresse": "ZI de Beaucueil, 24 Rue Paul Forge, 42153 Riorges",
+        "note": 4.1,
+        "avis": 54,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5027645724605984331",
+        "nom": "Aluminium Vitrerie Roannaise | Fabricant de menuiseries Aluminium & PVC",
+        "slug": "aluminium-vitrerie-roannaise-fabricant-de-menuiseries-aluminium-pvc",
+        "telephone": "04 77 71 05 99",
+        "site_web": "https://avr-roanne.fr/",
+        "adresse": "11 Av. du Polygone, 42300 Roanne",
+        "note": 4.5,
+        "avis": 69,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11461051174172908363",
+        "nom": "H&M Portes et Fenêtres - Menuiserie et Pergola",
+        "slug": "hm-portes-et-fenetres-menuiserie-et-pergola",
+        "telephone": "04 77 44 08 80",
+        "site_web": "https://www.hmpf.fr/",
+        "adresse": "58 Rue Alfred de Musset, 42300 Mably",
+        "note": 4.3,
+        "avis": 38,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3308627198628125896",
+        "nom": "Menubois - Art&Fenêtres - Riorges",
+        "slug": "menubois-artfenetres-riorges",
+        "telephone": "04 77 70 89 32",
+        "site_web": "https://menubois.artetfenetres.com/?utm_source=GBP&utm_medium=organic&utm_campaign=GBP_Riorges",
+        "adresse": "ZI La Villette, 117 Rue Michel Rondet, 42153 Riorges",
+        "note": 4.4,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11819262235177129010",
+        "nom": "ETS Putanier - Roanne",
+        "slug": "ets-putanier-roanne",
+        "telephone": "09 74 71 15 32",
+        "site_web": null,
+        "adresse": "8 Quai du Canal, 42300 Roanne",
+        "note": 3.8,
+        "avis": 27,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "5634221647345215952",
+        "nom": "Monsieur Store Roanne - Stores & Pergola - J'isole Stores Déco",
+        "slug": "monsieur-store-roanne-stores-pergola-jisole-stores-deco",
+        "telephone": "04 77 70 13 69",
+        "site_web": "https://monsieurstore.com/magasin/roanne-42300/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "55 Quai Commandant Lherminier, 42300 Roanne",
+        "note": 4.6,
+        "avis": 65,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "18152111251171340187",
+        "nom": "AP2M - Véranda - Porte - Fenêtre",
+        "slug": "ap2m-veranda-porte-fenetre",
+        "telephone": "06 43 85 70 69",
+        "site_web": "http://www.ap2m-menuiserie.fr/",
+        "adresse": "154 Rte du Creux de Lan, 42370 Saint-André-d'Apchon",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17883916173849914883",
+        "nom": "TRYBA Roanne",
+        "slug": "tryba-roanne",
+        "telephone": "04 20 98 13 55",
+        "site_web": "https://www.tryba.com/espace-conseil/42/tryba-roanne/?utm_campaign=tryba_roanne&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "17 Bd Jean-Baptiste Clément, 42300 Roanne",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7968359303361895434",
+        "nom": "Rod'Stores",
+        "slug": "rodstores",
+        "telephone": "07 68 16 02 68",
+        "site_web": "https://rodstores.fr/",
+        "adresse": "25 Rue Elisée Reclus, 42300 Roanne",
+        "note": 5,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7248584173066262969",
+        "nom": "Muntz Anthony: Artisan couvreur Rénovation Réparation toiture Démoussage Décapage Peinture façade 42 Loire Roanne Firminy",
+        "slug": "muntz-anthony-artisan-couvreur-renovation-reparation-toiture-demoussage-decapage-peinture-facade-42-loire-roanne-firminy",
+        "telephone": "06 66 26 64 19",
+        "site_web": "https://muntz-couverture-42.fr/",
+        "adresse": "place de l'hotel de ville, 42300 Roanne",
+        "note": 4.7,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "regny": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "renaison": {
+    "artisans": [
+      {
+        "id": "2797530264469424556",
+        "nom": "BGCC",
+        "slug": "bgcc",
+        "telephone": "06 03 36 38 42",
+        "site_web": "http://bgcc.fr/",
+        "adresse": "147 Rte de Melay, 42720 Briennon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "riorges": {
+    "artisans": [
+      {
+        "id": "1640957995206281568",
+        "nom": "ACP Vérandas et Fermetures",
+        "slug": "acp-verandas-et-fermetures",
+        "telephone": "04 77 67 36 83",
+        "site_web": "https://www.acp-verandas.fr/",
+        "adresse": "139 Rue Michel Rondet, 42153 Riorges",
+        "note": 4.8,
+        "avis": 36,
+        "type": "Fournisseur de cadres en aluminium"
+      },
+      {
+        "id": "52441708114681123",
+        "nom": "Vincent Durix Menuiserie",
+        "slug": "vincent-durix-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "291 Rue Albert Thomas, 42153 Riorges",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11039845159788431952",
+        "nom": "Côté Ouverture",
+        "slug": "cote-ouverture",
+        "telephone": "04 77 66 41 00",
+        "site_web": "http://www.cote-ouverture.fr/",
+        "adresse": "Zone Industrielle La Villette, 93 Rue Clément Ader, 42153 Riorges",
+        "note": 4,
+        "avis": 41,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1106877637309417458",
+        "nom": "Avenir Rénovations Roanne (42)",
+        "slug": "avenir-renovations-roanne-42",
+        "telephone": "04 20 98 40 38",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-42-roanne/",
+        "adresse": "16B Bd de Valmy, 42300 Roanne",
+        "note": 5,
+        "avis": 3,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1870370005490905550",
+        "nom": "Lorenove Roanne",
+        "slug": "lorenove-roanne",
+        "telephone": "09 54 45 76 43",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/roanne?utm_source=gmb",
+        "adresse": "470 Rue Michel Rondet, 42153 Riorges",
+        "note": 5,
+        "avis": 17,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-denis-de-cabanne": {
+    "artisans": [
+      {
+        "id": "18370987527963784950",
+        "nom": "Bernay Création - Atelier Bois Sur Mesure",
+        "slug": "bernay-creation-atelier-bois-sur-mesure",
+        "telephone": "04 77 60 33 94",
+        "site_web": null,
+        "adresse": "473 Rue de la République, 42750 Saint-Denis-de-Cabanne",
+        "note": 5,
+        "avis": 6,
+        "type": "Designer d'intérieur"
+      }
+    ]
+  },
+  "rive-de-gier": {
+    "artisans": [
+      {
+        "id": "14426650851426462710",
+        "nom": "PROXI FENETRES",
+        "slug": "proxi-fenetres",
+        "telephone": "04 77 55 43 72",
+        "site_web": "https://www.menuiserie-la-grand-croix.fr/",
+        "adresse": "80 Rue Louis Pasteur, 42320 La Grand-Croix",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "976625976949382673",
+        "nom": "fenetre24.com",
+        "slug": "fenetre24com",
+        "telephone": "04 78 14 36 46",
+        "site_web": "https://www.fenetre24.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-eintrag",
+        "adresse": "129 Rue Servient, 69003 Lyon",
+        "note": 4,
+        "avis": 457,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13995806948586059238",
+        "nom": "France Vitrerie",
+        "slug": "france-vitrerie",
+        "telephone": "07 89 22 67 85",
+        "site_web": "https://www.france-vitrerie.net/",
+        "adresse": "31 Rue Jean Jaurès, 42800 Rive-de-Gier",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "7511844708399384453",
+        "nom": "PR Menuiserie Rodrigues Pascal",
+        "slug": "pr-menuiserie-rodrigues-pascal",
+        "telephone": "06 75 86 42 57",
+        "site_web": "https://www.menuiserie-rodrigues-loire.fr/contact?utm_source=gmb",
+        "adresse": "9 Rue des Champagnières, 42800 Genilac",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15642545189396073447",
+        "nom": "Optimum Menuiserie",
+        "slug": "optimum-menuiserie",
+        "telephone": "04 77 56 74 46",
+        "site_web": null,
+        "adresse": "45 chemin de pompey, 42800 Genilac",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6060101875869216027",
+        "nom": "Atelier Pose Corse",
+        "slug": "atelier-pose-corse",
+        "telephone": "06 45 21 55 77",
+        "site_web": "https://www.atelierposecorse.fr/",
+        "adresse": "17 Rue Eugène Brosse, 42420 Lorette",
+        "note": 3.5,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7984518876010475463",
+        "nom": "SAS Fraisse Kenzo Couverture - Couvreur dans le 42",
+        "slug": "sas-fraisse-kenzo-couverture-couvreur-dans-le-42",
+        "telephone": "04 51 58 06 83",
+        "site_web": "https://www.fraisse-couverture.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 65,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-andre-d-apchon": {
+    "artisans": [
+      {
+        "id": "15718950475765604601",
+        "nom": "KAEVO",
+        "slug": "kaevo",
+        "telephone": "06 64 31 51 06",
+        "site_web": null,
+        "adresse": "733 Rte de Saint-Alban, 42370 Saint-André-d'Apchon",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "404214266263340083",
+        "nom": "Bard",
+        "slug": "bard",
+        "telephone": "04 77 64 43 94",
+        "site_web": null,
+        "adresse": "830 Rte de la Chambre, 42370 Saint-Haon-le-Vieux",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "rozier-en-donzy": {
+    "artisans": [
+      {
+        "id": "10184993828847425179",
+        "nom": "ATELIER GRIFFON",
+        "slug": "atelier-griffon",
+        "telephone": "06 64 71 10 19",
+        "site_web": "http://www.ateliergriffon.com/",
+        "adresse": "11 Rue des Canuts, 42810 Rozier-en-Donzy",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15298933786124990199",
+        "nom": "Tissage des Roziers",
+        "slug": "tissage-des-roziers",
+        "telephone": "04 77 28 04 87",
+        "site_web": "http://www.tissage-des-roziers.fr/",
+        "adresse": "270 Rue des Canuts, 42810 Rozier-en-Donzy",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabrique de textile"
+      },
+      {
+        "id": "5644286944222893123",
+        "nom": "Gros Christian",
+        "slug": "gros-christian",
+        "telephone": "06 75 15 91 44",
+        "site_web": null,
+        "adresse": "142 Rue Saint-Roch, 42810 Rozier-en-Donzy",
+        "note": 3,
+        "avis": 1,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "11393291341480869928",
+        "nom": "Soroc",
+        "slug": "soroc",
+        "telephone": "04 77 28 00 71",
+        "site_web": "https://www.maconnerie-soroc.fr/",
+        "adresse": "Rue Saint-Roch, 42810 Rozier-en-Donzy",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Maçon"
+      },
+      {
+        "id": "16234638406189624570",
+        "nom": "Couverture Zinguerie du Donzy",
+        "slug": "couverture-zinguerie-du-donzy",
+        "telephone": "06 81 98 64 50",
+        "site_web": "https://www.zingueriedudonzy.fr/",
+        "adresse": "28 La Combe, 42810 Rozier-en-Donzy",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sainte-agathe-la-bouteresse": {
+    "artisans": [
+      {
+        "id": "18090823062362385507",
+        "nom": "Labouré Sarl",
+        "slug": "laboure-sarl",
+        "telephone": "06 85 67 36 62",
+        "site_web": null,
+        "adresse": "3293 D1089, 42130 Sainte-Agathe-la-Bouteresse",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "154929413722230527",
+        "nom": "Idéal Menuiseries",
+        "slug": "ideal-menuiseries",
+        "telephone": "04 77 24 05 06",
+        "site_web": "http://www.ideal-menuiseries.com/",
+        "adresse": "1841 La Bouteresse, 42130 Sainte-Agathe-la-Bouteresse",
+        "note": 4.5,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5372681574851819155",
+        "nom": "Peyron Yannis",
+        "slug": "peyron-yannis",
+        "telephone": "04 77 76 78 84",
+        "site_web": "https://yannis-peyron.fr/",
+        "adresse": "683 Av. du Champ de Foire, 42130 Sainte-Agathe-la-Bouteresse",
+        "note": 4.9,
+        "avis": 49,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-bonnet-le-chateau": {
+    "artisans": [
+      {
+        "id": "2578544591244280512",
+        "nom": "Roux Fabrice Menuiserie",
+        "slug": "roux-fabrice-menuiserie",
+        "telephone": "06 15 44 10 84",
+        "site_web": null,
+        "adresse": "4 Rue de Taillefer, 42380 La Tourette",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12331282265091730988",
+        "nom": "LES MENUISERIES DU SOLEIL",
+        "slug": "les-menuiseries-du-soleil",
+        "telephone": "04 82 77 03 06",
+        "site_web": "https://volet-fenetre-saint-etienne.com/",
+        "adresse": "1070 Chem. de la Ferrière, 42170 Saint-Just-Saint-Rambert",
+        "note": 4.9,
+        "avis": 99,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "1677588673949102821",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "https://www.alabelouvertures.com/",
+        "adresse": "20 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16597031618040589512",
+        "nom": "Faure Menuis Serrure Vitrerie Du Forez",
+        "slug": "faure-menuis-serrure-vitrerie-du-forez",
+        "telephone": "06 08 91 31 21",
+        "site_web": "https://www.menuiserie-serrurerie-faure-loire.fr/",
+        "adresse": "La Maranche, 42940 Saint-Bonnet-le-Courreau",
+        "note": 4,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "952202524171738677",
+        "nom": "Fredo Ltd",
+        "slug": "fredo-ltd",
+        "telephone": "06 82 34 37 24",
+        "site_web": "http://www.fredoltd.fr/",
+        "adresse": "32 Rue Chevalier, 42380 Saint-Bonnet-le-Château",
+        "note": 1,
+        "avis": 1,
+        "type": "Tapissier décorateur"
+      }
+    ]
+  },
+  "saint-chamond": {
+    "artisans": [
+      {
+        "id": "12362309577696653344",
+        "nom": "Etablissements Fèvre",
+        "slug": "etablissements-fevre",
+        "telephone": "04 77 22 07 14",
+        "site_web": "http://www.fevre-soy.fr/",
+        "adresse": "Zone Industrielle Du Coin, 77 Rte du Coin, 42400 Saint-Chamond",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "623719134994486228",
+        "nom": "Speed Vitrerie",
+        "slug": "speed-vitrerie",
+        "telephone": "07 49 95 19 22",
+        "site_web": "https://www.speed-vitrerie.fr/",
+        "adresse": "13 Rue de la Constituante, 42400 Saint-Chamond",
+        "note": 5,
+        "avis": 40,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "3175719466348123075",
+        "nom": "Conceptdemir",
+        "slug": "conceptdemir",
+        "telephone": "06 52 53 75 00",
+        "site_web": "https://www.conceptdemir.fr/",
+        "adresse": "18 Rue du Clos Marquet, 42400 Saint-Chamond",
+        "note": 4,
+        "avis": 1,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "15950895057509112992",
+        "nom": "GB Bois 42",
+        "slug": "gb-bois-42",
+        "telephone": "04 77 32 59 64",
+        "site_web": "http://www.gbbois42.fr/",
+        "adresse": "9 Rue Jean-Jacques Rousseau, 42400 Saint-Chamond",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-andre-le-puy": {
+    "artisans": [
+      {
+        "id": "14276655436552484564",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "http://alabelouvertures.com/",
+        "adresse": "20 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10605736982698178275",
+        "nom": "Les Menuiseries d'Olivier",
+        "slug": "les-menuiseries-dolivier",
+        "telephone": "04 77 61 35 39",
+        "site_web": "https://les-menuiseries-dolivier.fr/?utm_source=gmb",
+        "adresse": "31 Av. Saint-Exupéry, 42160 Andrézieux-Bouthéon",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-bonnet-les-oules": {
+    "artisans": [
+      {
+        "id": "12628799327282847551",
+        "nom": "Burlet",
+        "slug": "burlet",
+        "telephone": "04 77 74 29 97",
+        "site_web": "https://www.burlet.pro/",
+        "adresse": "140 Av. Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "note": 4.5,
+        "avis": 139,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2793836501419125172",
+        "nom": "fenêtres au vent",
+        "slug": "fenetres-au-vent",
+        "telephone": "06 95 45 91 86",
+        "site_web": null,
+        "adresse": "Rte de Saint-Héand, 42480 La Fouillouse",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-christo-en-jarez": {
+    "artisans": [
+      {
+        "id": "6974807366926275840",
+        "nom": "Menuiserie Charpente des Sapins",
+        "slug": "menuiserie-charpente-des-sapins",
+        "telephone": "04 77 20 85 25",
+        "site_web": null,
+        "adresse": "6 Chem. de la Chapelle, 42320 Saint-Christo-en-Jarez",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "10383310323108079037",
+        "nom": "Starfenetres.Fr",
+        "slug": "starfenetresfr",
+        "telephone": "04 77 21 09 13",
+        "site_web": "http://www.starfenetres.fr/",
+        "adresse": "13 Rue Louis Blanchard, 42290 Sorbiers",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Installation de stockage"
+      },
+      {
+        "id": "16730372766820420130",
+        "nom": "Gamma Fenetres",
+        "slug": "gamma-fenetres",
+        "telephone": "06 22 22 25 32",
+        "site_web": "http://www.gamma-fenetres.fr/",
+        "adresse": "18 LOT les Castors, 42350 La Talaudière",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7861671489970100481",
+        "nom": "Conception Lionel Villard - installation et dépannage Fermetures, stores et automatismes",
+        "slug": "conception-lionel-villard-installation-et-depannage-fermetures-stores-et-automatismes",
+        "telephone": "06 75 49 74 04",
+        "site_web": "https://www.conception-lv.fr/",
+        "adresse": "2 Chem. des Sapins, 42320 Saint-Christo-en-Jarez",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-cyprien": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-cyr-de-favieres": {
+    "artisans": [
+      {
+        "id": "6206285077749896954",
+        "nom": "JLC Menuiserie",
+        "slug": "jlc-menuiserie",
+        "telephone": "04 27 76 02 61",
+        "site_web": "http://www.jlc-menuiserie.fr/",
+        "adresse": "3 Le Plagne, 42123 Saint-Cyr-de-Favières",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-germain-laval": {
+    "artisans": [
+      {
+        "id": "1002220734102226594",
+        "nom": "Les Charpenteries de la Loire",
+        "slug": "les-charpenteries-de-la-loire",
+        "telephone": "04 77 65 46 75",
+        "site_web": "http://www.lescharpenteriesdelaloire.fr/",
+        "adresse": "Grandes Terres, 42260 Saint-Germain-Laval",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2039957763231785258",
+        "nom": "Société Marchal - Couvreur, charpentier, peintre.",
+        "slug": "societe-marchal-couvreur-charpentier-peintre",
+        "telephone": "06 34 23 10 31",
+        "site_web": "https://toituremarchal.fr/",
+        "adresse": "101 Rue Denfert Rochereau, 42260 Saint-Germain-Laval",
+        "note": 4.7,
+        "avis": 71,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2175116179424591484",
+        "nom": "MENUISERIE MEILLAND",
+        "slug": "menuiserie-meilland",
+        "telephone": "04 77 62 21 66",
+        "site_web": null,
+        "adresse": "ZA La Conche, 42260 Saint-Martin-la-Sauveté",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9632506586257029067",
+        "nom": "Les Toits du Val",
+        "slug": "les-toits-du-val",
+        "telephone": "04 81 17 05 51",
+        "site_web": "https://lestoitsduval.fr/",
+        "adresse": "28 Rue Robert Lugnier, 42260 Saint-Germain-Laval",
+        "note": 0,
+        "avis": 0,
+        "type": "Centrale électrique"
+      }
+    ]
+  },
+  "saint-germain-lespinasse": {
+    "artisans": [
+      {
+        "id": "16512985713268158845",
+        "nom": "CVS AGENCEMENT • Agencement de Magasins",
+        "slug": "cvs-agencement-agencement-de-magasins",
+        "telephone": "04 77 60 12 75",
+        "site_web": "http://www.cvsagencement.com/",
+        "adresse": "386 Allée des, 42640 Saint-Germain-Lespinasse",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "7545501150723510938",
+        "nom": "Menuisier et Compagnons - Bruno Pradier",
+        "slug": "menuisier-et-compagnons-bruno-pradier",
+        "telephone": "04 77 64 47 71",
+        "site_web": "http://www.menuisieretcompagnons.fr/",
+        "adresse": "Z.A, 42640 Saint-Germain-Lespinasse",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-cyr-les-vignes": {
+    "artisans": [
+      {
+        "id": "16489048596010645575",
+        "nom": "France Fenêtres",
+        "slug": "france-fenetres",
+        "telephone": "01 55 58 16 16",
+        "site_web": "https://www.francefenetres-stcyrlecole.fr/",
+        "adresse": "53 Av. Pierre Curie, 78210 Saint-Cyr-l'École",
+        "note": 4.8,
+        "avis": 39,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16738005654228814808",
+        "nom": "Menuiserie Verandas Bonche",
+        "slug": "menuiserie-verandas-bonche",
+        "telephone": "04 77 54 48 51",
+        "site_web": null,
+        "adresse": "1545 Rte de Bellegarde, 42210 Saint-Cyr-les-Vignes",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-georges-haute-ville": {
+    "artisans": [
+      {
+        "id": "1683440800906884671",
+        "nom": "Gumières Matériaux",
+        "slug": "gumieres-materiaux",
+        "telephone": "04 77 76 01 51",
+        "site_web": "http://www.gumieresmateriaux.fr/",
+        "adresse": "34 Z.A. de la Prã, 42610 Saint-Georges-Haute-Ville",
+        "note": 4.6,
+        "avis": 45,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-etienne": {
+    "artisans": [
+      {
+        "id": "5458068196604725903",
+        "nom": "Vitrier 2 Saint Etienne",
+        "slug": "vitrier-2-saint-etienne",
+        "telephone": "04 28 04 41 86",
+        "site_web": "https://www.vitrier2saintetienne.fr/volet-roulant-saint-etienne",
+        "adresse": "35 Rue Pierre et Dominique Ponchardier, 42000 Saint-Étienne",
+        "note": 5,
+        "avis": 27,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "18284612158894989200",
+        "nom": "ESPACE OUVERTURES",
+        "slug": "espace-ouvertures",
+        "telephone": "04 77 49 41 80",
+        "site_web": "http://www.espaceouvertures.fr/",
+        "adresse": "70 Bd Fauriat, 42000 Saint-Étienne",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3971478608833731998",
+        "nom": "Batiman Menuiserie Fidurev Saint-Etienne",
+        "slug": "batiman-menuiserie-fidurev-saint-etienne",
+        "telephone": "04 77 25 90 45",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-fidurev-saint-etienne-42000-experts-en-menuiserie",
+        "adresse": "ZI de, Rue Jean Claude Verpilleux, Rue Necker, 42000 Saint-Étienne",
+        "note": 4.5,
+        "avis": 175,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2045224523765767769",
+        "nom": "KparK Saint Etienne",
+        "slug": "kpark-saint-etienne",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/37-kpark-saint-etienne?utm_source=gmb",
+        "adresse": "79 Rue Bergson, 42000 Saint-Étienne",
+        "note": 3.7,
+        "avis": 46,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17923285235879574064",
+        "nom": "Ciel Rénov Couverture Zinguerie",
+        "slug": "ciel-renov-couverture-zinguerie",
+        "telephone": "06 51 93 06 38",
+        "site_web": "https://www.cielrenov.fr/",
+        "adresse": "14 Rue André Chénier, 42000 Saint-Étienne",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15514436509486145193",
+        "nom": "Chassang Miroiterie Vitrerie",
+        "slug": "chassang-miroiterie-vitrerie",
+        "telephone": "04 77 32 20 60",
+        "site_web": "https://www.chassang-miroiterie.fr/",
+        "adresse": "26 bis Rte de l'Etrat, 42270 Saint-Priest-en-Jarez",
+        "note": 4.7,
+        "avis": 32,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "16714265434451561455",
+        "nom": "La Boutique du menuisier, fenêtre Firminy, volets, pergola Loire (42), porte de garage Haute-Loire (43)",
+        "slug": "la-boutique-du-menuisier-fenetre-firminy-volets-pergola-loire-42-porte-de-garage-haute-loire-43",
+        "telephone": "04 77 93 52 23",
+        "site_web": "https://boutiquemenuisier-42-43.fr/",
+        "adresse": "18 Rue Dorian, 42700 Firminy",
+        "note": 4.5,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1541324161870294064",
+        "nom": "Cros couverture 42",
+        "slug": "cros-couverture-42",
+        "telephone": "04 28 07 07 30",
+        "site_web": "https://cros-couvreur42.com/",
+        "adresse": "35 Rue Pierre et Dominique Ponchardier, 42100 Saint-Étienne",
+        "note": 5,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15999645025189498092",
+        "nom": "BR Toiture",
+        "slug": "br-toiture",
+        "telephone": "04 51 58 09 50",
+        "site_web": "https://www.brtoiture-renovation.fr/",
+        "adresse": "11 Rue Pierre et Marie Curie, 42530 Saint-Genest-Lerpt",
+        "note": 5,
+        "avis": 267,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15919828826976407294",
+        "nom": "Ets Neyret Serrurier, dépannage serrure Saint-Etienne",
+        "slug": "ets-neyret-serrurier-depannage-serrure-saint-etienne",
+        "telephone": "07 83 24 21 28",
+        "site_web": "https://www.serrurier-st-etienne.fr/",
+        "adresse": "45 Rue Vaillant Couturier, 42000 Saint-Étienne",
+        "note": 4.7,
+        "avis": 135,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "saint-galmier": {
+    "artisans": [
+      {
+        "id": "11653302537583191906",
+        "nom": "FOREZ FENÊTRES",
+        "slug": "forez-fenetres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42330 Saint-Galmier",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4616271645429930203",
+        "nom": "CT Menuiserie 42",
+        "slug": "ct-menuiserie-42",
+        "telephone": "04 77 74 78 04",
+        "site_web": null,
+        "adresse": "11 La Charpinière, 42330 Saint-Galmier",
+        "note": 4,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "7545171852768659905",
+        "nom": "PLANET COMPO / BAUTAN",
+        "slug": "planet-compo-bautan",
+        "telephone": "04 81 64 02 20",
+        "site_web": "http://www.bautan.fr/",
+        "adresse": "ZI Pont Gavé, 1 Rue du Forez, 42330 Saint-Galmier",
+        "note": 3.4,
+        "avis": 22,
+        "type": "Fournisseur de fibre de verre"
+      },
+      {
+        "id": "7288467797297679320",
+        "nom": "BHRénovation",
+        "slug": "bhrenovation",
+        "telephone": "07 80 10 73 14",
+        "site_web": "https://www.depannage-plomberie42.fr/contact",
+        "adresse": "4 Chem. de la Charpinière, 42330 Saint-Galmier",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-etienne-le-molard": {
+    "artisans": [
+      {
+        "id": "11617233539742862205",
+        "nom": "Loire Toiture",
+        "slug": "loire-toiture",
+        "telephone": "04 77 24 46 76",
+        "site_web": "http://loire-toiture.fr/",
+        "adresse": "370 Rte du Château d'Eau, 42130 Saint-Étienne-le-Molard",
+        "note": 4.5,
+        "avis": 28,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-jean-bonnefonds": {
+    "artisans": [
+      {
+        "id": "3901971363477100332",
+        "nom": "Morel Travaux Publics",
+        "slug": "morel-travaux-publics",
+        "telephone": "04 77 53 47 24",
+        "site_web": "https://www.terrassement-travaux-publics-st-etienne.fr/",
+        "adresse": "2 Rue du Puits du Fay, 42650 Saint-Jean-Bonnefonds",
+        "note": 4.1,
+        "avis": 22,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "4970821393937650001",
+        "nom": "MENUISERIE GRATALOUP",
+        "slug": "menuiserie-grataloup",
+        "telephone": "04 77 01 06 73",
+        "site_web": "http://www.menuiseriegrataloup.com/",
+        "adresse": "85 Rue de l'Avenir, 42650 Saint-Jean-Bonnefonds",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12083101885036563342",
+        "nom": "Provélis - fermeture et protection",
+        "slug": "provelis-fermeture-et-protection",
+        "telephone": "04 77 74 85 28",
+        "site_web": "https://www.provelis.com/",
+        "adresse": "Rue de la Pierre Plantée, 42650 Saint-Jean-Bonnefonds",
+        "note": 4.2,
+        "avis": 63,
+        "type": "Fabricant"
+      },
+      {
+        "id": "6735585927468988654",
+        "nom": "CARGLASS Pare-Brise St Jean Bonnefonds",
+        "slug": "carglass-pare-brise-st-jean-bonnefonds",
+        "telephone": "04 20 10 20 19",
+        "site_web": "https://www.carglass.fr/centre/42650-83537/st-jean-bonnefond#utm_source=googlemybusiness&utm_medium=local&utm_campaign=st-jean-bonnefond&utm_content=cta-lien-page-centre",
+        "adresse": "46 Rue Emile Zola, 42650 Saint-Jean-Bonnefonds",
+        "note": 4.5,
+        "avis": 476,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "10793657908027207623",
+        "nom": "Jamos",
+        "slug": "jamos",
+        "telephone": "04 77 32 32 58",
+        "site_web": "https://www.jamos.fr/",
+        "adresse": "95 Rue du Puits Rozan, 42650 Saint-Jean-Bonnefonds",
+        "note": 3.4,
+        "avis": 25,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "4116538023301556866",
+        "nom": "SLCZ",
+        "slug": "slcz",
+        "telephone": "06 52 90 04 32",
+        "site_web": null,
+        "adresse": "5 Rue Voltaire, 42650 Saint-Jean-Bonnefonds",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10959312533111361070",
+        "nom": "Pro'Pose Menuiserie",
+        "slug": "propose-menuiserie",
+        "telephone": "06 30 36 45 03",
+        "site_web": null,
+        "adresse": "29 Rue de Briançon, 42290 Sorbiers",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "6447189199553646557",
+        "nom": "INTO THE WOOD",
+        "slug": "into-the-wood",
+        "telephone": "06 65 15 21 25",
+        "site_web": "https://menuiserie-intothewood-42.fr/",
+        "adresse": "8 Rue des Roseaux, 42290 Sorbiers",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6506907767218592956",
+        "nom": "Tony Juin SAS",
+        "slug": "tony-juin-sas",
+        "telephone": "04 77 79 30 51",
+        "site_web": "https://couverture-saint-etienne.fr/?utm_source=gmb",
+        "adresse": "Les, 1212 route de bayard, Chem. Du Bois, 42580 La Tour-en-Jarez",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16708365425988126521",
+        "nom": "3R Services",
+        "slug": "3r-services",
+        "telephone": "07 83 06 09 72",
+        "site_web": "https://www.3-r-services.com/",
+        "adresse": "62 Chem. des Granges, 42340 Veauche",
+        "note": 5,
+        "avis": 15,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      }
+    ]
+  },
+  "saint-genest-lerpt": {
+    "artisans": [
+      {
+        "id": "4793472148020616859",
+        "nom": "Le Courtier de la Fenêtre",
+        "slug": "le-courtier-de-la-fenetre",
+        "telephone": "06 13 86 27 43",
+        "site_web": "https://lecourtierdelafenetre.fr/",
+        "adresse": "10 bis Rue de Montbrison, 42530 Saint-Genest-Lerpt",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-heand": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-jean-saint-maurice-sur-loire": {
+    "artisans": [
+      {
+        "id": "8990423077812836392",
+        "nom": "SOUCHON Nicolas",
+        "slug": "souchon-nicolas",
+        "telephone": "06 88 14 68 97",
+        "site_web": null,
+        "adresse": "Le Puy, 42155 Saint-Jean-Saint-Maurice-sur-Loire",
+        "note": 5,
+        "avis": 8,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "2878922686503376437",
+        "nom": "BRVS",
+        "slug": "brvs",
+        "telephone": "06 69 92 26 68",
+        "site_web": null,
+        "adresse": "323 Route de St Jean, 42155 Saint-Jean-Saint-Maurice-sur-Loire",
+        "note": 5,
+        "avis": 8,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "15654392978244984993",
+        "nom": "ENTREPRISE TRAVARD PIERRE",
+        "slug": "entreprise-travard-pierre",
+        "telephone": "04 77 63 90 56",
+        "site_web": null,
+        "adresse": "À la Bruyère, 42155 Saint-Jean-Saint-Maurice-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "genilac": {
+    "artisans": [
+      {
+        "id": "7511844708399384453",
+        "nom": "PR Menuiserie Rodrigues Pascal",
+        "slug": "pr-menuiserie-rodrigues-pascal",
+        "telephone": "06 75 86 42 57",
+        "site_web": "https://www.menuiserie-rodrigues-loire.fr/contact?utm_source=gmb",
+        "adresse": "9 Rue des Champagnières, 42800 Genilac",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-genest-malifaux": {
+    "artisans": [
+      {
+        "id": "15881691043778028057",
+        "nom": "Atelier Meubles Peints, relooking meubles",
+        "slug": "atelier-meubles-peints-relooking-meubles",
+        "telephone": "06 33 76 15 48",
+        "site_web": "https://atelier-meubles-peints.com/",
+        "adresse": "45 Rue du Forez, 42660 Saint-Genest-Malifaux",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Service de restauration de meubles anciens"
+      },
+      {
+        "id": "8403112108131865903",
+        "nom": "La Boîte à Copeaux",
+        "slug": "la-boite-a-copeaux",
+        "telephone": "06 75 53 46 22",
+        "site_web": null,
+        "adresse": "60 Rue Louis Jacquemin, 42660 Saint-Genest-Malifaux",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "18028508671849649535",
+        "nom": "ABOKA BOIS",
+        "slug": "aboka-bois",
+        "telephone": "06 16 37 47 76",
+        "site_web": "https://aboka.fr/",
+        "adresse": "14 Rue du Violet, 42660 Saint-Genest-Malifaux",
+        "note": 5,
+        "avis": 60,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5639573268196376481",
+        "nom": "Ets Gérald Rouchouze",
+        "slug": "ets-gerald-rouchouze",
+        "telephone": "07 88 84 66 61",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2123806491926592202",
+        "nom": "Ets Marinelli Platrerie",
+        "slug": "ets-marinelli-platrerie",
+        "telephone": "04 77 56 39 53",
+        "site_web": null,
+        "adresse": "Rue Louis Jacquemin, 42660 Saint-Genest-Malifaux",
+        "note": 1,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "vougy": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-priest-en-jarez": {
+    "artisans": [
+      {
+        "id": "10783990655572296487",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "https://www.alabelouvertures.com/",
+        "adresse": "101 Rue Bergson, 42000 Saint-Étienne",
+        "note": 4.8,
+        "avis": 64,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13591498839554994811",
+        "nom": "Profession Habitat Saint-Priest-en-Jarez | Spécialiste de la rénovation, fenêtres, menuiseries",
+        "slug": "profession-habitat-saint-priest-en-jarez-specialiste-de-la-renovation-fenetres-menuiseries",
+        "telephone": "04 77 10 10 89",
+        "site_web": "https://www.professionhabitat.fr/",
+        "adresse": "1 Rue Jean Zay, 42270 Saint-Priest-en-Jarez",
+        "note": 4.4,
+        "avis": 160,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12628799327282847551",
+        "nom": "Burlet",
+        "slug": "burlet",
+        "telephone": "04 77 74 29 97",
+        "site_web": "https://www.burlet.pro/",
+        "adresse": "140 Av. Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "note": 4.5,
+        "avis": 139,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16706992119709271278",
+        "nom": "MENUI'PRO SAINT PRIEST EN JAREZ",
+        "slug": "menuipro-saint-priest-en-jarez",
+        "telephone": "04 77 93 67 67",
+        "site_web": "https://www.menuipro.fr/",
+        "adresse": "26 Bis Rte de l'Etrat, 42270 Saint-Priest-en-Jarez",
+        "note": 4.8,
+        "avis": 164,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15514436509486145193",
+        "nom": "Chassang Miroiterie Vitrerie",
+        "slug": "chassang-miroiterie-vitrerie",
+        "telephone": "04 77 32 20 60",
+        "site_web": "https://www.chassang-miroiterie.fr/",
+        "adresse": "26 bis Rte de l'Etrat, 42270 Saint-Priest-en-Jarez",
+        "note": 4.7,
+        "avis": 32,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "17903942858394250391",
+        "nom": "Storistes de France",
+        "slug": "storistes-de-france",
+        "telephone": "04 77 74 29 97",
+        "site_web": "http://www.storistes-de-france.com/affilies/burlet-etablissements-1/?utm_source=google&utm_medium=maps&utm_campaign=burlet-ets-1-Maps",
+        "adresse": "140 Av. Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "note": 3.9,
+        "avis": 9,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "15170140447847031473",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "09 66 97 95 52",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-rhone-alpes/loire/installateur-expert-en-pose-velux-a-saint-etienne",
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-romain-en-jarez": {
+    "artisans": [
+      {
+        "id": "6706583470911807313",
+        "nom": "Solabaie Menuiserie Saint Romanaise:Fenêtres Volets Montbrison",
+        "slug": "solabaie-menuiserie-saint-romanaisefenetres-volets-montbrison",
+        "telephone": "04 77 76 62 56",
+        "site_web": "http://www.solabaie.fr/",
+        "adresse": "29 ZA des Epalits, 42610 Saint-Romain-le-Puy",
+        "note": 4.8,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16730372766820420130",
+        "nom": "Gamma Fenetres",
+        "slug": "gamma-fenetres",
+        "telephone": "06 22 22 25 32",
+        "site_web": "http://www.gamma-fenetres.fr/",
+        "adresse": "18 LOT les Castors, 42350 La Talaudière",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12987028818972267387",
+        "nom": "SARA MENUISERIES - La boutique du Menuisier",
+        "slug": "sara-menuiseries-la-boutique-du-menuisier",
+        "telephone": "04 74 31 89 76",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/sara",
+        "adresse": "727 RD 386, 69560 Saint-Romain-en-Gal",
+        "note": 4.5,
+        "avis": 35,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18284612158894989200",
+        "nom": "ESPACE OUVERTURES",
+        "slug": "espace-ouvertures",
+        "telephone": "04 77 49 41 80",
+        "site_web": "http://www.espaceouvertures.fr/",
+        "adresse": "70 Bd Fauriat, 42000 Saint-Étienne",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2124444594170908606",
+        "nom": "RG Habitat",
+        "slug": "rg-habitat",
+        "telephone": "04 77 58 14 37",
+        "site_web": "https://www.rghabitat42.fr/",
+        "adresse": "ZA des Epalits, 42610 Saint-Romain-le-Puy",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7984518876010475463",
+        "nom": "SAS Fraisse Kenzo Couverture - Couvreur dans le 42",
+        "slug": "sas-fraisse-kenzo-couverture-couvreur-dans-le-42",
+        "telephone": "04 51 58 06 83",
+        "site_web": "https://www.fraisse-couverture.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 65,
+        "type": "Couvreur"
+      },
+      {
+        "id": "623719134994486228",
+        "nom": "Speed Vitrerie",
+        "slug": "speed-vitrerie",
+        "telephone": "07 49 95 19 22",
+        "site_web": "https://www.speed-vitrerie.fr/",
+        "adresse": "13 Rue de la Constituante, 42400 Saint-Chamond",
+        "note": 5,
+        "avis": 40,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "16430458226112446617",
+        "nom": "Répare Rénove Toiture",
+        "slug": "repare-renove-toiture",
+        "telephone": "04 51 58 01 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 140,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3231822128037996043",
+        "nom": "AZ Menuiserie",
+        "slug": "az-menuiserie",
+        "telephone": "07 86 39 69 08",
+        "site_web": "http://www.azmenuiserie.fr/",
+        "adresse": "70 Rue de la Tégula, 42600 Savigneux",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12331282265091730988",
+        "nom": "LES MENUISERIES DU SOLEIL",
+        "slug": "les-menuiseries-du-soleil",
+        "telephone": "04 82 77 03 06",
+        "site_web": "https://volet-fenetre-saint-etienne.com/",
+        "adresse": "1070 Chem. de la Ferrière, 42170 Saint-Just-Saint-Rambert",
+        "note": 4.9,
+        "avis": 99,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "saint-romain-le-puy": {
+    "artisans": [
+      {
+        "id": "6706583470911807313",
+        "nom": "Solabaie Menuiserie Saint Romanaise:Fenêtres Volets Montbrison",
+        "slug": "solabaie-menuiserie-saint-romanaisefenetres-volets-montbrison",
+        "telephone": "04 77 76 62 56",
+        "site_web": "http://www.solabaie.fr/",
+        "adresse": "29 ZA des Epalits, 42610 Saint-Romain-le-Puy",
+        "note": 4.8,
+        "avis": 37,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-pierre-de-boeuf": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-just-saint-rambert": {
+    "artisans": [
+      {
+        "id": "2503419627221040963",
+        "nom": "L'ART DE LA POSE - Fenêtres, portes, volets, porte de garage, portail...",
+        "slug": "lart-de-la-pose-fenetres-portes-volets-porte-de-garage-portail",
+        "telephone": "04 77 34 35 00",
+        "site_web": "https://www.lartdelapose.fr/",
+        "adresse": "5558 RD1082, 42480 La Fouillouse",
+        "note": 4.8,
+        "avis": 226,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9092835804589462536",
+        "nom": "La Boutique du Menuisier - Diaz Diffusion (fenêtres, portes, volets, portails...)",
+        "slug": "la-boutique-du-menuisier-diaz-diffusion-fenetres-portes-volets-portails",
+        "telephone": "04 77 49 57 68",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/diaz-diffusion",
+        "adresse": "131 Bd Jean Jaurès, 42170 Saint-Just-Saint-Rambert",
+        "note": 5,
+        "avis": 171,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14276655436552484564",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "http://alabelouvertures.com/",
+        "adresse": "20 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 14,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14866503488095882660",
+        "nom": "Fun'etre",
+        "slug": "funetre",
+        "telephone": "06 10 59 61 99",
+        "site_web": "https://www.facebook.com/BELGYfunetre/",
+        "adresse": "11B Rte de Saint-Marcellin, 42170 Saint-Just-Saint-Rambert",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9973659184985303836",
+        "nom": "Atelier Du Vitrail Denis Berger: Vitrerie -Depannage vitre cassée Andrézieux Bouthéon",
+        "slug": "atelier-du-vitrail-denis-berger-vitrerie-depannage-vitre-cassee-andrezieux-boutheon",
+        "telephone": "06 77 23 84 08",
+        "site_web": "http://www.vitrail-saint-just.fr/",
+        "adresse": "29 All. Saint-Laurent, 42170 Saint-Just-Saint-Rambert",
+        "note": 5,
+        "avis": 10,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "10605736982698178275",
+        "nom": "Les Menuiseries d'Olivier",
+        "slug": "les-menuiseries-dolivier",
+        "telephone": "04 77 61 35 39",
+        "site_web": "https://les-menuiseries-dolivier.fr/?utm_source=gmb",
+        "adresse": "31 Av. Saint-Exupéry, 42160 Andrézieux-Bouthéon",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9128090881914967041",
+        "nom": "Menuiserie micciche Loïc",
+        "slug": "menuiserie-micciche-loic",
+        "telephone": "06 30 33 87 44",
+        "site_web": "https://www.bilik.fr/saint-etienne/menuisier/loic-micciche",
+        "adresse": "MENUISERIE MICCICHE, 266 Rte de Saint-Marcellin, 42170 Saint-Just-Saint-Rambert",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2793836501419125172",
+        "nom": "fenêtres au vent",
+        "slug": "fenetres-au-vent",
+        "telephone": "06 95 45 91 86",
+        "site_web": null,
+        "adresse": "Rte de Saint-Héand, 42480 La Fouillouse",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11965715003718199055",
+        "nom": "Mister Toiture Saint-Étienne",
+        "slug": "mister-toiture-saint-etienne",
+        "telephone": "04 20 98 40 36",
+        "site_web": "https://mistertoiture.com/agence/mister-toiture-saint-etienne/?utm_source=gmb&utm_medium=gmb",
+        "adresse": "ZAC de la Querillère, Rue Forez S Bât. 1A, 42170 Saint-Just-Saint-Rambert",
+        "note": 5,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4820637849869628538",
+        "nom": "Les Stores Du Soleil",
+        "slug": "les-stores-du-soleil",
+        "telephone": "04 82 77 03 06",
+        "site_web": "https://stores-pergolas-saint-etienne.fr/",
+        "adresse": "1070 Chem. de la Ferrière, 42170 Saint-Just-Saint-Rambert",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      }
+    ]
+  },
+  "saint-sauveur-en-rue": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4133320673182882036",
+        "nom": "Fenetres plus",
+        "slug": "fenetres-plus",
+        "telephone": "09 80 42 94 04",
+        "site_web": "http://www.fenetresplus.fr/",
+        "adresse": "92 Rue La Fayette, 75009 Paris",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin"
+      }
+    ]
+  },
+  "saint-romain-la-motte": {
+    "artisans": [
+      {
+        "id": "1677588673949102821",
+        "nom": "A LABEL OUVERTURES",
+        "slug": "a-label-ouvertures",
+        "telephone": "04 27 81 32 55",
+        "site_web": "https://www.alabelouvertures.com/",
+        "adresse": "20 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 11,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3719543041877129384",
+        "nom": "Menuinova : Menuiserie Alu / PVC - Pergola",
+        "slug": "menuinova-menuiserie-alu-pvc-pergola",
+        "telephone": "04 77 71 56 31",
+        "site_web": "https://www.menuinova.fr/",
+        "adresse": "Les Royaux, 42155 Lentigny",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-victor-sur-rhins": {
+    "artisans": [
+      {
+        "id": "9560101162939751223",
+        "nom": "Tristan Durillon Menuiserie",
+        "slug": "tristan-durillon-menuiserie",
+        "telephone": "06 13 39 20 92",
+        "site_web": null,
+        "adresse": "645 Rue d'Amplepuis, 42630 Saint-Victor-sur-Rhins",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8036651448847421631",
+        "nom": "Dumas Ludovic",
+        "slug": "dumas-ludovic",
+        "telephone": "04 74 64 24 63",
+        "site_web": null,
+        "adresse": "Place Carnot, 42630 Saint-Victor-sur-Rhins",
+        "note": 4.7,
+        "avis": 73,
+        "type": "Boulangerie"
+      }
+    ]
+  },
+  "savigneux": {
+    "artisans": [
+      {
+        "id": "12156693893566108175",
+        "nom": "Menuiserie Blanc",
+        "slug": "menuiserie-blanc",
+        "telephone": "04 77 58 20 02",
+        "site_web": "http://www.menuiserie-blanc.com/",
+        "adresse": "509 Rue des Roseaux, 42600 Savigneux",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3052276188249572732",
+        "nom": "ALU CONFORT DU FOREZ",
+        "slug": "alu-confort-du-forez",
+        "telephone": "04 77 97 62 79",
+        "site_web": "http://www.aluconfortduforez.com/",
+        "adresse": "68 Rue des Grands Chênes, 42600 Montbrison",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7317501934836149712",
+        "nom": "BigMat Savigneux (Sagra)",
+        "slug": "bigmat-savigneux-sagra",
+        "telephone": "04 77 58 85 26",
+        "site_web": "https://bigmatsagra.fr/?utm_source=google&utm_medium=local&utm_campaign=GBP&utm_content=savigneux",
+        "adresse": "915 Boulevard de la Briqueterie, 42600 Savigneux",
+        "note": 4.6,
+        "avis": 105,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2537416583812520534",
+        "nom": "La Boutique du Store Montbrison",
+        "slug": "la-boutique-du-store-montbrison",
+        "telephone": "04 77 96 92 55",
+        "site_web": "https://boutiquedustore.fr/magasin/boutique-savigneux-angel-stores/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=bouton",
+        "adresse": "8 Rue des Fours À Chaux, 42600 Savigneux",
+        "note": 4.1,
+        "avis": 48,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "10167717905350893900",
+        "nom": "Entreprise Brunel SAS",
+        "slug": "entreprise-brunel-sas",
+        "telephone": "04 77 58 04 88",
+        "site_web": "http://www.brunelsynergie.fr/",
+        "adresse": "31 Rue du Champ de Mars, 42600 Savigneux",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "1656053831362066413",
+        "nom": "Caparol Center Savigneux (Sagra)",
+        "slug": "caparol-center-savigneux-sagra",
+        "telephone": "04 77 96 85 85",
+        "site_web": "https://www.caparolcentersagra.fr/?utm_source=google&utm_medium=local&utm_campaign=GBP&utm_content=agence_savigneux",
+        "adresse": "915 Boulevard de la briqueterie, 42600 Savigneux",
+        "note": 4.8,
+        "avis": 110,
+        "type": "Magasin de peinture"
+      },
+      {
+        "id": "1492225852949991687",
+        "nom": "Angel stores \"LA BOUTIQUE DU STORE\"",
+        "slug": "angel-stores-la-boutique-du-store",
+        "telephone": "04 77 96 92 55",
+        "site_web": "http://www.boutiquedustore.fr/",
+        "adresse": "8 rue Nouvelle des, Rue des Fours À Chaux, 42600 Savigneux",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "4814651712556364434",
+        "nom": "Mondial Pare-Brise",
+        "slug": "mondial-pare-brise",
+        "telephone": "04 77 75 50 00",
+        "site_web": "https://www.mondialparebrise.fr/trouver-mon-centre/point-relais-mondial-pare-brise-savigneux?utm_campaign=store-locator&utm_medium=google-my-business&utm_source=gmb",
+        "adresse": "Total Energies, Station de Bellevue, 2 Av. Charles de Gaulle, 42600 Savigneux",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de pare-brise"
+      },
+      {
+        "id": "16597991910675066536",
+        "nom": "Qualipro Fermetures",
+        "slug": "qualipro-fermetures",
+        "telephone": "07 61 78 11 80",
+        "site_web": "http://www.qualipro-fermetures.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10080114288782674528",
+        "nom": "Charpente Couverture Libercier",
+        "slug": "charpente-couverture-libercier",
+        "telephone": "04 77 58 09 59",
+        "site_web": "http://www.charpente-couverture-libercier.com/",
+        "adresse": "16 Rue des Fours À Chaux, 42600 Savigneux",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "sorbiers": {
+    "artisans": [
+      {
+        "id": "14447937861284958856",
+        "nom": "Acti'pose",
+        "slug": "actipose",
+        "telephone": "04 77 34 05 13",
+        "site_web": "http://www.fenetres-volets-saintetienne.fr/",
+        "adresse": "Parc D'activité, 8 bis Rue du Moulin Gillier, 42290 Sorbiers",
+        "note": 4.9,
+        "avis": 39,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6447189199553646557",
+        "nom": "INTO THE WOOD",
+        "slug": "into-the-wood",
+        "telephone": "06 65 15 21 25",
+        "site_web": "https://menuiserie-intothewood-42.fr/",
+        "adresse": "8 Rue des Roseaux, 42290 Sorbiers",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2610763024468773981",
+        "nom": "TRYBA Sorbiers",
+        "slug": "tryba-sorbiers",
+        "telephone": "04 77 41 15 11",
+        "site_web": "https://www.tryba.com/espace-conseil/42/tryba-sorbiers/?utm_campaign=Tryba_Sorbiers&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "14 Rue du Moulin Gillier, 42290 Sorbiers",
+        "note": 4.9,
+        "avis": 82,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12723048242763393010",
+        "nom": "ROLIX FRANCE",
+        "slug": "rolix-france",
+        "telephone": "04 77 01 90 93",
+        "site_web": "https://rolixfrance.com/",
+        "adresse": "11 Rue Louis Blanchard, 42290 Sorbiers",
+        "note": 4.9,
+        "avis": 80,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10959312533111361070",
+        "nom": "Pro'Pose Menuiserie",
+        "slug": "propose-menuiserie",
+        "telephone": "06 30 36 45 03",
+        "site_web": null,
+        "adresse": "29 Rue de Briançon, 42290 Sorbiers",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Fournisseur de portes de garage"
+      },
+      {
+        "id": "14805154189086675795",
+        "nom": "JB Menuiserie Agencement - Cuisine, Salle de bains",
+        "slug": "jb-menuiserie-agencement-cuisine-salle-de-bains",
+        "telephone": "06 75 94 73 99",
+        "site_web": "https://www.menuiserie-agencement.fr/",
+        "adresse": "1 Imp. de la Rivière, 42290 Sorbiers",
+        "note": 4.4,
+        "avis": 26,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sury-le-comtal": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-symphorien-de-lay": {
+    "artisans": [
+      {
+        "id": "1044694125017913923",
+        "nom": "Comptoir des Menuisiers - Terres de Fenêtre",
+        "slug": "comptoir-des-menuisiers-terres-de-fenetre",
+        "telephone": "04 77 26 43 73",
+        "site_web": "https://www.comptoirdesmenuisiers.fr/",
+        "adresse": "22 Chem. des Entrepreneurs, 42110 Épercieux-Saint-Paul",
+        "note": 4.9,
+        "avis": 189,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-talaudiere": {
+    "artisans": [
+      {
+        "id": "16730372766820420130",
+        "nom": "Gamma Fenetres",
+        "slug": "gamma-fenetres",
+        "telephone": "06 22 22 25 32",
+        "site_web": "http://www.gamma-fenetres.fr/",
+        "adresse": "18 LOT les Castors, 42350 La Talaudière",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-tour-en-jarez": {
+    "artisans": [
+      {
+        "id": "6506907767218592956",
+        "nom": "Tony Juin SAS",
+        "slug": "tony-juin-sas",
+        "telephone": "04 77 79 30 51",
+        "site_web": "https://couverture-saint-etienne.fr/?utm_source=gmb",
+        "adresse": "Les, 1212 route de bayard, Chem. Du Bois, 42580 La Tour-en-Jarez",
+        "note": 4.6,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12331282265091730988",
+        "nom": "LES MENUISERIES DU SOLEIL",
+        "slug": "les-menuiseries-du-soleil",
+        "telephone": "04 82 77 03 06",
+        "site_web": "https://volet-fenetre-saint-etienne.com/",
+        "adresse": "1070 Chem. de la Ferrière, 42170 Saint-Just-Saint-Rambert",
+        "note": 4.9,
+        "avis": 99,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "unieux": {
+    "artisans": [
+      {
+        "id": "18412323249347499818",
+        "nom": "AUTHOMEATIQUE",
+        "slug": "authomeatique",
+        "telephone": "06 44 09 51 09",
+        "site_web": "https://www.authomeatique.fr/",
+        "adresse": "10 Rue l'Industrie, 42240 Unieux",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3279520785347887654",
+        "nom": "Uni'Verre Déco",
+        "slug": "univerre-deco",
+        "telephone": "06 58 55 77 86",
+        "site_web": "https://univerredeco.fr/",
+        "adresse": "Parc Holtzer, 48 Rue Holtzer, 42240 Unieux",
+        "note": 5,
+        "avis": 26,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "usson-en-forez": {
+    "artisans": [
+      {
+        "id": "7827217000832601315",
+        "nom": "Pro Isol’Menuiserie Usson en forez",
+        "slug": "pro-isolmenuiserie-usson-en-forez",
+        "telephone": "06 76 71 36 36",
+        "site_web": "https://www.pro-isol-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6549742293347923856",
+        "nom": "Dufour Bois",
+        "slug": "dufour-bois",
+        "telephone": "04 77 50 64 49",
+        "site_web": "http://www.dufourbois.com/",
+        "adresse": "Zone Artisanale, Les Quarchons, 42550 Usson-en-Forez",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "veauche": {
+    "artisans": [
+      {
+        "id": "495424853032366350",
+        "nom": "De Araujo Ludovic SARL",
+        "slug": "de-araujo-ludovic-sarl",
+        "telephone": "06 08 00 33 03",
+        "site_web": "https://www.facebook.com/people/Menuiserie-De-Araujo-SARL/100067164435804/?utm_source=gmb",
+        "adresse": "15 All. de l'Artisanat, 42340 Veauche",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14284573308846084229",
+        "nom": "Menuiserie Norbert Villemagne",
+        "slug": "menuiserie-norbert-villemagne",
+        "telephone": "06 07 68 62 52",
+        "site_web": null,
+        "adresse": "4 Bis av. Antoine, Av. Paccard, 42340 Veauche",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5718830056487566749",
+        "nom": "Au Bon Art Veauche",
+        "slug": "au-bon-art-veauche",
+        "telephone": "06 63 80 34 31",
+        "site_web": null,
+        "adresse": "113 Av. du 8 Mai 1945, 42340 Veauche",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9148529236238307326",
+        "nom": "Vitrerie Miroiterie Montard T",
+        "slug": "vitrerie-miroiterie-montard-t",
+        "telephone": "06 58 07 75 11",
+        "site_web": null,
+        "adresse": "60 Av. de la Libération, 42340 Veauche",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "10471244456863705135",
+        "nom": "CASÉO Saint Etienne",
+        "slug": "caseo-saint-etienne",
+        "telephone": "04 77 39 91 20",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saint-etienne-veauche-83",
+        "adresse": "115 Av. du 8 Mai 1945, 42340 Veauche",
+        "note": 4.3,
+        "avis": 127,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16708365425988126521",
+        "nom": "3R Services",
+        "slug": "3r-services",
+        "telephone": "07 83 06 09 72",
+        "site_web": "https://www.3-r-services.com/",
+        "adresse": "62 Chem. des Granges, 42340 Veauche",
+        "note": 5,
+        "avis": 15,
+        "type": "Magasin de matériel pour l'entretien des toitures"
+      }
+    ]
+  },
+  "villars": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villemontais": {
+    "artisans": [
+      {
+        "id": "17711978391922628899",
+        "nom": "Confort Line",
+        "slug": "confort-line",
+        "telephone": "04 77 69 75 46",
+        "site_web": "http://www.confortline.fr/",
+        "adresse": "5 Rte de Villemontais, 42300 Roanne",
+        "note": 1,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "villerest": {
+    "artisans": [
+      {
+        "id": "18337980438705229116",
+        "nom": "Cool Roof Impact",
+        "slug": "cool-roof-impact",
+        "telephone": "04 82 29 35 01",
+        "site_web": "https://www.coolrooftimpact.fr/",
+        "adresse": "1 All. Policard, 42300 Villerest",
+        "note": 4.9,
+        "avis": 53,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "violay": {
+    "artisans": [
+      {
+        "id": "8128649261717291400",
+        "nom": "C2l Velux Loire SARL",
+        "slug": "c2l-velux-loire-sarl",
+        "telephone": "04 77 79 86 69",
+        "site_web": "https://www.facebook.com/c2lrenovation/?ref=aymt_homepage_panel&eid=ARDadpDYOmZ1LqILdtAbP7fbyCvVLNt-fl2eq9HhKxWWHZYR_JxGNJbW9N_0OGiT0dq3cdi_v5BVrs6M&utm_source=gmb",
+        "adresse": "14 Rue Edouard Garet, 42160 Andrézieux-Bouthéon",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-leger-sur-roanne": {
+    "artisans": [
+      {
+        "id": "13797830614542726598",
+        "nom": "Menuiserie Gardette - Portes, Fenêtres, Cuisines, Dressings",
+        "slug": "menuiserie-gardette-portes-fenetres-cuisines-dressings",
+        "telephone": "04 77 63 30 06",
+        "site_web": "http://www.menuiserie-gardette.com/",
+        "adresse": "1715 Rte de Villemontais, 42155 Lentigny",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5027645724605984331",
+        "nom": "Aluminium Vitrerie Roannaise | Fabricant de menuiseries Aluminium & PVC",
+        "slug": "aluminium-vitrerie-roannaise-fabricant-de-menuiseries-aluminium-pvc",
+        "telephone": "04 77 71 05 99",
+        "site_web": "https://avr-roanne.fr/",
+        "adresse": "11 Av. du Polygone, 42300 Roanne",
+        "note": 4.5,
+        "avis": 69,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3308627198628125896",
+        "nom": "Menubois - Art&Fenêtres - Riorges",
+        "slug": "menubois-artfenetres-riorges",
+        "telephone": "04 77 70 89 32",
+        "site_web": "https://menubois.artetfenetres.com/?utm_source=GBP&utm_medium=organic&utm_campaign=GBP_Riorges",
+        "adresse": "ZI La Villette, 117 Rue Michel Rondet, 42153 Riorges",
+        "note": 4.4,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1211991093754890184",
+        "nom": "KparK Roanne",
+        "slug": "kpark-roanne",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/38-kpark-roanne?utm_source=gmb",
+        "adresse": "51 Rue Jean Jaurès, 42300 Roanne",
+        "note": 4.4,
+        "avis": 117,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9081902955273939812",
+        "nom": "FD MENUISERIES",
+        "slug": "fd-menuiseries",
+        "telephone": "06 17 41 55 12",
+        "site_web": "http://www.menuiserie-roanne-fd42.fr/",
+        "adresse": "Za, Les Plaines S, 42120 Perreux",
+        "note": 5,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9271257948678383599",
+        "nom": "SOTTON Père Et Fils",
+        "slug": "sotton-pere-et-fils",
+        "telephone": "04 77 71 28 95",
+        "site_web": "http://www.etssotton.fr/",
+        "adresse": "9 Rue de l'Artisanat, 42300 Mably",
+        "note": 4.5,
+        "avis": 51,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9792707851682876725",
+        "nom": "Pro isol menuiserie",
+        "slug": "pro-isol-menuiserie",
+        "telephone": "06 24 35 40 41",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "saint-paul-en-jarez": {
+    "artisans": [
+      {
+        "id": "3702214310184008862",
+        "nom": "Jb2m",
+        "slug": "jb2m",
+        "telephone": "06 12 85 70 72",
+        "site_web": "https://www.jb2m.com/",
+        "adresse": "1130 Rte de la Barollière, 42740 Saint-Paul-en-Jarez",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12525102265481723817",
+        "nom": "Brosse et Charre",
+        "slug": "brosse-et-charre",
+        "telephone": "04 77 75 13 69",
+        "site_web": "http://menuiserie42.fr/",
+        "adresse": "35 Impasse de L'artisanat ZI Des Fraries, 42740 Saint-Paul-en-Jarez",
+        "note": 3.7,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14426650851426462710",
+        "nom": "PROXI FENETRES",
+        "slug": "proxi-fenetres",
+        "telephone": "04 77 55 43 72",
+        "site_web": "https://www.menuiserie-la-grand-croix.fr/",
+        "adresse": "80 Rue Louis Pasteur, 42320 La Grand-Croix",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8398878357235447767",
+        "nom": "Princeps Alu",
+        "slug": "princeps-alu",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Les Fraries, 42740 Saint-Paul-en-Jarez",
+        "note": 1,
+        "avis": 1,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "saint-marcellin-en-forez": {
+    "artisans": [
+      {
+        "id": "2550483921048840214",
+        "nom": "ilex construction",
+        "slug": "ilex-construction",
+        "telephone": "04 77 89 23 89",
+        "site_web": "https://ilexconstruction.fr/",
+        "adresse": "zone artisanale le, Au Placier, 42680 Saint-Marcellin-en-Forez",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12694043504931304023",
+        "nom": "Saint-Marcellin-en-Forez",
+        "slug": "saint-marcellin-en-forez",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42680 Saint-Marcellin-en-Forez",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "18001792005521312093",
+        "nom": "STÉPHANE ASTIER",
+        "slug": "stephane-astier",
+        "telephone": "06 84 80 85 59",
+        "site_web": "https://www.portail-automatisme42.fr/",
+        "adresse": "12 D Rue des Tuileries, 42680 Saint-Marcellin-en-Forez",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15234926329684615000",
+        "nom": "B.E.T.G Entreprise",
+        "slug": "betg-entreprise",
+        "telephone": "04 77 52 84 94",
+        "site_web": null,
+        "adresse": "44 Rue Charles Janin, 42680 Saint-Marcellin-en-Forez",
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9462029669758002651",
+        "nom": "AVTP",
+        "slug": "avtp",
+        "telephone": "06 17 08 12 64",
+        "site_web": "https://www.facebook.com/avtp42",
+        "adresse": "16 Rue Aristide Briand, 42680 Saint-Marcellin-en-Forez",
+        "note": 5,
+        "avis": 3,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "4615958359674843622",
+        "nom": "Jean Rey",
+        "slug": "jean-rey",
+        "telephone": "04 76 38 54 61",
+        "site_web": "http://www.facebook.com/Jean-Rey-479354638896025/",
+        "adresse": "12 Rue Aymard Durivail, 38160 Saint-Marcellin",
+        "note": 4,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6532300695312641968",
+        "nom": "EB Renov 42",
+        "slug": "eb-renov-42",
+        "telephone": "06 38 01 77 32",
+        "site_web": "https://www.eb-renov42.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=4522187628716189656",
+        "adresse": "Chem. des Filles, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12110751472466826240",
+        "nom": "Badinand Couverture Zinguerie",
+        "slug": "badinand-couverture-zinguerie",
+        "telephone": "06 31 78 49 68",
+        "site_web": "https://www.badinand-couverture-zinguerie.fr/",
+        "adresse": "1 Rue de la Charlière, 42270 Saint-Priest-en-Jarez",
+        "note": 5,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14135149040254260128",
+        "nom": "Rousset Père et Fils",
+        "slug": "rousset-pere-et-fils",
+        "telephone": "04 76 38 43 81",
+        "site_web": "http://www.rousset-menuiserie.fr/",
+        "adresse": "ZAC des Echavagnes, 38160 Saint-Marcellin",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5325499228539664218",
+        "nom": "ETS LOMBARD -Couvreur&Zingueur",
+        "slug": "ets-lombard-couvreurzingueur",
+        "telephone": "06 12 07 01 59",
+        "site_web": "https://www.etslombard.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-maurice-en-gourgois": {
+    "artisans": [
+      {
+        "id": "10853866794588735507",
+        "nom": "sarl fournier delorme",
+        "slug": "sarl-fournier-delorme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "221 Collonge, 42240 Saint-Maurice-en-Gourgois",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "6606495518719482781",
+        "nom": "EURL Clemençon charpente couverture menuiserie saint maurice en gourgois",
+        "slug": "eurl-clemencon-charpente-couverture-menuiserie-saint-maurice-en-gourgois",
+        "telephone": "06 82 89 91 32",
+        "site_web": null,
+        "adresse": "le pinay, 42240 Saint-Maurice-en-Gourgois",
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17143548041531042351",
+        "nom": "Eyssette Eurl",
+        "slug": "eyssette-eurl",
+        "telephone": "04 77 50 30 56",
+        "site_web": null,
+        "adresse": "9 Rue des Dames, 42240 Saint-Maurice-en-Gourgois",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "267492678980243880",
+        "nom": "FRANCK'ELEC",
+        "slug": "franckelec",
+        "telephone": "06 99 46 16 19",
+        "site_web": null,
+        "adresse": "Gland Lieu dit, 42240 Saint-Maurice-en-Gourgois",
+        "note": 4.6,
+        "avis": 7,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-paul-en-cornillon": {
+    "artisans": [
+      {
+        "id": "11881439244663671680",
+        "nom": "Menuiserie Cornillon",
+        "slug": "menuiserie-cornillon",
+        "telephone": "06 72 22 49 16",
+        "site_web": "https://menuiserie-cornillon.fr/",
+        "adresse": "42 Av. de Montbrison, 42160 Andrézieux-Bouthéon",
+        "note": 5,
+        "avis": 46,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4207197770751535429",
+        "nom": "CORNILLON YOANN",
+        "slug": "cornillon-yoann",
+        "telephone": "06 72 22 49 16",
+        "site_web": "http://www.menuiserie-agencement-cornillon.fr/",
+        "adresse": "2-10 Rue de l'Egalerie, 42100 Saint-Étienne",
+        "note": 3.7,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-martin-la-plaine": {
+    "artisans": [
+      {
+        "id": "1860922099211510906",
+        "nom": "Marciano & Sper",
+        "slug": "marciano-sper",
+        "telephone": "04 77 20 63 77",
+        "site_web": "http://www.marciano-sper.com/",
+        "adresse": "450 Rte des Vignes, 42800 Saint-Romain-en-Jarez",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3880911957591318332",
+        "nom": "Showroom Menuiserie Pagnon",
+        "slug": "showroom-menuiserie-pagnon",
+        "telephone": "06 64 00 51 59",
+        "site_web": null,
+        "adresse": "8 Rte du Munat BATIMENT E, 42800 Saint-Martin-la-Plaine",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4191197085272475643",
+        "nom": "Meyrieux Alain",
+        "slug": "meyrieux-alain",
+        "telephone": "04 77 83 83 23",
+        "site_web": null,
+        "adresse": "15 Pl. de la Paix, 42800 Saint-Martin-la-Plaine",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "saint-nizier-sous-charlieu": {
+    "artisans": [
+      {
+        "id": "13890562794649966467",
+        "nom": "CIZERON - Véranda - Pergola et Menuiserie Alu",
+        "slug": "cizeron-veranda-pergola-et-menuiserie-alu",
+        "telephone": "04 77 60 80 29",
+        "site_web": "http://www.cizeron.com/",
+        "adresse": "La Croix Saint-Paul 14 Route de la Benisson-Dieu, La Croix Saint-Paul, 42720 Briennon",
+        "note": 4.7,
+        "avis": 61,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14553302128869600724",
+        "nom": "EURL SAYET BERTRAND",
+        "slug": "eurl-sayet-bertrand",
+        "telephone": "04 77 69 99 12",
+        "site_web": "https://www.sayet.fr/",
+        "adresse": "Place Ennemond Thoral, 70, 173 Rue de la République, 42720 Pouilly-sous-Charlieu",
+        "note": 3.8,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6258100849692882875",
+        "nom": "Centrakor St Nizier Sous Charlieu",
+        "slug": "centrakor-st-nizier-sous-charlieu",
+        "telephone": null,
+        "site_web": "https://www.centrakor.com/magasin-centrakor/ctknizier/centrakor-st-nizier-sous-charlieu-42190.html?utm_source=gmb",
+        "adresse": "Pont de Tigny, 42190 Saint-Nizier-sous-Charlieu",
+        "note": 4.2,
+        "avis": 518,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "2797530264469424556",
+        "nom": "BGCC",
+        "slug": "bgcc",
+        "telephone": "06 03 36 38 42",
+        "site_web": "http://bgcc.fr/",
+        "adresse": "147 Rte de Melay, 42720 Briennon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2391556874518496508",
+        "nom": "B&B Concept Isolation",
+        "slug": "bb-concept-isolation",
+        "telephone": "04 27 62 34 50",
+        "site_web": "http://www.conceptisolation.fr/",
+        "adresse": "12 Rue Jean Jaurès, 42190 Charlieu",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11739067662826441109",
+        "nom": "SP menuiserie",
+        "slug": "sp-menuiserie",
+        "telephone": "06 24 59 03 96",
+        "site_web": "https://www.facebook.com/profile.php?id=100072376752314",
+        "adresse": "17 Rue Dorian, 42190 Charlieu",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-just-en-chevalet": {
+    "artisans": [
+      {
+        "id": "7284593786751040910",
+        "nom": "SBP",
+        "slug": "sbp",
+        "telephone": "03 44 19 21 21",
+        "site_web": "https://fenetres-sbp.fr/",
+        "adresse": "Rue du Bois Prévost, 60130 Saint-Just-en-Chaussée",
+        "note": 4.7,
+        "avis": 78,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5496977123898205587",
+        "nom": "Pamtoès SARL",
+        "slug": "pamtoes-sarl",
+        "telephone": "04 69 07 81 52",
+        "site_web": "http://www.pamtoes.fr/?utm_source=gmb",
+        "adresse": "101 Rue d'Urfé, 42430 Saint-Just-en-Chevalet",
+        "note": 5,
+        "avis": 6,
+        "type": "Designer d'intérieur"
+      },
+      {
+        "id": "12054252511450763464",
+        "nom": "SARL EXTRAT - CHARPENTES - BÂTIMENTS AGRICOLES",
+        "slug": "sarl-extrat-charpentes-batiments-agricoles",
+        "telephone": "04 77 65 03 29",
+        "site_web": "http://batimentagricoleextrat.blogspot.fr/",
+        "adresse": "2960 Rte de Noiretable, 42430 Saint-Romain-d'Urfé",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-julien-molin-molette": {
+    "artisans": [
+      {
+        "id": "290830376680032688",
+        "nom": "Saint-Julien-Molin-Molette",
+        "slug": "saint-julien-molin-molette",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "42220 Saint-Julien-Molin-Molette",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "6303350023780038222",
+        "nom": "L'usine à bois",
+        "slug": "lusine-a-bois",
+        "telephone": "06 98 55 55 55",
+        "site_web": null,
+        "adresse": "2 Mnt des Fabriqués, 42220 Saint-Julien-Molin-Molette",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11662476024674529021",
+        "nom": "L'usine à bois",
+        "slug": "lusine-a-bois",
+        "telephone": "06 99 88 98 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-just-la-pendue": {
+    "artisans": [
+      {
+        "id": "4990129354857092214",
+        "nom": "MSG BOIS",
+        "slug": "msg-bois",
+        "telephone": "06 62 40 82 62",
+        "site_web": "http://www.msgbois.fr/",
+        "adresse": "5722 Av. du 8 Mai, 42540 Saint-Just-la-Pendue",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1044694125017913923",
+        "nom": "Comptoir des Menuisiers - Terres de Fenêtre",
+        "slug": "comptoir-des-menuisiers-terres-de-fenetre",
+        "telephone": "04 77 26 43 73",
+        "site_web": "https://www.comptoirdesmenuisiers.fr/",
+        "adresse": "22 Chem. des Entrepreneurs, 42110 Épercieux-Saint-Paul",
+        "note": 4.9,
+        "avis": 189,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16108655906262189080",
+        "nom": "SARL AIPF",
+        "slug": "sarl-aipf",
+        "telephone": "06 16 93 40 27",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  }
+}

@@ -1,0 +1,956 @@
+{
+  "bastelicaccia": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "ajaccio": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "albitreccia": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "appietto": {
+    "artisans": [
+      {
+        "id": "18130898697597763625",
+        "nom": "Corse Pose Menuiserie",
+        "slug": "corse-pose-menuiserie",
+        "telephone": "06 20 86 52 49",
+        "site_web": null,
+        "adresse": "Lieu dit raconaccio, 20167 Appietto",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8731414764440286086",
+        "nom": "Couvreur Sorrel Corse",
+        "slug": "couvreur-sorrel-corse",
+        "telephone": "06 44 24 83 45",
+        "site_web": "https://couvreur-sorrel-corse.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 100,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16008609142386627328",
+        "nom": "Ak renovation",
+        "slug": "ak-renovation",
+        "telephone": "06 04 06 33 11",
+        "site_web": "https://visibpro.fr/couvreur",
+        "adresse": "Croisement de castelluccio, Chem. de Saint-Antoine, 20090 Ajaccio",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bonifacio": {
+    "artisans": [
+      {
+        "id": "8380808272474530921",
+        "nom": "Batiman Mufraggi Matériaux Porto-Vecchio",
+        "slug": "batiman-mufraggi-materiaux-porto-vecchio",
+        "telephone": "06 07 07 66 50",
+        "site_web": "https://www.batiman.fr/nos-points-de-vente/batiman-mufraggi-materiaux-porticcio-grosseto-prugna-20166-experts-en-menuiserie",
+        "adresse": "di Lavonieddu, lieu-dit Poretta, Av. de Bastia, 20137 Porto-Vecchio",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "997716057903110254",
+        "nom": "SUD CORSE HABITAT",
+        "slug": "sud-corse-habitat",
+        "telephone": "07 89 33 94 32",
+        "site_web": "https://www.sudcorsehabitat.com/",
+        "adresse": "Route de Porra (derrière Kyrnolia, 20137 Porto-Vecchio",
+        "note": 5,
+        "avis": 10,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "15903319384884676443",
+        "nom": "Genihabitat - Maison du Menuisier",
+        "slug": "genihabitat-maison-du-menuisier",
+        "telephone": "04 95 20 45 57",
+        "site_web": "https://figari.maisondumenuisier.fr/",
+        "adresse": "Route Sartène, 20114 Figari",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4924158615134347369",
+        "nom": "Menuiserie Da Costa",
+        "slug": "menuiserie-da-costa",
+        "telephone": "04 20 04 65 75",
+        "site_web": null,
+        "adresse": "MUSELLA Z.A, 20169 Bonifacio",
+        "note": 5,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7496074047452014777",
+        "nom": "Marcia Diffusion",
+        "slug": "marcia-diffusion",
+        "telephone": "04 95 74 01 62",
+        "site_web": "https://www.marciadiffusion.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "65 Stretta di i Staddi, LD BAGLIONE - FARONE, 20167 Afa",
+        "note": 5,
+        "avis": 2,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "4390180762498247453",
+        "nom": "CMS Bonifacio (Construction Métal Soudure)",
+        "slug": "cms-bonifacio-construction-metal-soudure",
+        "telephone": "06 77 51 82 79",
+        "site_web": null,
+        "adresse": "ZA Musella, 20169 Bonifacio",
+        "note": 5,
+        "avis": 1,
+        "type": "Soudeur"
+      },
+      {
+        "id": "8550249025331267378",
+        "nom": "Micro TP",
+        "slug": "micro-tp",
+        "telephone": "04 95 77 08 92",
+        "site_web": null,
+        "adresse": "Lieu-dit Caprile, 20169 Bonifacio",
+        "note": 5,
+        "avis": 2,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "108222165428888607",
+        "nom": "PRO HABITAT 2A",
+        "slug": "pro-habitat-2a",
+        "telephone": "06 22 29 27 85",
+        "site_web": "https://www.prohabitat2a.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11914283996195480495",
+        "nom": "Mufraggi Matériaux & Batiman Menuiseries Porto-Vecchio",
+        "slug": "mufraggi-materiaux-batiman-menuiseries-porto-vecchio",
+        "telephone": "04 95 73 02 74",
+        "site_web": "https://mufraggi.fr/",
+        "adresse": "RT10, lieu-dit Fosssi, 20137 San-Gavino-di-Carbini",
+        "note": 4.6,
+        "avis": 40,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "934853071090556253",
+        "nom": "Société Bonifacienne de Construction",
+        "slug": "societe-bonifacienne-de-construction",
+        "telephone": "04 95 24 34 68",
+        "site_web": "http://www.bonifacio-construction.fr/",
+        "adresse": "Musela, 20169 Bonifacio",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "alata": {
+    "artisans": [
+      {
+        "id": "867763421403677662",
+        "nom": "CGS couverture",
+        "slug": "cgs-couverture",
+        "telephone": "06 12 54 46 34",
+        "site_web": "http://www.cgs-couverture.fr/",
+        "adresse": "Soprano, Ponte bonello, Chioso, 20167 Sarrola-Carcopino",
+        "note": 5,
+        "avis": 43,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2797700017677444096",
+        "nom": "VALENTI FRERES",
+        "slug": "valenti-freres",
+        "telephone": "04 95 22 81 87",
+        "site_web": "http://www.menuiserie-valentifreres.fr/",
+        "adresse": "Pietrosella, 20167 Alata",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16574886251012210206",
+        "nom": "ALTA Menuiserie",
+        "slug": "alta-menuiserie",
+        "telephone": "07 83 04 86 13",
+        "site_web": "https://www.facebook.com/altamenuiserie",
+        "adresse": "Résidence Plein Soleil, 20000 Ajaccio",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11061071683533448615",
+        "nom": "Corsica Toiture",
+        "slug": "corsica-toiture",
+        "telephone": "07 84 71 60 09",
+        "site_web": "https://corsicatoiture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5339601507788716647",
+        "nom": "Couverture Toiture corse sud",
+        "slug": "couverture-toiture-corse-sud",
+        "telephone": "07 80 99 70 81",
+        "site_web": "https://toiture-couvreur-ajaccio.fr/",
+        "adresse": "4 Rue Antoine Sollacaro, 20090 Ajaccio",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "991019794369278482",
+        "nom": "Couvreur Corsica - Entreprise de Couverture",
+        "slug": "couvreur-corsica-entreprise-de-couverture",
+        "telephone": "06 13 17 56 51",
+        "site_web": "https://www.couvreur.corsica/",
+        "adresse": "ZI de Tavaria, 20110 Propriano",
+        "note": 5,
+        "avis": 121,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17296918976731485423",
+        "nom": "Terra Corsa Couvreur",
+        "slug": "terra-corsa-couvreur",
+        "telephone": "06 70 32 01 04",
+        "site_web": "http://www.terra-corsa-couvreur.fr/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 64,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7341300780287834770",
+        "nom": "L'étoile Acrobat",
+        "slug": "letoile-acrobat",
+        "telephone": "04 95 10 89 33",
+        "site_web": "https://www.letoile-acrobat.com/",
+        "adresse": "Lieu dit farone, Zone industrielle Baléone, 20167 Afa",
+        "note": 4.3,
+        "avis": 17,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "806559619076717667",
+        "nom": "Alta Elec",
+        "slug": "alta-elec",
+        "telephone": "06 25 45 07 53",
+        "site_web": null,
+        "adresse": "Résidence Iles, 20000 Ajaccio",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "afa": {
+    "artisans": [
+      {
+        "id": "7539786742757713123",
+        "nom": "Imper Corse Afa",
+        "slug": "imper-corse-afa",
+        "telephone": "04 95 20 50 10",
+        "site_web": "https://www.imper-corse-etancheite.fr/",
+        "adresse": "15 Michel Ange 14 lot, 20167 Afa",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8583539127218413507",
+        "nom": "FM Baies",
+        "slug": "fm-baies",
+        "telephone": "04 95 10 51 00",
+        "site_web": "https://www.fmbaies.fr/",
+        "adresse": "13 Michel Ange, 20167 Afa",
+        "note": 4.5,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9223735758762306489",
+        "nom": "ASF Portails, Pergolas & Automatismes",
+        "slug": "asf-portails-pergolas-automatismes",
+        "telephone": "06 50 97 88 22",
+        "site_web": "http://www.asfcorse.com/?utm_source=gmb",
+        "adresse": "Imm Les Narcisses, Av. Docteur Noël Franchini, 20090 Ajaccio",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Magasin de moteurs électriques"
+      }
+    ]
+  },
+  "cargese": {
+    "artisans": [
+      {
+        "id": "881465728757711257",
+        "nom": "Artech PVC",
+        "slug": "artech-pvc",
+        "telephone": "04 95 10 51 09",
+        "site_web": "https://artech-pvc.fr/",
+        "adresse": "Lieu dit Trenta Costa, 20167 Sarrola-Carcopino",
+        "note": 4,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cauro": {
+    "artisans": [
+      {
+        "id": "5374581319961285318",
+        "nom": "Sarl Luminos",
+        "slug": "sarl-luminos",
+        "telephone": "06 17 22 73 70",
+        "site_web": "https://www.decostory.fr/luminos/",
+        "adresse": "Lieu-dit Pernicaggio, 20167 Sarrola-Carcopino",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13389343193628229751",
+        "nom": "Miroiterie Mariani",
+        "slug": "miroiterie-mariani",
+        "telephone": "04 95 76 17 94",
+        "site_web": "https://www.miroiteriemariani.fr/",
+        "adresse": "Pinzuta, 20110 Viggianello",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "881465728757711257",
+        "nom": "Artech PVC",
+        "slug": "artech-pvc",
+        "telephone": "04 95 10 51 09",
+        "site_web": "https://artech-pvc.fr/",
+        "adresse": "Lieu dit Trenta Costa, 20167 Sarrola-Carcopino",
+        "note": 4,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "conca": {
+    "artisans": [
+      {
+        "id": "2632891735215916073",
+        "nom": "PAUL SUD CONSTRUCTIONS",
+        "slug": "paul-sud-constructions",
+        "telephone": "06 18 78 53 28",
+        "site_web": "https://www.paulsudconstructions.fr/",
+        "adresse": "Pianiccia Corse Du Sud, BP12, 20135 Conca",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "cuttoli-corticchiato": {
+    "artisans": [
+      {
+        "id": "10704770535325158558",
+        "nom": "Sentier des Moulins - Chjassu d’i Mulini",
+        "slug": "sentier-des-moulins-chjassu-di-mulini",
+        "telephone": "04 95 25 61 36",
+        "site_web": "https://www.ca-ajaccien.corsica/sentier-du-patrimoine-cuttoli-corticchiato/",
+        "adresse": "20167 Cuttoli-Corticchiato",
+        "note": 4.5,
+        "avis": 74,
+        "type": "Circuit de randonnée"
+      },
+      {
+        "id": "6736065254683611040",
+        "nom": "Art Projection",
+        "slug": "art-projection",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Sgaretato, 20167 Cuttoli-Corticchiato",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "eccica-suarella": {
+    "artisans": [
+      {
+        "id": "290510376680119424",
+        "nom": "Eccica-Suarella",
+        "slug": "eccica-suarella",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "20117 Eccica-Suarella",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "5551981543135572446",
+        "nom": "Suarella",
+        "slug": "suarella",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "20117 Eccica-Suarella",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4980172963967700094",
+        "nom": "Salle des fêtes d'Eccica Suarella",
+        "slug": "salle-des-fetes-deccica-suarella",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Eccica, 20117 Eccica-Suarella",
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'organisation d'événements professionnels"
+      }
+    ]
+  },
+  "grosseto-prugna": {
+    "artisans": [
+      {
+        "id": "6629013763597589630",
+        "nom": "SARL OMBRE ET LUMIERE",
+        "slug": "sarl-ombre-et-lumiere",
+        "telephone": "06 18 22 78 51",
+        "site_web": "https://www.ombrelumiere-corse.fr/",
+        "adresse": "1 Jardin des, Jard des Marines de Porticcio, 20166 Grosseto-Prugna",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "figari": {
+    "artisans": [
+      {
+        "id": "15903319384884676443",
+        "nom": "Genihabitat - Maison du Menuisier",
+        "slug": "genihabitat-maison-du-menuisier",
+        "telephone": "04 95 20 45 57",
+        "site_web": "https://figari.maisondumenuisier.fr/",
+        "adresse": "Route Sartène, 20114 Figari",
+        "note": 4.6,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "lecci": {
+    "artisans": [
+      {
+        "id": "14591462906741973376",
+        "nom": "JC Alutec",
+        "slug": "jc-alutec",
+        "telephone": "04 95 70 10 50",
+        "site_web": null,
+        "adresse": "Rue Mansuetus Alessandri, 20137 Porto-Vecchio",
+        "note": 5,
+        "avis": 6,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "olmeto": {
+    "artisans": [
+      {
+        "id": "17871664065541877799",
+        "nom": "V by Onyx - Location de meublés",
+        "slug": "v-by-onyx-location-de-meubles",
+        "telephone": "04 95 74 03 27",
+        "site_web": "http://www.valinco.net/",
+        "adresse": "39 les residences du golfe du Valinco, 20113 Olmeto",
+        "note": 5,
+        "avis": 9,
+        "type": "Location d'appartement de vacances"
+      },
+      {
+        "id": "14316690352412134234",
+        "nom": "Menuiserie Vitrerie Gilbert",
+        "slug": "menuiserie-vitrerie-gilbert",
+        "telephone": "06 22 06 76 16",
+        "site_web": null,
+        "adresse": "Lieu dit palafito, vigna maggiore, 20113 Olmeto",
+        "note": 5,
+        "avis": 4,
+        "type": null
+      },
+      {
+        "id": "18063186609500118895",
+        "nom": "A Fiancu a VOI",
+        "slug": "a-fiancu-a-voi",
+        "telephone": "06 24 97 00 88",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'élagage"
+      }
+    ]
+  },
+  "pietrosella": {
+    "artisans": [
+      {
+        "id": "14842876758165562650",
+        "nom": "Le Jardin d'Emile",
+        "slug": "le-jardin-demile",
+        "telephone": "06 70 76 55 92",
+        "site_web": "http://www.jardindemile.com/",
+        "adresse": "Plage du, 20166 Pietrosella",
+        "note": 5,
+        "avis": 114,
+        "type": "Hôtel"
+      },
+      {
+        "id": "2484441023388740713",
+        "nom": "Les Terrasses de l'Isolella",
+        "slug": "les-terrasses-de-lisolella",
+        "telephone": null,
+        "site_web": "https://www.france-visit.fr/terrasse-de-lisolella/",
+        "adresse": "20166 Pietrosella",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Résidence"
+      },
+      {
+        "id": "2696548733543813823",
+        "nom": "Presqu'île de L'isolella - Punta di L'isuledda",
+        "slug": "presquile-de-lisolella-punta-di-lisuledda",
+        "telephone": null,
+        "site_web": "http://www.pietrosella.fr/",
+        "adresse": "20166 Pietrosella",
+        "note": 4.6,
+        "avis": 287,
+        "type": "Pavillon de plage"
+      },
+      {
+        "id": "13256974679143029062",
+        "nom": "Tour génoise de l’Isolella - Torra Ghjenuvese di l’Isuledda",
+        "slug": "tour-genoise-de-lisolella-torra-ghjenuvese-di-lisuledda",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "All. des Dentis, 20166 Pietrosella",
+        "note": 4.6,
+        "avis": 271,
+        "type": "Site historique"
+      },
+      {
+        "id": "7685066565848735916",
+        "nom": "A Stagnola",
+        "slug": "a-stagnola",
+        "telephone": "04 95 51 17 67",
+        "site_web": null,
+        "adresse": "Stagnole, 20166 Pietrosella",
+        "note": 3.9,
+        "avis": 565,
+        "type": "Restaurant"
+      },
+      {
+        "id": "16730761628989628056",
+        "nom": "Villa Abbracciu",
+        "slug": "villa-abbracciu",
+        "telephone": "06 13 55 28 61",
+        "site_web": "http://www.villa-abbracciu.corsica/",
+        "adresse": "Résidence Petinello, Rte de Pietrosella, 20166 Pietrosella",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Hôtel"
+      },
+      {
+        "id": "4362370394212576250",
+        "nom": "Hôtel L'Isolella",
+        "slug": "hotel-lisolella",
+        "telephone": "04 95 25 10 25",
+        "site_web": "http://www.hotel-isolella.com/",
+        "adresse": "Agnarello, 20166 Pietrosella",
+        "note": 3.7,
+        "avis": 187,
+        "type": "Hôtel"
+      },
+      {
+        "id": "17323696112342701490",
+        "nom": "Residence Petinello",
+        "slug": "residence-petinello",
+        "telephone": null,
+        "site_web": "http://www.corsicadream.fr/",
+        "adresse": "58 résidence Petinello, 20166 Pietrosella",
+        "note": 4.4,
+        "avis": 26,
+        "type": "Location d'appartement de vacances"
+      },
+      {
+        "id": "4845805184034223618",
+        "nom": "Isulella Piscine et Spa",
+        "slug": "isulella-piscine-et-spa",
+        "telephone": "06 22 02 54 44",
+        "site_web": "https://www.isulellapiscine.com/",
+        "adresse": "Rond-Point de L’Isolella, 20166 Pietrosella",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de matériel pour piscines"
+      },
+      {
+        "id": "10075001870844529016",
+        "nom": "Villa Ghiatone",
+        "slug": "villa-ghiatone",
+        "telephone": "04 95 25 53 71",
+        "site_web": "http://www.villaghiatone.com/",
+        "adresse": "Allee du Maquis, LD ghiatone, 20166 Pietrosella",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Chambre d'hôtes"
+      }
+    ]
+  },
+  "peri": {
+    "artisans": [
+      {
+        "id": "13760044220137127384",
+        "nom": "Portail coulissant autoportant et garde corps aluminium",
+        "slug": "portail-coulissant-autoportant-et-garde-corps-aluminium",
+        "telephone": "04 95 23 40 77",
+        "site_web": "https://www.brixfrance.fr/contact/",
+        "adresse": "5 Rte de Mezzavia, 20090 Ajaccio",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les clôtures"
+      }
+    ]
+  },
+  "sarrola-carcopino": {
+    "artisans": [
+      {
+        "id": "4387332790763141122",
+        "nom": "Sotralu",
+        "slug": "sotralu",
+        "telephone": "04 95 20 41 77",
+        "site_web": "http://sotralu-menuiserie.fr/",
+        "adresse": "ZI de Baleone, 20167 MEZZAVIA",
+        "note": 4.6,
+        "avis": 37,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1084727316068207870",
+        "nom": "AZ habitat - Sarrola-Carcopino",
+        "slug": "az-habitat-sarrola-carcopino",
+        "telephone": "04 95 20 45 67",
+        "site_web": "https://www.az-habitat.com/",
+        "adresse": "zi Baleone, 20167 Sarrola-Carcopino",
+        "note": 3.9,
+        "avis": 42,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17038875536806637250",
+        "nom": "L' Artisan du Bois",
+        "slug": "l-artisan-du-bois",
+        "telephone": "04 95 22 43 86",
+        "site_web": "http://lartisandubois.corsica/",
+        "adresse": "142 STRETTA DI I STADDI BALIÒ FARONI, 20167 Afa",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "porto-vecchio": {
+    "artisans": [
+      {
+        "id": "2643095602689321058",
+        "nom": "MIRÀ",
+        "slug": "mira",
+        "telephone": "06 17 22 73 70",
+        "site_web": "https://www.mira.corsica/",
+        "adresse": "CONCEPT STORE MIRÀ, Immeuble A Stradella, Route de Cala Rossa, 20137 Porto-Vecchio",
+        "note": 5,
+        "avis": 41,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "7347283090534063082",
+        "nom": "Porto Vecchio Vitrage",
+        "slug": "porto-vecchio-vitrage",
+        "telephone": "04 95 70 29 38",
+        "site_web": "https://www.portovecchio-vitrage.fr/",
+        "adresse": "Rue des Turriccioli, 20137 Porto-Vecchio",
+        "note": 4.5,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10248163783632029528",
+        "nom": "CASÉO Porto Vecchio",
+        "slug": "caseo-porto-vecchio",
+        "telephone": "04 95 70 72 67",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-porto-vecchio-porto-vecchio-69",
+        "adresse": "Avenue de Bastia, Rue Pierre Andreani, 20137 Porto-Vecchio",
+        "note": 3.9,
+        "avis": 15,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9463845150390664519",
+        "nom": "Couvreur Insulaire",
+        "slug": "couvreur-insulaire",
+        "telephone": "06 85 65 96 47",
+        "site_web": "https://www.couvreur-insulaire.fr/",
+        "adresse": "5 Lot. l'Alivetu, 20137 Porto-Vecchio",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3063941318144154952",
+        "nom": "Zuccarelli Menuiserie",
+        "slug": "zuccarelli-menuiserie",
+        "telephone": "04 95 70 72 67",
+        "site_web": null,
+        "adresse": "20137 Porto-Vecchio",
+        "note": 0,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "17454020298488932656",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "04 95 78 34 96",
+        "site_web": "https://laboutiquedumenuisier.fr/",
+        "adresse": "Résidence Campo Stallato, 20137 Porto-Vecchio",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11580068123130248275",
+        "nom": "TRYBA Porto-Vecchio",
+        "slug": "tryba-porto-vecchio",
+        "telephone": "04 20 98 14 25",
+        "site_web": "https://www.tryba.com/espace-conseil/2A/tryba-porto-vecchio/?utm_campaign=Tryba_Porto-Vecchio&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "Rue Vincentello d'Istria, 20137 Porto-Vecchio",
+        "note": 5,
+        "avis": 50,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "propriano": {
+    "artisans": [
+      {
+        "id": "6822291702754831464",
+        "nom": "Menuiserie DESANTI - Sasu T.M.B.A",
+        "slug": "menuiserie-desanti-sasu-tmba",
+        "telephone": "04 95 73 40 41",
+        "site_web": "https://www.menuiseriedesanti-tmba.com/",
+        "adresse": "Viggianello, 20110 Viggianello",
+        "note": 4,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9294733759424795289",
+        "nom": "MS Matériaux",
+        "slug": "ms-materiaux",
+        "telephone": "04 95 76 80 06",
+        "site_web": "https://www.ms-materiaux.store/",
+        "adresse": "Zone Commerciale Santa Giulia, 20110 Propriano",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "4106603042803243439",
+        "nom": "Plaquiste Peintre Menuisier - PPM Valinco",
+        "slug": "plaquiste-peintre-menuisier-ppm-valinco",
+        "telephone": "06 74 12 38 13",
+        "site_web": "https://www.ppmvalinco.fr/",
+        "adresse": "28 Qur St Joseph, 20110 Propriano",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11919595769886803504",
+        "nom": "AZ habitat - Univerture",
+        "slug": "az-habitat-univerture",
+        "telephone": "04 95 20 26 00",
+        "site_web": "https://www.az-habitat.com/",
+        "adresse": "Lieu dit Vespi, 20100 Propriano",
+        "note": 4.6,
+        "avis": 21,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "4375515880154505785",
+        "nom": "Weldom Propriano",
+        "slug": "weldom-propriano",
+        "telephone": "04 95 76 80 02",
+        "site_web": "https://www.weldom.fr/m/weldom-propriano",
+        "adresse": "Zone Commerciale Santa Giulia, 20110 Propriano",
+        "note": 4.3,
+        "avis": 362,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "7448586481805395123",
+        "nom": "Mariani Btp",
+        "slug": "mariani-btp",
+        "telephone": "07 79 53 70 75",
+        "site_web": null,
+        "adresse": "I vespi, 20110 Propriano",
+        "note": 5,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "sari-solenzara": {
+    "artisans": [
+      {
+        "id": "7875860678852268637",
+        "nom": "Plage de Canella - Arinella di Canella",
+        "slug": "plage-de-canella-arinella-di-canella",
+        "telephone": null,
+        "site_web": "https://www.visit-corsica.com/fre/Mon-sejour/Patrimoine-naturel/Tout-le-patrimoine-naturel/PLAGE-DE-CANELLA",
+        "adresse": "171 Canella, 20145 Sari-Solenzara",
+        "note": 4.6,
+        "avis": 3070,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "8914073823962250288",
+        "nom": "acqua & natura",
+        "slug": "acqua-natura",
+        "telephone": "06 29 19 19 04",
+        "site_web": "https://www.corse-canyoning-parc.com/",
+        "adresse": "route T 10, Solenzara, 20145 Sari-Solenzara",
+        "note": 4.8,
+        "avis": 792,
+        "type": "Parc de loisirs"
+      }
+    ]
+  },
+  "sartene": {
+    "artisans": [
+      {
+        "id": "7983128303520698942",
+        "nom": "MENUISERIE MARRATZU",
+        "slug": "menuiserie-marratzu",
+        "telephone": "06 32 23 80 91",
+        "site_web": "http://www.menuiseriemarratzu.com/",
+        "adresse": "Saint Damien, 20100 Sartène",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1566382731703467826",
+        "nom": "Isula'glass",
+        "slug": "isulaglass",
+        "telephone": "06 17 76 36 99",
+        "site_web": "http://www.isulaglass.fr/",
+        "adresse": "1 Rue Licciola, 20100 Sartène",
+        "note": 0,
+        "avis": 0,
+        "type": "Garage automobile"
+      }
+    ]
+  },
+  "sotta": {
+    "artisans": [
+      {
+        "id": "11592200694522947647",
+        "nom": "L'art Du Bois",
+        "slug": "lart-du-bois",
+        "telephone": "06 13 69 70 83",
+        "site_web": null,
+        "adresse": "Strada di a, Foce 263, 20146 Sotta",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17025204424684344357",
+        "nom": "L' Alivi chez féfé",
+        "slug": "l-alivi-chez-fefe",
+        "telephone": "04 95 51 22 74",
+        "site_web": null,
+        "adresse": "Rue Principale, 20146 Sotta",
+        "note": 4.6,
+        "avis": 87,
+        "type": "Épicerie fine"
+      }
+    ]
+  }
+}

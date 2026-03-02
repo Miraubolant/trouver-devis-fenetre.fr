@@ -1,0 +1,3863 @@
+{
+  "loches": {
+    "artisans": [
+      {
+        "id": "15821345835533815844",
+        "nom": "Meltis",
+        "slug": "meltis",
+        "telephone": "02 47 38 71 37",
+        "site_web": "https://meltis-tours.fr/",
+        "adresse": "14 Av. Thérèse Voisin, 37000 Tours",
+        "note": 4.3,
+        "avis": 109,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "2059225052166643367",
+        "nom": "Doubinine Menuiserie",
+        "slug": "doubinine-menuiserie",
+        "telephone": "02 47 59 27 14",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/doubinine-menuiserie",
+        "adresse": "Zone Industrielle St Blaise, 21 Rue de la Vall. des Vospeaux, 37600 Loches",
+        "note": 4.7,
+        "avis": 79,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5503028686614724292",
+        "nom": "Nonat Fermetures",
+        "slug": "nonat-fermetures",
+        "telephone": "02 47 91 67 03",
+        "site_web": "http://www.nonatfermetures.fr/",
+        "adresse": "24 Rue des Bertrands, 37600 Beaulieu-lès-Loches",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "14018973737330824606",
+        "nom": "Atelier Bertrand Poncelet ( Menuisier - Agenceur )",
+        "slug": "atelier-bertrand-poncelet-menuisier-agenceur",
+        "telephone": "06 75 52 20 69",
+        "site_web": "https://www.lesateliersdubillot.com/",
+        "adresse": "5 Rue des Ruisseaux, 37600 Loches",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14139227053382910750",
+        "nom": "Brice Bois Menuiserie - Plâtrerie / Isolation / Menuiserie",
+        "slug": "brice-bois-menuiserie-platrerie-isolation-menuiserie",
+        "telephone": "02 47 43 82 40",
+        "site_web": "https://bricebois.fr/",
+        "adresse": "42 Av. de Pierruche, 37600 Perrusson",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "13159385779317638970",
+        "nom": "MIROITERIE TOURANGELLE",
+        "slug": "miroiterie-tourangelle",
+        "telephone": "09 70 35 72 39",
+        "site_web": "https://www.miroiterielafargue.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 Rue Georges Pompidou, 37600 Loches",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Miroiterie"
+      },
+      {
+        "id": "10186705147423279315",
+        "nom": "Avenir Rénovations Tours (37)",
+        "slug": "avenir-renovations-tours-37",
+        "telephone": "02 85 52 65 39",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-tours/?utm_source=gmb",
+        "adresse": "94 Av. George Sand, 37700 La Ville-aux-Dames",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "13901364051465285759",
+        "nom": "ERS Solution",
+        "slug": "ers-solution",
+        "telephone": "01 84 80 59 19",
+        "site_web": "https://erssolution.fr/",
+        "adresse": "95 Bd Berthier, 75017 Paris",
+        "note": 5,
+        "avis": 11,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "auzouer-en-touraine": {
+    "artisans": [
+      {
+        "id": "13796086446185720769",
+        "nom": "🇫🇷les castors renov'toit 🆘 Couverture 🆘Urgence Fuite🆘 Toiture Service Dépannage Couvreur",
+        "slug": "les-castors-renovtoit-couverture-urgence-fuite-toiture-service-depannage-couvreur",
+        "telephone": "06 85 17 56 88",
+        "site_web": "http://www.castors-renov-toit.fr/",
+        "adresse": "9 Av. Verdier, 92120 Montrouge",
+        "note": 4.5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11462709149844452246",
+        "nom": "Vali Couverture",
+        "slug": "vali-couverture",
+        "telephone": "02 47 27 42 94",
+        "site_web": "http://www.vali-couverture.fr/contactez-votre-artisan-couvreur-auzouer-en-touraine",
+        "adresse": "2 Imp. des Lilas, 37110 Auzouer-en-Touraine",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2923713275372396362",
+        "nom": "Roofnow",
+        "slug": "roofnow",
+        "telephone": "01 85 09 72 64",
+        "site_web": "https://roofnow.fr/",
+        "adresse": "26 Rue Bosquet, 75007 Paris",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7702673322381122390",
+        "nom": "Marseille Verrière",
+        "slug": "marseille-verriere",
+        "telephone": "06 30 81 80 11",
+        "site_web": "http://marseille-verriere.fr/",
+        "adresse": "10 Rue de la Paix, 75002 Paris",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9875672667184433187",
+        "nom": "CHARPENTE COUVERTURE NOEL VALIBUS",
+        "slug": "charpente-couverture-noel-valibus",
+        "telephone": "02 47 57 06 24",
+        "site_web": "http://valibus-couverture-ramonage.fr/",
+        "adresse": "22 bis Rue du Général de Gaulle, 37110 Auzouer-en-Touraine",
+        "note": 4.4,
+        "avis": 21,
+        "type": "Charpentier"
+      },
+      {
+        "id": "2623172354834608939",
+        "nom": "Artisan Couvreur 92 - Spécialiste Toiture Toits Couverture - Couvreur 92",
+        "slug": "artisan-couvreur-92-specialiste-toiture-toits-couverture-couvreur-92",
+        "telephone": "06 09 03 87 73",
+        "site_web": "https://www.couvreur-95.com/nous-contacter",
+        "adresse": null,
+        "note": 5,
+        "avis": 36,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8147485328173363768",
+        "nom": "Auzouer-en-Touraine",
+        "slug": "auzouer-en-touraine",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "37110 Auzouer-en-Touraine",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "10540737105087535433",
+        "nom": "Forge de France Paris",
+        "slug": "forge-de-france-paris",
+        "telephone": "07 45 91 74 03",
+        "site_web": null,
+        "adresse": "86 Av. de la République, 75011 Paris",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Vitrier"
+      },
+      {
+        "id": "4841739139918071333",
+        "nom": "Ghalia Point Fort Fichet",
+        "slug": "ghalia-point-fort-fichet",
+        "telephone": "01 42 62 17 17",
+        "site_web": "https://www.serrurerie-ghalia.fr/",
+        "adresse": "70 Rue de Clignancourt, 75018 Paris",
+        "note": 4.8,
+        "avis": 493,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "azay-le-rideau": {
+    "artisans": [
+      {
+        "id": "11691698745858234897",
+        "nom": "Menuiserie Mickael Moreau",
+        "slug": "menuiserie-mickael-moreau",
+        "telephone": "02 47 45 48 23",
+        "site_web": null,
+        "adresse": "3 Rue André-Marie Ampère, 37190 Azay-le-Rideau",
+        "note": 2,
+        "avis": 24,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5154916943662959878",
+        "nom": "Nicolas Fermetures",
+        "slug": "nicolas-fermetures",
+        "telephone": "06 79 70 83 90",
+        "site_web": "http://nicolas-fermetures.fr/",
+        "adresse": "ZA LES LOGES, 8 RUE Ampère, 37190 Azay-le-Rideau",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3986066076301207989",
+        "nom": "Opti'Services",
+        "slug": "optiservices",
+        "telephone": "02 47 24 82 63",
+        "site_web": "https://www.opti-services.fr/",
+        "adresse": "3 Rte de Langeais, 37190 Azay-le-Rideau",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ballan-mire": {
+    "artisans": [
+      {
+        "id": "16698117401317231724",
+        "nom": "Ravalement 37 - peinture extérieur : nettoyage de toiture démoussage Ballan-Miré Indre-et-Loire",
+        "slug": "ravalement-37-peinture-exterieur-nettoyage-de-toiture-demoussage-ballan-mire-indre-et-loire",
+        "telephone": "06 22 02 19 59",
+        "site_web": "https://www.ravalement37.com/",
+        "adresse": "2A Imp. de la Carte, 37510 Ballan-Miré",
+        "note": 5,
+        "avis": 16,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "10943617205265512834",
+        "nom": "Avenir Rénovations - Chateauroux",
+        "slug": "avenir-renovations-chateauroux",
+        "telephone": "02 49 88 20 25",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-saint-cyr-sur-loire/",
+        "adresse": "2 Rue de la Moisanderie, 37540 Saint-Cyr-sur-Loire",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "9315261658840184660",
+        "nom": "Idéal Intérieur & Extérieur - Artisans Certifié RGE - Menuiserie générale / Isolation thermique à Tours et Fondettes.",
+        "slug": "ideal-interieur-exterieur-artisans-certifie-rge-menuiserie-generale-isolation-thermique-a-tours-et-fondettes",
+        "telephone": "02 47 86 58 42",
+        "site_web": "https://www.idealinterieur-menuiserie-tours.fr/",
+        "adresse": "11 Rue Edouard Branly, 37230 Fondettes",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14055919795627876941",
+        "nom": "Meyniel Toiture",
+        "slug": "meyniel-toiture",
+        "telephone": "07 89 49 78 87",
+        "site_web": "https://www.meyniel-toiture.fr/",
+        "adresse": "4 Bd de Chinon, 37510 Ballan-Miré",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7312547938884058354",
+        "nom": "Technitoit Tours",
+        "slug": "technitoit-tours",
+        "telephone": "02 49 88 34 44",
+        "site_web": "https://www.technitoit.com/agence/indre-et-loire-37-tours?utm_source=gmb&utm_medium=gmb",
+        "adresse": "49 Rue de la Châtaigneraie, 37510 Ballan-Miré",
+        "note": 4.5,
+        "avis": 134,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6893056734030283032",
+        "nom": "Wes’rénov - Couvreur Toiture",
+        "slug": "wesrenov-couvreur-toiture",
+        "telephone": "06 21 90 88 43",
+        "site_web": "http://wesrenov.fr/",
+        "adresse": "4 Rue Albert Dennery, 37000 Tours",
+        "note": 5,
+        "avis": 51,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18250310713008310841",
+        "nom": "WoodWorks",
+        "slug": "woodworks",
+        "telephone": "02 47 26 07 47",
+        "site_web": "http://www.woodworks.fr/",
+        "adresse": "25 Bd Jean Jaurès, 37510 Ballan-Miré",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10286460090877103290",
+        "nom": "Artinove",
+        "slug": "artinove",
+        "telephone": "02 21 08 07 44",
+        "site_web": "https://www.arti-nove.fr/",
+        "adresse": "4 Rue de la Sublainerie, 37510 Ballan-Miré",
+        "note": 4.6,
+        "avis": 475,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15180866042426373749",
+        "nom": "ETS Bastard - Couverture Charpente Tours",
+        "slug": "ets-bastard-couverture-charpente-tours",
+        "telephone": "02 34 74 40 54",
+        "site_web": "https://ets-bastard.com/",
+        "adresse": "16 Rue de la Maison Rouge, 37510 Ballan-Miré",
+        "note": 3.5,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "azay-sur-cher": {
+    "artisans": [
+      {
+        "id": "9467528273156511002",
+        "nom": "Csd Menuiserie",
+        "slug": "csd-menuiserie",
+        "telephone": "06 75 50 86 79",
+        "site_web": null,
+        "adresse": "1 Rte de la Gare, 37270 Azay-sur-Cher",
+        "note": 4.2,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "15821345835533815844",
+        "nom": "Meltis",
+        "slug": "meltis",
+        "telephone": "02 47 38 71 37",
+        "site_web": "https://meltis-tours.fr/",
+        "adresse": "14 Av. Thérèse Voisin, 37000 Tours",
+        "note": 4.3,
+        "avis": 109,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "18172484413839439710",
+        "nom": "DA4 AGENCEMENT",
+        "slug": "da4-agencement",
+        "telephone": "06 62 88 74 90",
+        "site_web": "https://www.da4agencement.fr/",
+        "adresse": "5 rue de, La Cocarderie, 37270 Azay-sur-Cher",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2899697214822789621",
+        "nom": "Menuiserie Hulak",
+        "slug": "menuiserie-hulak",
+        "telephone": "02 47 50 45 35",
+        "site_web": "http://www.menuiserie-hulak.fr/",
+        "adresse": "11, RD 976, 37270 Azay-sur-Cher",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7215965268131774184",
+        "nom": "Menuisier Tours - VEM 37",
+        "slug": "menuisier-tours-vem-37",
+        "telephone": "07 51 41 40 91",
+        "site_web": null,
+        "adresse": "7 Rte du Grais, 37270 Azay-sur-Cher",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6914645633437969529",
+        "nom": "AMSI",
+        "slug": "amsi",
+        "telephone": "06 18 49 06 64",
+        "site_web": "https://fr-fr.facebook.com/AMSI.AUGER/",
+        "adresse": "3 All. du Bastereau, 37270 Azay-sur-Cher",
+        "note": 5,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4467127812559588023",
+        "nom": "Pg Services",
+        "slug": "pg-services",
+        "telephone": "06 87 76 45 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6941753239433681940",
+        "nom": "Eco Menuisiers 37 SAS",
+        "slug": "eco-menuisiers-37-sas",
+        "telephone": "02 47 25 56 60",
+        "site_web": "https://www.em37.fr/",
+        "adresse": "Zae De La, 334 Rue Francis Perrin, 37260 Monts",
+        "note": 4.8,
+        "avis": 100,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12581263724213858799",
+        "nom": "Toulme Couverture",
+        "slug": "toulme-couverture",
+        "telephone": "09 65 38 43 54",
+        "site_web": "http://www.toulme-couverture.com/",
+        "adresse": "13 Bis Rte de Villandry, 37190 Azay-le-Rideau",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "avoine": {
+    "artisans": [
+      {
+        "id": "1073577724252214784",
+        "nom": "Menuiserie Arnault Eric",
+        "slug": "menuiserie-arnault-eric",
+        "telephone": "02 47 58 70 08",
+        "site_web": null,
+        "adresse": "Rue Gustave Eiffel, 37420 Avoine",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "athee-sur-cher": {
+    "artisans": [
+      {
+        "id": "15923173665570160452",
+        "nom": "VERANDA HOME (G.R.I.)",
+        "slug": "veranda-home-gri",
+        "telephone": "02 47 50 20 41",
+        "site_web": "http://www.verandahome.com/?utm_source=gmb",
+        "adresse": "La, Taille du Perron, 37270 Athée-sur-Cher",
+        "note": 4.8,
+        "avis": 33,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bourgueil": {
+    "artisans": [
+      {
+        "id": "10314075638877707901",
+        "nom": "Ménard Christophe",
+        "slug": "menard-christophe",
+        "telephone": "02 47 97 96 49",
+        "site_web": "http://menard-charpentes-ramonage-bourgueil.fr/",
+        "adresse": "11 Rue du Pont Boisseau, 37140 Bourgueil",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "beaumont-en-veron": {
+    "artisans": [
+      {
+        "id": "16269951346207797792",
+        "nom": "ExtraRénov",
+        "slug": "extrarenov",
+        "telephone": "02 47 58 24 61",
+        "site_web": "http://menuiserie-extrarenov.fr/",
+        "adresse": "1326 Sauget Za du, 37420 Beaumont-en-Véron",
+        "note": 2.7,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "56609589738588162",
+        "nom": "Trillo Toiture SARL",
+        "slug": "trillo-toiture-sarl",
+        "telephone": "02 47 95 15 83",
+        "site_web": "https://www.trillotoiture.fr/",
+        "adresse": "Z.A \"Le Sauget, 7 rue du petit Sauget, 37420 Beaumont-en-Véron",
+        "note": 5,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "beaumont-louestault": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "blere": {
+    "artisans": [
+      {
+        "id": "5482812131669634998",
+        "nom": "Delaunay Stores",
+        "slug": "delaunay-stores",
+        "telephone": "02 47 30 24 30",
+        "site_web": "https://www.storistes-de-france.com/affilies/delaunay-stores",
+        "adresse": "1 Rue du Commandant Lemaître, 37150 Bléré",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12156896540142331164",
+        "nom": "Ets. LELOUP Couverture Charpente",
+        "slug": "ets-leloup-couverture-charpente",
+        "telephone": "02 47 30 30 49",
+        "site_web": "http://www.couverture-charpente-leloup.fr/",
+        "adresse": "6 Rue Gustave Eiffel, 37150 Bléré",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6107023929565172108",
+        "nom": "Le Collectif des Lunetiers Bléré - rue du Pont - Fabien DESNOUES",
+        "slug": "le-collectif-des-lunetiers-blere-rue-du-pont-fabien-desnoues",
+        "telephone": "02 42 85 00 08",
+        "site_web": "https://www.lecollectifdeslunetiers.fr/opticien/france/indre-et-loire/opticien-blere/blere-ruedupont",
+        "adresse": "48 Rue du Pont, 37150 Bléré",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Opticien"
+      },
+      {
+        "id": "8555620614441302146",
+        "nom": "Chavigny Matériaux Bléré",
+        "slug": "chavigny-materiaux-blere",
+        "telephone": "02 47 30 89 80",
+        "site_web": "https://www.groupechavigny.fr/agence/chavigny-materiaux-blere/",
+        "adresse": "Z.I. Saint-Julien, 1 Rue du Pré aux Renards, 37150 Bléré",
+        "note": 3.6,
+        "avis": 54,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "12213036172724637335",
+        "nom": "Kevin Couverture ️ Couvreur Bléré",
+        "slug": "kevin-couverture-couvreur-blere",
+        "telephone": "07 70 18 16 23",
+        "site_web": "https://www.kevin-couverture.com/blere",
+        "adresse": "17 Rue de Loches, 37150 Bléré",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3230412340515105923",
+        "nom": "Pour Bricoler Malin 37",
+        "slug": "pour-bricoler-malin-37",
+        "telephone": "06 49 63 32 70",
+        "site_web": "https://pbm37.pourbricolermalin.com/",
+        "adresse": "12 Rue Marc Seguin, 37150 Bléré",
+        "note": 4.8,
+        "avis": 159,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "17672827540633629525",
+        "nom": "Pro Toiture 37",
+        "slug": "pro-toiture-37",
+        "telephone": "06 44 81 96 61",
+        "site_web": "https://www.pro-toiture-37.com/",
+        "adresse": "81 Rue de la Croix Beauchêne, 37150 Bléré",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1823558312773444452",
+        "nom": "DUTARDRE SAS",
+        "slug": "dutardre-sas",
+        "telephone": "02 47 30 32 33",
+        "site_web": "https://www.dutardresas.com/",
+        "adresse": "6 Rue du Pré aux Renards, 37150 Bléré",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "cangey": {
+    "artisans": [
+      {
+        "id": "4693029413054198015",
+        "nom": "ACQUA CONFORT",
+        "slug": "acqua-confort",
+        "telephone": "02 79 46 14 61",
+        "site_web": "https://acqua-confort.chauffagiste-viessmann.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16243155380390304147",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-tours/",
+        "adresse": "30 Rue de Suède, 37000 Tours",
+        "note": 1,
+        "avis": 1,
+        "type": "Magasin"
+      },
+      {
+        "id": "14023659969531776486",
+        "nom": "Montigny Thierry",
+        "slug": "montigny-thierry",
+        "telephone": "02 47 57 02 46",
+        "site_web": null,
+        "adresse": "1 Rue du Château, 37530 Cangey",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8587485560306930887",
+        "nom": "BFA Plomberie Chauffage",
+        "slug": "bfa-plomberie-chauffage",
+        "telephone": "06 42 05 60 33",
+        "site_web": "https://www.bfaplomberiechauffage.fr/",
+        "adresse": "29 Rue de Limeray, 37530 Cangey",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-celle-saint-avant": {
+    "artisans": [
+      {
+        "id": "2037020811054577441",
+        "nom": "Artisan Santiago",
+        "slug": "artisan-santiago",
+        "telephone": "02 46 23 19 70",
+        "site_web": "https://www.toiture-37-santiago.fr/contacts",
+        "adresse": "19 Rue Saint-Roch, 37160 Descartes",
+        "note": 2,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chambourg-sur-indre": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cerelles": {
+    "artisans": [
+      {
+        "id": "11202464745752847035",
+        "nom": "CLOZEN Menuiseries et Fermetures",
+        "slug": "clozen-menuiseries-et-fermetures",
+        "telephone": "06 77 70 36 22",
+        "site_web": "http://www.clozen37.fr/",
+        "adresse": "ZA LA BIGOTIERE, Rue du Coq Hardi, 37390 Cerelles",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chambray-les-tours": {
+    "artisans": [
+      {
+        "id": "17606306237443459021",
+        "nom": "Cuisines Références Chambray-Lès-Tours",
+        "slug": "cuisines-references-chambray-les-tours",
+        "telephone": "02 47 38 14 62",
+        "site_web": "https://www.cuisines-references.fr/trouvez-votre-magasin/magasin-cuisines-references-chambray-les-tours?at_campaign=3702-perm&at_channel=gmb&at_identifier=chambray-les-tours&at_medium=local_organic&utm_campaign=3702-perm&utm_content=chambray-les-tours&utm_medium=local_organic&utm_source=gmb",
+        "adresse": "12 Rue Paul Langevin, 37170 Chambray-lès-Tours",
+        "note": 5,
+        "avis": 0,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "15255293436846893785",
+        "nom": "Monsieur Store Tours - Stores et Fermetures J.F.E",
+        "slug": "monsieur-store-tours-stores-et-fermetures-jfe",
+        "telephone": "02 47 54 33 40",
+        "site_web": "https://monsieurstore.com/magasin/tours-37100/",
+        "adresse": "pôle de la maison, 15 Rue Arthur Rimbaud, 37100 Tours",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "1771680770837308478",
+        "nom": "Entreprise de Couverture Quinet",
+        "slug": "entreprise-de-couverture-quinet",
+        "telephone": "02 47 28 60 00",
+        "site_web": "http://www.couverture-quinet.fr/?utm_source=gmb",
+        "adresse": "9 Rue Jean Perrin, 37170 Chambray-lès-Tours",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16668828957659058158",
+        "nom": "TRYBA Tours",
+        "slug": "tryba-tours",
+        "telephone": "02 21 83 13 62",
+        "site_web": "https://www.tryba.com/espace-conseil/37/tryba-tours/?utm_campaign=Tryba_Tours&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "48 Av. Gustave Eiffel, 37100 Tours",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14870349517160450256",
+        "nom": "TRYBA Chambray-lès-Tours",
+        "slug": "tryba-chambray-les-tours",
+        "telephone": "02 21 83 09 62",
+        "site_web": "https://www.tryba.com/espace-conseil/37/tryba-chambray-les-tours/?utm_campaign=Tryba_Chambray-les-Tours&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "335 Avenue du Grand S, 37170 Chambray-lès-Tours",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2134800799415869834",
+        "nom": "Leroy Merlin Chambray-lès-Tours - Tours Sud",
+        "slug": "leroy-merlin-chambray-les-tours-tours-sud",
+        "telephone": "02 47 80 60 60",
+        "site_web": "https://www.leroymerlin.fr/magasins/chambray-les-tours-tours-sud.html",
+        "adresse": "276 Av du Grand Sud BP 439, 37170 Chambray-lès-Tours",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "12591608183852211099",
+        "nom": "Monsieur Store",
+        "slug": "monsieur-store",
+        "telephone": "02 47 27 04 32",
+        "site_web": "https://monsieurstore.com/magasin/tours-37170/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "99 Av du Grand Sud, 37170 Chambray-lès-Tours",
+        "note": 4.3,
+        "avis": 139,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "9874428186634106155",
+        "nom": "Wortex Menuiseries",
+        "slug": "wortex-menuiseries",
+        "telephone": "02 47 42 90 48",
+        "site_web": "http://wortex.fr/",
+        "adresse": "3 Rue Albert Caquot, 37170 Chambray-lès-Tours",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chanceaux-sur-choisille": {
+    "artisans": [
+      {
+        "id": "11125851676296744133",
+        "nom": "Pro Tech Rénov",
+        "slug": "pro-tech-renov",
+        "telephone": "02 47 68 95 68",
+        "site_web": "http://www.protech-renov.fr/?utm_source=gmb",
+        "adresse": "16 Rue des Internautes, 37210 Rochecorbon",
+        "note": 4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9315261658840184660",
+        "nom": "Idéal Intérieur & Extérieur - Artisans Certifié RGE - Menuiserie générale / Isolation thermique à Tours et Fondettes.",
+        "slug": "ideal-interieur-exterieur-artisans-certifie-rge-menuiserie-generale-isolation-thermique-a-tours-et-fondettes",
+        "telephone": "02 47 86 58 42",
+        "site_web": "https://www.idealinterieur-menuiserie-tours.fr/",
+        "adresse": "11 Rue Edouard Branly, 37230 Fondettes",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chancay": {
+    "artisans": [
+      {
+        "id": "16609829161821816287",
+        "nom": "Glass'Assistance",
+        "slug": "glassassistance",
+        "telephone": "06 75 68 61 56",
+        "site_web": "https://glassassistance.fr/",
+        "adresse": "4 Rue de la Croix Rouge, 37210 Chançay",
+        "note": 4.9,
+        "avis": 36,
+        "type": "Service de réparation de pare-brise"
+      }
+    ]
+  },
+  "la-chapelle-sur-loire": {
+    "artisans": [
+      {
+        "id": "18414059974319021547",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 47 27 41 05",
+        "site_web": "https://magasins.lapeyre.fr/centre-val-de-loire/indre-et-loire/lapeyre-tours-19",
+        "adresse": "134 Av du Grand Sud, 37170 Chambray-lès-Tours",
+        "note": 3.9,
+        "avis": 443,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "charge": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "charentilly": {
+    "artisans": [
+      {
+        "id": "12213414921692523848",
+        "nom": "Hirou Frères",
+        "slug": "hirou-freres",
+        "telephone": "02 47 52 62 61",
+        "site_web": "http://www.hiroufreres.com/?utm_source=gmb",
+        "adresse": "ZA Le Pilori, 37360 Semblançay",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4532009617126266966",
+        "nom": "Adrien Guyon Couverture Zinguerie",
+        "slug": "adrien-guyon-couverture-zinguerie",
+        "telephone": "06 25 28 16 09",
+        "site_web": null,
+        "adresse": "9 Rue de la Fortinière, 37390 Charentilly",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3547525704515766753",
+        "nom": "Homnibat",
+        "slug": "homnibat",
+        "telephone": "02 47 27 13 66",
+        "site_web": "http://www.homnibat.fr/",
+        "adresse": "ZI, La Ribaullerie, 37390 Charentilly",
+        "note": 4.6,
+        "avis": 18,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "chateau-la-valliere": {
+    "artisans": [
+      {
+        "id": "2131904128393879557",
+        "nom": "Château-la-Vallière",
+        "slug": "chateau-la-valliere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "37330 Château-la-Vallière",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "8020215216357099019",
+        "nom": "AMD Couverture",
+        "slug": "amd-couverture",
+        "telephone": "06 12 07 03 71",
+        "site_web": null,
+        "adresse": "53 Rue des Bleuets, 37330 Château-la-Vallière",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chateau-renault": {
+    "artisans": [
+      {
+        "id": "292110376680067152",
+        "nom": "Château-Renault",
+        "slug": "chateau-renault",
+        "telephone": null,
+        "site_web": "http://www.ville-chateau-renault.fr/",
+        "adresse": "37110 Château-Renault",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "5758166039109797880",
+        "nom": "Raimbault",
+        "slug": "raimbault",
+        "telephone": "02 47 56 92 02",
+        "site_web": "http://www.raimbault37.fr/",
+        "adresse": "39 Rue du Bois Bouquin, 37110 Château-Renault",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17438344575763511317",
+        "nom": "KAB COUVERTURE BOURREAU AYMERIC",
+        "slug": "kab-couverture-bourreau-aymeric",
+        "telephone": "02 47 56 88 40",
+        "site_web": null,
+        "adresse": "3 La Patellerie, 37110 Auzouer-en-Touraine",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12798797067100503534",
+        "nom": "Jsdcouverture & fils",
+        "slug": "jsdcouverture-fils",
+        "telephone": "02 47 35 54 84",
+        "site_web": "https://www.jsdcouverture-fils.fr/",
+        "adresse": "ZA Ouest Le Boulay, 17 Rue de Fléteau, 37110 Château-Renault",
+        "note": 4.8,
+        "avis": 54,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2619864814691326605",
+        "nom": "Point.P - Chateau Renault",
+        "slug": "pointp-chateau-renault",
+        "telephone": "02 47 29 54 61",
+        "site_web": "https://www.pointp.fr/infos-agence/chateau-renault-point-p-1575",
+        "adresse": "La Tuilerie, N10, 37110 Neuville-sur-Brenne",
+        "note": 4.1,
+        "avis": 36,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "chinon": {
+    "artisans": [
+      {
+        "id": "16749004505334022758",
+        "nom": "Laurent Courtin",
+        "slug": "laurent-courtin",
+        "telephone": "06 59 21 56 52",
+        "site_web": "https://www.menuiseriecourtinlaurent.fr/",
+        "adresse": "15 Rue de la Roche Faucon, 37500 Chinon",
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3810946720428638660",
+        "nom": "Entreprise Haettel Couvreur Chinon",
+        "slug": "entreprise-haettel-couvreur-chinon",
+        "telephone": "06 51 16 70 67",
+        "site_web": "https://entreprise-haettel.fr/",
+        "adresse": "32 Rue René Cassin, 37500 Chinon",
+        "note": 5,
+        "avis": 34,
+        "type": "Couvreur"
+      },
+      {
+        "id": "848440637463002869",
+        "nom": "La Menuiserie Chinonaise",
+        "slug": "la-menuiserie-chinonaise",
+        "telephone": "02 47 97 40 24",
+        "site_web": null,
+        "adresse": "15 Rue Pierre Latécoère, 37500 Chinon",
+        "note": 5,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1426783592105658095",
+        "nom": "Bournel Gaëtan",
+        "slug": "bournel-gaetan",
+        "telephone": "09 70 17 30 18",
+        "site_web": "https://www.menuiserie-bournel.fr/",
+        "adresse": "22 Rue des Gresillons, 37500 Chinon",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10911368699634057341",
+        "nom": "Boussiquet",
+        "slug": "boussiquet",
+        "telephone": "02 47 93 47 47",
+        "site_web": "http://www.boussiquet.fr/",
+        "adresse": "10 Rue Emile Delataille, 37500 Chinon",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3832713971256537962",
+        "nom": "ABIE Agencements Bois Intérieurs Extérie",
+        "slug": "abie-agencements-bois-interieurs-exterie",
+        "telephone": "02 47 58 09 31",
+        "site_web": "http://abie-menuiserie.fr/",
+        "adresse": "13 Rue Pierre Latécoère, 37500 Chinon",
+        "note": 4.8,
+        "avis": 10,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2253119976426261753",
+        "nom": "Alzon Menuiserie",
+        "slug": "alzon-menuiserie",
+        "telephone": "02 47 98 37 71",
+        "site_web": "http://www.alzon-menuiserie.com/",
+        "adresse": "2 Rue de la Gare, 37500 Ligré",
+        "note": 4.9,
+        "avis": 27,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3950452989307632798",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 41 83 99 40",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/maine-et-loire/lapeyre-saumur-127",
+        "adresse": "Rue des Plantes, 49400 Distré",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "chouze-sur-loire": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "civray-de-touraine": {
+    "artisans": [
+      {
+        "id": "15129524712122115185",
+        "nom": "Colibri-Rénov'",
+        "slug": "colibri-renov",
+        "telephone": "06 13 44 23 00",
+        "site_web": "https://www.colibri-renov.fr/?utm_source=gmb",
+        "adresse": "37 Rue de Bléré, 37150 Civray-de-Touraine",
+        "note": 5,
+        "avis": 10,
+        "type": "Artisanat"
+      }
+    ]
+  },
+  "clere-les-pins": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cormery": {
+    "artisans": [
+      {
+        "id": "2573848326208523289",
+        "nom": "Lmn Menuiserie",
+        "slug": "lmn-menuiserie",
+        "telephone": "06 49 54 94 77",
+        "site_web": "https://lmn-menuiserie.wixsite.com/lmn-menuiserie",
+        "adresse": "57 Rue de Montrésor, 37320 Cormery",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cheille": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cinq-mars-la-pile": {
+    "artisans": [
+      {
+        "id": "2951653888230396319",
+        "nom": "CBM 37",
+        "slug": "cbm-37",
+        "telephone": "06 75 68 25 59",
+        "site_web": "https://www.cbm37.fr/",
+        "adresse": "76 Chem. Paul Louis Courier, 37130 Cinq-Mars-la-Pile",
+        "note": 3,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "8137940406872601422",
+        "nom": "Menuiserie Peltier",
+        "slug": "menuiserie-peltier",
+        "telephone": "06 72 72 55 14",
+        "site_web": null,
+        "adresse": "79 Rte de la Becellière, 37130 Cinq-Mars-la-Pile",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-croix-en-touraine": {
+    "artisans": [
+      {
+        "id": "3364972687822316862",
+        "nom": "Besson Florent",
+        "slug": "besson-florent",
+        "telephone": "06 18 93 13 59",
+        "site_web": "https://www.pagesjaunes.fr/pros/54324249",
+        "adresse": "La, 87 Rue de Chenonceaux, 37150 La Croix-en-Touraine",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "esvres": {
+    "artisans": [
+      {
+        "id": "8461465869416009472",
+        "nom": "Avenir Rénovations Amboise",
+        "slug": "avenir-renovations-amboise",
+        "telephone": "02 21 83 08 95",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-amboise/?utm_source=gmb",
+        "adresse": "20 Rue Jacqueline Auriol, 37700 La Ville-aux-Dames",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "13839769523139117011",
+        "nom": "Even'Ture",
+        "slug": "eventure",
+        "telephone": "09 83 90 42 72",
+        "site_web": "http://www.eventure.fr/",
+        "adresse": "7 All. Rolland Pilain, 37320 Esvres",
+        "note": 4.2,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12322400658562925033",
+        "nom": "Toiture Service",
+        "slug": "toiture-service",
+        "telephone": "02 47 35 79 86",
+        "site_web": null,
+        "adresse": "All. Marius Berliet, 37320 Esvres",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5121506309104626893",
+        "nom": "SF Toitures",
+        "slug": "sf-toitures",
+        "telephone": "02 47 86 32 53",
+        "site_web": "https://www.sf-toitures.fr/?utm_source=gmb",
+        "adresse": "Lieu Dit La Guillotiere, 2 le Bois Renaud, 37320 Esvres",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "fondettes": {
+    "artisans": [
+      {
+        "id": "9315261658840184660",
+        "nom": "Idéal Intérieur & Extérieur - Artisans Certifié RGE - Menuiserie générale / Isolation thermique à Tours et Fondettes.",
+        "slug": "ideal-interieur-exterieur-artisans-certifie-rge-menuiserie-generale-isolation-thermique-a-tours-et-fondettes",
+        "telephone": "02 47 86 58 42",
+        "site_web": "https://www.idealinterieur-menuiserie-tours.fr/",
+        "adresse": "11 Rue Edouard Branly, 37230 Fondettes",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "genille": {
+    "artisans": [
+      {
+        "id": "801864555375166113",
+        "nom": "CSP Habitat",
+        "slug": "csp-habitat",
+        "telephone": "07 88 67 15 59",
+        "site_web": "https://couvreur-37.fr/",
+        "adresse": "5 Rue du Lavoir, 37110 Le Boulay",
+        "note": 5,
+        "avis": 41,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "francueil": {
+    "artisans": [
+      {
+        "id": "12213036172724637335",
+        "nom": "Kevin Couverture ️ Couvreur Bléré",
+        "slug": "kevin-couverture-couvreur-blere",
+        "telephone": "07 70 18 16 23",
+        "site_web": "https://www.kevin-couverture.com/blere",
+        "adresse": "17 Rue de Loches, 37150 Bléré",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "descartes": {
+    "artisans": [
+      {
+        "id": "2037020811054577441",
+        "nom": "Artisan Santiago",
+        "slug": "artisan-santiago",
+        "telephone": "02 46 23 19 70",
+        "site_web": "https://www.toiture-37-santiago.fr/contacts",
+        "adresse": "19 Rue Saint-Roch, 37160 Descartes",
+        "note": 2,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "langeais": {
+    "artisans": [
+      {
+        "id": "7585423833629390317",
+        "nom": "LANGEAIS VITRIER",
+        "slug": "langeais-vitrier",
+        "telephone": "06 82 94 44 09",
+        "site_web": "https://www.langeaisvitrier37.fr/?utm_source=gmb",
+        "adresse": "80 Rue Rabelais, 37130 Langeais",
+        "note": 5,
+        "avis": 16,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13215254132692783802",
+        "nom": "Le Vitrier Tourangeau",
+        "slug": "le-vitrier-tourangeau",
+        "telephone": "06 61 30 60 00",
+        "site_web": "http://www.miroiterie-vitrerie.com/",
+        "adresse": "52 route de Langeais, 37340 Avrillé-les-Ponceaux",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1607830688224801930",
+        "nom": "Etablissements Oudin",
+        "slug": "etablissements-oudin",
+        "telephone": "02 47 96 53 85",
+        "site_web": "http://www.menuiserieoudin.fr/",
+        "adresse": "Rue Marie Curie, 37130 Langeais",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "l-ile-bouchard": {
+    "artisans": [
+      {
+        "id": "16803487632326828537",
+        "nom": "Menuiserie Yoann Buton",
+        "slug": "menuiserie-yoann-buton",
+        "telephone": "09 64 17 88 21",
+        "site_web": "http://www.menuiseriebuton.com/contact.html",
+        "adresse": "5 Rue des Tanneries, 37220 L'Île-Bouchard",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "huismes": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "joue-les-tours": {
+    "artisans": [
+      {
+        "id": "5844248545703250511",
+        "nom": "GJ Rénovation",
+        "slug": "gj-renovation",
+        "telephone": "06 21 44 95 35",
+        "site_web": "https://gaisnecouvreur37.com/",
+        "adresse": "1 bis Mail David d'Angers 255, 37000 Tours",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "945210089856238432",
+        "nom": "Toitures Turones",
+        "slug": "toitures-turones",
+        "telephone": "06 83 83 73 74",
+        "site_web": "http://www.couvreur-tours.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "9 Rue Nicolas Appert, 37300 Joué-lès-Tours",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17847726098036209664",
+        "nom": "Artisan renov toiture couvreur 37",
+        "slug": "artisan-renov-toiture-couvreur-37",
+        "telephone": "07 59 78 03 63",
+        "site_web": "https://www.artisan-renov-toiture-37.fr/",
+        "adresse": "15 Pl. Michelet, 37000 Tours",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ligre": {
+    "artisans": [
+      {
+        "id": "1449124639430576867",
+        "nom": "Sos Maison",
+        "slug": "sos-maison",
+        "telephone": "06 64 02 20 13",
+        "site_web": null,
+        "adresse": "42 Rue du Rouilly, 37500 Ligré",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "7226531949424814652",
+        "nom": "Harmony Paysages",
+        "slug": "harmony-paysages",
+        "telephone": "02 47 95 65 25",
+        "site_web": "http://www.harmony-paysages.com/",
+        "adresse": "11 Rte de Champigny, 37500 Ligré",
+        "note": 4,
+        "avis": 15,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "lignieres-de-touraine": {
+    "artisans": [
+      {
+        "id": "15094853863652811222",
+        "nom": "Brunet Couverture",
+        "slug": "brunet-couverture",
+        "telephone": "06 65 41 16 79",
+        "site_web": "https://www.brunetcouverture.fr/",
+        "adresse": "7 All. de la Couture, 37190 Azay-le-Rideau",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5685031418126403826",
+        "nom": "LIGNIERES COUVERTURE",
+        "slug": "lignieres-couverture",
+        "telephone": "06 64 44 33 32",
+        "site_web": "https://www.lignierescouverture.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13506379344338775625",
+        "nom": "DLCC DAVID LOISEUR CHARPENTE COUVERTURE",
+        "slug": "dlcc-david-loiseur-charpente-couverture",
+        "telephone": "02 47 66 84 23",
+        "site_web": "https://www.couverture-tours-davidloiseur.fr/?utm_source=gmb",
+        "adresse": "29 Rue Avisseau, 37000 Tours",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18267013849338208827",
+        "nom": "Sarl Boilet Marie Therese",
+        "slug": "sarl-boilet-marie-therese",
+        "telephone": "02 47 96 72 29",
+        "site_web": null,
+        "adresse": "4 Les Enaux, 37130 Lignières-de-Touraine",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "larcay": {
+    "artisans": [
+      {
+        "id": "205674742537449606",
+        "nom": "Riva couverture - Artisan Couvreur",
+        "slug": "riva-couverture-artisan-couvreur",
+        "telephone": "06 77 38 32 83",
+        "site_web": "https://www.entreprise-toiture-37.fr/",
+        "adresse": "Rue des Cicottees, 37550 Saint-Avertin",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9524632558730964607",
+        "nom": "Richard niky",
+        "slug": "richard-niky",
+        "telephone": "06 04 41 49 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 33,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1920652853531964624",
+        "nom": "BR Charpente Couverture",
+        "slug": "br-charpente-couverture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 Rue des Brosses, 37270 Larçay",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2986385145236954694",
+        "nom": "Delaunay Besnier Eurl",
+        "slug": "delaunay-besnier-eurl",
+        "telephone": "02 47 49 18 92",
+        "site_web": "http://www.delaunay-couverture.fr/?utm_source=gmb",
+        "adresse": "14 Rue des Internautes, 37210 Rochecorbon",
+        "note": 3.8,
+        "avis": 18,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "artannes-sur-indre": {
+    "artisans": [
+      {
+        "id": "11644079294030456669",
+        "nom": "Lenoire Couverture",
+        "slug": "lenoire-couverture",
+        "telephone": "02 47 27 89 22",
+        "site_web": null,
+        "adresse": "35 Rue Lavoisier, 37260 Monts",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10138719099348154018",
+        "nom": "Vers Les Arbres",
+        "slug": "vers-les-arbres",
+        "telephone": "06 65 26 37 04",
+        "site_web": null,
+        "adresse": "16 bis Rte de la Baudinière, 37260 Artannes-sur-Indre",
+        "note": 5,
+        "avis": 8,
+        "type": "Arboriste"
+      }
+    ]
+  },
+  "ligueil": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "abilly": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "limeray": {
+    "artisans": [
+      {
+        "id": "801864555375166113",
+        "nom": "CSP Habitat",
+        "slug": "csp-habitat",
+        "telephone": "07 88 67 15 59",
+        "site_web": "https://couvreur-37.fr/",
+        "adresse": "5 Rue du Lavoir, 37110 Le Boulay",
+        "note": 5,
+        "avis": 41,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "amboise": {
+    "artisans": [
+      {
+        "id": "1608754372080439956",
+        "nom": "Eco Menuisiers 37",
+        "slug": "eco-menuisiers-37",
+        "telephone": "02 47 25 56 60",
+        "site_web": "https://em37.fr/",
+        "adresse": "36 Quai du Général de Gaulle, 37400 Amboise",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "ambillou": {
+    "artisans": [
+      {
+        "id": "9030551371146508531",
+        "nom": "ambitoit",
+        "slug": "ambitoit",
+        "telephone": "02 47 55 92 42",
+        "site_web": "http://www.ambitoit.com/",
+        "adresse": "ZA, L'Harteloire, 37340 Ambillou",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13716005965899062719",
+        "nom": "Hubert Arnaud",
+        "slug": "hubert-arnaud",
+        "telephone": "06 81 14 14 92",
+        "site_web": "http://www.maconnerie-renovation-hubert-arnaud.com/",
+        "adresse": "ZA, L'Harteloire, 37340 Ambillou",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "6287693057872787443",
+        "nom": "Chavigny Matériaux Ambillou",
+        "slug": "chavigny-materiaux-ambillou",
+        "telephone": "02 47 52 41 46",
+        "site_web": "https://www.groupechavigny.fr/agence/chavigny-materiaux-ambillou/",
+        "adresse": "Route de Pernay, 37340 Ambillou",
+        "note": 3.9,
+        "avis": 94,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "montbazon": {
+    "artisans": [
+      {
+        "id": "18136676372210571192",
+        "nom": "L&J renovation",
+        "slug": "lj-renovation",
+        "telephone": "06 16 21 22 12",
+        "site_web": "http://www.letjrenovation.fr/",
+        "adresse": "6 Chem. de la Vall. Raintrue, 37250 Montbazon",
+        "note": 5,
+        "avis": 1,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9874428186634106155",
+        "nom": "Wortex Menuiseries",
+        "slug": "wortex-menuiseries",
+        "telephone": "02 47 42 90 48",
+        "site_web": "http://wortex.fr/",
+        "adresse": "3 Rue Albert Caquot, 37170 Chambray-lès-Tours",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11125851676296744133",
+        "nom": "Pro Tech Rénov",
+        "slug": "pro-tech-renov",
+        "telephone": "02 47 68 95 68",
+        "site_web": "http://www.protech-renov.fr/?utm_source=gmb",
+        "adresse": "16 Rue des Internautes, 37210 Rochecorbon",
+        "note": 4,
+        "avis": 104,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "10535062031724772812",
+        "nom": "Une Histoire De Toit",
+        "slug": "une-histoire-de-toit",
+        "telephone": "02 38 44 80 21",
+        "site_web": "http://www.unehistoiredetoit.fr/",
+        "adresse": "10 bis Quai de la Madeleine, 45000 Orléans",
+        "note": 4.7,
+        "avis": 119,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1608754372080439956",
+        "nom": "Eco Menuisiers 37",
+        "slug": "eco-menuisiers-37",
+        "telephone": "02 47 25 56 60",
+        "site_web": "https://em37.fr/",
+        "adresse": "36 Quai du Général de Gaulle, 37400 Amboise",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "parcay-meslay": {
+    "artisans": [
+      {
+        "id": "10186705147423279315",
+        "nom": "Avenir Rénovations Tours (37)",
+        "slug": "avenir-renovations-tours-37",
+        "telephone": "02 85 52 65 39",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-tours/?utm_source=gmb",
+        "adresse": "94 Av. George Sand, 37700 La Ville-aux-Dames",
+        "note": 4.9,
+        "avis": 109,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "14361612977850770978",
+        "nom": "Fenetres de Touraine",
+        "slug": "fenetres-de-touraine",
+        "telephone": "02 47 86 00 06",
+        "site_web": "https://www.fenetres-de-touraine.com/",
+        "adresse": "rond point de l'avion ZI, Rue de Chizay, 37210 Parçay-Meslay",
+        "note": 4.9,
+        "avis": 111,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15821345835533815844",
+        "nom": "Meltis",
+        "slug": "meltis",
+        "telephone": "02 47 38 71 37",
+        "site_web": "https://meltis-tours.fr/",
+        "adresse": "14 Av. Thérèse Voisin, 37000 Tours",
+        "note": 4.3,
+        "avis": 109,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "monts": {
+    "artisans": [
+      {
+        "id": "11000107525074616925",
+        "nom": "OuvertureS - Monts",
+        "slug": "ouvertures-monts",
+        "telephone": "02 46 46 91 31",
+        "site_web": "https://monts.ouvertures.com/",
+        "adresse": "45B Rue Francis Perrin, 37260 Monts",
+        "note": 5,
+        "avis": 24,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16243155380390304147",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-tours/",
+        "adresse": "30 Rue de Suède, 37000 Tours",
+        "note": 1,
+        "avis": 1,
+        "type": "Magasin"
+      },
+      {
+        "id": "6941753239433681940",
+        "nom": "Eco Menuisiers 37 SAS",
+        "slug": "eco-menuisiers-37-sas",
+        "telephone": "02 47 25 56 60",
+        "site_web": "https://www.em37.fr/",
+        "adresse": "Zae De La, 334 Rue Francis Perrin, 37260 Monts",
+        "note": 4.8,
+        "avis": 100,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17882884364912727095",
+        "nom": "RÉPAR'Vérandas",
+        "slug": "reparverandas",
+        "telephone": "02 47 36 09 06",
+        "site_web": "https://reparverandas.fr/",
+        "adresse": "Rue des Grands Champs, 37260 Monts",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de réparation du verre"
+      },
+      {
+        "id": "3769494874143055715",
+        "nom": "MPIE - Sur Mesure Menuiserie 37",
+        "slug": "mpie-sur-mesure-menuiserie-37",
+        "telephone": "06 01 59 34 01",
+        "site_web": "https://monts.surmesure-menuiserie.fr/",
+        "adresse": "11 Rue du Val de l'Indre, 37260 Monts",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "manthelan": {
+    "artisans": [
+      {
+        "id": "2018515508121291479",
+        "nom": "SARL Chauveau Daudet",
+        "slug": "sarl-chauveau-daudet",
+        "telephone": "02 47 92 85 44",
+        "site_web": "http://www.menuiserie-chauveaudaudet-37.fr/",
+        "adresse": "3 Fbg de la Bichetterie, 37240 Manthelan",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14957147446976819493",
+        "nom": "Isol'plus",
+        "slug": "isolplus",
+        "telephone": "02 47 92 27 92",
+        "site_web": "https://isolplus-menuiserie.fr/",
+        "adresse": "ZA, 37240 Manthelan",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1898199633276219845",
+        "nom": "MB couverture",
+        "slug": "mb-couverture",
+        "telephone": "06 46 20 72 57",
+        "site_web": "https://morieux-couvertures.fr/",
+        "adresse": "27 Rue André Gaby, 37240 Manthelan",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nazelles-negron": {
+    "artisans": [
+      {
+        "id": "5827343295826178798",
+        "nom": "ETS PEYON",
+        "slug": "ets-peyon",
+        "telephone": "02 47 30 69 69",
+        "site_web": "http://www.peyon.fr/",
+        "adresse": "56 Rue des Ormes, 37530 Nazelles-Négron",
+        "note": 4.4,
+        "avis": 22,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "11142333614451015338",
+        "nom": "Loire Rénovation - isolation thermique par l'exterieur et renovation façade",
+        "slug": "loire-renovation-isolation-thermique-par-lexterieur-et-renovation-facade",
+        "telephone": "02 47 23 54 66",
+        "site_web": "http://www.loirerenovation.com/",
+        "adresse": "37 Chem. des Sables, 37530 Nazelles-Négron",
+        "note": 5,
+        "avis": 29,
+        "type": "Façadier"
+      },
+      {
+        "id": "9461260677601201800",
+        "nom": "Portails Lariviere",
+        "slug": "portails-lariviere",
+        "telephone": "02 47 57 10 43",
+        "site_web": "http://www.portails-lariviere.com/",
+        "adresse": "28 Bd de l'Industrie, 37530 Nazelles-Négron",
+        "note": 4.7,
+        "avis": 39,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "3549664823264014135",
+        "nom": "Briault Construction",
+        "slug": "briault-construction",
+        "telephone": "02 47 23 26 10",
+        "site_web": "http://www.briault.fr/",
+        "adresse": "11 Bd de l'Industrie, 37530 Nazelles-Négron",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Maçon"
+      },
+      {
+        "id": "14920724796068635638",
+        "nom": "Emys SODICLAIR",
+        "slug": "emys-sodiclair",
+        "telephone": "02 47 30 40 20",
+        "site_web": "https://www.facebook.com/emys.sodiclair",
+        "adresse": "9 Av. de la Loire, 37530 Nazelles-Négron",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "7249140475960173791",
+        "nom": "Prazeres Pere et Fils",
+        "slug": "prazeres-pere-et-fils",
+        "telephone": "06 76 82 37 04",
+        "site_web": "https://sarlprazeres.fr/",
+        "adresse": "25 Rue de Négron, 37530 Nazelles-Négron",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13877720116218723838",
+        "nom": "Bernard Peinture Revêtements",
+        "slug": "bernard-peinture-revetements",
+        "telephone": "02 47 57 70 71",
+        "site_web": "https://bpr37.fr/",
+        "adresse": "Zone Industrielle Les Poujeaux, 11 Rue de Négron, 37530 Nazelles-Négron",
+        "note": 5,
+        "avis": 21,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "801864555375166113",
+        "nom": "CSP Habitat",
+        "slug": "csp-habitat",
+        "telephone": "07 88 67 15 59",
+        "site_web": "https://couvreur-37.fr/",
+        "adresse": "5 Rue du Lavoir, 37110 Le Boulay",
+        "note": 5,
+        "avis": 41,
+        "type": "Couvreur"
+      },
+      {
+        "id": "214863375727603170",
+        "nom": "HALGRIN CONSTRUCTION CHARPRENTE COUVERTURE",
+        "slug": "halgrin-construction-charprente-couverture",
+        "telephone": "02 47 57 08 00",
+        "site_web": "http://www.charpente-couverture-halgrinphilippe.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Z.i Les Poujeaux 3 Avenue De La Loire, 37530 Nazelles-Négron",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "9524632558730964607",
+        "nom": "Richard niky",
+        "slug": "richard-niky",
+        "telephone": "06 04 41 49 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 33,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montlouis-sur-loire": {
+    "artisans": [
+      {
+        "id": "10776541878193299961",
+        "nom": "Couverture de Loire",
+        "slug": "couverture-de-loire",
+        "telephone": "06 47 97 96 04",
+        "site_web": "https://www.couverture-de-loire.fr/",
+        "adresse": "9 Rue Clément Ader, 37270 Montlouis-sur-Loire",
+        "note": 4.8,
+        "avis": 29,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9315261658840184660",
+        "nom": "Idéal Intérieur & Extérieur - Artisans Certifié RGE - Menuiserie générale / Isolation thermique à Tours et Fondettes.",
+        "slug": "ideal-interieur-exterieur-artisans-certifie-rge-menuiserie-generale-isolation-thermique-a-tours-et-fondettes",
+        "telephone": "02 47 86 58 42",
+        "site_web": "https://www.idealinterieur-menuiserie-tours.fr/",
+        "adresse": "11 Rue Edouard Branly, 37230 Fondettes",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14480090212411287424",
+        "nom": "Pierre Noire",
+        "slug": "pierre-noire",
+        "telephone": "02 47 45 17 18",
+        "site_web": "http://www.pierrenoire.fr/",
+        "adresse": "17 Av. Léonard de Vinci, 37270 Montlouis-sur-Loire",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Designer d'intérieur"
+      },
+      {
+        "id": "8801927147799002219",
+        "nom": "France Menuiserie 37",
+        "slug": "france-menuiserie-37",
+        "telephone": "02 47 56 37 37",
+        "site_web": "http://www.francemenuiseriepvcalu.fr/?utm_source=gmb",
+        "adresse": "Hypermarché Auchan Route de Paris, Centre Commercial Auchan, 37100 Tours",
+        "note": 4.7,
+        "avis": 35,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14301980376484137405",
+        "nom": "Pinxyl",
+        "slug": "pinxyl",
+        "telephone": "02 47 45 01 07",
+        "site_web": "https://www.pinxyl.fr/",
+        "adresse": "6 Rue Gustave Eiffel, 37270 Montlouis-sur-Loire",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "6192125133653960294",
+        "nom": "Faucheux David",
+        "slug": "faucheux-david",
+        "telephone": "06 66 69 10 92",
+        "site_web": "https://couvreur72.fr/",
+        "adresse": "26 Rte de Vernou, 37210 Vouvray",
+        "note": 5,
+        "avis": 57,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3846276835390843569",
+        "nom": "Artisan GAUDRON Rénovation-couvreur-peintre Tours et ses environs",
+        "slug": "artisan-gaudron-renovation-couvreur-peintre-tours-et-ses-environs",
+        "telephone": "07 67 91 06 70",
+        "site_web": "https://www.gaudron-artisan.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9403996278106712719",
+        "adresse": "2 Rue Bernadette Delprat, 37700 La Ville-aux-Dames",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15988849225139683020",
+        "nom": "Les Ormes Renovation",
+        "slug": "les-ormes-renovation",
+        "telephone": "07 84 14 74 20",
+        "site_web": "https://www.lesormesrenovation.com/",
+        "adresse": "66 Rue des Ormes, 37530 Nazelles-Négron",
+        "note": 5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15369702321641639561",
+        "nom": "CMA Centre-Val de Loire - Indre-et-Loire",
+        "slug": "cma-centre-val-de-loire-indre-et-loire",
+        "telephone": "09 86 86 30 06",
+        "site_web": "http://www.cma37.fr/",
+        "adresse": "36 Rte de Saint-Avertin 36-42, 37200 Tours",
+        "note": 4,
+        "avis": 73,
+        "type": "Chambre des Métiers et de l'Artisanat"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "neuvy-le-roi": {
+    "artisans": [
+      {
+        "id": "8801707531726696447",
+        "nom": "SARL RADENNE ET FILS",
+        "slug": "sarl-radenne-et-fils",
+        "telephone": "03 85 84 28 05",
+        "site_web": "https://www.radenne.fr/",
+        "adresse": "220 route des Bruyères, 71130 Neuvy-Grandchamp",
+        "note": 4.7,
+        "avis": 51,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "noizay": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "noyant-de-touraine": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "rouziers-de-touraine": {
+    "artisans": [
+      {
+        "id": "12213414921692523848",
+        "nom": "Hirou Frères",
+        "slug": "hirou-freres",
+        "telephone": "02 47 52 62 61",
+        "site_web": "http://www.hiroufreres.com/?utm_source=gmb",
+        "adresse": "ZA Le Pilori, 37360 Semblançay",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11695291544765180135",
+        "nom": "Lebert Patrick",
+        "slug": "lebert-patrick",
+        "telephone": "02 47 56 71 29",
+        "site_web": null,
+        "adresse": "16 Rue de la Piétrie, 37360 Rouziers-de-Touraine",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sache": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nouzilly": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-antoine-du-rocher": {
+    "artisans": [
+      {
+        "id": "11881549005449123099",
+        "nom": "SARL Romain Lebert",
+        "slug": "sarl-romain-lebert",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Les Fossettes, 37360 Saint-Antoine-du-Rocher",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "31086705301268432",
+        "nom": "En Cours de Fabrication",
+        "slug": "en-cours-de-fabrication",
+        "telephone": "02 59 16 14 24",
+        "site_web": "https://www.encoursdefabrication.fr/",
+        "adresse": "ZA, Les Fossettes, 37360 Saint-Antoine-du-Rocher",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2500509838384808978",
+        "nom": "Maurat David",
+        "slug": "maurat-david",
+        "telephone": "02 47 56 55 26",
+        "site_web": "http://www.mauratdavid.com/",
+        "adresse": "6 Les Fossettes, 37360 Saint-Antoine-du-Rocher",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9315261658840184660",
+        "nom": "Idéal Intérieur & Extérieur - Artisans Certifié RGE - Menuiserie générale / Isolation thermique à Tours et Fondettes.",
+        "slug": "ideal-interieur-exterieur-artisans-certifie-rge-menuiserie-generale-isolation-thermique-a-tours-et-fondettes",
+        "telephone": "02 47 86 58 42",
+        "site_web": "https://www.idealinterieur-menuiserie-tours.fr/",
+        "adresse": "11 Rue Edouard Branly, 37230 Fondettes",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6889536364295893871",
+        "nom": "Alexwood Agencement - Menuisier agenceur",
+        "slug": "alexwood-agencement-menuisier-agenceur",
+        "telephone": "06 32 41 26 90",
+        "site_web": "http://www.alexwoodagencement.com/",
+        "adresse": "26 Rue de la Chahoulerie, 37360 Saint-Antoine-du-Rocher",
+        "note": 5,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18414059974319021547",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 47 27 41 05",
+        "site_web": "https://magasins.lapeyre.fr/centre-val-de-loire/indre-et-loire/lapeyre-tours-19",
+        "adresse": "134 Av du Grand Sud, 37170 Chambray-lès-Tours",
+        "note": 3.9,
+        "avis": 443,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "notre-dame-d-oe": {
+    "artisans": [
+      {
+        "id": "13410599467222454596",
+        "nom": "L'Atelier Design",
+        "slug": "latelier-design",
+        "telephone": "02 47 55 32 40",
+        "site_web": "http://www.l-atelierdesign.fr/?utm_source=gmb",
+        "adresse": "37 Rue Alexandre Calder, 37390 Notre-Dame-d'Oé",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "10943617205265512834",
+        "nom": "Avenir Rénovations - Chateauroux",
+        "slug": "avenir-renovations-chateauroux",
+        "telephone": "02 49 88 20 25",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-saint-cyr-sur-loire/",
+        "adresse": "2 Rue de la Moisanderie, 37540 Saint-Cyr-sur-Loire",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-martin-le-beau": {
+    "artisans": [
+      {
+        "id": "6721369526587617302",
+        "nom": "AC menuiserie",
+        "slug": "ac-menuiserie",
+        "telephone": "06 25 15 62 21",
+        "site_web": "https://www.acmenuiserie.fr/",
+        "adresse": "28 Rue du Gros Buisson, 37270 Saint-Martin-le-Beau",
+        "note": 3,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1711538648588940211",
+        "nom": "JZ Couverture",
+        "slug": "jz-couverture",
+        "telephone": "02 52 56 25 14",
+        "site_web": "https://www.entreprise-toiture-37.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-avertin": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-branchs": {
+    "artisans": [
+      {
+        "id": "13842115768019797580",
+        "nom": "GT Couverture",
+        "slug": "gt-couverture",
+        "telephone": "06 50 78 31 96",
+        "site_web": "https://www.gt-couverture.fr/",
+        "adresse": "6 ZAE Les Coquettes, 37320 Saint-Branchs",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-christophe-sur-le-nais": {
+    "artisans": [
+      {
+        "id": "7826567543095805320",
+        "nom": "Art De Toit 37",
+        "slug": "art-de-toit-37",
+        "telephone": "02 47 29 26 02",
+        "site_web": "https://www.art-de-toit-37.fr/fr",
+        "adresse": "15 rue Gustave Eiffel, ZA du vigneau, 37370 Saint-Paterne-Racan",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10278987789637657361",
+        "nom": "Choisnet Bruno",
+        "slug": "choisnet-bruno",
+        "telephone": "02 47 29 38 87",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Maçon"
+      },
+      {
+        "id": "2357750828935175312",
+        "nom": "Bouvet",
+        "slug": "bouvet",
+        "telephone": "02 47 29 23 59",
+        "site_web": null,
+        "adresse": "19 Rue des Mirligrolles, 37370 Saint-Christophe-sur-le-Nais",
+        "note": 5,
+        "avis": 4,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "2488780491999010107",
+        "nom": "Delay Couverture & Charpente",
+        "slug": "delay-couverture-charpente",
+        "telephone": "06 48 54 31 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16301691473506801193",
+        "nom": "ART-RENOV 37",
+        "slug": "art-renov-37",
+        "telephone": "06 28 67 82 39",
+        "site_web": null,
+        "adresse": "5 Rue De, Beau Soulage, 37370 Saint-Christophe-sur-le-Nais",
+        "note": 5,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "saint-cyr-sur-loire": {
+    "artisans": [
+      {
+        "id": "16899630799772189784",
+        "nom": "Munch et Foucher",
+        "slug": "munch-et-foucher",
+        "telephone": "02 47 44 54 34",
+        "site_web": "https://www.munchetfoucher.com/",
+        "adresse": "37 Rue du Mûrier, 37540 Saint-Cyr-sur-Loire",
+        "note": 4.7,
+        "avis": 64,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8646487316027320992",
+        "nom": "MPO Fenêtres - Tours",
+        "slug": "mpo-fenetres-tours",
+        "telephone": "02 47 85 48 90",
+        "site_web": "http://www.mpofenetres.com/",
+        "adresse": "61 Rue du Mûrier, 37540 Saint-Cyr-sur-Loire",
+        "note": 4.7,
+        "avis": 131,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "16489048596010645575",
+        "nom": "France Fenêtres",
+        "slug": "france-fenetres",
+        "telephone": "01 55 58 16 16",
+        "site_web": "https://www.francefenetres-stcyrlecole.fr/",
+        "adresse": "53 Av. Pierre Curie, 78210 Saint-Cyr-l'École",
+        "note": 4.8,
+        "avis": 39,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "14756103682705799548",
+        "nom": "AT COUVERTURE",
+        "slug": "at-couverture",
+        "telephone": "06 19 07 67 28",
+        "site_web": null,
+        "adresse": "2 Rue François Arago, 37540 Saint-Cyr-sur-Loire",
+        "note": 5,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3873286091319381408",
+        "nom": "Lorenove Tours",
+        "slug": "lorenove-tours",
+        "telephone": "02 47 20 13 28",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/tours?utm_source=gmb",
+        "adresse": "258 Av. de Grammont, 37000 Tours",
+        "note": 5,
+        "avis": 39,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2867755516234494285",
+        "nom": "Entreprise Péchon",
+        "slug": "entreprise-pechon",
+        "telephone": "02 47 51 36 35",
+        "site_web": null,
+        "adresse": "18 Av. André Ampère, 37540 Saint-Cyr-sur-Loire",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15821345835533815844",
+        "nom": "Meltis",
+        "slug": "meltis",
+        "telephone": "02 47 38 71 37",
+        "site_web": "https://meltis-tours.fr/",
+        "adresse": "14 Av. Thérèse Voisin, 37000 Tours",
+        "note": 4.3,
+        "avis": 109,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "saint-etienne-de-chigny": {
+    "artisans": [
+      {
+        "id": "17386537891070413646",
+        "nom": "Amb&Lys Menuiserie",
+        "slug": "amblys-menuiserie",
+        "telephone": "06 18 74 08 82",
+        "site_web": "http://www.ambelys-menuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11202464745752847035",
+        "nom": "CLOZEN Menuiseries et Fermetures",
+        "slug": "clozen-menuiseries-et-fermetures",
+        "telephone": "06 77 70 36 22",
+        "site_web": "http://www.clozen37.fr/",
+        "adresse": "ZA LA BIGOTIERE, Rue du Coq Hardi, 37390 Cerelles",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mettray": {
+    "artisans": [
+      {
+        "id": "16750369685348154665",
+        "nom": "LD POSE MENUISERIES",
+        "slug": "ld-pose-menuiseries",
+        "telephone": "02 47 56 54 36",
+        "site_web": "http://www.ld-pose-menuiseries.com/",
+        "adresse": "ZI, 4 Rue du Plateau, 37390 Mettray",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "perrusson": {
+    "artisans": [
+      {
+        "id": "14139227053382910750",
+        "nom": "Brice Bois Menuiserie - Plâtrerie / Isolation / Menuiserie",
+        "slug": "brice-bois-menuiserie-platrerie-isolation-menuiserie",
+        "telephone": "02 47 43 82 40",
+        "site_web": "https://bricebois.fr/",
+        "adresse": "42 Av. de Pierruche, 37600 Perrusson",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "2059225052166643367",
+        "nom": "Doubinine Menuiserie",
+        "slug": "doubinine-menuiserie",
+        "telephone": "02 47 59 27 14",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/doubinine-menuiserie",
+        "adresse": "Zone Industrielle St Blaise, 21 Rue de la Vall. des Vospeaux, 37600 Loches",
+        "note": 4.7,
+        "avis": 79,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11971778889677167783",
+        "nom": "B Bourbon",
+        "slug": "b-bourbon",
+        "telephone": "02 47 92 11 20",
+        "site_web": "https://www.bourbon-menuiserie.fr/",
+        "adresse": "62 Av. de Pierruche, 37600 Perrusson",
+        "note": 2,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7581449579134972126",
+        "nom": "CASÉO Loches",
+        "slug": "caseo-loches",
+        "telephone": "02 47 92 11 20",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-loches-perrusson-132",
+        "adresse": "62 Av. de Pierruche, 37600 Perrusson",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-pierre-des-corps": {
+    "artisans": [
+      {
+        "id": "4086789442266001122",
+        "nom": "Pasquet menuiseries Tours",
+        "slug": "pasquet-menuiseries-tours",
+        "telephone": "02 47 44 20 55",
+        "site_web": "https://www.pasquet.fr/menuiserie/tours-37/",
+        "adresse": "7 Rue des Grands Mortiers, 37700 Saint-Pierre-des-Corps",
+        "note": 3.1,
+        "avis": 26,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9825758177145383803",
+        "nom": "SARL CHALOPIN ET FILS",
+        "slug": "sarl-chalopin-et-fils",
+        "telephone": "02 47 44 20 54",
+        "site_web": "https://chalopinsarl.com/",
+        "adresse": "20 Rue de la Feuillarde, 37700 Saint-Pierre-des-Corps",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "8461465869416009472",
+        "nom": "Avenir Rénovations Amboise",
+        "slug": "avenir-renovations-amboise",
+        "telephone": "02 21 83 08 95",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-amboise/?utm_source=gmb",
+        "adresse": "20 Rue Jacqueline Auriol, 37700 La Ville-aux-Dames",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3834617650926481637",
+        "nom": "Ets Meunier Menuiserie - Partenaire Arcades et Baies",
+        "slug": "ets-meunier-menuiserie-partenaire-arcades-et-baies",
+        "telephone": "02 47 44 01 50",
+        "site_web": "https://meuniermenuiserie.fr/",
+        "adresse": "300-302, Rue Marcel Cachin, 37700 Saint-Pierre-des-Corps",
+        "note": 4.2,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1060258801225228619",
+        "nom": "Asturienne Tours - Matériaux de couverture pour toitures",
+        "slug": "asturienne-tours-materiaux-de-couverture-pour-toitures",
+        "telephone": "02 47 32 65 60",
+        "site_web": "https://www.asturienne.fr/infos-agence/tours-st-pierre-asturienne-3116",
+        "adresse": "220 Rue Marcel Cachin, 37700 Saint-Pierre-des-Corps",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "3124175972154738243",
+        "nom": "FRANCHET",
+        "slug": "franchet",
+        "telephone": "02 47 28 00 46",
+        "site_web": "http://www.snfranchet.fr/",
+        "adresse": "55 Rue des Grands Mortiers, 37700 Saint-Pierre-des-Corps",
+        "note": 4.7,
+        "avis": 10,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "saint-epain": {
+    "artisans": [
+      {
+        "id": "4262658800067965184",
+        "nom": "Maillet Menuiserie",
+        "slug": "maillet-menuiserie",
+        "telephone": "02 47 48 00 95",
+        "site_web": "https://www.mailletmenuiserie.fr/",
+        "adresse": "6 Grande Rue, 37800 Saint-Épain",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "savigny-en-veron": {
+    "artisans": [
+      {
+        "id": "220931370074574224",
+        "nom": "Menuiserie Julienne",
+        "slug": "menuiserie-julienne",
+        "telephone": "02 47 58 42 31",
+        "site_web": "http://www.menuiserie-julienne.fr/",
+        "adresse": "Rue du Stade, 37420 Savigny-en-Véron",
+        "note": 4.8,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13590248642188770573",
+        "nom": "Société AV - Storiste - Fenêtrier - Miroitier",
+        "slug": "societe-av-storiste-fenetrier-miroitier",
+        "telephone": "01 69 05 46 48",
+        "site_web": "https://www.pose-portes-fenetres-volets.com/",
+        "adresse": "46 Bd Aristide Briand, 91600 Savigny-sur-Orge",
+        "note": 4.7,
+        "avis": 199,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3291878212942430545",
+        "nom": "Lambert entreprise",
+        "slug": "lambert-entreprise",
+        "telephone": "09 70 17 25 21",
+        "site_web": "https://www.guide-de-l-habitat.fr/artisan/lambert-entreprise-168840",
+        "adresse": "Za des, Rue des Louzais, 37420 Savigny-en-Véron",
+        "note": 5,
+        "avis": 3,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "saint-roch": {
+    "artisans": [
+      {
+        "id": "12243352468424456920",
+        "nom": "Menuiserie julien",
+        "slug": "menuiserie-julien",
+        "telephone": "02 47 37 29 78",
+        "site_web": "https://www.menuiserie-julien.fr/",
+        "adresse": "Zone artisanale Les Terrages, 0 Rue de la Vallée, 37390 Saint-Roch",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "reignac-sur-indre": {
+    "artisans": [
+      {
+        "id": "15038654077039563767",
+        "nom": "Fillon Eric",
+        "slug": "fillon-eric",
+        "telephone": "02 47 94 14 66",
+        "site_web": "http://www.menuiseries-aluminium-reignac-sur-indre.fr/",
+        "adresse": "Zone Industrielle Gare, 1 Rue des Pigeonneaux, 37310 Reignac-sur-Indre",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6849027478114479116",
+        "nom": "Thibault Frères",
+        "slug": "thibault-freres",
+        "telephone": "02 47 94 15 04",
+        "site_web": "http://www.thibault-bois.com/",
+        "adresse": "121 La Gare, 37310 Reignac-sur-Indre",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15361791601381778483",
+        "nom": "LEGENS Matériaux Anciens",
+        "slug": "legens-materiaux-anciens",
+        "telephone": "02 47 59 31 21",
+        "site_web": "http://www.legens.com/",
+        "adresse": "1 Le Café Brûle, 37310 Reignac-sur-Indre",
+        "note": 3.8,
+        "avis": 126,
+        "type": "Magasin de matériaux récupérés"
+      },
+      {
+        "id": "754514673226853145",
+        "nom": "Société Raphaël DERRÉ",
+        "slug": "societe-raphael-derre",
+        "telephone": "06 24 32 90 00",
+        "site_web": "https://www.societe-raphael-derre.com/",
+        "adresse": "7maze, 37310 Reignac-sur-Indre",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "6262569501338691513",
+        "nom": "Thierry Chaboty Eurl",
+        "slug": "thierry-chaboty-eurl",
+        "telephone": "02 47 59 10 11",
+        "site_web": null,
+        "adresse": "5 RUE DES FONTAINES - ZA LA GARE, 37310 Reignac-sur-Indre",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "restigne": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-nicolas-de-bourgueil": {
+    "artisans": [
+      {
+        "id": "10314075638877707901",
+        "nom": "Ménard Christophe",
+        "slug": "menard-christophe",
+        "telephone": "02 47 97 96 49",
+        "site_web": "http://menard-charpentes-ramonage-bourgueil.fr/",
+        "adresse": "11 Rue du Pont Boisseau, 37140 Bourgueil",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "la-riche": {
+    "artisans": [
+      {
+        "id": "17769026417780328078",
+        "nom": "L'Expert Menuiserie",
+        "slug": "lexpert-menuiserie",
+        "telephone": "02 47 41 61 92",
+        "site_web": "https://www.lexpertmenuiserie.fr/",
+        "adresse": "45 bis rue Chevalerie Ccal Pinguet, 37100 Tours",
+        "note": 4.7,
+        "avis": 79,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4100023381442374349",
+        "nom": "TOITURES DE TOURAINE BABARY",
+        "slug": "toitures-de-touraine-babary",
+        "telephone": "02 47 37 91 19",
+        "site_web": "http://www.toituresdetouraine.fr/?utm_source=gmb",
+        "adresse": "La, 33 Av. du Couvent des Minimes Lotissement 7, 37520 La Riche",
+        "note": 3.6,
+        "avis": 18,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5097409996993035420",
+        "nom": "Benoît Menuiserie 37",
+        "slug": "benoit-menuiserie-37",
+        "telephone": "06 58 06 05 46",
+        "site_web": null,
+        "adresse": "104 BIS Rue des Hautes Marches, 37520 La Riche",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13396229112414289666",
+        "nom": "Toiture sur mesure",
+        "slug": "toiture-sur-mesure",
+        "telephone": "06 75 77 56 97",
+        "site_web": "https://toituresurmesure.fr/",
+        "adresse": "104 Rue des Hautes Marches, 37520 La Riche",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10683814264034649436",
+        "nom": "Alter-iso",
+        "slug": "alter-iso",
+        "telephone": "06 72 57 93 65",
+        "site_web": "http://www.alter-iso.com/",
+        "adresse": "18 Chem. des Minimes, 37520 La Riche",
+        "note": 4,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "17847726098036209664",
+        "nom": "Artisan renov toiture couvreur 37",
+        "slug": "artisan-renov-toiture-couvreur-37",
+        "telephone": "07 59 78 03 63",
+        "site_web": "https://www.artisan-renov-toiture-37.fr/",
+        "adresse": "15 Pl. Michelet, 37000 Tours",
+        "note": 5,
+        "avis": 46,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12881519471286759132",
+        "nom": "Iso-maxi",
+        "slug": "iso-maxi",
+        "telephone": "02 47 66 87 87",
+        "site_web": "https://www.isomaxi-menuiseries-tours.fr/",
+        "adresse": "41 Av. André Malraux, 37000 Tours",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5844248545703250511",
+        "nom": "GJ Rénovation",
+        "slug": "gj-renovation",
+        "telephone": "06 21 44 95 35",
+        "site_web": "https://gaisnecouvreur37.com/",
+        "adresse": "1 bis Mail David d'Angers 255, 37000 Tours",
+        "note": 4.8,
+        "avis": 72,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13506379344338775625",
+        "nom": "DLCC DAVID LOISEUR CHARPENTE COUVERTURE",
+        "slug": "dlcc-david-loiseur-charpente-couverture",
+        "telephone": "02 47 66 84 23",
+        "site_web": "https://www.couverture-tours-davidloiseur.fr/?utm_source=gmb",
+        "adresse": "29 Rue Avisseau, 37000 Tours",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6960290044093672361",
+        "nom": "Confort Menuiserie 37 - Fenêtres Menuiseries",
+        "slug": "confort-menuiserie-37-fenetres-menuiseries",
+        "telephone": "02 47 28 20 20",
+        "site_web": "https://www.confortmenuiserie37.fr/?utm_source=Google&utm_medium=My%20Business",
+        "adresse": "33 Av. du Couvent des Minimes, 37520 La Riche",
+        "note": 3.5,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "richelieu": {
+    "artisans": [
+      {
+        "id": "13321172728217887651",
+        "nom": "Knauf Industries Ouest",
+        "slug": "knauf-industries-ouest",
+        "telephone": "02 47 93 63 63",
+        "site_web": null,
+        "adresse": "62 Rte de Chinon, 37120 Richelieu",
+        "note": 5,
+        "avis": 12,
+        "type": "Entreprise de fabrication de plastique"
+      },
+      {
+        "id": "15945568085949058142",
+        "nom": "Carrefour Contact",
+        "slug": "carrefour-contact",
+        "telephone": "02 47 58 12 59",
+        "site_web": "https://www.carrefour.fr/magasin/contact-richelieu-loudun",
+        "adresse": "26 Rue St Vincent de Paul, 37120 Richelieu",
+        "note": 4,
+        "avis": 168,
+        "type": "Supermarché"
+      }
+    ]
+  },
+  "savigne-sur-lathan": {
+    "artisans": [
+      {
+        "id": "1798887048369221045",
+        "nom": "Forp Fenêtres",
+        "slug": "forp-fenetres",
+        "telephone": "02 43 82 40 52",
+        "site_web": "https://www.fenetres-forp.com/",
+        "adresse": "ZAC de l'Epine, ZAC de l'Épine, 72460 Savigné-l'Évêque",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "savonnieres": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "coteaux-sur-loire": {
+    "artisans": [
+      {
+        "id": "2945907587989199695",
+        "nom": "Tout Pour Toits",
+        "slug": "tout-pour-toits",
+        "telephone": "06 60 30 28 15",
+        "site_web": "http://tout-pour-toits.fr/",
+        "adresse": null,
+        "note": 3.9,
+        "avis": 7,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5819028834673293290",
+        "nom": "CB37",
+        "slug": "cb37",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23 Rte de la Loire, 37130 Coteaux-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "monnaie": {
+    "artisans": [
+      {
+        "id": "13757561092483137257",
+        "nom": "LK Couverture SARL",
+        "slug": "lk-couverture-sarl",
+        "telephone": "02 47 22 15 89",
+        "site_web": "http://lkcouverture-37.fr/",
+        "adresse": "La Fontaine, 37380 Monnaie",
+        "note": 4.2,
+        "avis": 43,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "semblancay": {
+    "artisans": [
+      {
+        "id": "3679323664010153137",
+        "nom": "Artibaud 37 - Couvreur Tours",
+        "slug": "artibaud-37-couvreur-tours",
+        "telephone": "07 50 40 08 51",
+        "site_web": "https://artibaud-37.com/",
+        "adresse": "1 Rue du Paradis, 37230 Fondettes",
+        "note": 4.9,
+        "avis": 25,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7568475014664730246",
+        "nom": "Gaïa Nostra - Paysagiste en Indre et Loire 37",
+        "slug": "gaia-nostra-paysagiste-en-indre-et-loire-37",
+        "telephone": "06 27 13 91 24",
+        "site_web": "http://www.gaia-nostra.fr/",
+        "adresse": "34 Rue de la Voie Romaine, 37360 Semblançay",
+        "note": 5,
+        "avis": 29,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "saint-paterne-racan": {
+    "artisans": [
+      {
+        "id": "8270037671397394682",
+        "nom": "Gandolfi Teddy",
+        "slug": "gandolfi-teddy",
+        "telephone": "02 47 29 25 02",
+        "site_web": "http://menuiserieebenisterieteddygandolfi.wordpress.com/",
+        "adresse": "Za Du Vigneau, 7 Rue Armand Moisant, 37370 Saint-Paterne-Racan",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10315588267590472436",
+        "nom": "Martineau Pascal",
+        "slug": "martineau-pascal",
+        "telephone": "02 47 29 34 34",
+        "site_web": null,
+        "adresse": "1240 La Noiraie, 37370 Saint-Paterne-Racan",
+        "note": 2.3,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11079117871571175986",
+        "nom": "Saint Pat'toit",
+        "slug": "saint-pattoit",
+        "telephone": "06 77 17 79 40",
+        "site_web": null,
+        "adresse": "28 Rue des Écoles, 37370 Saint-Paterne-Racan",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3843500332038866276",
+        "nom": "Menuiserie Ebenesterie Bouchet",
+        "slug": "menuiserie-ebenesterie-bouchet",
+        "telephone": "02 47 96 53 08",
+        "site_web": null,
+        "adresse": "11 Rue Paul Louis Courier, 37370 Saint-Paterne-Racan",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "pernay": {
+    "artisans": [
+      {
+        "id": "4469392136392330487",
+        "nom": "TOIT 2 TOURAINE",
+        "slug": "toit-2-touraine",
+        "telephone": "06 49 49 06 59",
+        "site_web": "https://www.sarl-t2t.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "preuilly-sur-claise": {
+    "artisans": [
+      {
+        "id": "568635724997936145",
+        "nom": "MAISON CHABOISSON",
+        "slug": "maison-chaboisson",
+        "telephone": "02 47 29 31 99",
+        "site_web": "https://www.chaboisson.fr/",
+        "adresse": "Le Rond, 37290 Preuilly-sur-Claise",
+        "note": 4.5,
+        "avis": 19,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-genouph": {
+    "artisans": [
+      {
+        "id": "1333170905097121906",
+        "nom": "DÉZIRÉ COUVERTURE",
+        "slug": "dezire-couverture",
+        "telephone": "02 47 45 52 86",
+        "site_web": "http://www.entreprise-dezire.fr/",
+        "adresse": "11 bis Rue de la Gare Entree 2, 37510 Saint-Genouph",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sainte-maure-de-touraine": {
+    "artisans": [
+      {
+        "id": "16515653127209253525",
+        "nom": "Entreprise Caillault A SARL",
+        "slug": "entreprise-caillault-a-sarl",
+        "telephone": "02 47 65 62 80",
+        "site_web": "http://www.peinture-caillault.com/?utm_source=gmb",
+        "adresse": "60 Rue de Loches, 37800 Sainte-Maure-de-Touraine",
+        "note": 4.2,
+        "avis": 25,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "luynes": {
+    "artisans": [
+      {
+        "id": "10801217363598072643",
+        "nom": "Bourreau Fils SARL",
+        "slug": "bourreau-fils-sarl",
+        "telephone": "02 47 55 62 21",
+        "site_web": "http://www.facebook.com/bourreaufils",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sonzay": {
+    "artisans": [
+      {
+        "id": "12213414921692523848",
+        "nom": "Hirou Frères",
+        "slug": "hirou-freres",
+        "telephone": "02 47 52 62 61",
+        "site_web": "http://www.hiroufreres.com/?utm_source=gmb",
+        "adresse": "ZA Le Pilori, 37360 Semblançay",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "rochecorbon": {
+    "artisans": [
+      {
+        "id": "1414927632884040517",
+        "nom": "Ad Fermetures",
+        "slug": "ad-fermetures",
+        "telephone": "02 47 65 22 89",
+        "site_web": "http://www.ad-fermetures.fr/",
+        "adresse": "2 RD 129 - ZA DE CHATENAY, 37210 Rochecorbon",
+        "note": 5,
+        "avis": 13,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mazieres-de-touraine": {
+    "artisans": [
+      {
+        "id": "16639056381702300544",
+        "nom": "RICHER COUVERTURE",
+        "slug": "richer-couverture",
+        "telephone": "06 15 22 51 16",
+        "site_web": null,
+        "adresse": "22 Rue de la Tremblaie, 37130 Mazières-de-Touraine",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "thilouze": {
+    "artisans": [
+      {
+        "id": "1608754372080439956",
+        "nom": "Eco Menuisiers 37",
+        "slug": "eco-menuisiers-37",
+        "telephone": "02 47 25 56 60",
+        "site_web": "https://em37.fr/",
+        "adresse": "36 Quai du Général de Gaulle, 37400 Amboise",
+        "note": 4.5,
+        "avis": 18,
+        "type": "Vitrier"
+      },
+      {
+        "id": "6941753239433681940",
+        "nom": "Eco Menuisiers 37 SAS",
+        "slug": "eco-menuisiers-37-sas",
+        "telephone": "02 47 25 56 60",
+        "site_web": "https://www.em37.fr/",
+        "adresse": "Zae De La, 334 Rue Francis Perrin, 37260 Monts",
+        "note": 4.8,
+        "avis": 100,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11125851676296744133",
+        "nom": "Pro Tech Rénov",
+        "slug": "pro-tech-renov",
+        "telephone": "02 47 68 95 68",
+        "site_web": "http://www.protech-renov.fr/?utm_source=gmb",
+        "adresse": "16 Rue des Internautes, 37210 Rochecorbon",
+        "note": 4,
+        "avis": 104,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "15931383724452550480",
+        "nom": "BCC",
+        "slug": "bcc",
+        "telephone": "06 77 66 48 90",
+        "site_web": "https://www.bcc-37.fr/",
+        "adresse": "27 Le Genetay, 37260 Thilouze",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Vitrier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9315261658840184660",
+        "nom": "Idéal Intérieur & Extérieur - Artisans Certifié RGE - Menuiserie générale / Isolation thermique à Tours et Fondettes.",
+        "slug": "ideal-interieur-exterieur-artisans-certifie-rge-menuiserie-generale-isolation-thermique-a-tours-et-fondettes",
+        "telephone": "02 47 86 58 42",
+        "site_web": "https://www.idealinterieur-menuiserie-tours.fr/",
+        "adresse": "11 Rue Edouard Branly, 37230 Fondettes",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2945907587989199695",
+        "nom": "Tout Pour Toits",
+        "slug": "tout-pour-toits",
+        "telephone": "06 60 30 28 15",
+        "site_web": "http://tout-pour-toits.fr/",
+        "adresse": null,
+        "note": 3.9,
+        "avis": 7,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "valleres": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "truyes": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "sorigny": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "tours": {
+    "artisans": [
+      {
+        "id": "13506379344338775625",
+        "nom": "DLCC DAVID LOISEUR CHARPENTE COUVERTURE",
+        "slug": "dlcc-david-loiseur-charpente-couverture",
+        "telephone": "02 47 66 84 23",
+        "site_web": "https://www.couverture-tours-davidloiseur.fr/?utm_source=gmb",
+        "adresse": "29 Rue Avisseau, 37000 Tours",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10943617205265512834",
+        "nom": "Avenir Rénovations - Chateauroux",
+        "slug": "avenir-renovations-chateauroux",
+        "telephone": "02 49 88 20 25",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-saint-cyr-sur-loire/",
+        "adresse": "2 Rue de la Moisanderie, 37540 Saint-Cyr-sur-Loire",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "16243155380390304147",
+        "nom": "Le Roi de la Fenêtre",
+        "slug": "le-roi-de-la-fenetre",
+        "telephone": "05 46 52 52 15",
+        "site_web": "https://www.leroidelafenetre.fr/showroom-tours/",
+        "adresse": "30 Rue de Suède, 37000 Tours",
+        "note": 1,
+        "avis": 1,
+        "type": "Magasin"
+      },
+      {
+        "id": "14361612977850770978",
+        "nom": "Fenetres de Touraine",
+        "slug": "fenetres-de-touraine",
+        "telephone": "02 47 86 00 06",
+        "site_web": "https://www.fenetres-de-touraine.com/",
+        "adresse": "rond point de l'avion ZI, Rue de Chizay, 37210 Parçay-Meslay",
+        "note": 4.9,
+        "avis": 111,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17769026417780328078",
+        "nom": "L'Expert Menuiserie",
+        "slug": "lexpert-menuiserie",
+        "telephone": "02 47 41 61 92",
+        "site_web": "https://www.lexpertmenuiserie.fr/",
+        "adresse": "45 bis rue Chevalerie Ccal Pinguet, 37100 Tours",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8801927147799002219",
+        "nom": "France Menuiserie 37",
+        "slug": "france-menuiserie-37",
+        "telephone": "02 47 56 37 37",
+        "site_web": "http://www.francemenuiseriepvcalu.fr/?utm_source=gmb",
+        "adresse": "Hypermarché Auchan Route de Paris, Centre Commercial Auchan, 37100 Tours",
+        "note": 4.7,
+        "avis": 35,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12881519471286759132",
+        "nom": "Iso-maxi",
+        "slug": "iso-maxi",
+        "telephone": "02 47 66 87 87",
+        "site_web": "https://www.isomaxi-menuiseries-tours.fr/",
+        "adresse": "41 Av. André Malraux, 37000 Tours",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17847726098036209664",
+        "nom": "Artisan renov toiture couvreur 37",
+        "slug": "artisan-renov-toiture-couvreur-37",
+        "telephone": "07 59 78 03 63",
+        "site_web": "https://www.artisan-renov-toiture-37.fr/",
+        "adresse": "15 Pl. Michelet, 37000 Tours",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9874428186634106155",
+        "nom": "Wortex Menuiseries",
+        "slug": "wortex-menuiseries",
+        "telephone": "02 47 42 90 48",
+        "site_web": "http://wortex.fr/",
+        "adresse": "3 Rue Albert Caquot, 37170 Chambray-lès-Tours",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5844248545703250511",
+        "nom": "GJ Rénovation",
+        "slug": "gj-renovation",
+        "telephone": "06 21 44 95 35",
+        "site_web": "https://gaisnecouvreur37.com/",
+        "adresse": "1 bis Mail David d'Angers 255, 37000 Tours",
+        "note": 4.8,
+        "avis": 72,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "veigne": {
+    "artisans": [
+      {
+        "id": "12186322437449084074",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "02 47 49 19 66",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/ets-sebastien-cholet",
+        "adresse": "1 Rue de la Morellerie, 37250 Veigné",
+        "note": 4.8,
+        "avis": 93,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "vernou-sur-brenne": {
+    "artisans": [
+      {
+        "id": "6192125133653960294",
+        "nom": "Faucheux David",
+        "slug": "faucheux-david",
+        "telephone": "06 66 69 10 92",
+        "site_web": "https://couvreur72.fr/",
+        "adresse": "26 Rte de Vernou, 37210 Vouvray",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tauxigny-saint-bauld": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villandry": {
+    "artisans": [
+      {
+        "id": "8165928162987245797",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-touraine/indre-et-loire/installateur-expert-en-pose-velux-a-tours",
+        "adresse": "8 Rue Honoré de Balzac, 37000 Tours",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "veretz": {
+    "artisans": [
+      {
+        "id": "10776541878193299961",
+        "nom": "Couverture de Loire",
+        "slug": "couverture-de-loire",
+        "telephone": "06 47 97 96 04",
+        "site_web": "https://www.couverture-de-loire.fr/",
+        "adresse": "9 Rue Clément Ader, 37270 Montlouis-sur-Loire",
+        "note": 4.8,
+        "avis": 29,
+        "type": "Couvreur"
+      },
+      {
+        "id": "467106482760355931",
+        "nom": "Intermarché SUPER Véretz",
+        "slug": "intermarche-super-veretz",
+        "telephone": "02 47 52 47 98",
+        "site_web": "https://www.intermarche.com/magasins/08032/veretz-37270/infos-pratiques/?pdvref=08032&utm_source=gmb",
+        "adresse": "62 Chem. de la Bussardière, 37270 Véretz",
+        "note": 3.8,
+        "avis": 729,
+        "type": "Supermarché"
+      },
+      {
+        "id": "18137493756097614981",
+        "nom": "Germain couverture",
+        "slug": "germain-couverture",
+        "telephone": "06 73 10 56 51",
+        "site_web": "https://www.artisan-couvreur-37.fr/",
+        "adresse": "25 Rue des Isles, 37270 Véretz",
+        "note": 5,
+        "avis": 80,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8461465869416009472",
+        "nom": "Avenir Rénovations Amboise",
+        "slug": "avenir-renovations-amboise",
+        "telephone": "02 21 83 08 95",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-amboise/?utm_source=gmb",
+        "adresse": "20 Rue Jacqueline Auriol, 37700 La Ville-aux-Dames",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "18414059974319021547",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 47 27 41 05",
+        "site_web": "https://magasins.lapeyre.fr/centre-val-de-loire/indre-et-loire/lapeyre-tours-19",
+        "adresse": "134 Av du Grand Sud, 37170 Chambray-lès-Tours",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "yzeures-sur-creuse": {
+    "artisans": [
+      {
+        "id": "11055979586311025649",
+        "nom": "Grosfillex Fenêtres ETS Bourbon",
+        "slug": "grosfillex-fenetres-ets-bourbon",
+        "telephone": "02 47 94 55 99",
+        "site_web": null,
+        "adresse": "58 Rue Pasteur, 37290 Yzeures-sur-Creuse",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3422700948036384407",
+        "nom": "Entreprise Gatault Sarl",
+        "slug": "entreprise-gatault-sarl",
+        "telephone": "02 47 94 55 33",
+        "site_web": "http://www.charpente-couverture-gatault.fr/",
+        "adresse": "21 Le Petit Varennes, 37290 Yzeures-sur-Creuse",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9738122051044451582",
+        "nom": "CASÉO Yzeures-sur-Creuse",
+        "slug": "caseo-yzeures-sur-creuse",
+        "telephone": "02 47 94 55 99",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-yzeures-sur-creuse-yzeures-sur-creuse-133",
+        "adresse": "58 Rue Pasteur, 37290 Yzeures-sur-Creuse",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5148078815120498273",
+        "nom": "B. Bourbon SARL",
+        "slug": "b-bourbon-sarl",
+        "telephone": "02 47 94 55 99",
+        "site_web": "https://www.bourbon-menuiserie.fr/",
+        "adresse": "58 Rue Pasteur, 37290 Yzeures-sur-Creuse",
+        "note": 2.8,
+        "avis": 4,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "villaines-les-rochers": {
+    "artisans": [
+      {
+        "id": "15821345835533815844",
+        "nom": "Meltis",
+        "slug": "meltis",
+        "telephone": "02 47 38 71 37",
+        "site_web": "https://meltis-tours.fr/",
+        "adresse": "14 Av. Thérèse Voisin, 37000 Tours",
+        "note": 4.3,
+        "avis": 109,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "8511931635742841173",
+        "nom": "EIRL RABOIN Fabrice - Menuisier",
+        "slug": "eirl-raboin-fabrice-menuisier",
+        "telephone": "06 87 42 75 88",
+        "site_web": "https://www.menuiserie-raboin.fr/",
+        "adresse": "12 Rue de l'Église, 37190 Villaines-les-Rochers",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2031912628850297446",
+        "nom": "SARL M. BARROT",
+        "slug": "sarl-m-barrot",
+        "telephone": "06 83 86 03 82",
+        "site_web": "https://www.sarl-mbarrot.fr/",
+        "adresse": "8 Rue de la Cheneillère, 37190 Villaines-les-Rochers",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vouvray": {
+    "artisans": [
+      {
+        "id": "6192125133653960294",
+        "nom": "Faucheux David",
+        "slug": "faucheux-david",
+        "telephone": "06 66 69 10 92",
+        "site_web": "https://couvreur72.fr/",
+        "adresse": "26 Rte de Vernou, 37210 Vouvray",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-ville-aux-dames": {
+    "artisans": [
+      {
+        "id": "14815734408144285829",
+        "nom": "SN MSH - Terres de Fenêtre",
+        "slug": "sn-msh-terres-de-fenetre",
+        "telephone": "02 47 37 20 02",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/sn-msh-terres-de-fenetre",
+        "adresse": "1 Rue Louise Lévêque de Vilmorin, 37700 La Ville-aux-Dames",
+        "note": 3.4,
+        "avis": 25,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "villedomer": {
+    "artisans": [
+      {
+        "id": "801864555375166113",
+        "nom": "CSP Habitat",
+        "slug": "csp-habitat",
+        "telephone": "07 88 67 15 59",
+        "site_web": "https://couvreur-37.fr/",
+        "adresse": "5 Rue du Lavoir, 37110 Le Boulay",
+        "note": 5,
+        "avis": 41,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12798797067100503534",
+        "nom": "Jsdcouverture & fils",
+        "slug": "jsdcouverture-fils",
+        "telephone": "02 47 35 54 84",
+        "site_web": "https://www.jsdcouverture-fils.fr/",
+        "adresse": "ZA Ouest Le Boulay, 17 Rue de Fléteau, 37110 Château-Renault",
+        "note": 4.8,
+        "avis": 54,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "villeperdue": {
+    "artisans": [
+      {
+        "id": "10186705147423279315",
+        "nom": "Avenir Rénovations Tours (37)",
+        "slug": "avenir-renovations-tours-37",
+        "telephone": "02 85 52 65 39",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-37-tours/?utm_source=gmb",
+        "adresse": "94 Av. George Sand, 37700 La Ville-aux-Dames",
+        "note": 4.9,
+        "avis": 109,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3947297353257959870",
+        "nom": "Gedimat Leger - Villeperdue",
+        "slug": "gedimat-leger-villeperdue",
+        "telephone": "02 47 26 08 04",
+        "site_web": "http://www.gedimat.fr/index.php?magDest=1564",
+        "adresse": "1 Rue Dame Milon, 37260 Villeperdue",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9315261658840184660",
+        "nom": "Idéal Intérieur & Extérieur - Artisans Certifié RGE - Menuiserie générale / Isolation thermique à Tours et Fondettes.",
+        "slug": "ideal-interieur-exterieur-artisans-certifie-rge-menuiserie-generale-isolation-thermique-a-tours-et-fondettes",
+        "telephone": "02 47 86 58 42",
+        "site_web": "https://www.idealinterieur-menuiserie-tours.fr/",
+        "adresse": "11 Rue Edouard Branly, 37230 Fondettes",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1364047918923158200",
+        "nom": "Ets Dufresne",
+        "slug": "ets-dufresne",
+        "telephone": "02 47 26 08 12",
+        "site_web": "http://www.dufresne.pro/",
+        "adresse": "5 Rue du Carroi du Vignau, 37260 Villeperdue",
+        "note": 4.3,
+        "avis": 253,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2163440373274197978",
+        "nom": "Fibre Elec Concept",
+        "slug": "fibre-elec-concept",
+        "telephone": "06 02 12 23 24",
+        "site_web": null,
+        "adresse": "3 bis La Genetelle, 37260 Villeperdue",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "6937365585682629287",
+        "nom": "Concept Service Habitat - Rénoval - Winsol",
+        "slug": "concept-service-habitat-renoval-winsol",
+        "telephone": "02 47 28 80 00",
+        "site_web": "https://www.concept-service-habitat.fr/",
+        "adresse": "13 ter, d910, 37250 Veigné",
+        "note": 4.9,
+        "avis": 64,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      }
+    ]
+  }
+}

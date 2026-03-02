@@ -1,0 +1,2775 @@
+{
+  "aubin": {
+    "artisans": [
+      {
+        "id": "10903045997786070794",
+        "nom": "TRYBA Decazeville (Aubin)",
+        "slug": "tryba-decazeville-aubin",
+        "telephone": "05 18 23 12 46",
+        "site_web": "https://www.tryba.com/espace-conseil/12/tryba-aubin/?utm_campaign=Tryba_Aubin&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "ZI du Plégat, 12110 Aubin",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4675981659450165253",
+        "nom": "Steven rénovation couvreur étanchéité zingueur toiture gouttière alu charpente garantie décennal maçonnerie isolation Aveyron",
+        "slug": "steven-renovation-couvreur-etancheite-zingueur-toiture-gouttiere-alu-charpente-garantie-decennal-maconnerie-isolation-aveyron",
+        "telephone": "06 68 09 76 16",
+        "site_web": "http://steven-couverture.com/",
+        "adresse": "Côte de Ruau, 12110 Aubin",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11333128075772081093",
+        "nom": "Molenat - Groupe Lorillard",
+        "slug": "molenat-groupe-lorillard",
+        "telephone": "05 65 63 56 35",
+        "site_web": "https://www.lorillard.fr/nos-marques/molenat-fourniture-menuiseries-negoces-materiaux?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb",
+        "adresse": "D840 ZI du Plégat, 12110 Aubin",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2838661428119602707",
+        "nom": "Brico Nico",
+        "slug": "brico-nico",
+        "telephone": "06 63 26 20 06",
+        "site_web": null,
+        "adresse": "Raust, 81800 Rabastens",
+        "note": 5,
+        "avis": 9,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7618918174708019829",
+        "nom": "Maronda",
+        "slug": "maronda",
+        "telephone": "05 65 63 57 33",
+        "site_web": null,
+        "adresse": "12110 Aubin",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17999329116788580264",
+        "nom": "Couvreur Aubin - EJ Couverture",
+        "slug": "couvreur-aubin-ej-couverture",
+        "telephone": "06 60 84 13 56",
+        "site_web": "https://ejcouverture.fr/",
+        "adresse": "La Gousinie, 12110 Aubin",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18295162789540527111",
+        "nom": "Lorenove Decazeville",
+        "slug": "lorenove-decazeville",
+        "telephone": "05 65 43 60 57",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/decazeville?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=agence_decazeville",
+        "adresse": "ZI du Plégat Molenat, 12110 Aubin",
+        "note": 4.9,
+        "avis": 50,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  },
+  "viviez": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "la-loubiere": {
+    "artisans": [
+      {
+        "id": "9647643788991129769",
+        "nom": "Loubière Sarl",
+        "slug": "loubiere-sarl",
+        "telephone": "05 65 42 91 95",
+        "site_web": null,
+        "adresse": "374 Rue des Landes, 12850 Onet-le-Château",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Entrepreneur de cloisons sèches"
+      },
+      {
+        "id": "12560064896812493939",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "05 65 78 38 33",
+        "site_web": "https://magasins.lapeyre.fr/occitanie/aveyron/lapeyre-rodez-50",
+        "adresse": "Rte d'Espalion, 12850 Onet-le-Château",
+        "note": 3.4,
+        "avis": 156,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "3343243358904203167",
+        "nom": "LA BOUTIQUE DU MENUISIER RODEZ",
+        "slug": "la-boutique-du-menuisier-rodez",
+        "telephone": "05 65 42 99 36",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/elen-menuiserie",
+        "adresse": "411 Rue des Orfèvres, 12850 Onet-le-Château",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16241954189911520003",
+        "nom": "ETS MASSON",
+        "slug": "ets-masson",
+        "telephone": "05 65 46 92 30",
+        "site_web": "https://menuiserie-masson.com/",
+        "adresse": "79 Rue De La Devèze Grande, 12740 La Loubière",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1133124789136211146",
+        "nom": "CONFORT 3000 Menuiserie Rodez",
+        "slug": "confort-3000-menuiserie-rodez",
+        "telephone": "05 65 67 34 84",
+        "site_web": "http://www.confort-3000.fr/",
+        "adresse": "660 Rue de Cantaranne, 12850 Onet-le-Château",
+        "note": 4.6,
+        "avis": 78,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "millau": {
+    "artisans": [
+      {
+        "id": "6388347087698016565",
+        "nom": "Grégory MAZET - Menuiseries Alu et PVC : Véranda, pergola, fenêtre, portail, volet",
+        "slug": "gregory-mazet-menuiseries-alu-et-pvc-veranda-pergola-fenetre-portail-volet",
+        "telephone": "05 32 74 91 94",
+        "site_web": "http://www.menuiseries-alu-aveyron.fr/",
+        "adresse": "63 Imp. Général de Gissac, 12100 Millau",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7437826469492634938",
+        "nom": "TRYBA Millau",
+        "slug": "tryba-millau",
+        "telephone": "05 18 23 13 55",
+        "site_web": "https://www.tryba.com/espace-conseil/12/tryba-millau/?utm_campaign=Tryba_Millau&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "48 Av. Jean Jaurès, 12100 Millau",
+        "note": 5,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11874596501468915726",
+        "nom": "FB MENUISERIES COMBES",
+        "slug": "fb-menuiseries-combes",
+        "telephone": "05 65 61 14 74",
+        "site_web": null,
+        "adresse": "2 Bd Richard A, 12100 Millau",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9983872501200523012",
+        "nom": "Menuiseries Combes",
+        "slug": "menuiseries-combes",
+        "telephone": "05 65 59 28 00",
+        "site_web": "https://www.menuiseriescombes.fr/",
+        "adresse": "191 Av. des Fialets, 12100 Millau",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13546137427988193905",
+        "nom": "Andral Menuiseries",
+        "slug": "andral-menuiseries",
+        "telephone": "06 47 96 34 19",
+        "site_web": "http://www.facebook.com/andralmenuiseries?utm_source=gmb",
+        "adresse": "115 Bd Jean Gabriac, 12100 Millau",
+        "note": 4.8,
+        "avis": 60,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10830831820962709361",
+        "nom": "Stores et fenêtres - BATIMAN",
+        "slug": "stores-et-fenetres-batiman",
+        "telephone": "06 13 87 27 38",
+        "site_web": "https://www.batiman.fr/magasin-menuiserie-cuisine-12-millau-millau/batiman-millau",
+        "adresse": "78 Av. Jean Jaurès, 12100 Millau",
+        "note": 4.6,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4683175792136346924",
+        "nom": "GARLENC MENUISERIE - Fenêtre, Porte, Portail, Volet, Placards, Pergola",
+        "slug": "garlenc-menuiserie-fenetre-porte-portail-volet-placards-pergola",
+        "telephone": "05 65 60 18 16",
+        "site_web": "https://www.garlenc-menuiserie.com/",
+        "adresse": "51 Av. Jean Jaurès, 12100 Millau",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "86694853082742496",
+        "nom": "Angles Ets Fabricant Menuiseries ALU",
+        "slug": "angles-ets-fabricant-menuiseries-alu",
+        "telephone": "05 65 60 15 20",
+        "site_web": null,
+        "adresse": "133 Rue Jean Cottereau Viala, 12100 Millau",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "13107437201443111593",
+        "nom": "SARL SAM Segala",
+        "slug": "sarl-sam-segala",
+        "telephone": "05 65 60 89 32",
+        "site_web": "https://www.sam-segala.fr/?utm_source=gmb",
+        "adresse": "125 Av. Jean Jaurès, 12100 Millau",
+        "note": 5,
+        "avis": 43,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "livinhac-le-haut": {
+    "artisans": [
+      {
+        "id": "10064198622642391263",
+        "nom": "Lac et Fils",
+        "slug": "lac-et-fils",
+        "telephone": "05 65 63 34 17",
+        "site_web": "http://www.lacetfils.fr/",
+        "adresse": "Les Esplagnes, 12300 Livinhac-le-Haut",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "12260689014199619404",
+        "nom": "TECHNIMEN Menuiserie Aurillac",
+        "slug": "technimen-menuiserie-aurillac",
+        "telephone": "04 71 43 25 88",
+        "site_web": "http://www.technimen.fr/",
+        "adresse": "5 Rte du Collet, 15000 Aurillac",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "468902485634601320",
+        "nom": "Lm menuiseries12",
+        "slug": "lm-menuiseries12",
+        "telephone": "06 74 42 41 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "marcillac-vallon": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "le-monastere": {
+    "artisans": [
+      {
+        "id": "17838026665463557580",
+        "nom": "Aveyron Gouttiere alu",
+        "slug": "aveyron-gouttiere-alu",
+        "telephone": "06 98 78 92 43",
+        "site_web": "https://www.couvreur-zingueur-menton.fr/",
+        "adresse": "19 Av. des Arcades, 12000 Le Monastère",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16358354180881460612",
+        "nom": "Menuiserie Salvan Rodez",
+        "slug": "menuiserie-salvan-rodez",
+        "telephone": "06 88 03 03 82",
+        "site_web": "https://www.menuiserierodez.fr/",
+        "adresse": "2 Av. du Vivier, 12000 Le Monastère",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2601654372918474278",
+        "nom": "Paul Barriac SAS",
+        "slug": "paul-barriac-sas",
+        "telephone": "05 65 67 19 85",
+        "site_web": "http://www.couvreur-rodez-barriac.fr/",
+        "adresse": "zone Industrielle Cantaranne Onet le chateau, 12000 Rodez",
+        "note": 4,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "453329827752049934",
+        "nom": "VERRE SOLUTIONS RODEZ",
+        "slug": "verre-solutions-rodez",
+        "telephone": "05 65 75 44 31",
+        "site_web": "https://agence.verre-solutions.com/32-verre-solutions-rodez?utm_source=gmb",
+        "adresse": "6 Rue Marc Robert, 12000 Rodez",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "5799570683275897524",
+        "nom": "Couvreur Aveyron",
+        "slug": "couvreur-aveyron",
+        "telephone": "06 32 97 86 43",
+        "site_web": "https://couvreuraveyron.xyz/",
+        "adresse": "683 Rue du Quercy, 12000 Rodez",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6693316522352273539",
+        "nom": "Lacombe Frederic SOLABAIE",
+        "slug": "lacombe-frederic-solabaie",
+        "telephone": "05 65 67 07 19",
+        "site_web": "https://www.lacombe-fermetures.fr/",
+        "adresse": "Parc d'Activité de Cantaranne, 169 Rue de la Prade, 12850 Onet-le-Château",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8062606837501538520",
+        "nom": "Bousquet Philippe",
+        "slug": "bousquet-philippe",
+        "telephone": "06 82 63 55 44",
+        "site_web": "http://bousquetphilippe.site-solocal.com/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1119477209905548496",
+        "nom": "Guy Zebloun ETS",
+        "slug": "guy-zebloun-ets",
+        "telephone": "05 65 75 44 34",
+        "site_web": null,
+        "adresse": "12510 Olemps",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "luc-la-primaube": {
+    "artisans": [
+      {
+        "id": "10312866568878241948",
+        "nom": "Chris Menuiserie",
+        "slug": "chris-menuiserie",
+        "telephone": "06 48 40 58 96",
+        "site_web": "https://chrismenuiserie.com/",
+        "adresse": "7 La Souque, 12450 Luc-la-Primaube",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13027978497184209558",
+        "nom": "Menuiseries Mercade - Art et Fenêtres - Concept Alu Vérandas et Pergolas - Rodez",
+        "slug": "menuiseries-mercade-art-et-fenetres-concept-alu-verandas-et-pergolas-rodez",
+        "telephone": "05 65 65 70 52",
+        "site_web": "https://www.menuiseries-mercade.com/",
+        "adresse": "217 Av. de Rodez, 12450 Luc-la-Primaube",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17426234731018976231",
+        "nom": "PRIMAUB ALU Sarl",
+        "slug": "primaub-alu-sarl",
+        "telephone": "06 20 59 17 19",
+        "site_web": "https://www.primaub-alu.fr/",
+        "adresse": "37 Rue Henri Fabre, 12450 Luc-la-Primaube",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8594312240545223686",
+        "nom": "Cluzel SAS",
+        "slug": "cluzel-sas",
+        "telephone": "05 65 71 40 32",
+        "site_web": "https://www.toutfaire.fr/cluzel-la-primaube/presentation/",
+        "adresse": "Rue du Pont Bascule, 12450 Luc-la-Primaube",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "886717334169385424",
+        "nom": "SOLEÍ Menuiserie - Maison du Menuisier",
+        "slug": "solei-menuiserie-maison-du-menuisier",
+        "telephone": "05 65 71 49 99",
+        "site_web": "https://solei-aveyron.fr/",
+        "adresse": "Z.A. Les Amourals, 8 Les Cazals II, 12450 Luc-la-Primaube",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7655511188386623157",
+        "nom": "Monsieur Store Rodez - Probaie",
+        "slug": "monsieur-store-rodez-probaie",
+        "telephone": "05 65 69 27 65",
+        "site_web": "https://monsieurstore.com/magasin/rodez-12450/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+        "adresse": "2 Rue Garlassac, 12450 Luc-la-Primaube",
+        "note": 4.8,
+        "avis": 94,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "8817212198545024264",
+        "nom": "Weldom La Primaube",
+        "slug": "weldom-la-primaube",
+        "telephone": "05 65 69 40 49",
+        "site_web": "https://www.weldom.fr/m/weldom-la-primaube",
+        "adresse": "24 Av. du Stade, 12450 Luc-la-Primaube",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "18043938167643599190",
+        "nom": "Mauvertex 3M",
+        "slug": "mauvertex-3m",
+        "telephone": "05 65 67 40 88",
+        "site_web": "https://www.mauvertex.fr/",
+        "adresse": "17 Av. de l'Entreprise, 12000 Rodez",
+        "note": 4.2,
+        "avis": 83,
+        "type": "Magasin de rideaux et stores"
+      },
+      {
+        "id": "10091012183548544696",
+        "nom": "HERVE ANDRIEU - Artisan Vernisseur",
+        "slug": "herve-andrieu-artisan-vernisseur",
+        "telephone": "05 65 60 01 94",
+        "site_web": "https://www.herve-andrieu-vernisseur.fr/",
+        "adresse": "12 Rte de la Barthe, 12450 Luc-la-Primaube",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7366123129924691763",
+        "nom": "Briconautes La Primaube",
+        "slug": "briconautes-la-primaube",
+        "telephone": "05 65 69 40 49",
+        "site_web": null,
+        "adresse": "24 Av. du Stade, 12450 Luc-la-Primaube",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "montbazens": {
+    "artisans": [
+      {
+        "id": "5705387382377409510",
+        "nom": "Arrazat Didier Et Fils",
+        "slug": "arrazat-didier-et-fils",
+        "telephone": "05 65 80 48 01",
+        "site_web": "http://www.facebook.com/sarl-arrazat-d-et-fils-763048893801570",
+        "adresse": "Le Fargal Haut, 4 Parc Artis du Fargal Haut, 12220 Montbazens",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "9411959820629754733",
+        "nom": "PRO&Cie - Ent. Electrotechnique",
+        "slug": "procie-ent-electrotechnique",
+        "telephone": "05 65 80 64 86",
+        "site_web": "https://www.procie.com/",
+        "adresse": "pro et cie, Le Fargal, 12220 Montbazens",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "montrozier": {
+    "artisans": [
+      {
+        "id": "11667960598631670100",
+        "nom": "Miroiterie Ruthénoise",
+        "slug": "miroiterie-ruthenoise",
+        "telephone": "05 65 77 10 25",
+        "site_web": "https://www.miroiterie-ruthenoise.fr/",
+        "adresse": "Bel Air, 77 Rue Thomas Edison, 12000 Rodez",
+        "note": 4.3,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18365666972979741039",
+        "nom": "DEXT Habitat (ex Vias Alu) - Extension Maison, Vérandas, Pergolas",
+        "slug": "dext-habitat-ex-vias-alu-extension-maison-verandas-pergolas",
+        "telephone": "05 65 69 68 05",
+        "site_web": "https://dext-habitat.fr/",
+        "adresse": "Z.A.E. des Combes, 12310 Laissac-Sévérac l'Église",
+        "note": 4.7,
+        "avis": 51,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "142643516437932459",
+        "nom": "Repar'stores Rodez / Villefranche - Réparation Volet Roulant et Store",
+        "slug": "reparstores-rodez-villefranche-reparation-volet-roulant-et-store",
+        "telephone": "06 58 17 62 77",
+        "site_web": "https://www.reparstores.com/intervenants/256-thierry-costes?utm_source=google&utm_medium=gmb&utm_campaign=rodez&utm_term=liensiteweb",
+        "adresse": "7 Chem. de la Combe, 12630 Montrozier",
+        "note": 4.9,
+        "avis": 85,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "7995169099235560998",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "05 65 43 68 63",
+        "site_web": "https://www.gustaverideau.com/agences/rodez-qualibaie-12/?utm_campaign=rodez&utm_medium=GMB&utm_source=google",
+        "adresse": "Zone commerciale La, Cassagnettes, 12510 Olemps",
+        "note": 5,
+        "avis": 62,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "18152905589122743394",
+        "nom": "MAtoiture",
+        "slug": "matoiture",
+        "telephone": "06 88 93 30 09",
+        "site_web": null,
+        "adresse": "4 Rue François Fabié, 12310 Laissac-Sévérac l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2406485274085163505",
+        "nom": "Olier Christophe",
+        "slug": "olier-christophe",
+        "telephone": "05 65 42 98 04",
+        "site_web": "http://rodezartisanpeintre.over-blog.com/#",
+        "adresse": "Lotissement Les Genevriers 5, 12630 Montrozier",
+        "note": 5,
+        "avis": 4,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "nant": {
+    "artisans": [
+      {
+        "id": "2609856005350265630",
+        "nom": "SARL FÉVRIER Jean-Marc",
+        "slug": "sarl-fevrier-jean-marc",
+        "telephone": "05 65 62 28 79",
+        "site_web": null,
+        "adresse": "Rue du Faubourg Haut, 12230 Nant",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2266965548615423608",
+        "nom": "parc du claux",
+        "slug": "parc-du-claux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12230 Nant",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Parc citadin"
+      },
+      {
+        "id": "353757058987555568",
+        "nom": "Aveyron Couverture",
+        "slug": "aveyron-couverture",
+        "telephone": "05 65 60 23 30",
+        "site_web": "https://www.aveyron-couverture.fr/",
+        "adresse": "Rue les Hauts du Vivier, 12100 Millau",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Entreprise d'étanchéité"
+      }
+    ]
+  },
+  "moyrazes": {
+    "artisans": [
+      {
+        "id": "1224831055408252697",
+        "nom": "Mayran Menuiseries / SAS LOUIS-BROUSSY",
+        "slug": "mayran-menuiseries-sas-louis-broussy",
+        "telephone": "05 31 97 03 65",
+        "site_web": "https://terresdefenetre.fr/nos-partenaires/mayran-menuiseries-sas-louis-broussy",
+        "adresse": "23 avenue d'occitanie, 12390 Mayran",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10506038426278611530",
+        "nom": "LaRefabrique",
+        "slug": "larefabrique",
+        "telephone": "06 60 75 03 15",
+        "site_web": "http://larefabrique.fr/",
+        "adresse": "Rue Croix du, Le Verdier, 12160 Moyrazès",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "olemps": {
+    "artisans": [
+      {
+        "id": "11512984762257330808",
+        "nom": "Menuiserie 12",
+        "slug": "menuiserie-12",
+        "telephone": "05 65 42 29 89",
+        "site_web": "https://menuiserie-rodez.fr/",
+        "adresse": "195 Rue Barthelemy Thimonnier, 12510 Olemps",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "13775243420071821311",
+        "nom": "Rouergue Aluminium",
+        "slug": "rouergue-aluminium",
+        "telephone": "05 65 75 44 34",
+        "site_web": "http://www.rouerguealu.com/",
+        "adresse": "La broussine ZA, 12510 Olemps",
+        "note": 4.5,
+        "avis": 52,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17367170496122747451",
+        "nom": "Aveyron Stores - Menuiseries, Pergolas, Volets et Portes de Garage à Rodez dans l'Aveyron",
+        "slug": "aveyron-stores-menuiseries-pergolas-volets-et-portes-de-garage-a-rodez-dans-laveyron",
+        "telephone": "05 65 42 81 23",
+        "site_web": "http://www.aveyron-stores.fr/",
+        "adresse": "Zone commerciale de Puy, Parc Commercial de Puy Laroque, 12510 Olemps",
+        "note": 4.7,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7085990566888428667",
+        "nom": "CASÉO Rodez",
+        "slug": "caseo-rodez",
+        "telephone": "05 65 75 44 34",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-rodez-olemps-108",
+        "adresse": "La Broussine ZA, 12510 Olemps",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4443735278433672505",
+        "nom": "TRYBA Rodez",
+        "slug": "tryba-rodez",
+        "telephone": "05 18 23 12 47",
+        "site_web": "https://www.tryba.com/espace-conseil/12/tryba-rodez/?utm_campaign=Tryba_Rodez&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "6 avenue de l'Hôpital Bourran, 12000 Rodez",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17930533204635889457",
+        "nom": "ALU12 Menuiserie Rodez",
+        "slug": "alu12-menuiserie-rodez",
+        "telephone": "06 79 08 80 84",
+        "site_web": "http://alu12-menuiserie-rodez.fr/",
+        "adresse": "ZA du Gazet, 12510 Olemps",
+        "note": 0,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "palmas-d-aveyron": {
+    "artisans": [
+      {
+        "id": "12892579982307814325",
+        "nom": "AD Couverture",
+        "slug": "ad-couverture",
+        "telephone": "06 56 79 54 00",
+        "site_web": null,
+        "adresse": "Briounas Lieu dit, 12340 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7875510525711304878",
+        "nom": "Chez Guilou",
+        "slug": "chez-guilou",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12340 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 19,
+        "type": "Épicerie"
+      },
+      {
+        "id": "1794480934934528604",
+        "nom": "Ricomes tp",
+        "slug": "ricomes-tp",
+        "telephone": "06 99 93 57 14",
+        "site_web": "https://www.facebook.com/share/1ANeeaSJzW/?mibextid=wwXIfr",
+        "adresse": "188 Le Verdier Bas, 12310 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9115293258849065618",
+        "nom": "Mairie de Palmas d'Aveyron à Palmas (Commune nouvelle Coussergues, Cruéjouls et Palmas)",
+        "slug": "mairie-de-palmas-daveyron-a-palmas-commune-nouvelle-coussergues-cruejouls-et-palmas",
+        "telephone": "05 65 70 67 15",
+        "site_web": "http://palmasdaveyron.fr/",
+        "adresse": "12310 Palmas d'Aveyron",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Mairie de village"
+      },
+      {
+        "id": "13321510380369489288",
+        "nom": "Carrié Serge",
+        "slug": "carrie-serge",
+        "telephone": "05 65 48 74 01",
+        "site_web": "https://travauxagricolescarrieserge.fr/",
+        "adresse": "Palauzets, 12340 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 4,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "7136224619662785444",
+        "nom": "RAYNAL CARRELAGE - Carreleur",
+        "slug": "raynal-carrelage-carreleur",
+        "telephone": "06 84 23 47 50",
+        "site_web": "https://www.facebook.com/profile.php?id=61550822987573",
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Carreleur"
+      }
+    ]
+  },
+  "onet-le-chateau": {
+    "artisans": [
+      {
+        "id": "9906136011491645020",
+        "nom": "GAMSO",
+        "slug": "gamso",
+        "telephone": "05 65 68 30 89",
+        "site_web": "https://www.gamso-menuiseries.fr/",
+        "adresse": "380 Rue du Levant, ZA Puech 2, 12160 Baraqueville",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15085476574564927362",
+        "nom": "Grosfillex Fenêtres Rodez",
+        "slug": "grosfillex-fenetres-rodez",
+        "telephone": "05 65 68 80 37",
+        "site_web": "https://www.grosfillex-rodez.fr/",
+        "adresse": "33 Rue d'Espalion, 12850 Onet-le-Château",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "3468410567946708672",
+        "nom": "Laussel et Fau",
+        "slug": "laussel-et-fau",
+        "telephone": "05 65 74 92 59",
+        "site_web": "https://laussel-fau.fr/",
+        "adresse": "1590 Rue de Cantaranne, 12850 Onet-le-Château",
+        "note": 3.8,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "naucelle": {
+    "artisans": [
+      {
+        "id": "13305378702956800783",
+        "nom": "Morel couverture",
+        "slug": "morel-couverture",
+        "telephone": "06 43 93 17 29",
+        "site_web": "http://www.reno-couverture.com/",
+        "adresse": "12 Av. Jean Moulin, 12800 Naucelle",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6939731610795150118",
+        "nom": "Scierie Bois du Ségala (SAS)",
+        "slug": "scierie-bois-du-segala-sas",
+        "telephone": "05 65 69 21 46",
+        "site_web": "http://www.sylva-bois.fr/",
+        "adresse": "ZA de Merlin, 12800 Naucelle",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Scierie"
+      },
+      {
+        "id": "17876202162293870894",
+        "nom": "Menuiserie Barthez",
+        "slug": "menuiserie-barthez",
+        "telephone": null,
+        "site_web": "https://menuiseriebarthez.com/",
+        "adresse": "18 Rue de la Gare, 12800 Naucelle",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14842867087447185763",
+        "nom": "AJM maison bois",
+        "slug": "ajm-maison-bois",
+        "telephone": "05 65 69 21 50",
+        "site_web": "https://ajmmaisonbois.fr/",
+        "adresse": "ZA de l'issart, 12800",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11683974623309843514",
+        "nom": "Point.P - Naucelle",
+        "slug": "pointp-naucelle",
+        "telephone": "05 65 69 21 07",
+        "site_web": "https://www.pointp.fr/infos-agence/naucelle-point-p-3414",
+        "adresse": "N88, 12800 Naucelle",
+        "note": 4.3,
+        "avis": 36,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "3007657156602733333",
+        "nom": "Les lunettes d’Eric",
+        "slug": "les-lunettes-deric",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Bd du Rouergue, 12800 Naucelle",
+        "note": 5,
+        "avis": 2,
+        "type": "Opticien"
+      },
+      {
+        "id": "8268881570965040456",
+        "nom": "AVEYRON SCIERIE BOIS",
+        "slug": "aveyron-scierie-bois",
+        "telephone": "05 65 72 18 83",
+        "site_web": "http://www.aveyronscieriebois.com/",
+        "adresse": "VC Zone de l'Issart, 12800 Naucelle",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "requista": {
+    "artisans": [
+      {
+        "id": "15320635387495522160",
+        "nom": "LA BOUTIQUE DU MENUISIER AUDOUARD",
+        "slug": "la-boutique-du-menuisier-audouard",
+        "telephone": "05 65 46 24 55",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/audouard-a",
+        "adresse": "54 Av. d'Albi, 12170 Réquista",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15320635387495522160",
+        "nom": "LA BOUTIQUE DU MENUISIER AUDOUARD",
+        "slug": "la-boutique-du-menuisier-audouard",
+        "telephone": "05 65 46 24 55",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/audouard-a",
+        "adresse": "54 Av. d'Albi, 12170 Réquista",
+        "note": 4.3,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "222914842674690515",
+        "nom": "Vidal Jean-Christophe",
+        "slug": "vidal-jean-christophe",
+        "telephone": "05 65 46 14 03",
+        "site_web": null,
+        "adresse": "3 Rte de Lincou, 12170 Réquista",
+        "note": 5,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "10679264108889829170",
+        "nom": "Weldom Requista",
+        "slug": "weldom-requista",
+        "telephone": "05 32 09 99 66",
+        "site_web": "https://www.weldom.fr/m/weldom-requista",
+        "adresse": "Avenue d'Albi Le Roc blanc, 12170 Réquista",
+        "note": 4.4,
+        "avis": 143,
+        "type": "Magasin de bricolage"
+      }
+    ]
+  },
+  "pont-de-salars": {
+    "artisans": [
+      {
+        "id": "11929395688925522718",
+        "nom": "Centre Alu 12",
+        "slug": "centre-alu-12",
+        "telephone": "05 65 46 80 31",
+        "site_web": "http://www.menuiserie-veranda-rodez.com/",
+        "adresse": "ZA la Plaine, 12290 Pont-de-Salars",
+        "note": 4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18324045049648689376",
+        "nom": "RINEL COUVERTURE",
+        "slug": "rinel-couverture",
+        "telephone": "06 98 15 10 50",
+        "site_web": null,
+        "adresse": "78 Rue du Rial, 12290 Pont-de-Salars",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "rignac": {
+    "artisans": [
+      {
+        "id": "217893239293143099",
+        "nom": "AJPM",
+        "slug": "ajpm",
+        "telephone": "06 85 50 92 03",
+        "site_web": null,
+        "adresse": "26 Av. de Villefranche, 12390 Rignac",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1843364067056078903",
+        "nom": "Menuiserie BALARD",
+        "slug": "menuiserie-balard",
+        "telephone": "06 38 64 61 68",
+        "site_web": null,
+        "adresse": "11 avenue du, Av. Puech Carlet, 12390 Rignac",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17886385310739434939",
+        "nom": "G-Bois",
+        "slug": "g-bois",
+        "telephone": "06 72 55 95 48",
+        "site_web": "http://www.g-bois.fr/",
+        "adresse": "11 ZA, 12390 Rignac",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5003800199019685200",
+        "nom": "Vialars Michel",
+        "slug": "vialars-michel",
+        "telephone": "06 71 43 00 28",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "17889291660371104319",
+        "nom": "CRéA Bât SIRMAIN",
+        "slug": "crea-bat-sirmain",
+        "telephone": "06 08 02 68 36",
+        "site_web": "https://www.facebook.com/creabatsirmain/",
+        "adresse": "29 Rue des Artisans Zone Artisanale Les Landes, 18 ZA, 12390 Rignac",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14747042844630088034",
+        "nom": "Filhol Patrick",
+        "slug": "filhol-patrick",
+        "telephone": "05 65 64 46 03",
+        "site_web": null,
+        "adresse": "13 Lot. des Landes, 12390 Rignac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "rieupeyroux": {
+    "artisans": [
+      {
+        "id": "12126173472571639836",
+        "nom": "NOST SERVICE",
+        "slug": "nost-service",
+        "telephone": "05 65 81 51 01",
+        "site_web": "https://nostservice.com/",
+        "adresse": "Puech de Sematary, 12240 Rieupeyroux",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11089660889597625721",
+        "nom": "Point.P - Rieupeyroux",
+        "slug": "pointp-rieupeyroux",
+        "telephone": "05 65 65 51 11",
+        "site_web": "https://www.pointp.fr/infos-agence/rieupeyroux-point-p-3425",
+        "adresse": "Rue du Campagnal, 12240 Rieupeyroux",
+        "note": 4.2,
+        "avis": 68,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "12063619161858863050",
+        "nom": "Chalets Fabre",
+        "slug": "chalets-fabre",
+        "telephone": "05 65 65 57 95",
+        "site_web": "https://www.sunshine-habitat.com/",
+        "adresse": "ZA, 12240 Rieupeyroux",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "6823610581182477347",
+        "nom": "Cros Energies",
+        "slug": "cros-energies",
+        "telephone": "05 65 81 44 46",
+        "site_web": null,
+        "adresse": "Z.A La Lande Etroite, 12240 Rieupeyroux",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "1613160797812669514",
+        "nom": "Cadene Et Fils Sarl",
+        "slug": "cadene-et-fils-sarl",
+        "telephone": "05 65 65 62 61",
+        "site_web": "https://www.garagecadeneetfils.myautoconseil.com/",
+        "adresse": "Rte de Rodez, 12240 Rieupeyroux",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Atelier de mécanique automobile"
+      },
+      {
+        "id": "8936999647807590496",
+        "nom": "Le Ségalou",
+        "slug": "le-segalou",
+        "telephone": "05 65 65 58 16",
+        "site_web": null,
+        "adresse": "Rte de Rodez, 12240 Rieupeyroux",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Boucherie"
+      }
+    ]
+  },
+  "riviere-sur-tarn": {
+    "artisans": [
+      {
+        "id": "353757058987555568",
+        "nom": "Aveyron Couverture",
+        "slug": "aveyron-couverture",
+        "telephone": "05 65 60 23 30",
+        "site_web": "https://www.aveyron-couverture.fr/",
+        "adresse": "Rue les Hauts du Vivier, 12100 Millau",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Entreprise d'étanchéité"
+      }
+    ]
+  },
+  "rodez": {
+    "artisans": [
+      {
+        "id": "3942525246284325111",
+        "nom": "Lorenove Rodez",
+        "slug": "lorenove-rodez",
+        "telephone": "05 65 43 60 57",
+        "site_web": "https://www.fenetres-lorenove.fr/agence/rodez?utm_source=gmb&utm_medium=gmb&utm_campaign=gmb",
+        "adresse": "4 Av. de Bourran, 12000 Rodez",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17377972625124452866",
+        "nom": "Distri Menuiserie",
+        "slug": "distri-menuiserie",
+        "telephone": "06 74 38 30 70",
+        "site_web": "http://www.distrimenuiseries-fenetres.fr/",
+        "adresse": "Carr de Saint-Éloi, 12000 Rodez",
+        "note": 2.1,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-affrique": {
+    "artisans": [
+      {
+        "id": "17677580045837381746",
+        "nom": "Menuiseries Combes",
+        "slug": "menuiseries-combes",
+        "telephone": "05 65 99 43 73",
+        "site_web": null,
+        "adresse": "19 Pl. de la Liberté, 12400 Saint-Affrique",
+        "note": 5,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "4934327860993446173",
+        "nom": "Alcap Habitat",
+        "slug": "alcap-habitat",
+        "telephone": "05 65 97 55 31",
+        "site_web": "https://st-affrique.maisondumenuisier.fr/",
+        "adresse": "57 Bd de Verdun, 12400 Saint-Affrique",
+        "note": 4.6,
+        "avis": 15,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "1122922713992336436",
+        "nom": "TRYBA Saint-Affrique",
+        "slug": "tryba-saint-affrique",
+        "telephone": "05 18 23 03 96",
+        "site_web": "https://www.tryba.com/espace-conseil/12/tryba-saint-affrique/?utm_campaign=Tryba_Saint-Affrique&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "12 bis Av. Jules Bourgougnon, 12400 Saint-Affrique",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10025505359263517115",
+        "nom": "Gaven Ludovic",
+        "slug": "gaven-ludovic",
+        "telephone": "05 65 99 56 68",
+        "site_web": null,
+        "adresse": "5 Rue Pierre et Marie Curie, 12400 Saint-Affrique",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13759764314229562953",
+        "nom": "Leroux Patrick",
+        "slug": "leroux-patrick",
+        "telephone": "06 82 11 89 62",
+        "site_web": "http://www.artisan-menuiserie.fr/",
+        "adresse": "12400 Les Costes-Gozon",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2105259416732052850",
+        "nom": "Maraval François",
+        "slug": "maraval-francois",
+        "telephone": "05 65 49 27 07",
+        "site_web": null,
+        "adresse": "280 Rte de Bournac, 12400 Saint-Affrique",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "saint-come-d-olt": {
+    "artisans": [
+      {
+        "id": "656596522710100490",
+        "nom": "RAFFY Menuiseries et constructions bois",
+        "slug": "raffy-menuiseries-et-constructions-bois",
+        "telephone": "05 65 44 07 30",
+        "site_web": null,
+        "adresse": "14 Av. d'Espalion, 12500 Saint-Côme-d'Olt",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-geniez-d-olt-et-d-aubrac": {
+    "artisans": [
+      {
+        "id": "9859805842995378298",
+        "nom": "Solignac Couverture",
+        "slug": "solignac-couverture",
+        "telephone": "06 33 98 65 48",
+        "site_web": "http://www.solignac-couverture.fr/",
+        "adresse": "et d'Aubrac, route Combetalade Hauts De, Moulin de Juéry, 12130",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14639733705871798503",
+        "nom": "sarlctm",
+        "slug": "sarlctm",
+        "telephone": "05 65 47 38 92",
+        "site_web": null,
+        "adresse": "22 Z.A, La Salle, 12130",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7152113259071836299",
+        "nom": "Création & Rénovation",
+        "slug": "creation-renovation",
+        "telephone": "06 73 26 74 88",
+        "site_web": "https://creation-renovation-aveyron.fr/",
+        "adresse": "15 zone artisanale de la salle, La Falque, 12130 St Geniez d'Olt et d'Aubrac",
+        "note": 5,
+        "avis": 24,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "4064697958922548685",
+        "nom": "Point.P - Saint-Geniez-d'Olt",
+        "slug": "pointp-saint-geniez-dolt",
+        "telephone": "05 65 70 41 94",
+        "site_web": "https://www.pointp.fr/infos-agence/saint-geniez-d-olt-point-p-1904",
+        "adresse": "674 La Falque ZA DE, 12130 St Geniez d'Olt et d'Aubrac",
+        "note": 4.2,
+        "avis": 47,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "argences-en-aubrac": {
+    "artisans": [
+      {
+        "id": "7826459106273095657",
+        "nom": "ETABLISSEMENTS BORDES BARRIAC",
+        "slug": "etablissements-bordes-barriac",
+        "telephone": "05 65 66 45 12",
+        "site_web": "https://www.couvreur-aubrac-bordes.fr/",
+        "adresse": "ZA des Bessieres, 12420 Argences en Aubrac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "salles-curan": {
+    "artisans": [
+      {
+        "id": "10103321084227381084",
+        "nom": "Menuiserie Marty Joel",
+        "slug": "menuiserie-marty-joel",
+        "telephone": "05 65 46 30 81",
+        "site_web": "http://escaliers-menuiserie-marty.jimdo.com/",
+        "adresse": "Bouloc, 12410 Salles-Curan",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sainte-radegonde": {
+    "artisans": [
+      {
+        "id": "17461151522713442143",
+        "nom": "Couvreur Bournhonesque ghislain",
+        "slug": "couvreur-bournhonesque-ghislain",
+        "telephone": "06 37 81 59 21",
+        "site_web": null,
+        "adresse": "7 Rue des Cammas, 12850 Sainte-Radegonde",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-christophe-vallon": {
+    "artisans": [
+      {
+        "id": "1357163759737850197",
+        "nom": "Volte Benoit",
+        "slug": "volte-benoit",
+        "telephone": "09 62 06 99 85",
+        "site_web": null,
+        "adresse": "Les Aumières, 12330 Saint-Christophe-Vallon",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7718471284842990875",
+        "nom": "Layrol Jean-Marc - Tout Faire",
+        "slug": "layrol-jean-marc-tout-faire",
+        "telephone": "05 65 72 70 02",
+        "site_web": "https://www.toutfaire.fr/layrol-jean-marc-saint-christophe-vallon.html",
+        "adresse": "586 Rte de Rodez, 12330 Saint-Christophe-Vallon",
+        "note": 4.5,
+        "avis": 48,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-georges-de-luzencon": {
+    "artisans": [
+      {
+        "id": "10036880345120485228",
+        "nom": "Cros-delmas Sarl",
+        "slug": "cros-delmas-sarl",
+        "telephone": "05 65 62 40 40",
+        "site_web": "https://www.cros-delmas.com/",
+        "adresse": "ZI de Vergonhac, 13 Rte de Linas, 12100 Saint-Georges-de-Luzençon",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "7456416550584625746",
+        "nom": "RAYMOND David",
+        "slug": "raymond-david",
+        "telephone": "05 65 58 16 79",
+        "site_web": "https://www.david-raymond.fr/",
+        "adresse": "22 Rue du Mas de Guillou, 12100 Saint-Georges-de-Luzençon",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12743984096047982847",
+        "nom": "Carnac Couverture",
+        "slug": "carnac-couverture",
+        "telephone": "07 71 80 15 44",
+        "site_web": null,
+        "adresse": "Pl. des Costettes, 12100 Saint-Georges-de-Luzençon",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "salles-la-source": {
+    "artisans": [
+      {
+        "id": "14025166225893257631",
+        "nom": "Émilien Viguier - Charpente et Ossature Bois",
+        "slug": "emilien-viguier-charpente-et-ossature-bois",
+        "telephone": "06 75 75 35 73",
+        "site_web": "http://evcharpentier.fr/",
+        "adresse": "63 Rte de la Picardie, 12330 Salles-la-Source",
+        "note": 5,
+        "avis": 11,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5626147058185875030",
+        "nom": "Cascade de Salles-la-Source",
+        "slug": "cascade-de-salles-la-source",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "33 Rue du Bourg, 12330 Salles-la-Source",
+        "note": 4.7,
+        "avis": 4079,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "16356271099528187323",
+        "nom": "Pradié Christian",
+        "slug": "pradie-christian",
+        "telephone": "05 65 74 95 33",
+        "site_web": null,
+        "adresse": "Combe Rouge, 12330 Salles-la-Source",
+        "note": 4.2,
+        "avis": 18,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "13484512804493800071",
+        "nom": "Issalis Et Fils",
+        "slug": "issalis-et-fils",
+        "telephone": "05 65 71 72 79",
+        "site_web": "https://issalisetfils-electricite-aveyron.fr/",
+        "adresse": "Cougousse, 12330 Salles-la-Source",
+        "note": 5,
+        "avis": 8,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "le-bas-segala": {
+    "artisans": [
+      {
+        "id": "13107437201443111593",
+        "nom": "SARL SAM Segala",
+        "slug": "sarl-sam-segala",
+        "telephone": "05 65 60 89 32",
+        "site_web": "https://www.sam-segala.fr/?utm_source=gmb",
+        "adresse": "125 Av. Jean Jaurès, 12100 Millau",
+        "note": 5,
+        "avis": 43,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "laissac-severac-l-eglise": {
+    "artisans": [
+      {
+        "id": "13373197012619783212",
+        "nom": "Enemen Menuiserie Aveyron",
+        "slug": "enemen-menuiserie-aveyron",
+        "telephone": "09 62 56 55 90",
+        "site_web": "https://enemen.fr/",
+        "adresse": "316 Rue des Colombies, 12310 Laissac-Sévérac l'Église",
+        "note": 5,
+        "avis": 8,
+        "type": "Magasin"
+      },
+      {
+        "id": "17174207549650441447",
+        "nom": "SARL Charrié",
+        "slug": "sarl-charrie",
+        "telephone": "05 65 61 82 48",
+        "site_web": "https://www.charrie-menuiseries.com/",
+        "adresse": "Zone Artisanale Les Combes, 12310 Laissac-Sévérac l'Église",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9210023376210530943",
+        "nom": "Les Couvreurs du Causse",
+        "slug": "les-couvreurs-du-causse",
+        "telephone": "05 65 70 77 84",
+        "site_web": null,
+        "adresse": "Zone Artisanale de Peyrols, 12310",
+        "note": 4,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bertholene": {
+    "artisans": [
+      {
+        "id": "13537446465984528017",
+        "nom": "Rozière",
+        "slug": "roziere",
+        "telephone": "05 65 62 90 26",
+        "site_web": null,
+        "adresse": "5 Rte de Montrozier, 12310 Bertholène",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "bozouls": {
+    "artisans": [
+      {
+        "id": "4562880167856061638",
+        "nom": "Métal 12",
+        "slug": "metal-12",
+        "telephone": "05 65 48 58 91",
+        "site_web": "http://www.metal12-aveyron.fr/",
+        "adresse": "Zoning Industriel Calsades, 12340 Bozouls",
+        "note": 4,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "15790978897592926308",
+        "nom": "Christophe Aveyron Services - Décapage toutes surfaces et autres services",
+        "slug": "christophe-aveyron-services-decapage-toutes-surfaces-et-autres-services",
+        "telephone": "06 76 08 29 45",
+        "site_web": "https://christophe-aveyron-services.fr/",
+        "adresse": "3 Rue du Clapie, 12340 Bozouls",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "9655847466150558368",
+        "nom": "Mouysset Menuiserie (SARL)",
+        "slug": "mouysset-menuiserie-sarl",
+        "telephone": "05 65 48 84 53",
+        "site_web": null,
+        "adresse": "40 Av. Arsène Ratier, 12340 Bozouls",
+        "note": 4,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "4987686907022152026",
+        "nom": "Covalu",
+        "slug": "covalu",
+        "telephone": "06 11 43 40 72",
+        "site_web": "http://www.covalu.net/",
+        "adresse": "PA de Peyrolebade, 70 Rue du Schiste, 12500 Espalion",
+        "note": 4.1,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17285165324816767081",
+        "nom": "ROZIERE",
+        "slug": "roziere",
+        "telephone": "05 65 51 21 00",
+        "site_web": "http://roziere.com/",
+        "adresse": "Les Caufours, 12340 Bozouls",
+        "note": 3.9,
+        "avis": 35,
+        "type": "Fabricant de portes"
+      }
+    ]
+  },
+  "severac-d-aveyron": {
+    "artisans": [
+      {
+        "id": "5039657049569817562",
+        "nom": "SARL ITC 12",
+        "slug": "sarl-itc-12",
+        "telephone": "06 78 82 61 95",
+        "site_web": "https://www.itc12.fr/",
+        "adresse": "Les Planes, 12150 Sévérac d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8228271374895440366",
+        "nom": "SEVERAC ALUMINIUM (Sarl Galtier). ALUMINIER AGREE TECHNAL",
+        "slug": "severac-aluminium-sarl-galtier-aluminier-agree-technal",
+        "telephone": "05 65 71 68 26",
+        "site_web": "https://severac-aluminium.com/",
+        "adresse": "2 Rue de la Tricouse, 12150 Sévérac d'Aveyron",
+        "note": 4.7,
+        "avis": 25,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "16986327374973778460",
+        "nom": "Maçonnerie AV CONSTRUCTION",
+        "slug": "maconnerie-av-construction",
+        "telephone": "06 75 49 72 96",
+        "site_web": "https://avconstruction.fr/",
+        "adresse": "5 Rue des Fleurs, 12150 Sévérac d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "9985871346258045307",
+        "nom": "COUVERTURE ZINGUERIE DES GRANDS CAUSSES",
+        "slug": "couverture-zinguerie-des-grands-causses",
+        "telephone": "06 85 84 78 54",
+        "site_web": "https://couverturezingueriedesgrandscausses.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sebazac-concoures": {
+    "artisans": [
+      {
+        "id": "4155465309622077645",
+        "nom": "Maison XXL Rodez - Canapés design - Meubles design",
+        "slug": "maison-xxl-rodez-canapes-design-meubles-design",
+        "telephone": "05 65 69 80 98",
+        "site_web": "https://www.meubles-xxl-rodez.com/",
+        "adresse": "110 Av. Joël Pilon, 12740 Sébazac-Concourès",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de canapés"
+      },
+      {
+        "id": "15865844216400732046",
+        "nom": "Bricorama Sebazac Concoures",
+        "slug": "bricorama-sebazac-concoures",
+        "telephone": "05 65 77 38 00",
+        "site_web": "https://www.bricorama.fr/magasin/sebazac-concoures/08972?store=08972&utm_source=gmb",
+        "adresse": "Rte d'Espalion, 12740 Sébazac-Concourès",
+        "note": 3.8,
+        "avis": 1380,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "8112324547271735431",
+        "nom": "Centrakor Sébazac Concourès",
+        "slug": "centrakor-sebazac-concoures",
+        "telephone": "05 65 78 24 03",
+        "site_web": "https://www.centrakor.com/magasin-centrakor/ctksebazac/centrakor-sebazac-concoures-12740.html?utm_source=gmb",
+        "adresse": "CENTRE COMMERCIAL ELDORADO, Route d'Espalion, 12740 Sébazac-Concourès",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "16937892181695582431",
+        "nom": "L.B Construction",
+        "slug": "lb-construction",
+        "telephone": "05 65 74 94 89",
+        "site_web": null,
+        "adresse": "22 Rue du Tremblant, 12740 Sébazac-Concourès",
+        "note": 4,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "16907058192125855371",
+        "nom": "Opticien Sébazac-Concourès | Alain Afflelou",
+        "slug": "opticien-sebazac-concoures-alain-afflelou",
+        "telephone": "05 31 53 03 10",
+        "site_web": "https://www.afflelou.com/opticien/sebazac-concoures/afflelou-863-avenue-joel-pilon-12740?utm_source=google&utm_medium=organic&utm_campaign=gmb&y_source=1_MTM4MTE2NTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "adresse": "863 Av. Joël Pilon, 12740 Sébazac-Concourès",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Opticien"
+      },
+      {
+        "id": "11481170131881881505",
+        "nom": "Debril Olivier",
+        "slug": "debril-olivier",
+        "telephone": "09 53 65 78 82",
+        "site_web": null,
+        "adresse": "Rue zone artisanale du cros 2 B, 12740 Sébazac-Concourès",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "9090742929659998741",
+        "nom": "Serrurerie Martel",
+        "slug": "serrurerie-martel",
+        "telephone": "05 65 42 22 85",
+        "site_web": "http://www.serrurerie-martel.fr/",
+        "adresse": "Parc d'activité Bel Air, 233 Rue de la Ferronnerie, 12000 Rodez",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15858224348845859487",
+        "nom": "Mister Menuiserie Bricorama Sebazac Concoures (Rodez)",
+        "slug": "mister-menuiserie-bricorama-sebazac-concoures-rodez",
+        "telephone": "05 31 53 04 36",
+        "site_web": "https://www.mistermenuiserie.com/",
+        "adresse": "Rte d'Espalion, 12740 Sébazac-Concourès",
+        "note": 4.8,
+        "avis": 24,
+        "type": "Magasin"
+      },
+      {
+        "id": "134314039716716237",
+        "nom": "IDEAL PIERRE AVEYRON",
+        "slug": "ideal-pierre-aveyron",
+        "telephone": "05 65 87 34 24",
+        "site_web": "http://www.idealpierreaveyron.fr/",
+        "adresse": "5 Rte d'Argent, 12740 Sébazac-Concourès",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de pierre naturelle"
+      },
+      {
+        "id": "11308096845942520828",
+        "nom": "Vie & Véranda",
+        "slug": "vie-veranda",
+        "telephone": "06 42 21 81 56",
+        "site_web": "https://www.vie-veranda.com/agences/veranda-rodez",
+        "adresse": "20 Rte d'Argent, 12740 Sébazac-Concourès",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "valady": {
+    "artisans": [
+      {
+        "id": "7718471284842990875",
+        "nom": "Layrol Jean-Marc - Tout Faire",
+        "slug": "layrol-jean-marc-tout-faire",
+        "telephone": "05 65 72 70 02",
+        "site_web": "https://www.toutfaire.fr/layrol-jean-marc-saint-christophe-vallon.html",
+        "adresse": "586 Rte de Rodez, 12330 Saint-Christophe-Vallon",
+        "note": 4.5,
+        "avis": 48,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "vabres-l-abbaye": {
+    "artisans": [
+      {
+        "id": "17516151137407125124",
+        "nom": "Didier Taurines",
+        "slug": "didier-taurines",
+        "telephone": "05 65 99 19 83",
+        "site_web": null,
+        "adresse": "280 Av. du Pont Vieux, 12400 Vabres-l'Abbaye",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "8514219555013627421",
+        "nom": "ETS ANDRE BOUSQUET ET FILS ST AFFRIQUE – Citroën",
+        "slug": "ets-andre-bousquet-et-fils-st-affrique-citroen",
+        "telephone": "05 65 98 10 00",
+        "site_web": "https://bousquet-automobiles.com/",
+        "adresse": "Route de, 12400 Saint-Affrique",
+        "note": 4.5,
+        "avis": 125,
+        "type": "Concessionnaire Citroën"
+      },
+      {
+        "id": "18022478507486655823",
+        "nom": "Menras Boris",
+        "slug": "menras-boris",
+        "telephone": "06 75 84 03 96",
+        "site_web": null,
+        "adresse": "12400 Vabres-l'Abbaye",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "calmont": {
+    "artisans": [
+      {
+        "id": "7303036030572792014",
+        "nom": "Pavey'ron Multiservices",
+        "slug": "paveyron-multiservices",
+        "telephone": "06 15 57 60 94",
+        "site_web": null,
+        "adresse": "3808 Rte de Cassagnes, 12450 Calmont",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "13109560736875459468",
+        "nom": "Les Illumines",
+        "slug": "les-illumines",
+        "telephone": "07 78 12 49 05",
+        "site_web": null,
+        "adresse": "12450 Calmont",
+        "note": 3.3,
+        "avis": 4,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "9044633019990642784",
+        "nom": "Agri-Pole",
+        "slug": "agri-pole",
+        "telephone": "05 65 70 25 31",
+        "site_web": "http://www.agri-pole.com/",
+        "adresse": "Z.A, Calmont, 12450 Calmont",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de matériel agricole"
+      },
+      {
+        "id": "7302546950802967882",
+        "nom": "Cadauma Calmont",
+        "slug": "cadauma-calmont",
+        "telephone": "05 65 77 55 00",
+        "site_web": "https://www.cadauma.net/cadauma-calmont/",
+        "adresse": "ZA, 104 Rte de Ségonzac, 12450 Calmont",
+        "note": 4,
+        "avis": 49,
+        "type": "Fournisseur de matériel agricole"
+      }
+    ]
+  },
+  "camares": {
+    "artisans": [
+      {
+        "id": "8972021655058328044",
+        "nom": "Claude Prieu et Fils",
+        "slug": "claude-prieu-et-fils",
+        "telephone": "06 08 54 25 45",
+        "site_web": "https://www.sasprieuclaudeetfils.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "zone artisanale, Z à Bel air, 12360 Camarès",
+        "note": 3,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11952120431703127387",
+        "nom": "Sarl Prieu",
+        "slug": "sarl-prieu",
+        "telephone": "05 65 99 52 74",
+        "site_web": "https://www.prieu-jeanfrancois.fr/",
+        "adresse": "25 Av. de Brusque, 12360 Camarès",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "12088007521795773191",
+        "nom": "Solar Photovoltaïque",
+        "slug": "solar-photovoltaique",
+        "telephone": "05 65 49 60 29",
+        "site_web": "http://www.solarphotovoltaique.fr/?utm_source=gmb",
+        "adresse": "27 Av. de Saint-Affrique, 12360 Camarès",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "capdenac-gare": {
+    "artisans": [
+      {
+        "id": "12669546509183651108",
+        "nom": "VM MENUISERIES",
+        "slug": "vm-menuiseries",
+        "telephone": "05 65 11 99 21",
+        "site_web": "https://www.v2m-menuiseries.com/",
+        "adresse": "Le Vern, 46100 Capdenac",
+        "note": 4.9,
+        "avis": 54,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villefranche-de-rouergue": {
+    "artisans": [
+      {
+        "id": "12681431499027689243",
+        "nom": "Menuiseries Mercade - Art et Fenêtres - Villefranche-de-Rouergue",
+        "slug": "menuiseries-mercade-art-et-fenetres-villefranche-de-rouergue",
+        "telephone": "05 65 65 70 52",
+        "site_web": "https://www.menuiseries-mercade.com/",
+        "adresse": "193 Av. du Quercy, 12200 Villefranche-de-Rouergue",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5868922988190332646",
+        "nom": "Castes Industrie",
+        "slug": "castes-industrie",
+        "telephone": "05 65 45 04 20",
+        "site_web": "https://www.castes-industrie.fr/",
+        "adresse": "660 Rte de Montauban, 12200 Villefranche-de-Rouergue",
+        "note": 4,
+        "avis": 57,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11121140635952908479",
+        "nom": "La Boutique Du Menuisier Castes Diffusion",
+        "slug": "la-boutique-du-menuisier-castes-diffusion",
+        "telephone": "05 65 45 71 49",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/castes-diffusion",
+        "adresse": "610 Rte de Montauban, 12200 Villefranche-de-Rouergue",
+        "note": 4.3,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10277909680569130421",
+        "nom": "CONFORT 3000 Menuiserie Villefranche-de-Rouergue",
+        "slug": "confort-3000-menuiserie-villefranche-de-rouergue",
+        "telephone": "05 65 45 16 34",
+        "site_web": "http://www.confort-3000.fr/",
+        "adresse": "1016 Rte Haute de Farrou, 12200 Villefranche-de-Rouergue",
+        "note": 4.7,
+        "avis": 47,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5868922988190332646",
+        "nom": "Castes Industrie",
+        "slug": "castes-industrie",
+        "telephone": "05 65 45 04 20",
+        "site_web": "https://www.castes-industrie.fr/",
+        "adresse": "660 Rte de Montauban, 12200 Villefranche-de-Rouergue",
+        "note": 4,
+        "avis": 57,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "784336203788080989",
+        "nom": "Vérandas CONCEPT ALU",
+        "slug": "verandas-concept-alu",
+        "telephone": "05 65 65 70 52",
+        "site_web": "https://www.conceptalu.com/points-de-vente/france/aveyron/12-verandas-rodez/",
+        "adresse": "Rte de Montauban, 12200 Villefranche-de-Rouergue",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4576129843579432294",
+        "nom": "MIROITERIE VILLEFRANCHOISE",
+        "slug": "miroiterie-villefranchoise",
+        "telephone": "05 65 45 20 71",
+        "site_web": "https://www.miroiterievillefranchoise.com/?utm_source=gmb",
+        "adresse": "588 Rte Haute de Farrou, 12200 Villefranche-de-Rouergue",
+        "note": 4.3,
+        "avis": 21,
+        "type": "Miroiterie"
+      },
+      {
+        "id": "3776276292546276028",
+        "nom": "AC toiture",
+        "slug": "ac-toiture",
+        "telephone": "07 89 65 95 50",
+        "site_web": "https://www.facebook.com/AC-Toiture-1897817517149874/",
+        "adresse": "10 Av. du Quercy, 12200 Villefranche-de-Rouergue",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13018966349746603009",
+        "nom": ".",
+        "slug": "",
+        "telephone": "05 65 45 71 49",
+        "site_web": null,
+        "adresse": "610 Rte de Montauban, 12200 Villefranche-de-Rouergue",
+        "note": 3.5,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "baraqueville": {
+    "artisans": [
+      {
+        "id": "7931108279255503189",
+        "nom": "Menuiserie Gayraud",
+        "slug": "menuiserie-gayraud",
+        "telephone": "05 65 69 02 04",
+        "site_web": null,
+        "adresse": "N88, 12160 Baraqueville",
+        "note": 4,
+        "avis": 6,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12788437983611119225",
+        "nom": "Atelier Druilhet",
+        "slug": "atelier-druilhet",
+        "telephone": "05 65 69 02 04",
+        "site_web": "http://www.druilhet.com/?utm_source=gmb",
+        "adresse": "4150 Avenue de Rodez, 12160 Baraqueville",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8659300305215753175",
+        "nom": "SA BALLAT MENUISERIE CHARPENTE - Sur Mesure Menuiserie",
+        "slug": "sa-ballat-menuiserie-charpente-sur-mesure-menuiserie",
+        "telephone": "05 65 69 01 98",
+        "site_web": "https://ballat-menuiserie-charpente.fr/accueil-ballat-menuiserie-charpente.awp",
+        "adresse": "113 Imp. du Mont d'Auvergne, 12160 Baraqueville",
+        "note": 4.5,
+        "avis": 37,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10525382326385860796",
+        "nom": "Menuiserie du Lac",
+        "slug": "menuiserie-du-lac",
+        "telephone": "05 65 69 02 04",
+        "site_web": "https://www.facebook.com/Menuiseriedulac12/",
+        "adresse": "Le Lac Sud, 4150 Avenue de Roez, 12160 Baraqueville",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5237203487196608642",
+        "nom": "CM Couverture",
+        "slug": "cm-couverture",
+        "telephone": "05 65 67 28 86",
+        "site_web": null,
+        "adresse": "BC by, Av. de Marengo 161, 12160 Baraqueville",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11627862976922297102",
+        "nom": "SAS Constructions Métalliques GINESTET",
+        "slug": "sas-constructions-metalliques-ginestet",
+        "telephone": "05 65 70 13 25",
+        "site_web": "https://constructions-metalliques-ginestet.fr/",
+        "adresse": "ZA de Marengo, 12160 Baraqueville",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "5220779637545728079",
+        "nom": "Mouysset Joël",
+        "slug": "mouysset-joel",
+        "telephone": "06 13 13 28 07",
+        "site_web": "http://menuiserie-aveyron.fr/?utm_source=gmb",
+        "adresse": "15 Rue de la Plaine, 12160 Baraqueville",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3084007439550989640",
+        "nom": "LES TOITS DE PHIL",
+        "slug": "les-toits-de-phil",
+        "telephone": "06 07 22 15 92",
+        "site_web": "https://www.lestoitsdephil.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-cavalerie": {
+    "artisans": [
+      {
+        "id": "4670825672559530206",
+        "nom": "Fenêtres Industrie Aveyron",
+        "slug": "fenetres-industrie-aveyron",
+        "telephone": "05 65 62 45 40",
+        "site_web": "https://www.amgo.fr/usines/fenetre-industrie-aveyron/",
+        "adresse": "270 rue des Hauts de France, 12230 La Cavalerie",
+        "note": 4.2,
+        "avis": 35,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "conques-en-rouergue": {
+    "artisans": [
+      {
+        "id": "9073870313419608169",
+        "nom": "La Ferme du Duzou",
+        "slug": "la-ferme-du-duzou",
+        "telephone": "05 65 72 80 51",
+        "site_web": "https://www.aveyron-chalets.com/",
+        "adresse": "1 Chem. de la Salle, 12320 Conques-en-Rouergue",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Village de vacances"
+      },
+      {
+        "id": "15357671671992264890",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "05 65 43 39 01",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/elen-menuiserie-decazeville",
+        "adresse": "84 Rue Cayrade, 12300 Decazeville",
+        "note": 4,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3252123260694268511",
+        "nom": "SARL Montignac Menuiserie",
+        "slug": "sarl-montignac-menuiserie",
+        "telephone": "07 85 00 76 77",
+        "site_web": "https://montignac-menuiserie.fr/",
+        "adresse": "6 Route de la Combarelle Lieu dit Montignac, 12320 Conques-en-Rouergue",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8055137179611332409",
+        "nom": "Entreprise Samy",
+        "slug": "entreprise-samy",
+        "telephone": "06 15 28 92 28",
+        "site_web": "https://couvreur12.fr/",
+        "adresse": "Chem. de Bezelgues, 12110 Cransac-les-Thermes",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8450365484609954068",
+        "nom": "Brico'Phil12",
+        "slug": "bricophil12",
+        "telephone": "06 33 67 57 53",
+        "site_web": "https://bricophill12.fr/",
+        "adresse": "1 Chemin du Tertre La Rouquette, 12320 Conques-en-Rouergue",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "5599147296333693407",
+        "nom": "Maison Blieux",
+        "slug": "maison-blieux",
+        "telephone": "05 65 74 17 67",
+        "site_web": "http://www.maison-blieux.fr/",
+        "adresse": "1 rue des artisans, 12320 Conques-en-Rouergue",
+        "note": 3.9,
+        "avis": 44,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "7427325269325480683",
+        "nom": "Abbatiale Sainte-Foy de Conques",
+        "slug": "abbatiale-sainte-foy-de-conques",
+        "telephone": "05 65 69 89 43",
+        "site_web": "https://www.tourisme-conques.fr/fr/conques/abbatiale",
+        "adresse": "Prieuré Ste Foy de Conques, 12320 Conques-en-Rouergue",
+        "note": 4.7,
+        "avis": 1028,
+        "type": "Institution religieuse"
+      },
+      {
+        "id": "9679634565344802994",
+        "nom": "Le fournil du pèlerin",
+        "slug": "le-fournil-du-pelerin",
+        "telephone": "05 65 69 85 37",
+        "site_web": null,
+        "adresse": "9 Rue Gonzague Florens, 12320 Conques-en-Rouergue",
+        "note": 2.9,
+        "avis": 0,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "10767018176777194625",
+        "nom": "Gorges du Dourdou de Conques",
+        "slug": "gorges-du-dourdou-de-conques",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "J94M+QM Gorges du Dourdou de Conques, 12320 Conques-en-Rouergue",
+        "note": 3.6,
+        "avis": 14,
+        "type": "Circuit de randonnée"
+      },
+      {
+        "id": "17829161106945825371",
+        "nom": "SARL Jordan's Maçonnerie",
+        "slug": "sarl-jordans-maconnerie",
+        "telephone": "06 37 35 09 18",
+        "site_web": null,
+        "adresse": "7 Route de Rodez, Saint cyprien sur dourdou, 12320 Conques-en-Rouergue",
+        "note": 0,
+        "avis": 0,
+        "type": "Constructeur immobilier"
+      }
+    ]
+  },
+  "villeneuve": {
+    "artisans": [
+      {
+        "id": "10778811689822975471",
+        "nom": "RENOV ' MENUISERIES",
+        "slug": "renov-menuiseries",
+        "telephone": "05 53 71 85 93",
+        "site_web": "https://www.renovmenuiseries.fr/",
+        "adresse": "Zac de Parasol, Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18241238264264619653",
+        "nom": "Sodiac - Tout Faire",
+        "slug": "sodiac-tout-faire",
+        "telephone": "05 65 81 61 26",
+        "site_web": "https://www.toutfaire.fr/sodiac-materiaux-villeneuve.html",
+        "adresse": "route de Villefranche de rouergue, 12260 Villeneuve",
+        "note": 4.5,
+        "avis": 25,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "13887491461406715091",
+        "nom": "TECOBAIE AVEYRON",
+        "slug": "tecobaie-aveyron",
+        "telephone": "05 63 93 31 31",
+        "site_web": "https://tecobaie-aveyron.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "135 Rue de l'Hirondelle, 12200 Savignac",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9908658482862956071",
+        "nom": "Bouchaud Philippe",
+        "slug": "bouchaud-philippe",
+        "telephone": "06 19 08 23 24",
+        "site_web": "http://www.charpente-couverture-villefranchederouergue.fr/",
+        "adresse": "Le Devez, 12200 Savignac",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12220261281105273229",
+        "nom": "Park Auto",
+        "slug": "park-auto",
+        "telephone": "05 65 81 52 36",
+        "site_web": "http://park-auto-villeneuve-d-aveyron.lany.io/",
+        "adresse": "Zone Artisanale route de Figeac, 12260 Villeneuve D'aveyron",
+        "note": 4.5,
+        "avis": 52,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "10089764109447460210",
+        "nom": "Andrieu Maxime Artisan Menuisier",
+        "slug": "andrieu-maxime-artisan-menuisier",
+        "telephone": "06 71 11 47 22",
+        "site_web": "http://maxmenuiserie.com/",
+        "adresse": "162 Septfonds, 12260 Villeneuve",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3400047443290856213",
+        "nom": "Carrefour Contact",
+        "slug": "carrefour-contact",
+        "telephone": "05 63 93 30 76",
+        "site_web": "https://www.carrefour.fr/magasin/contact-villeneuve-d-aveyron",
+        "adresse": "Av. du Rouergue Rd 922, 12260 Villeneuve",
+        "note": 3.9,
+        "avis": 133,
+        "type": "Supermarché"
+      }
+    ]
+  },
+  "clairvaux-d-aveyron": {
+    "artisans": [
+      {
+        "id": "12159134638978405341",
+        "nom": "Higonnet Benoit",
+        "slug": "higonnet-benoit",
+        "telephone": "06 07 63 25 35",
+        "site_web": "http://higonnet-electricite.fr/",
+        "adresse": "Rte des Vignes, 12330 Clairvaux-d'Aveyron",
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "5526454604525395198",
+        "nom": "TP CAPELLE Valentin",
+        "slug": "tp-capelle-valentin",
+        "telephone": "07 85 54 24 38",
+        "site_web": "https://www.facebook.com/CapelleValentinTP",
+        "adresse": "Route de Balsac, 12330 Clairvaux-d'Aveyron",
+        "note": 5,
+        "avis": 1,
+        "type": "Société de travaux publics"
+      }
+    ]
+  },
+  "firmi": {
+    "artisans": [
+      {
+        "id": "15073495626506487015",
+        "nom": "CONFORT 3000 Menuiserie Decazeville",
+        "slug": "confort-3000-menuiserie-decazeville",
+        "telephone": "05 65 43 56 92",
+        "site_web": "http://www.confort-3000.fr/",
+        "adresse": "2 Rue Jean Moulin, 12300 Firmi",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "flavin": {
+    "artisans": [
+      {
+        "id": "12617782380132037668",
+        "nom": "Lapeyre Hervé",
+        "slug": "lapeyre-herve",
+        "telephone": "06 71 62 30 44",
+        "site_web": "http://lapeyre.site-solocal.com/",
+        "adresse": "12450 Flavin",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10366049974616741699",
+        "nom": "WATTONUM",
+        "slug": "wattonum",
+        "telephone": "05 65 78 90 68",
+        "site_web": "https://wattonum.fr/",
+        "adresse": "453 Rue du Champ Grand, 12450 Flavin",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "cransac": {
+    "artisans": [
+      {
+        "id": "5721508393231993458",
+        "nom": "Bouteille Et Fils",
+        "slug": "bouteille-et-fils",
+        "telephone": "05 65 63 01 48",
+        "site_web": "https://www.facebook.com/Bouteille-Et-Fils-101393607943628",
+        "adresse": "ld, Rte des Issards, 12110 Cransac-les-Thermes",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "flagnac": {
+    "artisans": [
+      {
+        "id": "10881788937593353893",
+        "nom": "Flagnac",
+        "slug": "flagnac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12300 Flagnac",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4793309276286794327",
+        "nom": "Hier un Village",
+        "slug": "hier-un-village",
+        "telephone": "05 65 64 09 92",
+        "site_web": "https://www.hierunvillage.com/",
+        "adresse": "Le Bourg, 12300 Flagnac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "14813713960294420712",
+        "nom": "Aligot Express",
+        "slug": "aligot-express",
+        "telephone": "05 65 43 25 07",
+        "site_web": "https://www.aligotexpress.fr/",
+        "adresse": "D963 La Sole, 12300 Flagnac",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "9472378022496800853",
+        "nom": "Destruels Bouygues",
+        "slug": "destruels-bouygues",
+        "telephone": "05 65 64 00 55",
+        "site_web": null,
+        "adresse": "Moulin de Limou, 12300 Flagnac",
+        "note": 4.2,
+        "avis": 56,
+        "type": "Magasin d'alimentation animale"
+      },
+      {
+        "id": "15771111911936721979",
+        "nom": "Acquier Laurent",
+        "slug": "acquier-laurent",
+        "telephone": "05 65 43 59 05",
+        "site_web": null,
+        "adresse": "103 Lot. des Htes Plaines Agnac, 12300 Flagnac",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "13311217206402650159",
+        "nom": "2CZ",
+        "slug": "2cz",
+        "telephone": "07 89 24 32 29",
+        "site_web": "https://www.2cz.fr/",
+        "adresse": "999 Av. de Cransac, 12300 Firmi",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5900584152320732732",
+        "nom": "Camping le Port de Lacombe",
+        "slug": "camping-le-port-de-lacombe",
+        "telephone": "05 65 63 19 80",
+        "site_web": "http://www.camping-leportdelacombe.com/",
+        "adresse": "913 Port de Lacombe route du, 12300 Flagnac",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Terrain de camping"
+      },
+      {
+        "id": "17202728506824604735",
+        "nom": "Cianchi Didier",
+        "slug": "cianchi-didier",
+        "telephone": "06 33 17 47 66",
+        "site_web": null,
+        "adresse": "12 Rue du Lavoir, 12300 Flagnac",
+        "note": 3,
+        "avis": 2,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "17234599664402533444",
+        "nom": "Bateau l'Olt",
+        "slug": "bateau-lolt",
+        "telephone": "05 65 63 27 96",
+        "site_web": "http://www.tourisme-paysdecazevillois.fr/",
+        "adresse": "Port de Lacombe, 12300 Flagnac",
+        "note": 4.5,
+        "avis": 157,
+        "type": "Attraction touristique"
+      }
+    ]
+  },
+  "creissels": {
+    "artisans": [
+      {
+        "id": "13526558850406316985",
+        "nom": "Cartaillac et Comayras",
+        "slug": "cartaillac-et-comayras",
+        "telephone": "05 65 60 64 86",
+        "site_web": "https://cartaillaccomayras.fr/",
+        "adresse": "Zone artisanale de Bellevue, 3 Rue André Dupont, 12100 Creissels",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "la-fouillade": {
+    "artisans": [
+      {
+        "id": "1106748527929322128",
+        "nom": "Ginestet Matériaux - Tout Faire",
+        "slug": "ginestet-materiaux-tout-faire",
+        "telephone": "05 65 65 72 11",
+        "site_web": "https://www.toutfaire.fr/ginestet-la-fouillade.html",
+        "adresse": "8 Rte des Crémades, 12270 La Fouillade",
+        "note": 4.6,
+        "avis": 54,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "16839987016548318153",
+        "nom": "Soave Yves",
+        "slug": "soave-yves",
+        "telephone": "05 65 65 80 86",
+        "site_web": null,
+        "adresse": "33 Chem. du Communal, 12270 La Fouillade",
+        "note": 4,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "decazeville": {
+    "artisans": [
+      {
+        "id": "7987930521800690033",
+        "nom": "Scudier Francis",
+        "slug": "scudier-francis",
+        "telephone": "06 37 15 46 69",
+        "site_web": null,
+        "adresse": "36 bis Av. de Rodez, 12300 Decazeville",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4616283317571877108",
+        "nom": "Point.P - Decazeville",
+        "slug": "pointp-decazeville",
+        "telephone": "05 65 43 28 43",
+        "site_web": "https://www.pointp.fr/infos-agence/point-p-decazeville-3455",
+        "adresse": "zi du centre, Avenue du 10 Août, 12300 Decazeville",
+        "note": 4.3,
+        "avis": 73,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "260269222963969036",
+        "nom": "Distri Menuiserie",
+        "slug": "distri-menuiserie",
+        "telephone": "09 70 35 73 50",
+        "site_web": "http://www.distrimenuiseries-fenetres.com/",
+        "adresse": "24 Rue Gambetta, 12300 Decazeville",
+        "note": 3.8,
+        "avis": 46,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "659969754761249313",
+        "nom": "Fenêtres Aveyronnaises",
+        "slug": "fenetres-aveyronnaises",
+        "telephone": "05 65 63 40 54",
+        "site_web": "https://www.fenetresaveyronnaises.com/",
+        "adresse": "103 Rue Cayrade, 12300 Decazeville",
+        "note": 5,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15073495626506487015",
+        "nom": "CONFORT 3000 Menuiserie Decazeville",
+        "slug": "confort-3000-menuiserie-decazeville",
+        "telephone": "05 65 43 56 92",
+        "site_web": "http://www.confort-3000.fr/",
+        "adresse": "2 Rue Jean Moulin, 12300 Firmi",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10788085977547426215",
+        "nom": "Menuiserie Store Occitan",
+        "slug": "menuiserie-store-occitan",
+        "telephone": "06 52 08 03 48",
+        "site_web": "https://www.facebook.com/profile.php?id=100089134946924",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6342185081918649526",
+        "nom": "MR.DAMIENS",
+        "slug": "mrdamiens",
+        "telephone": "06 58 75 61 19",
+        "site_web": "https://www.fiche-google.fr/mrdamiens",
+        "adresse": "5 Rue de Miramont, 12300 Decazeville",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "druelle-balsac": {
+    "artisans": [
+      {
+        "id": "13976475728097472863",
+        "nom": "Renovation Toit Tuile Couvreur Druelle - Démoussage Toiture - Réparation Toit",
+        "slug": "renovation-toit-tuile-couvreur-druelle-demoussage-toiture-reparation-toit",
+        "telephone": "09 72 19 98 77",
+        "site_web": "https://renovationcouverturetuilededruelle.ovh/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17342178700344919566",
+        "nom": "COMTE SEBASTIEN",
+        "slug": "comte-sebastien",
+        "telephone": "05 65 69 35 21",
+        "site_web": "http://www.comtecouverturezinguerie.fr/",
+        "adresse": "12000 Druelle Balsac",
+        "note": 2.6,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "193492986265274395",
+        "nom": "Kiloutou Rodez",
+        "slug": "kiloutou-rodez",
+        "telephone": "05 35 54 45 80",
+        "site_web": "https://www.kiloutou.fr/agences/occitanie/aveyron/druelle-balsac/0305/?utm_source=agency_0305&utm_medium=presence_management&utm_campaign=website_link",
+        "adresse": "1066 Rue des Routiers, 12510 Druelle Balsac",
+        "note": 4.3,
+        "avis": 44,
+        "type": "Agence de location de matériel"
+      },
+      {
+        "id": "14489658123352968351",
+        "nom": "Savaric Nicolas",
+        "slug": "savaric-nicolas",
+        "telephone": "06 18 42 59 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "4335450864571220396",
+        "nom": "someda soc des materiaux enrobes",
+        "slug": "someda-soc-des-materiaux-enrobes",
+        "telephone": "05 65 72 75 11",
+        "site_web": null,
+        "adresse": "12510 Druelle Balsac",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "laguiole": {
+    "artisans": [
+      {
+        "id": "14186800094838423597",
+        "nom": "MCL – ETS Ginisty",
+        "slug": "mcl-ets-ginisty",
+        "telephone": "05 65 44 32 25",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/mcl-ets-ginisty",
+        "adresse": "20 Rte d'Espalion Lascierie, 12210 Laguiole",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "espalion": {
+    "artisans": [
+      {
+        "id": "8303934848916258585",
+        "nom": "Combettes Yves",
+        "slug": "combettes-yves",
+        "telephone": "06 83 81 10 42",
+        "site_web": "http://www.menuiserie-yves-combettes.fr/",
+        "adresse": "Les Glebes, 12500 Espalion",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2546911125819457654",
+        "nom": "Sarl Alain Clarion",
+        "slug": "sarl-alain-clarion",
+        "telephone": "05 65 48 05 63",
+        "site_web": "https://alainclarion.fr/",
+        "adresse": "15 Rue Camille Violand, 12500 Espalion",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "253696579082560605",
+        "nom": "Vernhes Menuiserie",
+        "slug": "vernhes-menuiserie",
+        "telephone": "06 77 77 13 95",
+        "site_web": "http://www.vernhesmenuiserie.fr/",
+        "adresse": "62 route de st come, 12500 Espalion",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15674356636615183535",
+        "nom": "Staf Ginisty",
+        "slug": "staf-ginisty",
+        "telephone": "05 65 44 03 13",
+        "site_web": "http://www.staf.fr/",
+        "adresse": "Parc d'Activités Peyrolebade, 126 Rue du Calcaire, 12500 Espalion",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12977363588152830356",
+        "nom": "CONFORT 3000 Menuiserie Espalion",
+        "slug": "confort-3000-menuiserie-espalion",
+        "telephone": "05 65 44 85 76",
+        "site_web": "http://www.confort-3000.fr/",
+        "adresse": "23 Bd de Guizard, 12500 Espalion",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      }
+    ]
+  }
+}

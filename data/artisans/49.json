@@ -1,0 +1,4346 @@
+{
+  "le-lion-d-angers": {
+    "artisans": [
+      {
+        "id": "1906460800485617886",
+        "nom": "CreaFermeture - Installateur Agréé Velux",
+        "slug": "creafermeture-installateur-agree-velux",
+        "telephone": "07 88 62 09 37",
+        "site_web": "https://creafermeture.fr/",
+        "adresse": "5 Rue des Suisses, 75014 Paris",
+        "note": 4.9,
+        "avis": 79,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10286825012190056848",
+        "nom": "Crasnier Menuiserie - Terres de Fenêtre",
+        "slug": "crasnier-menuiserie-terres-de-fenetre",
+        "telephone": "02 41 96 89 03",
+        "site_web": "http://www.terresdefenetre.com/",
+        "adresse": "Le, 2 rue des Royers Zone 2, La Grosse Pierre, 49220 Le Lion-d'Angers",
+        "note": 4.5,
+        "avis": 32,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "4133320673182882036",
+        "nom": "Fenetres plus",
+        "slug": "fenetres-plus",
+        "telephone": "09 80 42 94 04",
+        "site_web": "http://www.fenetresplus.fr/",
+        "adresse": "92 Rue La Fayette, 75009 Paris",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin"
+      },
+      {
+        "id": "17777172639874929062",
+        "nom": "DARIZ - Menuiserie",
+        "slug": "dariz-menuiserie",
+        "telephone": "02 41 95 39 80",
+        "site_web": "https://www.dariz.fr/",
+        "adresse": "3 Rue de la Marechalerie, 49220 Le Lion-d'Angers",
+        "note": 3.5,
+        "avis": 13,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13901364051465285759",
+        "nom": "ERS Solution",
+        "slug": "ers-solution",
+        "telephone": "01 84 80 59 19",
+        "site_web": "https://erssolution.fr/",
+        "adresse": "95 Bd Berthier, 75017 Paris",
+        "note": 5,
+        "avis": 11,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11040613084280235709",
+        "nom": "Les Ateliers Michel - SOLABAIE",
+        "slug": "les-ateliers-michel-solabaie",
+        "telephone": "02 41 18 08 63",
+        "site_web": "https://lesateliersmichel.fr/",
+        "adresse": "Actiparc La Sablonnière, 8 rue Denis PAPIN, 49220 Le Lion-d'Angers",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7989640109625090616",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-angers",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 5,
+        "avis": 230,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "les-garennes-sur-loire": {
+    "artisans": [
+      {
+        "id": "13441918827153239769",
+        "nom": "Pasquet menuiseries Angers",
+        "slug": "pasquet-menuiseries-angers",
+        "telephone": "02 41 76 66 33",
+        "site_web": "https://www.pasquet.fr/menuiserie/angers-49/",
+        "adresse": "2 Rue Henri Jarry, 49130 Les Ponts-de-Cé",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4097585755205681000",
+        "nom": "VERRE SOLUTIONS ANGERS",
+        "slug": "verre-solutions-angers",
+        "telephone": "02 41 33 65 67",
+        "site_web": "https://agence.verre-solutions.com/1-verre-solutions-angers?utm_source=gmb",
+        "adresse": "178 Bd André Bahonneau, 49800 Trélazé",
+        "note": 4.5,
+        "avis": 55,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "9213624001235253256",
+        "nom": "SARL Martinier Sébastien Couverture",
+        "slug": "sarl-martinier-sebastien-couverture",
+        "telephone": "06 88 24 49 10",
+        "site_web": null,
+        "adresse": "La Rossignolerie, 53200 Gennes-Longuefuye",
+        "note": 4,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9788756503318603100",
+        "nom": "NG Services SARL",
+        "slug": "ng-services-sarl",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/?utm_source=gmb",
+        "adresse": "8 All. du Dindo, 72560 Changé",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2771616307171753583",
+        "nom": "Rousseau Répar' Avrillé (proche Angers 49)",
+        "slug": "rousseau-repar-avrille-proche-angers-49",
+        "telephone": "02 41 69 41 57",
+        "site_web": "http://www.rousseaurepar.fr/",
+        "adresse": "ZI La Violette, Chem. du Bocage, 49240 Avrillé",
+        "note": 4.3,
+        "avis": 41,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16751721946212478972",
+        "nom": "CrystalGlass Nettoyage vitres/bardages Angers Pays de la Loire",
+        "slug": "crystalglass-nettoyage-vitresbardages-angers-pays-de-la-loire",
+        "telephone": "06 33 68 47 46",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Entreprise de nettoyage de vitres"
+      },
+      {
+        "id": "4858222909022157841",
+        "nom": "Capello Couvreur 49",
+        "slug": "capello-couvreur-49",
+        "telephone": "06 51 42 52 52",
+        "site_web": "https://capello-couvreur49.fr/",
+        "adresse": "20 Chem. du Champ Vallée, 49610 Les Garennes sur Loire",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "val-d-erdre-auxence": {
+    "artisans": [
+      {
+        "id": "17845254616696311905",
+        "nom": "L'Eclat d'Anjou",
+        "slug": "leclat-danjou",
+        "telephone": "06 17 90 52 26",
+        "site_web": "http://leclatdanjou.fr/",
+        "adresse": "3 Lot. du Moulin, 49440 Val d'Erdre-Auxence",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de nettoyage de vitres"
+      },
+      {
+        "id": "12212113144215985385",
+        "nom": "MENUISERIE LEBRETON",
+        "slug": "menuiserie-lebreton",
+        "telephone": "02 41 77 48 00",
+        "site_web": "http://menuiserie-lebreton-49.fr/",
+        "adresse": "5 Rue des Clories, 49370 Val d'Erdre-Auxence",
+        "note": 3.9,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2030909126256603350",
+        "nom": "Alleaume fermetures",
+        "slug": "alleaume-fermetures",
+        "telephone": "06 21 08 46 67",
+        "site_web": "https://www.alleaume-fermetures.com/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14827988403206265632",
+        "nom": "Fenêtres d'Anjou - Menuisier à Angers : Fenêtres, portes, volets et autres menuiseries",
+        "slug": "fenetres-danjou-menuisier-a-angers-fenetres-portes-volets-et-autres-menuiseries",
+        "telephone": "02 41 31 16 64",
+        "site_web": "https://www.fenetres-anjou-49.fr/",
+        "adresse": "Le Jaunet, Bon Puits ZI du, 49480 Verrières-en-Anjou",
+        "note": 4.6,
+        "avis": 81,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7819171572360322088",
+        "nom": "FENETRIER de l'ANJOU - Décostory Angers",
+        "slug": "fenetrier-de-lanjou-decostory-angers",
+        "telephone": "02 41 25 15 34",
+        "site_web": "https://www.fenetrier-de-lanjou.com/",
+        "adresse": "vers Métro & Restaurant La Boucherie, 3 Rue du Paon, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.6,
+        "avis": 52,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "12007739530592252269",
+        "nom": "Auxence Rénov",
+        "slug": "auxence-renov",
+        "telephone": "06 30 48 11 76",
+        "site_web": "https://www.auxence-renov.fr/",
+        "adresse": "15 Rue de Candé, 49370 Bécon-les-Granits",
+        "note": 5,
+        "avis": 9,
+        "type": "Agenceur"
+      },
+      {
+        "id": "12476139682498718640",
+        "nom": "L'Expert Fenêtre AL MENUISERIE",
+        "slug": "lexpert-fenetre-al-menuiserie",
+        "telephone": "06 82 68 13 69",
+        "site_web": "https://www.al-menuiseries.com/",
+        "adresse": "Av. de la Clercière, 49370 Bécon-les-Granits",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "351783935235670706",
+        "nom": "Chauviré Menuiserie",
+        "slug": "chauvire-menuiserie",
+        "telephone": "07 49 44 73 25",
+        "site_web": "http://www.chauviremenuiserie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3470618933570462423",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/loire-atlantique/installateur-expert-en-pose-velux-a-nantes",
+        "adresse": "5 Rue le Notre, 44000 Nantes",
+        "note": 4.9,
+        "avis": 277,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "huille-lezigne": {
+    "artisans": [
+      {
+        "id": "11343887485709783495",
+        "nom": "RITOUET sarl - Charpente Couverture",
+        "slug": "ritouet-sarl-charpente-couverture",
+        "telephone": "02 41 76 92 47",
+        "site_web": "http://www.ritouet.fr/",
+        "adresse": "14 Rue d'Ignerelle, 49430 Huillé-Lézigné",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "longue-jumelles": {
+    "artisans": [
+      {
+        "id": "8521995755682454747",
+        "nom": "Menuiserie M2GB L'ouverture Durable",
+        "slug": "menuiserie-m2gb-louverture-durable",
+        "telephone": "02 41 52 75 68",
+        "site_web": "https://www.m2gb.com/",
+        "adresse": "3 rue de la scierie, 49160 Longué-Jumelles",
+        "note": 5,
+        "avis": 57,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "maulevrier": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-may-sur-evre": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cantenay-epinard": {
+    "artisans": [
+      {
+        "id": "7127306577180211335",
+        "nom": "Nouvel'R Toiture",
+        "slug": "nouvelr-toiture",
+        "telephone": "07 60 97 01 12",
+        "site_web": "https://www.nouvelr-toiture.fr/",
+        "adresse": "6 Rue des Frères Lumière, 49240 Avrillé",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9423875348079484037",
+        "nom": "MURPROTEC ANGERS",
+        "slug": "murprotec-angers",
+        "telephone": "02 41 86 98 50",
+        "site_web": "https://www.murprotec.fr/agence/murprotec-angers?utm_source=gmb&utm_medium=annuaire&utm_campaign=maine-et-loire",
+        "adresse": "35 Rue Lionnaise, 49100 Angers",
+        "note": 4.4,
+        "avis": 47,
+        "type": "Centre de diagnostic"
+      },
+      {
+        "id": "4671744567997895660",
+        "nom": "Veillon Décoration",
+        "slug": "veillon-decoration",
+        "telephone": "02 41 32 11 00",
+        "site_web": "http://www.facebook.com/veillon.decoration/?ref=br_rs&utm_source=gmb",
+        "adresse": "10 Rue de la Chênaie, 49460 Cantenay-Épinard",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "cande": {
+    "artisans": [
+      {
+        "id": "10221272257821397068",
+        "nom": "Avenir Couverture - Couvreur à Candé / Angers / Le Lion d'Angers",
+        "slug": "avenir-couverture-couvreur-a-cande-angers-le-lion-dangers",
+        "telephone": "02 41 92 84 85",
+        "site_web": "https://couvreur-angers-49.fr/",
+        "adresse": "8 Rue de la Ramée, 49440 Candé",
+        "note": 4.7,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "brissac-loire-aubance": {
+    "artisans": [
+      {
+        "id": "6473924930321121429",
+        "nom": "Bruyère Couverture",
+        "slug": "bruyere-couverture",
+        "telephone": "02 41 91 70 91",
+        "site_web": "http://www.bruyere-couverture-angers.fr/?utm_source=gmb",
+        "adresse": "6 Rue de la Croix Viau, 49320 Brissac Loire Aubance",
+        "note": 5,
+        "avis": 44,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3045804636091454158",
+        "nom": "G.p.r. Ouvertures Sarl",
+        "slug": "gpr-ouvertures-sarl",
+        "telephone": "02 41 79 36 20",
+        "site_web": "http://www.gpr-ouvertures.fr/",
+        "adresse": "5 ZI des Grouas Z.A, 49320 Les Fontenelles",
+        "note": 4.8,
+        "avis": 25,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "15650341571435599306",
+        "nom": "Menuiserie Pelletier",
+        "slug": "menuiserie-pelletier",
+        "telephone": "02 41 45 03 08",
+        "site_web": "http://www.menuiserie-pelletier.fr/?utm_source=gmb",
+        "adresse": "31 Rue de Bellevue, 49630 Loire-Authion",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16184508882587476330",
+        "nom": "RT Renov’",
+        "slug": "rt-renov",
+        "telephone": "06 61 43 01 50",
+        "site_web": "https://www.rt-renov-49.fr/",
+        "adresse": "4 Rue de la Paumelière, 49320 Brissac Loire Aubance",
+        "note": 5,
+        "avis": 12,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13042330601451019082",
+        "nom": "Pain Couverture",
+        "slug": "pain-couverture",
+        "telephone": "02 41 66 49 97",
+        "site_web": "https://pain-couverture.fr/",
+        "adresse": "807 ROUTE DE MOZE, Martignolles ZA DES, 49320 Brissac Loire Aubance",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2958252109943551400",
+        "nom": "Misandeau Menuiserie SARL",
+        "slug": "misandeau-menuiserie-sarl",
+        "telephone": "02 41 91 28 05",
+        "site_web": "https://www.misandeau.com/",
+        "adresse": "2 Bd des Fontenelles, 49320 Brissac Loire Aubance",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15355561041464140367",
+        "nom": "AP2M",
+        "slug": "ap2m",
+        "telephone": "06 13 07 56 58",
+        "site_web": "http://www.ap2m-sarl.fr/",
+        "adresse": "220 Briqueterie, 49320 Brissac Loire Aubance",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16972953959868159143",
+        "nom": "Couvreur Brissac-Loire-Aubance Rénovation & Demoussage Toiture, Réparation Fuites, Dépannage Toit, Étanchéité",
+        "slug": "couvreur-brissac-loire-aubance-renovation-demoussage-toiture-reparation-fuites-depannage-toit-etancheite",
+        "telephone": "09 72 19 05 06",
+        "site_web": "https://entrepriselouisbrissacrenovationdemoussagetoit.ovh/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "briollay": {
+    "artisans": [
+      {
+        "id": "5403761654137901306",
+        "nom": "Atelier Richet EURL",
+        "slug": "atelier-richet-eurl",
+        "telephone": "02 41 43 85 84",
+        "site_web": "http://www.atelier-richet.com/",
+        "adresse": "82 Rue de la Croix Blanche, 49100 Angers",
+        "note": 4.4,
+        "avis": 34,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "etriche": {
+    "artisans": [
+      {
+        "id": "1969264666310259818",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 41 36 53 00",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/maine-et-loire/lapeyre-angers-28",
+        "adresse": "9 Rue Vaucanson, 49000 Angers",
+        "note": 4.2,
+        "avis": 368,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14224974858163581326",
+        "nom": "Select Renovation",
+        "slug": "select-renovation",
+        "telephone": "02 41 41 97 35",
+        "site_web": "http://www.selectrenovation.fr/contactez-votre-menuisier-chateauneuf-sur-sarthe",
+        "adresse": "D89, 49330 Étriché",
+        "note": 4.9,
+        "avis": 49,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bellevigne-les-chateaux": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "les-hauts-d-anjou": {
+    "artisans": [
+      {
+        "id": "6497075331466413689",
+        "nom": "JN COUVERTURE",
+        "slug": "jn-couverture",
+        "telephone": "06 21 49 48 85",
+        "site_web": "https://www.leray.info/page/jn-couverture-jerome-nain-tierce-maine-et-loire",
+        "adresse": "25 Rue Hector Berlioz, 49125 Tiercé",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12511241932054966712",
+        "nom": "Anjou Couverture Isolation - Prezelin",
+        "slug": "anjou-couverture-isolation-prezelin",
+        "telephone": "02 41 61 45 25",
+        "site_web": "http://www.aci-prezelin.com/",
+        "adresse": "Rue Padina Mica, 49220",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10947095423049785414",
+        "nom": "Couvreurs Angevins (49) ramonage rénovation couverture charpente réparation devis gratuit. Angers",
+        "slug": "couvreurs-angevins-49-ramonage-renovation-couverture-charpente-reparation-devis-gratuit-angers",
+        "telephone": "02 41 24 03 11",
+        "site_web": "http://www.couvreurs-angevins.fr/",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 4.9,
+        "avis": 92,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14944598025028658353",
+        "nom": "Creatoit",
+        "slug": "creatoit",
+        "telephone": "06 19 96 02 59",
+        "site_web": "https://www.creatoit-49.fr/",
+        "adresse": "29 Rue Maurice Ravel, 49125 Tiercé",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16458550107268619466",
+        "nom": "Ouest Patrimoine Couverture",
+        "slug": "ouest-patrimoine-couverture",
+        "telephone": "06 58 34 20 19",
+        "site_web": "https://www.ouestpatrimoinecouverture.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8355749605918341605",
+        "adresse": "49610 Saint-Melaine-sur-Aubance",
+        "note": 5,
+        "avis": 25,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7225794280128857052",
+        "nom": "Samson Entreprise De Couverture SARL",
+        "slug": "samson-entreprise-de-couverture-sarl",
+        "telephone": "02 41 34 79 44",
+        "site_web": "http://www.samson-couverture.com/",
+        "adresse": "7 Rte Des Sablières, 49480 Verrières-en-Anjou",
+        "note": 4.3,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9747533599409313530",
+        "nom": "Mauboussin Kevin",
+        "slug": "mauboussin-kevin",
+        "telephone": "06 06 88 10 90",
+        "site_web": "https://leray.info/page/mauboussin-kevin-couverture-Morannes-49",
+        "adresse": "4042 La Cerclerie, 49640 Morannes sur Sarthe-Daumeray",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1196164042801732551",
+        "nom": "Répar'stores Haut Anjou / Sablé sur Sarthe - Réparation volet roulant et store",
+        "slug": "reparstores-haut-anjou-sable-sur-sarthe-reparation-volet-roulant-et-store",
+        "telephone": "07 65 29 43 89",
+        "site_web": "https://www.reparstores.com/intervenants/303-pierre-yves-guibert?utm_source=google&utm_medium=gmb&utm_campaign=chateau-gontier&utm_term=liensiteweb",
+        "adresse": null,
+        "note": 5,
+        "avis": 51,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "ingrandes-le-fresne-sur-loire": {
+    "artisans": [
+      {
+        "id": "9158883381796283056",
+        "nom": "MC CERISIER",
+        "slug": "mc-cerisier",
+        "telephone": "02 41 39 28 90",
+        "site_web": "http://mc-cerisier.fr/",
+        "adresse": "Tournebride, 49123 Ingrandes-le-Fresne-sur-Loire",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17633543173631173672",
+        "nom": "Brangeon Transports et logistique Ingrandes-Le Fresne sur Loire",
+        "slug": "brangeon-transports-et-logistique-ingrandes-le-fresne-sur-loire",
+        "telephone": "02 41 39 25 39",
+        "site_web": "https://www.brangeon.fr/transports-logistique/?utm_source=gmb",
+        "adresse": "9 Av. de l'Étang, 49123 Ingrandes-le-Fresne-sur-Loire",
+        "note": 4.1,
+        "avis": 66,
+        "type": "Service logistique"
+      },
+      {
+        "id": "13222152159402558798",
+        "nom": "Charpente Ligérienne",
+        "slug": "charpente-ligerienne",
+        "telephone": "06 33 56 83 08",
+        "site_web": "https://www.charpente-ligerienne.fr/contactez-nous/",
+        "adresse": "52 Av. de la Riottière, 49123 Ingrandes-le-Fresne-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "begrolles-en-mauges": {
+    "artisans": [
+      {
+        "id": "14793666447007080432",
+        "nom": "Guesdon SARL",
+        "slug": "guesdon-sarl",
+        "telephone": "02 41 63 84 01",
+        "site_web": "http://www.facebook.com/Menuiserie-Guesdon-777031975813567?utm_source=gmb",
+        "adresse": "2 Rue du Bocage, 49122 Bégrolles-en-Mauges",
+        "note": 4.6,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "13723138651452101235",
+        "nom": "BT Services",
+        "slug": "bt-services",
+        "telephone": "06 87 34 68 46",
+        "site_web": null,
+        "adresse": "4 bis Rue du Bocage, 49122 Bégrolles-en-Mauges",
+        "note": 4.7,
+        "avis": 24,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "12120437353790203181",
+        "nom": "Garden Alu",
+        "slug": "garden-alu",
+        "telephone": "06 73 12 35 31",
+        "site_web": "https://www.gardenalu.fr/",
+        "adresse": "Moulin des Landes, 49122 Bégrolles-en-Mauges",
+        "note": 5,
+        "avis": 128,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      }
+    ]
+  },
+  "beaupreau-en-mauges": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "blaison-saint-sulpice": {
+    "artisans": [
+      {
+        "id": "3785464830783386812",
+        "nom": "Cerceau Thierry",
+        "slug": "cerceau-thierry",
+        "telephone": "06 03 24 24 10",
+        "site_web": null,
+        "adresse": "23 Rue Henri Bouriche, 49320 Brissac Loire Aubance",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bouchemaine": {
+    "artisans": [
+      {
+        "id": "6406975196365037564",
+        "nom": "Isoclar menuiserie Bouchemaine",
+        "slug": "isoclar-menuiserie-bouchemaine",
+        "telephone": "02 41 88 44 50",
+        "site_web": "https://www.isoclar.fr/",
+        "adresse": "5 Rue des Brunelleries Zac Brunelleries, 49080 Bouchemaine",
+        "note": 4.7,
+        "avis": 218,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7877778841684050475",
+        "nom": "Atelier Bessonneau",
+        "slug": "atelier-bessonneau",
+        "telephone": "02 41 77 28 00",
+        "site_web": "http://www.bessonneau.com/",
+        "adresse": "57B Rue du Boulet, 49080 Bouchemaine",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15088314669419079700",
+        "nom": "BEILLOUET MENUISERIE",
+        "slug": "beillouet-menuiserie",
+        "telephone": "06 58 39 42 47",
+        "site_web": "https://beillouetmenuiserie.fr/",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 8,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "brain-sur-allonnes": {
+    "artisans": [
+      {
+        "id": "8107994273924422894",
+        "nom": "Haudebault Stéphane",
+        "slug": "haudebault-stephane",
+        "telephone": "02 41 52 08 98",
+        "site_web": "http://www.menuiserie-haudebault.com/",
+        "adresse": "Route de Villebernier Zone d'activité de, 49650 Brain-sur-Allonnes",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10658791368559036463",
+        "nom": "Cochard Jacques",
+        "slug": "cochard-jacques",
+        "telephone": "02 41 38 85 35",
+        "site_web": null,
+        "adresse": "288 Rte de la Varenne, 49650 Brain-sur-Allonnes",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14430757749427611664",
+        "nom": "J- Rocher",
+        "slug": "j-rocher",
+        "telephone": "02 41 52 09 10",
+        "site_web": "https://www.peinturerocher.com/?utm_source=gmb",
+        "adresse": "8 Rue de Montsoreau, 49650 Brain-sur-Allonnes",
+        "note": 5,
+        "avis": 4,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "beaulieu-sur-layon": {
+    "artisans": [
+      {
+        "id": "16915040238750679486",
+        "nom": "Be Menuiserie",
+        "slug": "be-menuiserie",
+        "telephone": "06 83 53 74 73",
+        "site_web": "https://www.bemenuiserie.fr/",
+        "adresse": "3 ZA La Promenade, 49750 Beaulieu-sur-Layon",
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "oree-d-anjou": {
+    "artisans": [
+      {
+        "id": "5139518785228181000",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/vendee/installateur-expert-en-pose-velux-a-la-roche-sur-yon",
+        "adresse": "La Chauvière, 85000 La Roche-sur-Yon",
+        "note": 4.9,
+        "avis": 102,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2802004305604486058",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-cholet",
+        "adresse": "32 Rue du Carteron, 49300 Cholet",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16714611971636036558",
+        "nom": "Etablissement Pionneau",
+        "slug": "etablissement-pionneau",
+        "telephone": "02 41 54 35 45",
+        "site_web": "http://www.etablissements-pionneau.com/",
+        "adresse": "Zone activité La Perrière, 5 All. Newton, 49800 Loire-Authion",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6672968935013624344",
+        "nom": "Couvr'isol Atlantique",
+        "slug": "couvrisol-atlantique",
+        "telephone": "02 28 21 77 61",
+        "site_web": null,
+        "adresse": "33 Rue du Nouveau Bêle, 44470 Carquefou",
+        "note": 4.5,
+        "avis": 110,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12751975246277437909",
+        "nom": "Anjou Discount Dépannage",
+        "slug": "anjou-discount-depannage",
+        "telephone": "06 71 03 27 46",
+        "site_web": "https://www.anjou-discount-depannage.fr/",
+        "adresse": "21 E Rue de la Petite Motte, 49000 Écouflant",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "12279247127867186822",
+        "nom": "Mister Toiture Angers",
+        "slug": "mister-toiture-angers",
+        "telephone": "02 49 88 34 67",
+        "site_web": "https://mistertoiture.com/agence/mister-toiture-angers?utm_source=gmb&utm_medium=gmb",
+        "adresse": "9115 Bd des Bretonnières, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.5,
+        "avis": 133,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2075511642786449672",
+        "nom": "Leroy Merlin Saint-Barthélemy-d'Anjou - Angers",
+        "slug": "leroy-merlin-saint-barthelemy-danjou-angers",
+        "telephone": "02 41 27 21 30",
+        "site_web": "https://www.leroymerlin.fr/magasins/saint-barthelemy-d-anjou-angers.html",
+        "adresse": "Leroy Merlin Angers, 191 Rte d'Angers, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4,
+        "avis": 5878,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "1501053885091742300",
+        "nom": "Marolleau Et Fils SARL",
+        "slug": "marolleau-et-fils-sarl",
+        "telephone": "02 41 68 21 24",
+        "site_web": "https://www.marolleau-couverture.com/",
+        "adresse": "15 Bd de l'Épervière, 49000 Écouflant",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bauge-en-anjou": {
+    "artisans": [
+      {
+        "id": "7359478185224769604",
+        "nom": "Ateliers Boureau",
+        "slug": "ateliers-boureau",
+        "telephone": "02 41 89 62 13",
+        "site_web": "https://www.ateliersboureau49.com/",
+        "adresse": "ROUTE DE TOURS LIEU DIT LE SABLON, 49150 Baugé-en-Anjou",
+        "note": 4.5,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11769810717675409340",
+        "nom": "Boisneau couverture",
+        "slug": "boisneau-couverture",
+        "telephone": "02 41 43 79 18",
+        "site_web": "http://www.boisneau.fr/",
+        "adresse": "16 Bd Gaston Birgé, 49100 Angers",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4435712665492012462",
+        "nom": "Abitabio Scop",
+        "slug": "abitabio-scop",
+        "telephone": "02 41 82 31 65",
+        "site_web": "http://www.abitabio.com/?utm_source=gmb",
+        "adresse": "Crève Cœur, 49150 Baugé-en-Anjou",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "4383542090917637297",
+        "nom": "Poulain Aurélien SARL",
+        "slug": "poulain-aurelien-sarl",
+        "telephone": "06 78 78 17 78",
+        "site_web": "http://www.poulain-couverture.fr/?utm_source=gmb",
+        "adresse": "1694 route de bocé, 49150 Baugé-en-Anjou",
+        "note": 5,
+        "avis": 1,
+        "type": "Artisanat"
+      },
+      {
+        "id": "15934329184426485331",
+        "nom": "Baugé",
+        "slug": "bauge",
+        "telephone": "02 33 59 02 74",
+        "site_web": "http://www.bauge-menuiserie.fr/?utm_source=gmb",
+        "adresse": "21 Rte des Closeaux, 50140 Romagny Fontenay",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "12521732617295237560",
+        "nom": "Bati Toiture - La Chapelle D'Aligné",
+        "slug": "bati-toiture-la-chapelle-daligne",
+        "telephone": "02 43 94 47 64",
+        "site_web": "http://www.batitoiture.com/",
+        "adresse": "Les Landes, 72300 La Chapelle-d'Aligné",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17546682680372776892",
+        "nom": "Bordeau couverture",
+        "slug": "bordeau-couverture",
+        "telephone": "02 41 36 21 93",
+        "site_web": "https://www.bordeau-couverture.fr/",
+        "adresse": "La fontaine, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 3.2,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13208956500941865095",
+        "nom": "Froger Bâtiment",
+        "slug": "froger-batiment",
+        "telephone": "06 51 60 40 28",
+        "site_web": "https://froger-batiment.fr/",
+        "adresse": "14 Rue du Soleil Levant, 49140 Rives-du-Loir-en-Anjou",
+        "note": 5,
+        "avis": 9,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6584113006561581089",
+        "nom": "Charpente Couverture Bodereau",
+        "slug": "charpente-couverture-bodereau",
+        "telephone": "02 43 94 19 12",
+        "site_web": "https://charpente-couverture-bodereau.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "5096062717030116775",
+        "nom": "Plouseau Pascal SARL Ebéniste Menuiserie escalier Porte Fenêtre Parquet Dressing",
+        "slug": "plouseau-pascal-sarl-ebeniste-menuiserie-escalier-porte-fenetre-parquet-dressing",
+        "telephone": "02 43 40 95 56",
+        "site_web": "http://www.menuiserie-plouseau.fr/",
+        "adresse": "72150 Pruillé-l'Éguillé",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "avrille": {
+    "artisans": [
+      {
+        "id": "2771616307171753583",
+        "nom": "Rousseau Répar' Avrillé (proche Angers 49)",
+        "slug": "rousseau-repar-avrille-proche-angers-49",
+        "telephone": "02 41 69 41 57",
+        "site_web": "http://www.rousseaurepar.fr/",
+        "adresse": "ZI La Violette, Chem. du Bocage, 49240 Avrillé",
+        "note": 4.3,
+        "avis": 41,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "fontevraud-l-abbaye": {
+    "artisans": [
+      {
+        "id": "3950452989307632798",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 41 83 99 40",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/maine-et-loire/lapeyre-saumur-127",
+        "adresse": "Rue des Plantes, 49400 Distré",
+        "note": 3.7,
+        "avis": 153,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "7601095565216357390",
+        "nom": "Abbaye Royale de Fontevraud",
+        "slug": "abbaye-royale-de-fontevraud",
+        "telephone": "02 41 51 73 52",
+        "site_web": "https://www.fontevraud.fr/?utm_source=google&utm_medium=organic&utm_campaign=gmb-abbaye",
+        "adresse": "Pl. des Plantagenets, 49590 Fontevraud-l'Abbaye",
+        "note": 4.6,
+        "avis": 7678,
+        "type": "Abbaye"
+      },
+      {
+        "id": "14638098013200864209",
+        "nom": "Chauveau Patrice",
+        "slug": "chauveau-patrice",
+        "telephone": "06 25 59 48 89",
+        "site_web": null,
+        "adresse": "3 Imp. de Beaulieu, 49590 Fontevraud-l'Abbaye",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "angers": {
+    "artisans": [
+      {
+        "id": "10358826495728838160",
+        "nom": "Angers Design Fenêtres - Art & Fenêtres",
+        "slug": "angers-design-fenetres-art-fenetres",
+        "telephone": "02 41 20 20 20",
+        "site_web": "http://angers.artetfenetres.com/",
+        "adresse": "3 Rue de l'Ardelière, 49070 Beaucouzé",
+        "note": 4.7,
+        "avis": 55,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15940929612725020141",
+        "nom": "Art & Fenêtres",
+        "slug": "art-fenetres",
+        "telephone": "02 41 20 20 20",
+        "site_web": "https://menuizeo.artetfenetres.com/adresses-magasins/beaucouze-49070.php",
+        "adresse": "3 Rue de l'Ardelière, 49070 Beaucouzé",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "coron": {
+    "artisans": [
+      {
+        "id": "7989640109625090616",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-angers",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 5,
+        "avis": 230,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "cholet": {
+    "artisans": [
+      {
+        "id": "917287699392844048",
+        "nom": "TRYBA Cholet",
+        "slug": "tryba-cholet",
+        "telephone": "02 21 83 17 14",
+        "site_web": "https://www.tryba.com/espace-conseil/49/tryba-cholet/?utm_campaign=Tryba_CHOLET&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "16 Rue du Puits Gourdon, 49300 Cholet",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16876455183179703328",
+        "nom": "ARTIM Cholet",
+        "slug": "artim-cholet",
+        "telephone": "02 41 58 41 85",
+        "site_web": "https://www.artim-menuisier.fr/",
+        "adresse": "13 Rue du Mans, 49300 Cholet",
+        "note": 4.9,
+        "avis": 195,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12032386919013063481",
+        "nom": "Fenêtres du Choletais - OAD Cholet",
+        "slug": "fenetres-du-choletais-oad-cholet",
+        "telephone": "02 41 30 20 35",
+        "site_web": "https://fenetresducholetais.com/",
+        "adresse": "7 Av. Edmond Michelet, 49300 Cholet",
+        "note": 5,
+        "avis": 22,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "13724722329572857156",
+        "nom": "ALUMAINE - Fabricant de Menuiseries Aluminium Spécifiques",
+        "slug": "alumaine-fabricant-de-menuiseries-aluminium-specifiques",
+        "telephone": "02 41 28 35 92",
+        "site_web": "http://www.alumaine.fr/",
+        "adresse": "12 Rue de la Blanchardière, 49300 Cholet",
+        "note": 5,
+        "avis": 2,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "6808995209775663289",
+        "nom": "THIERRY MICHENEAU Expert Rénovateur K•LINE SOMFY",
+        "slug": "thierry-micheneau-expert-renovateur-kline-somfy",
+        "telephone": "02 41 56 47 03",
+        "site_web": "https://micheneauthierry.com/",
+        "adresse": "53 Rue de la Vendée, 49300 Cholet",
+        "note": 4.7,
+        "avis": 546,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "les-bois-d-anjou": {
+    "artisans": [
+      {
+        "id": "18274226349592587374",
+        "nom": "Brion Toiture 49",
+        "slug": "brion-toiture-49",
+        "telephone": "06 27 10 60 07",
+        "site_web": "https://briontoiture49.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 49,
+        "type": "Couvreur"
+      },
+      {
+        "id": "542405693430979589",
+        "nom": "val authion couverture",
+        "slug": "val-authion-couverture",
+        "telephone": "02 41 45 14 74",
+        "site_web": "https://www.facebook.com/beaufort49250",
+        "adresse": "Les Mares, 49250 Beaufort-en-Anjou",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10048048331430249847",
+        "nom": "Camping Des Bois d'Anjou",
+        "slug": "camping-des-bois-danjou",
+        "telephone": "06 59 66 65 57",
+        "site_web": "https://www.campingdesboisdanjou.fr/fr/",
+        "adresse": "Moulin de Fontaine D 211, 49250 Fontaine-Guérin",
+        "note": 4.1,
+        "avis": 191,
+        "type": "Terrain de camping"
+      },
+      {
+        "id": "10567852334230497574",
+        "nom": "Xilo",
+        "slug": "xilo",
+        "telephone": "02 41 24 98 05",
+        "site_web": "https://xilo3.com/",
+        "adresse": "ZA La Sablonnière, 14 rue Denis PAPIN, 49220 Le Lion-d'Angers",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "beaucouze": {
+    "artisans": [
+      {
+        "id": "3090983879903803759",
+        "nom": "TRYBA Angers (Beaucouzé)",
+        "slug": "tryba-angers-beaucouze",
+        "telephone": "02 21 83 13 01",
+        "site_web": "https://www.tryba.com/espace-conseil/49/tryba-beaucouze/?utm_campaign=Tryba_Beaucouze&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "Rue du Landreau, 49070 Beaucouzé",
+        "note": 4.4,
+        "avis": 69,
+        "type": "Menuisier"
+      },
+      {
+        "id": "92460330780803937",
+        "nom": "TMA Menuiserie",
+        "slug": "tma-menuiserie",
+        "telephone": "02 41 73 27 26",
+        "site_web": "https://www.menuiserie-tma.com/",
+        "adresse": "7 Av. de la Fontaine, 49070 Beaucouzé",
+        "note": 4.2,
+        "avis": 32,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5273526597178618109",
+        "nom": "Atlantique Ouvertures",
+        "slug": "atlantique-ouvertures",
+        "telephone": "02 72 47 04 49",
+        "site_web": "https://www.atlantiqueouvertures.com/agence/menuiserie-angers/?utm_source=gmb",
+        "adresse": "7 Rue du Landreau, 49070 Beaucouzé",
+        "note": 5,
+        "avis": 5,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "beaufort-en-anjou": {
+    "artisans": [
+      {
+        "id": "4331824940580234429",
+        "nom": "La Menuiserie Les Saules",
+        "slug": "la-menuiserie-les-saules",
+        "telephone": "02 41 80 35 36",
+        "site_web": "https://www.menuisier-beaufort-en-vallee.fr/",
+        "adresse": "5 Bd des Entrepreneurs, 49250 Beaufort-en-Anjou",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16546927352460781121",
+        "nom": "Habitat Décor Sud Ouest",
+        "slug": "habitat-decor-sud-ouest",
+        "telephone": "02 41 57 24 76",
+        "site_web": "http://www.habitat-decor49.fr/",
+        "adresse": "19 Rte d'Angers, 49250 Beaufort-en-Anjou",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5869522257141708328",
+        "nom": "Fenêtres & Confort l Multiservices 24/24 7/7",
+        "slug": "fenetres-confort-l-multiservices-2424-77",
+        "telephone": "07 53 29 06 74",
+        "site_web": "http://www.fenetreetconfort.fr/",
+        "adresse": "03 Sq. Winston Churchill, 49000 Angers",
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4723217364813170365",
+        "nom": "Hardouin David",
+        "slug": "hardouin-david",
+        "telephone": "06 77 73 21 86",
+        "site_web": "https://couverture-hardouin.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "corze": {
+    "artisans": [
+      {
+        "id": "12772207398426687454",
+        "nom": "ADF49",
+        "slug": "adf49",
+        "telephone": "02 41 34 91 64",
+        "site_web": "https://adf49.fr/contact/",
+        "adresse": "1 Chem. de Miraval, 49140 Corzé",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "10205486493993883675",
+        "nom": "AD Fermeture",
+        "slug": "ad-fermeture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "49140 Corzé",
+        "note": 5,
+        "avis": 7,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4548201791136112838",
+        "nom": "AD Fermeture",
+        "slug": "ad-fermeture",
+        "telephone": "02 41 34 91 64",
+        "site_web": "http://www.adf49.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 38,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "6984299258156947861",
+        "nom": "Ludo'renov",
+        "slug": "ludorenov",
+        "telephone": "06 61 30 23 52",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 51,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "15283765677997164676",
+        "nom": "Fenêtres sur Loir",
+        "slug": "fenetres-sur-loir",
+        "telephone": "02 41 77 04 08",
+        "site_web": "http://www.fenetres-sur-loir.fr/?utm_source=gmb",
+        "adresse": "287 Rue de L'innovation, 49140 Seiches-sur-le-Loir",
+        "note": 4.7,
+        "avis": 123,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chaze-sur-argos": {
+    "artisans": [
+      {
+        "id": "9171316942728222948",
+        "nom": "Constructions Trillot",
+        "slug": "constructions-trillot",
+        "telephone": "02 41 26 02 60",
+        "site_web": "http://www.constructions-trillot.com/?utm_source=gmb",
+        "adresse": "245 Rte de la Croix du Dais, 49500 Chazé-sur-Argos",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "terranjou": {
+    "artisans": [
+      {
+        "id": "7009501454338178949",
+        "nom": "L'atelier AF Couverture",
+        "slug": "latelier-af-couverture",
+        "telephone": "09 70 17 30 36",
+        "site_web": "https://www.guide-de-l-habitat.fr/artisan/l-atelier-af-couverture-n4275",
+        "adresse": "4 les petits marchais, 49380 Bellevigne-en-Layon",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18012792295225745877",
+        "nom": "ANJOU CONFORT",
+        "slug": "anjou-confort",
+        "telephone": "02 41 39 58 00",
+        "site_web": "https://anjou-confort.fr/",
+        "adresse": "29 Rue des Tilleuls, 49170 Saint-Martin-du-Fouilloux",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chemille-en-anjou": {
+    "artisans": [
+      {
+        "id": "3454663845049780801",
+        "nom": "WOODWORK",
+        "slug": "woodwork",
+        "telephone": "02 41 30 80 10",
+        "site_web": "http://www.eurl-woodwork.fr/",
+        "adresse": "49120 Chemillé-en-Anjou",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16991748050493324380",
+        "nom": "J2M",
+        "slug": "j2m",
+        "telephone": "07 83 45 31 51",
+        "site_web": "http://j2m-49.com/",
+        "adresse": "12 Rue du Gué, 49120 Chemillé-en-Anjou",
+        "note": 5,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "4155713377936526362",
+        "nom": "Laissez Entrer La Lumiere",
+        "slug": "laissez-entrer-la-lumiere",
+        "telephone": "02 41 45 44 05",
+        "site_web": "http://laissez-entrer-la-lumiere.com/",
+        "adresse": "ZA Le Bon René, 49750 Chemillé-en-Anjou",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10175999955971109010",
+        "nom": "As Alu Solution",
+        "slug": "as-alu-solution",
+        "telephone": "02 72 77 14 14",
+        "site_web": null,
+        "adresse": "ZI DES TROIS ROUTES, Rue Konrad Adenauer, 49120 Chemillé-en-Anjou",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1829627705166751667",
+        "nom": "STMC",
+        "slug": "stmc",
+        "telephone": "06 20 14 71 83",
+        "site_web": "http://stmc49.fr/",
+        "adresse": "3 rue du théâtre, Rue du Bompas, 49120 Chemillé-en-Anjou",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11898304520271980333",
+        "nom": "Atelier Courant",
+        "slug": "atelier-courant",
+        "telephone": "02 41 30 67 07",
+        "site_web": "https://fr-fr.facebook.com/AtelierCourant",
+        "adresse": "Z.A. de la Roche Blanche, 3 rue de La Roche Blanche, 49120 Chemillé-en-Anjou",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11115600792398040663",
+        "nom": "Agencial Agencement",
+        "slug": "agencial-agencement",
+        "telephone": "02 41 49 10 49",
+        "site_web": "http://www.agencial.fr/",
+        "adresse": "8 Rue Robert Schuman, 49120 Chemillé-en-Anjou",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "746097901648743020",
+        "nom": "AS AGT Création",
+        "slug": "as-agt-creation",
+        "telephone": "02 41 64 32 35",
+        "site_web": "http://as-agt.fr/",
+        "adresse": "Rue Konrad Adenauer, 49120 Chemillé-en-Anjou",
+        "note": 5,
+        "avis": 5,
+        "type": "Designer d'intérieur"
+      },
+      {
+        "id": "18298296834244822172",
+        "nom": "J2M - menuisier",
+        "slug": "j2m-menuisier",
+        "telephone": "07 83 45 31 51",
+        "site_web": "https://www.j2m-49.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12909400672173481165",
+        "nom": "Chesneau Jean-Michel",
+        "slug": "chesneau-jean-michel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "20 Rue Baron, 49120 Chemillé-en-Anjou",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "tuffalun": {
+    "artisans": [
+      {
+        "id": "8926662322921379056",
+        "nom": "Martineau Laurent",
+        "slug": "martineau-laurent",
+        "telephone": "02 41 59 36 85",
+        "site_web": null,
+        "adresse": "1 Rue des Andes, 49700 Tuffalun",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "12051661245132037725",
+        "nom": "Jevibois Construction",
+        "slug": "jevibois-construction",
+        "telephone": "09 74 56 39 82",
+        "site_web": "https://www.jeviboisconstruction.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 Rue des Caves, 49700 Tuffalun",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "11027996503723267028",
+        "nom": "Thomas REDOIS - Couverture",
+        "slug": "thomas-redois-couverture",
+        "telephone": "07 71 28 95 41",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "denee": {
+    "artisans": [
+      {
+        "id": "9330140407067419438",
+        "nom": "TOITURES DU LOUET",
+        "slug": "toitures-du-louet",
+        "telephone": "07 71 21 55 18",
+        "site_web": null,
+        "adresse": "10 Rte de Mozé, 49190 Denée",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12595878411396166572",
+        "nom": "Atelier Boutin-Poireau",
+        "slug": "atelier-boutin-poireau",
+        "telephone": "02 41 78 76 97",
+        "site_web": "https://www.atelierboutinpoireau.com/",
+        "adresse": "3 Rte d'Angers, 49190 Denée",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "ecouflant": {
+    "artisans": [
+      {
+        "id": "3850814453543584244",
+        "nom": "Sorenov",
+        "slug": "sorenov",
+        "telephone": "02 41 34 92 34",
+        "site_web": "https://sorenov.fr/",
+        "adresse": "2 Rte de la Chapelle, 49000 Écouflant",
+        "note": 4.5,
+        "avis": 51,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "chalonnes-sur-loire": {
+    "artisans": [
+      {
+        "id": "9207231736769026008",
+        "nom": "Menuiserie Gaubert-Bazante",
+        "slug": "menuiserie-gaubert-bazante",
+        "telephone": "02 41 78 17 06",
+        "site_web": null,
+        "adresse": "14 Av. de la Gare, 49290 Chalonnes-sur-Loire",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15061193358706920123",
+        "nom": "Belisson Ploneis",
+        "slug": "belisson-ploneis",
+        "telephone": "06 62 82 00 79",
+        "site_web": "http://www.menuiseriedulayon.com/",
+        "adresse": "zi de l'éperonnerie, 49290 Chalonnes-sur-Loire",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "distre": {
+    "artisans": [
+      {
+        "id": "4963142821563459578",
+        "nom": "Lariviere",
+        "slug": "lariviere",
+        "telephone": "02 41 50 20 82",
+        "site_web": "https://www.lariviere.fr/trouver-votre-agence/lariviere-SEB/entry-451-lariviere-saumur.html",
+        "adresse": "Bd Jean Moulin, 49400 Saumur",
+        "note": 4.3,
+        "avis": 8,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "allonnes": {
+    "artisans": [
+      {
+        "id": "5356243430987097990",
+        "nom": "LH Menuiserie Services",
+        "slug": "lh-menuiserie-services",
+        "telephone": "06 07 57 35 28",
+        "site_web": "https://www.lh-menuiserie-services.fr/",
+        "adresse": "66 Le Moulin Têtard, 49650 Allonnes",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9223149301459797797",
+        "nom": "Menuiseries du mans",
+        "slug": "menuiseries-du-mans",
+        "telephone": "02 43 80 50 40",
+        "site_web": "https://www.menuiseriesdumans.fr/",
+        "adresse": "Rue de l'Ante, 72700 Allonnes",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "durtal": {
+    "artisans": [
+      {
+        "id": "982197878690301954",
+        "nom": "Bouvet Durtal",
+        "slug": "bouvet-durtal",
+        "telephone": null,
+        "site_web": "https://www.bouvet-durtal.fr/",
+        "adresse": "L'Antinière, 49430 Durtal",
+        "note": 4.3,
+        "avis": 119,
+        "type": "Magasin de matériel de motoculture"
+      },
+      {
+        "id": "11460611972020566344",
+        "nom": "Partedis Charpentes - Durtal",
+        "slug": "partedis-charpentes-durtal",
+        "telephone": "02 41 41 05 05",
+        "site_web": "http://www.partedis.com/agence/durtal-fabrication-charpentes/",
+        "adresse": "ZAC Les Ormeaux, 4 Rue du plein Champ, 49430 Durtal",
+        "note": 4,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1416433597626897173",
+        "nom": "PARTEDIS Couverture - Durtal",
+        "slug": "partedis-couverture-durtal",
+        "telephone": "02 41 21 16 16",
+        "site_web": "http://www.partedis.com/agence/durtal-bois-materiaux/",
+        "adresse": "ZAC Les Ormeaux, 4 Rue du plein Champ, 49430 Durtal",
+        "note": 5,
+        "avis": 6,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "doue-en-anjou": {
+    "artisans": [
+      {
+        "id": "17723727903648898430",
+        "nom": "Deniaud",
+        "slug": "deniaud",
+        "telephone": "02 41 74 06 06",
+        "site_web": "http://www.deniaudcouverture.fr/",
+        "adresse": "7 rue Artisanat Za Des, Rue des Boulays, 49130 Sainte-Gemmes-sur-Loire",
+        "note": 4.2,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18311985713659482413",
+        "nom": "Jrs Menuiserie",
+        "slug": "jrs-menuiserie",
+        "telephone": "06 25 27 02 98",
+        "site_web": "https://www.jrs-menuiserie.fr/",
+        "adresse": "27 Rue de la Mairie, 49390 Vernoil-le-Fourrier",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16448948836672084495",
+        "nom": "DPO85",
+        "slug": "dpo85",
+        "telephone": "06 70 85 67 79",
+        "site_web": "https://www.dpo85.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 45,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-augustin-des-bois": {
+    "artisans": [
+      {
+        "id": "13441918827153239769",
+        "nom": "Pasquet menuiseries Angers",
+        "slug": "pasquet-menuiseries-angers",
+        "telephone": "02 41 76 66 33",
+        "site_web": "https://www.pasquet.fr/menuiserie/angers-49/",
+        "adresse": "2 Rue Henri Jarry, 49130 Les Ponts-de-Cé",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7989640109625090616",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-angers",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 5,
+        "avis": 230,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9258612355828507167",
+        "nom": "Verger Ets",
+        "slug": "verger-ets",
+        "telephone": "02 41 77 04 61",
+        "site_web": "http://www.verger-motoculture.com/",
+        "adresse": "4 Rue de Bécon, 49170 Saint-Augustin-des-Bois",
+        "note": 4.7,
+        "avis": 54,
+        "type": "Magasin de matériel de motoculture"
+      },
+      {
+        "id": "14827988403206265632",
+        "nom": "Fenêtres d'Anjou - Menuisier à Angers : Fenêtres, portes, volets et autres menuiseries",
+        "slug": "fenetres-danjou-menuisier-a-angers-fenetres-portes-volets-et-autres-menuiseries",
+        "telephone": "02 41 31 16 64",
+        "site_web": "https://www.fenetres-anjou-49.fr/",
+        "adresse": "Le Jaunet, Bon Puits ZI du, 49480 Verrières-en-Anjou",
+        "note": 4.6,
+        "avis": 81,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6406975196365037564",
+        "nom": "Isoclar menuiserie Bouchemaine",
+        "slug": "isoclar-menuiserie-bouchemaine",
+        "telephone": "02 41 88 44 50",
+        "site_web": "https://www.isoclar.fr/",
+        "adresse": "5 Rue des Brunelleries Zac Brunelleries, 49080 Bouchemaine",
+        "note": 4.7,
+        "avis": 218,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "18012792295225745877",
+        "nom": "ANJOU CONFORT",
+        "slug": "anjou-confort",
+        "telephone": "02 41 39 58 00",
+        "site_web": "https://anjou-confort.fr/",
+        "adresse": "29 Rue des Tilleuls, 49170 Saint-Martin-du-Fouilloux",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4689967143757231894",
+        "nom": "ARTINESS MENUISERIE",
+        "slug": "artiness-menuiserie",
+        "telephone": "06 14 79 15 08",
+        "site_web": "http://www.artiness-menuiserie-angers.fr/",
+        "adresse": "255 Rue de la Mûrie, 49170 Saint-Georges-sur-Loire",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "15088314669419079700",
+        "nom": "BEILLOUET MENUISERIE",
+        "slug": "beillouet-menuiserie",
+        "telephone": "06 58 39 42 47",
+        "site_web": "https://beillouetmenuiserie.fr/",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17518680784385370423",
+        "nom": "SO'Menuiserie - Fenêtres, Portes, Baie vitrée sur Angers",
+        "slug": "somenuiserie-fenetres-portes-baie-vitree-sur-angers",
+        "telephone": "07 82 14 21 90",
+        "site_web": "http://somenuiserie.com/",
+        "adresse": "25 Rue Lenepveu, 49000 Angers",
+        "note": 5,
+        "avis": 7,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-clement-de-la-place": {
+    "artisans": [
+      {
+        "id": "4133320673182882036",
+        "nom": "Fenetres plus",
+        "slug": "fenetres-plus",
+        "telephone": "09 80 42 94 04",
+        "site_web": "http://www.fenetresplus.fr/",
+        "adresse": "92 Rue La Fayette, 75009 Paris",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Magasin"
+      },
+      {
+        "id": "11810390754137384875",
+        "nom": "EPURE OUVERTURE | Fenêtres | Portes | Pergolas à Angers",
+        "slug": "epure-ouverture-fenetres-portes-pergolas-a-angers",
+        "telephone": "07 61 23 01 20",
+        "site_web": "https://epure-ouverture.fr/",
+        "adresse": "3 La Bastille, 49370 Saint-Clément-de-la-Place",
+        "note": 5,
+        "avis": 57,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17797725550289512644",
+        "nom": "Couty Dominique",
+        "slug": "couty-dominique",
+        "telephone": "06 07 53 88 53",
+        "site_web": null,
+        "adresse": "Les Brosses, 49370 Saint-Clément-de-la-Place",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sainte-gemmes-sur-loire": {
+    "artisans": [
+      {
+        "id": "4046537741887926289",
+        "nom": "Miroiterie Oury - Mirglass",
+        "slug": "miroiterie-oury-mirglass",
+        "telephone": "02 41 66 17 66",
+        "site_web": "http://www.miroiterie-oury.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "5 Rue de l'Artisanat, 49130 Sainte-Gemmes-sur-Loire",
+        "note": 4.5,
+        "avis": 75,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17723727903648898430",
+        "nom": "Deniaud",
+        "slug": "deniaud",
+        "telephone": "02 41 74 06 06",
+        "site_web": "http://www.deniaudcouverture.fr/",
+        "adresse": "7 rue Artisanat Za Des, Rue des Boulays, 49130 Sainte-Gemmes-sur-Loire",
+        "note": 4.2,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18096238219327222069",
+        "nom": "L'Atelier Gagnon SARL",
+        "slug": "latelier-gagnon-sarl",
+        "telephone": "02 41 57 77 63",
+        "site_web": "https://latelier-gagnon.com/",
+        "adresse": "ZA des BOULAYS, 2 Rue de l'Artisanat, 49130 Sainte-Gemmes-sur-Loire",
+        "note": 4.6,
+        "avis": 24,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "8481015619531200651",
+        "nom": "Toitures Gemmoises",
+        "slug": "toitures-gemmoises",
+        "telephone": "06 71 35 62 11",
+        "site_web": "https://toitgem.com/",
+        "adresse": "37 Rue Joseph Cugnot, 49130 Sainte-Gemmes-sur-Loire",
+        "note": 4.7,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4097585755205681000",
+        "nom": "VERRE SOLUTIONS ANGERS",
+        "slug": "verre-solutions-angers",
+        "telephone": "02 41 33 65 67",
+        "site_web": "https://agence.verre-solutions.com/1-verre-solutions-angers?utm_source=gmb",
+        "adresse": "178 Bd André Bahonneau, 49800 Trélazé",
+        "note": 4.5,
+        "avis": 55,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11870694415186738840",
+        "nom": "AM2T – Création de meubles sur mesure, restauration de mobilier et pose de cuisines.",
+        "slug": "am2t-creation-de-meubles-sur-mesure-restauration-de-mobilier-et-pose-de-cuisines",
+        "telephone": "06 09 16 64 84",
+        "site_web": "http://www.menuiserie-am2t.fr/",
+        "adresse": "11 Rue de l'Artisanat, 49130 Sainte-Gemmes-sur-Loire",
+        "note": 5,
+        "avis": 3,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5403761654137901306",
+        "nom": "Atelier Richet EURL",
+        "slug": "atelier-richet-eurl",
+        "telephone": "02 41 43 85 84",
+        "site_web": "http://www.atelier-richet.com/",
+        "adresse": "82 Rue de la Croix Blanche, 49100 Angers",
+        "note": 4.4,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6471173419827088713",
+        "nom": "Innov HOME",
+        "slug": "innov-home",
+        "telephone": "02 41 97 65 61",
+        "site_web": "https://innovhome-renovation.fr/",
+        "adresse": "6 Rue Jacqueline Maze, 49130 Les Ponts-de-Cé",
+        "note": 4.8,
+        "avis": 152,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "soulaire-et-bourg": {
+    "artisans": [
+      {
+        "id": "9955816139320295967",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/sarthe/installateur-expert-en-pose-velux-au-mans",
+        "adresse": "3 Av. René Laennec, 72000 Le Mans",
+        "note": 5,
+        "avis": 60,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9423875348079484037",
+        "nom": "MURPROTEC ANGERS",
+        "slug": "murprotec-angers",
+        "telephone": "02 41 86 98 50",
+        "site_web": "https://www.murprotec.fr/agence/murprotec-angers?utm_source=gmb&utm_medium=annuaire&utm_campaign=maine-et-loire",
+        "adresse": "35 Rue Lionnaise, 49100 Angers",
+        "note": 4.4,
+        "avis": 47,
+        "type": "Centre de diagnostic"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "13901364051465285759",
+        "nom": "ERS Solution",
+        "slug": "ers-solution",
+        "telephone": "01 84 80 59 19",
+        "site_web": "https://erssolution.fr/",
+        "adresse": "95 Bd Berthier, 75017 Paris",
+        "note": 5,
+        "avis": 11,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12467998443579990148",
+        "nom": "Hélios Habitat Vitré, isolation et fenêtre de toit Velux",
+        "slug": "helios-habitat-vitre-isolation-et-fenetre-de-toit-velux",
+        "telephone": "02 56 28 98 53",
+        "site_web": "http://helios-habitat.bzh/",
+        "adresse": "92 Bd de Laval, 35500 Vitré",
+        "note": 4.9,
+        "avis": 32,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9213624001235253256",
+        "nom": "SARL Martinier Sébastien Couverture",
+        "slug": "sarl-martinier-sebastien-couverture",
+        "telephone": "06 88 24 49 10",
+        "site_web": null,
+        "adresse": "La Rossignolerie, 53200 Gennes-Longuefuye",
+        "note": 4,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7127306577180211335",
+        "nom": "Nouvel'R Toiture",
+        "slug": "nouvelr-toiture",
+        "telephone": "07 60 97 01 12",
+        "site_web": "https://www.nouvelr-toiture.fr/",
+        "adresse": "6 Rue des Frères Lumière, 49240 Avrillé",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3418077055430894043",
+        "nom": "Hélios Habitat Fougères, isolation et fenêtre de toit Velux",
+        "slug": "helios-habitat-fougeres-isolation-et-fenetre-de-toit-velux",
+        "telephone": "02 99 17 21 30",
+        "site_web": "http://helios-habitat.bzh/",
+        "adresse": "75 Rue de Bretagne, 35133 Beaucé",
+        "note": 4.7,
+        "avis": 99,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9788756503318603100",
+        "nom": "NG Services SARL",
+        "slug": "ng-services-sarl",
+        "telephone": "09 53 86 49 62",
+        "site_web": "http://www.ngservices.fr/?utm_source=gmb",
+        "adresse": "8 All. du Dindo, 72560 Changé",
+        "note": 4.7,
+        "avis": 96,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-clement-des-levees": {
+    "artisans": [
+      {
+        "id": "6692208890340130666",
+        "nom": "WLT Rénovation",
+        "slug": "wlt-renovation",
+        "telephone": "06 73 30 33 73",
+        "site_web": null,
+        "adresse": "35 Rue Georges Péron, 49350 Saint-Clément-des-Levées",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7896595497230492101",
+        "nom": "Atelier Bois & Pierre",
+        "slug": "atelier-bois-pierre",
+        "telephone": "06 31 75 47 99",
+        "site_web": "https://www.facebook.com/atelierboisetpierre",
+        "adresse": "6 Le Bourg Joly, 49350 Saint-Clément-des-Levées",
+        "note": 5,
+        "avis": 5,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-barthelemy-d-anjou": {
+    "artisans": [
+      {
+        "id": "11485750059113942197",
+        "nom": "PERROCHEAU COUVERTURE",
+        "slug": "perrocheau-couverture",
+        "telephone": "06 33 59 84 06",
+        "site_web": "https://www.perrocheau-couverture.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "25 Rue de la Reux, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1969264666310259818",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 41 36 53 00",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/maine-et-loire/lapeyre-angers-28",
+        "adresse": "9 Rue Vaucanson, 49000 Angers",
+        "note": 4.2,
+        "avis": 368,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "7819171572360322088",
+        "nom": "FENETRIER de l'ANJOU - Décostory Angers",
+        "slug": "fenetrier-de-lanjou-decostory-angers",
+        "telephone": "02 41 25 15 34",
+        "site_web": "https://www.fenetrier-de-lanjou.com/",
+        "adresse": "vers Métro & Restaurant La Boucherie, 3 Rue du Paon, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.6,
+        "avis": 52,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "5917597646070872438",
+        "nom": "JLR Alu",
+        "slug": "jlr-alu",
+        "telephone": "02 41 96 12 50",
+        "site_web": "https://jlralu.fr/?utm_source=gmb",
+        "adresse": "Z.I du Chêne Vert, 1 Rue du Chêne Vert, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.3,
+        "avis": 65,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2075511642786449672",
+        "nom": "Leroy Merlin Saint-Barthélemy-d'Anjou - Angers",
+        "slug": "leroy-merlin-saint-barthelemy-danjou-angers",
+        "telephone": "02 41 27 21 30",
+        "site_web": "https://www.leroymerlin.fr/magasins/saint-barthelemy-d-anjou-angers.html",
+        "adresse": "Leroy Merlin Angers, 191 Rte d'Angers, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4,
+        "avis": 5878,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "17546682680372776892",
+        "nom": "Bordeau couverture",
+        "slug": "bordeau-couverture",
+        "telephone": "02 41 36 21 93",
+        "site_web": "https://www.bordeau-couverture.fr/",
+        "adresse": "La fontaine, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 3.2,
+        "avis": 12,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3454790794545103073",
+        "nom": "MPPI Angers",
+        "slug": "mppi-angers",
+        "telephone": "02 41 43 42 60",
+        "site_web": "https://magasin.vm-materiaux.fr/28-mppi-angers?utm_source=gmb",
+        "adresse": "4 Bd des Bretonnières, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.5,
+        "avis": 24,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "7225794280128857052",
+        "nom": "Samson Entreprise De Couverture SARL",
+        "slug": "samson-entreprise-de-couverture-sarl",
+        "telephone": "02 41 34 79 44",
+        "site_web": "http://www.samson-couverture.com/",
+        "adresse": "7 Rte Des Sablières, 49480 Verrières-en-Anjou",
+        "note": 4.3,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12294613937805306393",
+        "nom": "Salle d'exposition ARTIPÔLE Bain/Carrelage à ANGERS/St BARTHELEMY",
+        "slug": "salle-dexposition-artipole-baincarrelage-a-angersst-barthelemy",
+        "telephone": "02 41 33 59 97",
+        "site_web": "http://www.artipole.fr/",
+        "adresse": "3 Rue du Cloteau, 49124 Saint-Barthélemy-d'Anjou",
+        "note": 4.1,
+        "avis": 73,
+        "type": "Spécialiste de la salle de bains"
+      }
+    ]
+  },
+  "saint-georges-sur-loire": {
+    "artisans": [
+      {
+        "id": "14942503979851341412",
+        "nom": "HEBE FREMY - Menuiseries - Stores - Agencements",
+        "slug": "hebe-fremy-menuiseries-stores-agencements",
+        "telephone": "02 41 39 14 43",
+        "site_web": "http://www.menuiserie-hebefremy.fr/",
+        "adresse": "302 Rue de la Mûrie, 49170 Saint-Georges-sur-Loire",
+        "note": 4.8,
+        "avis": 28,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-christophe-du-bois": {
+    "artisans": [
+      {
+        "id": "6808995209775663289",
+        "nom": "THIERRY MICHENEAU Expert Rénovateur K•LINE SOMFY",
+        "slug": "thierry-micheneau-expert-renovateur-kline-somfy",
+        "telephone": "02 41 56 47 03",
+        "site_web": "https://micheneauthierry.com/",
+        "adresse": "53 Rue de la Vendée, 49300 Cholet",
+        "note": 4.7,
+        "avis": 546,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7622181039827755204",
+        "nom": "En Verr'Vous",
+        "slug": "en-verrvous",
+        "telephone": "06 69 37 32 71",
+        "site_web": null,
+        "adresse": "31 Rue du Parc, 49280 Saint-Christophe-du-Bois",
+        "note": 5,
+        "avis": 35,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "10479029881249140108",
+        "nom": "COUVREUR Lenestour Cholet - Réparation toiture - Demoussage - Traitement Hydrofuge - Urgence Fuite - Ravalement de façade",
+        "slug": "couvreur-lenestour-cholet-reparation-toiture-demoussage-traitement-hydrofuge-urgence-fuite-ravalement-de-facade",
+        "telephone": "07 67 28 91 49",
+        "site_web": "https://www.demoussage-cholet.fr/",
+        "adresse": "Rue de Touraine, 49740 La Romagne",
+        "note": 5,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-lambert-la-potherie": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "val-du-layon": {
+    "artisans": [
+      {
+        "id": "16915040238750679486",
+        "nom": "Be Menuiserie",
+        "slug": "be-menuiserie",
+        "telephone": "06 83 53 74 73",
+        "site_web": "https://www.bemenuiserie.fr/",
+        "adresse": "3 ZA La Promenade, 49750 Beaulieu-sur-Layon",
+        "note": 5,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5018532693181253713",
+        "nom": "SARL ANDRAULT VINCENT MENUISERIES",
+        "slug": "sarl-andrault-vincent-menuiseries",
+        "telephone": "06 47 15 12 06",
+        "site_web": null,
+        "adresse": "La Genaiserie, 49190 Val-du-Layon",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12476139682498718640",
+        "nom": "L'Expert Fenêtre AL MENUISERIE",
+        "slug": "lexpert-fenetre-al-menuiserie",
+        "telephone": "06 82 68 13 69",
+        "site_web": "https://www.al-menuiseries.com/",
+        "adresse": "Av. de la Clercière, 49370 Bécon-les-Granits",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "saint-martin-du-fouilloux": {
+    "artisans": [
+      {
+        "id": "18012792295225745877",
+        "nom": "ANJOU CONFORT",
+        "slug": "anjou-confort",
+        "telephone": "02 41 39 58 00",
+        "site_web": "https://anjou-confort.fr/",
+        "adresse": "29 Rue des Tilleuls, 49170 Saint-Martin-du-Fouilloux",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-germain-des-pres": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-leger-de-linieres": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-leger-sous-cholet": {
+    "artisans": [
+      {
+        "id": "16876455183179703328",
+        "nom": "ARTIM Cholet",
+        "slug": "artim-cholet",
+        "telephone": "02 41 58 41 85",
+        "site_web": "https://www.artim-menuisier.fr/",
+        "adresse": "13 Rue du Mans, 49300 Cholet",
+        "note": 4.9,
+        "avis": 195,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2802004305604486058",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-cholet",
+        "adresse": "32 Rue du Carteron, 49300 Cholet",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8636179627401681473",
+        "nom": "ED Ouest Couverture Maine et Loire",
+        "slug": "ed-ouest-couverture-maine-et-loire",
+        "telephone": "02 41 75 05 16",
+        "site_web": "https://www.facebook.com/EDOuest-856264361431240/?utm_source=gmb",
+        "adresse": "2 Rue de l'Hermitage, 49280 Saint-Léger-sous-Cholet",
+        "note": 5,
+        "avis": 10,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "loire-authion": {
+    "artisans": [
+      {
+        "id": "2898811214024034221",
+        "nom": "OUEST OUVRAGE",
+        "slug": "ouest-ouvrage",
+        "telephone": "02 41 57 09 64",
+        "site_web": "https://www.ouest-ouvrage.com/",
+        "adresse": "11 Rte de Maze, 49250 Loire-Authion",
+        "note": 4.7,
+        "avis": 47,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15650341571435599306",
+        "nom": "Menuiserie Pelletier",
+        "slug": "menuiserie-pelletier",
+        "telephone": "02 41 45 03 08",
+        "site_web": "http://www.menuiserie-pelletier.fr/?utm_source=gmb",
+        "adresse": "31 Rue de Bellevue, 49630 Loire-Authion",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6144519952073422065",
+        "nom": "Loire Menuiserie",
+        "slug": "loire-menuiserie",
+        "telephone": "06 76 64 03 00",
+        "site_web": "http://www.loiremenuiserie.fr/",
+        "adresse": "25 Rue du Carr, 49800 Loire-Authion",
+        "note": 5,
+        "avis": 19,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16714611971636036558",
+        "nom": "Etablissement Pionneau",
+        "slug": "etablissement-pionneau",
+        "telephone": "02 41 54 35 45",
+        "site_web": "http://www.etablissements-pionneau.com/",
+        "adresse": "Zone activité La Perrière, 5 All. Newton, 49800 Loire-Authion",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18286137823893366622",
+        "nom": "Menuiserie Elyme Atelier",
+        "slug": "menuiserie-elyme-atelier",
+        "telephone": "06 30 48 44 43",
+        "site_web": "https://www.menuiserie-elyme.fr/",
+        "adresse": "30 Rte des Groies, 49800 Loire-Authion",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16261458441755571791",
+        "nom": "Moreau Couverture",
+        "slug": "moreau-couverture",
+        "telephone": "07 67 65 66 20",
+        "site_web": "https://www.couverture-moreau.fr/contact",
+        "adresse": "26 Rue de la Roselière, 49800 Loire-Authion",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sevremoine": {
+    "artisans": [
+      {
+        "id": "15842667348678273728",
+        "nom": "Cetih",
+        "slug": "cetih",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZA des alouettes, 2 Rue André Citroën, 49450 Sèvremoine",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "4750453773370855196",
+        "nom": "BG Menuiserie",
+        "slug": "bg-menuiserie",
+        "telephone": "06 43 57 29 11",
+        "site_web": "https://www.bg-menuiserie.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 Bis Rue de la Coussaie, 49450 Sèvremoine",
+        "note": 5,
+        "avis": 35,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15815535074485407334",
+        "nom": "Stanley Rénovation – Couvreur Façadier Sèvremoine 49",
+        "slug": "stanley-renovation-couvreur-facadier-sevremoine-49",
+        "telephone": "06 32 02 09 14",
+        "site_web": "http://stanleyrenovation.fr/",
+        "adresse": "2 Rue du Pas Larron, 49660 Sèvremoine",
+        "note": 4.7,
+        "avis": 41,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1675154139602976313",
+        "nom": "SWAO",
+        "slug": "swao",
+        "telephone": "02 40 40 55 55",
+        "site_web": "http://www.swao.fr/",
+        "adresse": "2 Rue André Citroën, 49450 Sèvremoine",
+        "note": 3.5,
+        "avis": 142,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10791791950799500640",
+        "nom": "BATIMAN / OZEA Ouvertures",
+        "slug": "batiman-ozea-ouvertures",
+        "telephone": "02 41 28 11 47",
+        "site_web": "https://www.batiman.fr/magasin-menuiserie-cuisine-49450-49-sevremoine/batiman-ozea",
+        "adresse": "4 Rue Denis Papin, 49450 Sèvremoine",
+        "note": 4.7,
+        "avis": 51,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-melaine-sur-aubance": {
+    "artisans": [
+      {
+        "id": "1085552346977184708",
+        "nom": "Menuiserie De L'aubance",
+        "slug": "menuiserie-de-laubance",
+        "telephone": "02 41 47 50 35",
+        "site_web": "http://www.menuiserie-aubance.com/",
+        "adresse": "5 ZA de l'Eglantier, 49610 Mûrs-Erigné",
+        "note": 4.3,
+        "avis": 35,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1425830089711546356",
+        "nom": "HOMKiA Angers",
+        "slug": "homkia-angers",
+        "telephone": "02 41 91 76 40",
+        "site_web": "https://www.homkia.fr/",
+        "adresse": "60 Rte de Treillebois, 49610 Saint-Melaine-sur-Aubance",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8418401480479847596",
+        "nom": "HOME MADE AMENAGEMENTS",
+        "slug": "home-made-amenagements",
+        "telephone": "06 11 97 30 50",
+        "site_web": "http://www.homemade-amenagements.fr/",
+        "adresse": "6 Sq. du Bois, 49610 Saint-Melaine-sur-Aubance",
+        "note": 5,
+        "avis": 31,
+        "type": "Constructeur de terrasses"
+      }
+    ]
+  },
+  "verrieres-en-anjou": {
+    "artisans": [
+      {
+        "id": "7319379747742189313",
+        "nom": "S.3.C Couverture",
+        "slug": "s3c-couverture",
+        "telephone": "06 61 21 17 30",
+        "site_web": "https://www.s3c-couverture.fr/",
+        "adresse": "Les Gates, 49480 Verrières-en-Anjou",
+        "note": 4.5,
+        "avis": 39,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11040613084280235709",
+        "nom": "Les Ateliers Michel - SOLABAIE",
+        "slug": "les-ateliers-michel-solabaie",
+        "telephone": "02 41 18 08 63",
+        "site_web": "https://lesateliersmichel.fr/",
+        "adresse": "Actiparc La Sablonnière, 8 rue Denis PAPIN, 49220 Le Lion-d'Angers",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12751975246277437909",
+        "nom": "Anjou Discount Dépannage",
+        "slug": "anjou-discount-depannage",
+        "telephone": "06 71 03 27 46",
+        "site_web": "https://www.anjou-discount-depannage.fr/",
+        "adresse": "21 E Rue de la Petite Motte, 49000 Écouflant",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "2512007903776896762",
+        "nom": "Les Ateliers Michel - SOLABAIE Angers",
+        "slug": "les-ateliers-michel-solabaie-angers",
+        "telephone": "02 41 18 08 63",
+        "site_web": "https://lesateliersmichel.fr/",
+        "adresse": "30 Bd Carnot, 49100 Angers",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "la-seguiniere": {
+    "artisans": [
+      {
+        "id": "10821073368889154037",
+        "nom": "Anjou Bois Malin",
+        "slug": "anjou-bois-malin",
+        "telephone": "07 45 80 24 82",
+        "site_web": "https://anjou-bois-malin.fr/",
+        "adresse": "5 La Clinière, 49280 La Séguinière",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Fournisseur de bois"
+      },
+      {
+        "id": "12851295019722860515",
+        "nom": "Loire Nett",
+        "slug": "loire-nett",
+        "telephone": "07 49 59 19 51",
+        "site_web": "https://www.loirenett.fr/",
+        "adresse": "7 All. de Riga, 49280 La Séguinière",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "2567214931938929482",
+        "nom": "Fonteneau Bois",
+        "slug": "fonteneau-bois",
+        "telephone": "06 11 36 07 58",
+        "site_web": "http://fonteneau-bois.fr/",
+        "adresse": "ZI de la Bergerie, 6 Rue Eiffel, 49280 La Séguinière",
+        "note": 5,
+        "avis": 2,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saumur": {
+    "artisans": [
+      {
+        "id": "3137525183461515642",
+        "nom": "Sas Clin ETS",
+        "slug": "sas-clin-ets",
+        "telephone": "02 41 67 49 30",
+        "site_web": "https://www.clin-menuiserie.fr/",
+        "adresse": "94/96 Rue de Rouen, 49400 Saumur",
+        "note": 4.4,
+        "avis": 58,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3950452989307632798",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "02 41 83 99 40",
+        "site_web": "https://magasins.lapeyre.fr/pays-de-la-loire/maine-et-loire/lapeyre-saumur-127",
+        "adresse": "Rue des Plantes, 49400 Distré",
+        "note": 3.7,
+        "avis": 153,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "11493048192804164236",
+        "nom": "JC Habitat Isolation - Art & Fenêtres",
+        "slug": "jc-habitat-isolation-art-fenetres",
+        "telephone": "02 53 85 80 88",
+        "site_web": "https://saumur.artetfenetres.com/adresses-magasins/saumur-49400.php?utm_campaign=GMB_saumur&utm_medium=organic&utm_source=GMB",
+        "adresse": "82 Av. du Général de Gaulle, 49400 Saumur",
+        "note": 4.2,
+        "avis": 31,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14941864559233126066",
+        "nom": "Octopus Habitat",
+        "slug": "octopus-habitat",
+        "telephone": "02 41 50 92 95",
+        "site_web": "http://octopushabitat.com/",
+        "adresse": "4 Rue des Coteaux, 49400 Saumur",
+        "note": 5,
+        "avis": 28,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16491433249310890998",
+        "nom": "TRYBA Saumur",
+        "slug": "tryba-saumur",
+        "telephone": "02 21 83 13 12",
+        "site_web": "https://www.tryba.com/espace-conseil/49/tryba-saumur/?utm_campaign=Tryba_Saumur&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "2 Rue nationale, 49680 Vivy",
+        "note": 4.9,
+        "avis": 74,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "7390600478170196425",
+        "nom": "RÉNOVAL Menuiseries",
+        "slug": "renoval-menuiseries",
+        "telephone": "02 41 52 27 78",
+        "site_web": "https://www.renoval-menuiseries.com/",
+        "adresse": "49 Rue des Pâtureaux, 49400 Saumur",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "390522161694161716",
+        "nom": "ISOCLAR : Menuiserie Saumur",
+        "slug": "isoclar-menuiserie-saumur",
+        "telephone": "02 41 88 44 50",
+        "site_web": "https://isoclar.fr/",
+        "adresse": "77 Rue René Mabileau, 49400 Saumur",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11330759399893804188",
+        "nom": "Recto Verso",
+        "slug": "recto-verso",
+        "telephone": "02 44 27 51 13",
+        "site_web": "https://rectoversosaumur.com/",
+        "adresse": "Rue de la Rompure, 49400 Saumur",
+        "note": 4.7,
+        "avis": 23,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16626448112781448314",
+        "nom": "AR Menuiserie",
+        "slug": "ar-menuiserie",
+        "telephone": "05 49 67 85 99",
+        "site_web": "http://magasin-saumur.arcadesetbaies.com/",
+        "adresse": "89 Rue d'Orléans, 49400 Saumur",
+        "note": 5,
+        "avis": 6,
+        "type": "Vitrier"
+      },
+      {
+        "id": "16351105821631121506",
+        "nom": "Lb Portails 111 avenue des Maraichers SAUMUR",
+        "slug": "lb-portails-111-avenue-des-maraichers-saumur",
+        "telephone": "06 19 28 44 07",
+        "site_web": null,
+        "adresse": "111 Av. des Maraîchers, 49400 Saumur",
+        "note": 1,
+        "avis": 1,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "seiches-sur-le-loir": {
+    "artisans": [
+      {
+        "id": "15283765677997164676",
+        "nom": "Fenêtres sur Loir",
+        "slug": "fenetres-sur-loir",
+        "telephone": "02 41 77 04 08",
+        "site_web": "http://www.fenetres-sur-loir.fr/?utm_source=gmb",
+        "adresse": "287 Rue de L'innovation, 49140 Seiches-sur-le-Loir",
+        "note": 4.7,
+        "avis": 123,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "segre-en-anjou-bleu": {
+    "artisans": [
+      {
+        "id": "15000962518429287988",
+        "nom": "Art & Fenêtres Angers Design Fenêtres",
+        "slug": "art-fenetres-angers-design-fenetres",
+        "telephone": "02 41 20 20 20",
+        "site_web": "https://mayenne.artetfenetres.com/adresses-magasins/segre-49500.php",
+        "adresse": "10 Rue David d'Angers, 49500 Segré-en-Anjou Bleu",
+        "note": 4,
+        "avis": 4,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "nuaille": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "soulaines-sur-aubance": {
+    "artisans": [
+      {
+        "id": "6473924930321121429",
+        "nom": "Bruyère Couverture",
+        "slug": "bruyere-couverture",
+        "telephone": "02 41 91 70 91",
+        "site_web": "http://www.bruyere-couverture-angers.fr/?utm_source=gmb",
+        "adresse": "6 Rue de la Croix Viau, 49320 Brissac Loire Aubance",
+        "note": 5,
+        "avis": 44,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12065673815387684083",
+        "nom": "Lebreton Damien",
+        "slug": "lebreton-damien",
+        "telephone": "02 41 45 29 80",
+        "site_web": null,
+        "adresse": "Ajoncs, 49610 Soulaines-sur-Aubance",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "4477957811569084736",
+        "nom": "Aripl'ex Sarl",
+        "slug": "ariplex-sarl",
+        "telephone": "02 41 57 27 12",
+        "site_web": "http://www.ariplex.fr/",
+        "adresse": "Imp. du Porteau, 49610 Saint-Melaine-sur-Aubance",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "12511241932054966712",
+        "nom": "Anjou Couverture Isolation - Prezelin",
+        "slug": "anjou-couverture-isolation-prezelin",
+        "telephone": "02 41 61 45 25",
+        "site_web": "http://www.aci-prezelin.com/",
+        "adresse": "Rue Padina Mica, 49220",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13042330601451019082",
+        "nom": "Pain Couverture",
+        "slug": "pain-couverture",
+        "telephone": "02 41 66 49 97",
+        "site_web": "https://pain-couverture.fr/",
+        "adresse": "807 ROUTE DE MOZE, Martignolles ZA DES, 49320 Brissac Loire Aubance",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3100340255425985289",
+        "nom": "L'Atelier Daddou",
+        "slug": "latelier-daddou",
+        "telephone": "06 77 73 83 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "537881033305237925",
+        "nom": "ACTION STRATEGIE - Dominique PINEAU - Consultant en stratégie commerciale",
+        "slug": "action-strategie-dominique-pineau-consultant-en-strategie-commerciale",
+        "telephone": "06 09 74 32 65",
+        "site_web": null,
+        "adresse": "1 Clos aux Saillants, 49610 Soulaines-sur-Aubance",
+        "note": 5,
+        "avis": 2,
+        "type": "Consultant"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17910055851372297323",
+        "nom": "Le Fournil de L'Aubance",
+        "slug": "le-fournil-de-laubance",
+        "telephone": "02 41 45 32 17",
+        "site_web": null,
+        "adresse": "15 Rue de l'Aubance, 49610 Soulaines-sur-Aubance",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "15552027613939589103",
+        "nom": "Adrien Bretel Maçonnerie",
+        "slug": "adrien-bretel-maconnerie",
+        "telephone": "06 59 51 89 28",
+        "site_web": "https://adrien-bretel-maconnerie.fr/",
+        "adresse": "12 zone de landreau, 49610 Mozé-sur-Louet",
+        "note": 5,
+        "avis": 12,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "murs-erigne": {
+    "artisans": [
+      {
+        "id": "7989640109625090616",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-angers",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 5,
+        "avis": 230,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-plaine": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-plessis-grammoire": {
+    "artisans": [
+      {
+        "id": "16779394679514828649",
+        "nom": "HJ rénovations artisan",
+        "slug": "hj-renovations-artisan",
+        "telephone": "06 52 25 61 26",
+        "site_web": null,
+        "adresse": "6 bis Rue des Meuniers, 49124 Le Plessis-Grammoire",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14857723901291621042",
+        "nom": "M'CéhèS",
+        "slug": "mcehes",
+        "telephone": "02 41 95 53 01",
+        "site_web": "http://www.mcehes.fr/",
+        "adresse": "1 Sq. Louis Blériot, 49124 Le Plessis-Grammoire",
+        "note": 4.4,
+        "avis": 47,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3409667888253061518",
+        "nom": "Menuiserie Gauvain",
+        "slug": "menuiserie-gauvain",
+        "telephone": "06 78 08 45 18",
+        "site_web": "https://www.menuiserie-gauvain.fr/contact/",
+        "adresse": "4 Pl. Jean Lurçat, 49124 Le Plessis-Grammoire",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5267198470778302085",
+        "nom": "APERTIO | Menuiserie · Métallerie · Serrurerie · Vitrerie",
+        "slug": "apertio-menuiserie-metallerie-serrurerie-vitrerie",
+        "telephone": "02 41 48 65 67",
+        "site_web": "https://www.apertioouest.com/",
+        "adresse": "3 Sq. Maryse Bastié, 49124 Le Plessis-Grammoire",
+        "note": 4.5,
+        "avis": 28,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9443874630564459684",
+        "nom": "References Glass",
+        "slug": "references-glass",
+        "telephone": "06 67 80 25 12",
+        "site_web": "https://www.referencesglass.com/",
+        "adresse": "6 Rue des Meuniers, 49124 Le Plessis-Grammoire",
+        "note": 5,
+        "avis": 46,
+        "type": "Service de réparation de pare-brise"
+      }
+    ]
+  },
+  "noyant-villages": {
+    "artisans": [
+      {
+        "id": "11284421864862343523",
+        "nom": "Cadot Chevet",
+        "slug": "cadot-chevet",
+        "telephone": "06 43 03 70 51",
+        "site_web": "https://cadot-chevet49.fr/?utm_source=gmb",
+        "adresse": "7 Rue des Prés Verts, 49490 Noyant-Villages",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gennes-val-de-loire": {
+    "artisans": [
+      {
+        "id": "4858222909022157841",
+        "nom": "Capello Couvreur 49",
+        "slug": "capello-couvreur-49",
+        "telephone": "06 51 42 52 52",
+        "site_web": "https://capello-couvreur49.fr/",
+        "adresse": "20 Chem. du Champ Vallée, 49610 Les Garennes sur Loire",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7397776774546657544",
+        "nom": "Les Artisans Couvreurs D'Anjou",
+        "slug": "les-artisans-couvreurs-danjou",
+        "telephone": "02 44 27 14 88",
+        "site_web": "http://www.artisanscouvreursdanjou.com/",
+        "adresse": "1 Imp. du Coteau, 49350 Gennes-Val-de-Loire",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9205405049478708883",
+        "nom": "Artisans Couvreurs d'Anjou",
+        "slug": "artisans-couvreurs-danjou",
+        "telephone": "02 44 27 14 88",
+        "site_web": "http://www.artisanscouvreursdanjou.com/",
+        "adresse": "11 Rue du Vaulanglais, 49400 Saumur",
+        "note": 4,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9053182961534171939",
+        "nom": "Couverture Charpente Ardoise Raimbault",
+        "slug": "couverture-charpente-ardoise-raimbault",
+        "telephone": "02 41 45 16 38",
+        "site_web": "https://couverture-charpente-raimbault.fr/",
+        "adresse": "La Navette, 49140 Loire-Authion",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16972953959868159143",
+        "nom": "Couvreur Brissac-Loire-Aubance Rénovation & Demoussage Toiture, Réparation Fuites, Dépannage Toit, Étanchéité",
+        "slug": "couvreur-brissac-loire-aubance-renovation-demoussage-toiture-reparation-fuites-depannage-toit-etancheite",
+        "telephone": "09 72 19 05 06",
+        "site_web": "https://entrepriselouisbrissacrenovationdemoussagetoit.ovh/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3785464830783386812",
+        "nom": "Cerceau Thierry",
+        "slug": "cerceau-thierry",
+        "telephone": "06 03 24 24 10",
+        "site_web": null,
+        "adresse": "23 Rue Henri Bouriche, 49320 Brissac Loire Aubance",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mauges-sur-loire": {
+    "artisans": [
+      {
+        "id": "12718887526396112026",
+        "nom": "Menuiserie Thareaut",
+        "slug": "menuiserie-thareaut",
+        "telephone": "02 41 78 53 52",
+        "site_web": "http://www.menuiserie-thareaut.com/",
+        "adresse": "Les Saulaies, 49410 Mauges-sur-Loire",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1851963175205759963",
+        "nom": "Morin Nicolas",
+        "slug": "morin-nicolas",
+        "telephone": "06 71 98 21 19",
+        "site_web": "https://www.facebook.com/share/1CTPeNZjNU/?mibextid=wwXIfr",
+        "adresse": "7 Putille, 49620 Mauges-sur-Loire",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "les-ponts-de-ce": {
+    "artisans": [
+      {
+        "id": "4542095345834009236",
+        "nom": "Leveque et Cie",
+        "slug": "leveque-et-cie",
+        "telephone": "02 41 69 94 94",
+        "site_web": null,
+        "adresse": "13 Rue des Magnolias, 49130 Les Ponts-de-Cé",
+        "note": 3.3,
+        "avis": 7,
+        "type": "Entreprise d'étanchéité"
+      },
+      {
+        "id": "17879626342676948786",
+        "nom": "Utiliss Multiservice",
+        "slug": "utiliss-multiservice",
+        "telephone": "02 52 35 20 92",
+        "site_web": "http://www.utiliss.fr/",
+        "adresse": "25 Rue des Fresnayes, 49130 Les Ponts-de-Cé",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "10947095423049785414",
+        "nom": "Couvreurs Angevins (49) ramonage rénovation couverture charpente réparation devis gratuit. Angers",
+        "slug": "couvreurs-angevins-49-ramonage-renovation-couverture-charpente-reparation-devis-gratuit-angers",
+        "telephone": "02 41 24 03 11",
+        "site_web": "http://www.couvreurs-angevins.fr/",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 4.9,
+        "avis": 92,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14039373643443082578",
+        "nom": "Ateliers le clos du Pin",
+        "slug": "ateliers-le-clos-du-pin",
+        "telephone": "09 70 17 39 24",
+        "site_web": "https://www.ateliersleclosdupin.fr/",
+        "adresse": "72 Rue David d'Angers, 49130 Les Ponts-de-Cé",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "la-romagne": {
+    "artisans": [
+      {
+        "id": "10479029881249140108",
+        "nom": "COUVREUR Lenestour Cholet - Réparation toiture - Demoussage - Traitement Hydrofuge - Urgence Fuite - Ravalement de façade",
+        "slug": "couvreur-lenestour-cholet-reparation-toiture-demoussage-traitement-hydrofuge-urgence-fuite-ravalement-de-facade",
+        "telephone": "07 67 28 91 49",
+        "site_web": "https://www.demoussage-cholet.fr/",
+        "adresse": "Rue de Touraine, 49740 La Romagne",
+        "note": 5,
+        "avis": 15,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-possonniere": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "ombree-d-anjou": {
+    "artisans": [
+      {
+        "id": "16578644676497475482",
+        "nom": "Menuiserie Savouré",
+        "slug": "menuiserie-savoure",
+        "telephone": "02 99 44 91 21",
+        "site_web": "http://www.menuiseriesavoure.com/",
+        "adresse": "P.A Emile Bridel, Rue Pierre Groulet, 35640 Martigné-Ferchaud",
+        "note": 4.6,
+        "avis": 58,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "montrevault-sur-evre": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-puy-notre-dame": {
+    "artisans": [
+      {
+        "id": "7989640109625090616",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-angers",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 5,
+        "avis": 230,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "rochefort-sur-loire": {
+    "artisans": [
+      {
+        "id": "5869522257141708328",
+        "nom": "Fenêtres & Confort l Multiservices 24/24 7/7",
+        "slug": "fenetres-confort-l-multiservices-2424-77",
+        "telephone": "07 53 29 06 74",
+        "site_web": "http://www.fenetreetconfort.fr/",
+        "adresse": "03 Sq. Winston Churchill, 49000 Angers",
+        "note": 5,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6499396353807120422",
+        "nom": "G PRO OUEST",
+        "slug": "g-pro-ouest",
+        "telephone": "06 10 55 38 05",
+        "site_web": "https://www.g-pro-ouest.fr/",
+        "adresse": "19 Rue Joachim du Bellay, 49190 Rochefort-sur-Loire",
+        "note": 1,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "3978008370931496042",
+        "nom": "Rochefort Menuiserie Agencement",
+        "slug": "rochefort-menuiserie-agencement",
+        "telephone": "02 41 91 25 54",
+        "site_web": "http://www.rma-agencement.com/",
+        "adresse": "ZA la Croix des Loges, 49190 Rochefort-sur-Loire",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "les-rairies": {
+    "artisans": [
+      {
+        "id": "2667349056452446045",
+        "nom": "VEJ EIRL",
+        "slug": "vej-eirl",
+        "telephone": "06 42 17 97 84",
+        "site_web": "https://www.facebook.com/profile.php?id=100063855705250",
+        "adresse": "40 Rue du Val d'Argance, 49430 Durtal",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2086073693172492324",
+        "nom": "Rairies Montrieux",
+        "slug": "rairies-montrieux",
+        "telephone": "02 41 21 15 20",
+        "site_web": "https://www.instagram.com/rairies.montrieux/?hl=fr&utm_source=gmb",
+        "adresse": "1 Les Fourneaux, 49430 Les Rairies",
+        "note": 4.6,
+        "avis": 39,
+        "type": "Magasin d'usine"
+      }
+    ]
+  },
+  "morannes-sur-sarthe-daumeray": {
+    "artisans": [
+      {
+        "id": "9747533599409313530",
+        "nom": "Mauboussin Kevin",
+        "slug": "mauboussin-kevin",
+        "telephone": "06 06 88 10 90",
+        "site_web": "https://leray.info/page/mauboussin-kevin-couverture-Morannes-49",
+        "adresse": "4042 La Cerclerie, 49640 Morannes sur Sarthe-Daumeray",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "montreuil-bellay": {
+    "artisans": [
+      {
+        "id": "665312334792890880",
+        "nom": "Fonteneau Serrurerie Ferronnerie",
+        "slug": "fonteneau-serrurerie-ferronnerie",
+        "telephone": "02 41 53 28 78",
+        "site_web": "http://www.escalier-saumur.fr/",
+        "adresse": "Rue de Loudun, 49260 Montreuil-Bellay",
+        "note": 5,
+        "avis": 15,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3148993034941257830",
+        "nom": "Sarl Menuiserie Clairgeau",
+        "slug": "sarl-menuiserie-clairgeau",
+        "telephone": "02 41 52 38 52",
+        "site_web": null,
+        "adresse": "348 Bd de l'Ardiller, 49260 Montreuil-Bellay",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6211693675049547367",
+        "nom": "GREYSTAL",
+        "slug": "greystal",
+        "telephone": "02 41 40 10 40",
+        "site_web": "http://www.greystal.com/",
+        "adresse": "Rue de l'Expansion, 49260 Montreuil-Bellay",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "la-menitre": {
+    "artisans": [
+      {
+        "id": "15233774191349799246",
+        "nom": "Amdis-b",
+        "slug": "amdis-b",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "6 Montplace, 49250 La Ménitré",
+        "note": 5,
+        "avis": 2,
+        "type": "Fabricant de meubles"
+      }
+    ]
+  },
+  "montreuil-juigne": {
+    "artisans": [
+      {
+        "id": "17620294632195016541",
+        "nom": "Dispano Angers",
+        "slug": "dispano-angers",
+        "telephone": "02 41 25 72 10",
+        "site_web": "https://www.dispano.fr/infos-agence/angers-dispano-5901",
+        "adresse": "33 Rue Albert Camus, 49460 Montreuil-Juigné",
+        "note": 4.2,
+        "avis": 13,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "11095517604406355117",
+        "nom": "Couvreur Montreuil-Juigné - Expert Toiture Façade",
+        "slug": "couvreur-montreuil-juigne-expert-toiture-facade",
+        "telephone": "02 52 35 27 50",
+        "site_web": "https://couvreurmontreuil-juigneexperttoiturefacade.ovh/contact.html",
+        "adresse": "16 Rue Emile Zola, 49460 Montreuil-Juigné",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16286481953134573785",
+        "nom": "Michel Pascal SARL",
+        "slug": "michel-pascal-sarl",
+        "telephone": "02 41 42 41 00",
+        "site_web": "https://www.couverture-pascal-michel.com/?utm_source=gmb",
+        "adresse": "Zone Industrielle Du Haut Coudray, 13 Rue Paul Héroult, 49460 Montreuil-Juigné",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mazieres-en-mauges": {
+    "artisans": [
+      {
+        "id": "10123547329966285873",
+        "nom": "Couvreur Cholet UNIVERSEL HABITAT",
+        "slug": "couvreur-cholet-universel-habitat",
+        "telephone": "06 52 50 73 18",
+        "site_web": "https://www.universel-habitat-49.fr/",
+        "adresse": "LIEU DIS LA Ragasse, 49300 Cholet",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8966302560587106935",
+        "nom": "L’Atelier des Copeaux",
+        "slug": "latelier-des-copeaux",
+        "telephone": "06 21 56 45 69",
+        "site_web": "https://latelierdescopeaux.fr/",
+        "adresse": "500 Rue du Champ Blanc, 49280 Mazières-en-Mauges",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15410465479278545934",
+        "nom": "Oger-lefrêche Sarl",
+        "slug": "oger-lefreche-sarl",
+        "telephone": "02 41 62 27 98",
+        "site_web": "http://www.oger-lefreche.fr/",
+        "adresse": "19 Bd Jacques Cassini, 49300 Cholet",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5210179565939740795",
+        "nom": "brosseau timothée couverture zinguerie",
+        "slug": "brosseau-timothee-couverture-zinguerie",
+        "telephone": "02 78 77 14 89",
+        "site_web": "https://www.brosseau-couverture.fr/",
+        "adresse": null,
+        "note": 3,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "longuenee-en-anjou": {
+    "artisans": [
+      {
+        "id": "3583263850508481101",
+        "nom": "Eiffage Construction Maine Et Loire",
+        "slug": "eiffage-construction-maine-et-loire",
+        "telephone": "02 41 48 25 43",
+        "site_web": "http://www.eiffage.com/",
+        "adresse": "Maison Neuve, 49070 Beaucouzé",
+        "note": 4.1,
+        "avis": 11,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "16969148924992174276",
+        "nom": "A Tout Rénover",
+        "slug": "a-tout-renover",
+        "telephone": "06 61 92 26 42",
+        "site_web": "http://www.atoutrenover.com/",
+        "adresse": "4 Rue de la ville, 49770 Longuenée-en-Anjou",
+        "note": 4,
+        "avis": 20,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "5557985040699445320",
+        "nom": "Rousseau Construction Bois",
+        "slug": "rousseau-construction-bois",
+        "telephone": "02 41 31 12 20",
+        "site_web": "http://www.rousseausa.fr/",
+        "adresse": "9 Chem. du Tour du Bois, 49770 Longuenée-en-Anjou",
+        "note": 3.9,
+        "avis": 30,
+        "type": "Charpentier"
+      },
+      {
+        "id": "7484294562057682731",
+        "nom": "Entreprise Barreau SARL",
+        "slug": "entreprise-barreau-sarl",
+        "telephone": "02 41 32 61 40",
+        "site_web": "http://www.reze-barreau-maconnerie.com/?utm_source=gmb",
+        "adresse": "10 Rue de la Perrière, 49770 Longuenée-en-Anjou",
+        "note": 5,
+        "avis": 3,
+        "type": "Maçon"
+      },
+      {
+        "id": "16751721946212478972",
+        "nom": "CrystalGlass Nettoyage vitres/bardages Angers Pays de la Loire",
+        "slug": "crystalglass-nettoyage-vitresbardages-angers-pays-de-la-loire",
+        "telephone": "06 33 68 47 46",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Entreprise de nettoyage de vitres"
+      }
+    ]
+  },
+  "moze-sur-louet": {
+    "artisans": [
+      {
+        "id": "16906549994921104689",
+        "nom": "Athex",
+        "slug": "athex",
+        "telephone": "02 41 45 31 00",
+        "site_web": "http://www.athex.fr/",
+        "adresse": "ZA du, Le Bocage, 49610 Mozé-sur-Louet",
+        "note": 4.5,
+        "avis": 26,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15564064725595741723",
+        "nom": "Terrasses et Bois du Maine",
+        "slug": "terrasses-et-bois-du-maine",
+        "telephone": "07 44 31 30 43",
+        "site_web": null,
+        "adresse": "11 ZA du Bocage, 49610 Mozé-sur-Louet",
+        "note": 5,
+        "avis": 4,
+        "type": "Négociant en bois"
+      }
+    ]
+  },
+  "montilliers": {
+    "artisans": [
+      {
+        "id": "7009501454338178949",
+        "nom": "L'atelier AF Couverture",
+        "slug": "latelier-af-couverture",
+        "telephone": "09 70 17 30 36",
+        "site_web": "https://www.guide-de-l-habitat.fr/artisan/l-atelier-af-couverture-n4275",
+        "adresse": "4 les petits marchais, 49380 Bellevigne-en-Layon",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16678946315784943863",
+        "nom": "Couvertures du lys",
+        "slug": "couvertures-du-lys",
+        "telephone": "06 32 78 84 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 2,
+        "type": "Couvreur"
+      },
+      {
+        "id": "91682276599468619",
+        "nom": "Textile du Maine",
+        "slug": "textile-du-maine",
+        "telephone": "02 41 56 10 39",
+        "site_web": "http://www.textile-du-maine.com/",
+        "adresse": "ZA des Bordages, Route d'Angers, 49310 Montilliers",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Atelier de couture"
+      }
+    ]
+  },
+  "yzernay": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2681463468811346231",
+        "nom": "Rénoval",
+        "slug": "renoval",
+        "telephone": "02 41 49 15 49",
+        "site_web": "https://www.renoval-veranda.com/",
+        "adresse": "84 Rue François de Chabot, 49360 Yzernay",
+        "note": 4,
+        "avis": 91,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "2232512410848182451",
+        "nom": "BT Peinture Deco - Peintre - Décorateur - Maine et Loire",
+        "slug": "bt-peinture-deco-peintre-decorateur-maine-et-loire",
+        "telephone": "02 41 46 32 14",
+        "site_web": "http://www.btpeinture-decoration49.fr/",
+        "adresse": "La Grande Saulaie, 49360 Yzernay",
+        "note": 5,
+        "avis": 6,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "7989640109625090616",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-angers",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 5,
+        "avis": 230,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vaudelnay": {
+    "artisans": [
+      {
+        "id": "6193101266274047537",
+        "nom": "Menuiserie Chiron",
+        "slug": "menuiserie-chiron",
+        "telephone": "02 41 52 22 28",
+        "site_web": null,
+        "adresse": "226 Rue Léon de Roday, 49260 Vaudelnay",
+        "note": 5,
+        "avis": 1,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "varennes-sur-loire": {
+    "artisans": [
+      {
+        "id": "4689967143757231894",
+        "nom": "ARTINESS MENUISERIE",
+        "slug": "artiness-menuiserie",
+        "telephone": "06 14 79 15 08",
+        "site_web": "http://www.artiness-menuiserie-angers.fr/",
+        "adresse": "255 Rue de la Mûrie, 49170 Saint-Georges-sur-Loire",
+        "note": 4.7,
+        "avis": 22,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "14858434687456204930",
+        "nom": "POZ'ALU DE LA LOIRE",
+        "slug": "pozalu-de-la-loire",
+        "telephone": "06 88 75 60 22",
+        "site_web": null,
+        "adresse": "22 Rue de l'Echeneau, 49730 Varennes-sur-Loire",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10495967873097922247",
+        "nom": "L.P Peinture",
+        "slug": "lp-peinture",
+        "telephone": "06 40 57 99 81",
+        "site_web": null,
+        "adresse": "17 Rue de Gaure, 49730 Varennes-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "10780857642778627485",
+        "nom": "Artisan du bois",
+        "slug": "artisan-du-bois",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1B Rue de la Loire, 49730 Varennes-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6808995209775663289",
+        "nom": "THIERRY MICHENEAU Expert Rénovateur K•LINE SOMFY",
+        "slug": "thierry-micheneau-expert-renovateur-kline-somfy",
+        "telephone": "02 41 56 47 03",
+        "site_web": "https://micheneauthierry.com/",
+        "adresse": "53 Rue de la Vendée, 49300 Cholet",
+        "note": 4.7,
+        "avis": 546,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11967004132434686663",
+        "nom": "NG Habitats - Intermédiaire en matériaux de construction",
+        "slug": "ng-habitats-intermediaire-en-materiaux-de-construction",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "10 L'Aître Râteau, 72340 Marçon",
+        "note": 4.6,
+        "avis": 97,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18274226349592587374",
+        "nom": "Brion Toiture 49",
+        "slug": "brion-toiture-49",
+        "telephone": "06 27 10 60 07",
+        "site_web": "https://briontoiture49.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 49,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "varrains": {
+    "artisans": [
+      {
+        "id": "7390600478170196425",
+        "nom": "RÉNOVAL Menuiseries",
+        "slug": "renoval-menuiseries",
+        "telephone": "02 41 52 27 78",
+        "site_web": "https://www.renoval-menuiseries.com/",
+        "adresse": "49 Rue des Pâtureaux, 49400 Saumur",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16491433249310890998",
+        "nom": "TRYBA Saumur",
+        "slug": "tryba-saumur",
+        "telephone": "02 21 83 13 12",
+        "site_web": "https://www.tryba.com/espace-conseil/49/tryba-saumur/?utm_campaign=Tryba_Saumur&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "2 Rue nationale, 49680 Vivy",
+        "note": 4.9,
+        "avis": 74,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "11493048192804164236",
+        "nom": "JC Habitat Isolation - Art & Fenêtres",
+        "slug": "jc-habitat-isolation-art-fenetres",
+        "telephone": "02 53 85 80 88",
+        "site_web": "https://saumur.artetfenetres.com/adresses-magasins/saumur-49400.php?utm_campaign=GMB_saumur&utm_medium=organic&utm_source=GMB",
+        "adresse": "82 Av. du Général de Gaulle, 49400 Saumur",
+        "note": 4.2,
+        "avis": 31,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16626448112781448314",
+        "nom": "AR Menuiserie",
+        "slug": "ar-menuiserie",
+        "telephone": "05 49 67 85 99",
+        "site_web": "http://magasin-saumur.arcadesetbaies.com/",
+        "adresse": "89 Rue d'Orléans, 49400 Saumur",
+        "note": 5,
+        "avis": 6,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "trementines": {
+    "artisans": [
+      {
+        "id": "10123547329966285873",
+        "nom": "Couvreur Cholet UNIVERSEL HABITAT",
+        "slug": "couvreur-cholet-universel-habitat",
+        "telephone": "06 52 50 73 18",
+        "site_web": "https://www.universel-habitat-49.fr/",
+        "adresse": "LIEU DIS LA Ragasse, 49300 Cholet",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7777786752775457052",
+        "nom": "Joubert Elec",
+        "slug": "joubert-elec",
+        "telephone": "06 95 64 71 09",
+        "site_web": "https://www.joubert-elec.com/",
+        "adresse": "Rue du Près Barreau, 49340 Trémentines",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Électricien"
+      },
+      {
+        "id": "17152713744025502302",
+        "nom": "ADELY PAYSAGE",
+        "slug": "adely-paysage",
+        "telephone": "06 15 01 31 95",
+        "site_web": null,
+        "adresse": "61 Chem. de la Chaussée, 49340 Trémentines",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "10907654422748800312",
+        "nom": "sarl charrier",
+        "slug": "sarl-charrier",
+        "telephone": "02 41 62 52 88",
+        "site_web": null,
+        "adresse": "ZAC du Grand Village - Rue du Pré Barreau, 49340 Trémentines",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "3191326364062333453",
+        "nom": "Arti'plak",
+        "slug": "artiplak",
+        "telephone": "06 45 56 82 05",
+        "site_web": "https://www.facebook.com/profile.php?id=100063221860252",
+        "adresse": null,
+        "note": 5,
+        "avis": 32,
+        "type": "Entrepreneur de cloisons sèches"
+      }
+    ]
+  },
+  "erdre-en-anjou": {
+    "artisans": [
+      {
+        "id": "12511241932054966712",
+        "nom": "Anjou Couverture Isolation - Prezelin",
+        "slug": "anjou-couverture-isolation-prezelin",
+        "telephone": "02 41 61 45 25",
+        "site_web": "http://www.aci-prezelin.com/",
+        "adresse": "Rue Padina Mica, 49220",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13441918827153239769",
+        "nom": "Pasquet menuiseries Angers",
+        "slug": "pasquet-menuiseries-angers",
+        "telephone": "02 41 76 66 33",
+        "site_web": "https://www.pasquet.fr/menuiserie/angers-49/",
+        "adresse": "2 Rue Henri Jarry, 49130 Les Ponts-de-Cé",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "trelaze": {
+    "artisans": [
+      {
+        "id": "4097585755205681000",
+        "nom": "VERRE SOLUTIONS ANGERS",
+        "slug": "verre-solutions-angers",
+        "telephone": "02 41 33 65 67",
+        "site_web": "https://agence.verre-solutions.com/1-verre-solutions-angers?utm_source=gmb",
+        "adresse": "178 Bd André Bahonneau, 49800 Trélazé",
+        "note": 4.5,
+        "avis": 55,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "vernantes": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vernoil-le-fourrier": {
+    "artisans": [
+      {
+        "id": "18311985713659482413",
+        "nom": "Jrs Menuiserie",
+        "slug": "jrs-menuiserie",
+        "telephone": "06 25 27 02 98",
+        "site_web": "https://www.jrs-menuiserie.fr/",
+        "adresse": "27 Rue de la Mairie, 49390 Vernoil-le-Fourrier",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "370494636841557086",
+        "nom": "LHR Habitat - Artisan rénovation toiture - Ravalement de façade - Peinture Générale - Maçonnerie",
+        "slug": "lhr-habitat-artisan-renovation-toiture-ravalement-de-facade-peinture-generale-maconnerie",
+        "telephone": "06 47 20 03 28",
+        "site_web": "http://www.lhr-habitat.fr/",
+        "adresse": "27 Rue de la Vincenderie, 49390 Vernoil-le-Fourrier",
+        "note": 4.9,
+        "avis": 36,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "2509371490724588514",
+        "nom": "Delaunay Sarl",
+        "slug": "delaunay-sarl",
+        "telephone": "02 41 51 51 22",
+        "site_web": null,
+        "adresse": "30 Rue de la Mairie, 49390 Vernoil-le-Fourrier",
+        "note": 4,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vezins": {
+    "artisans": [
+      {
+        "id": "15353026460993512517",
+        "nom": "Laroche Fabrice",
+        "slug": "laroche-fabrice",
+        "telephone": "02 41 64 12 12",
+        "site_web": null,
+        "adresse": "1 Anc. Rte de Trémentines, 49340 Vezins",
+        "note": 4,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "388707941414743836",
+        "nom": "FERMETURES LOIRE-OCEAN",
+        "slug": "fermetures-loire-ocean",
+        "telephone": "02 41 64 90 91",
+        "site_web": "https://www.flo-fermetures.fr/",
+        "adresse": "6 Rue du Chapelet, 49340 Vezins",
+        "note": 3.4,
+        "avis": 28,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "lys-haut-layon": {
+    "artisans": [
+      {
+        "id": "11896251481381097609",
+        "nom": "Beau Frères Sarl",
+        "slug": "beau-freres-sarl",
+        "telephone": "02 41 59 65 85",
+        "site_web": null,
+        "adresse": "28 Rue de la Bonne Dame, 49310 Lys-Haut-Layon",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "8564429020896284620",
+        "nom": "MILLET Vihiers",
+        "slug": "millet-vihiers",
+        "telephone": null,
+        "site_web": "https://groupe-millet.com/usines-de-production-millet/",
+        "adresse": "rue René Reuilier, 49310 Lys-Haut-Layon",
+        "note": 4,
+        "avis": 61,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "6205351478179979898",
+        "nom": "Rénolys",
+        "slug": "renolys",
+        "telephone": "06 76 42 99 03",
+        "site_web": "http://www.renolys.com/",
+        "adresse": "9 Rue du Moulin, 49310 Lys-Haut-Layon",
+        "note": 5,
+        "avis": 1,
+        "type": "Maçon"
+      },
+      {
+        "id": "17270719508247327452",
+        "nom": "Pairochon Yannick EURL",
+        "slug": "pairochon-yannick-eurl",
+        "telephone": "02 41 56 14 26",
+        "site_web": "https://www.pairochon-yannick.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "2 Imp. de la Bamette ZA, 49310 Lys-Haut-Layon",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6865629741257836063",
+        "nom": "SAS ROBERT GAULTIER",
+        "slug": "sas-robert-gaultier",
+        "telephone": "02 41 75 88 14",
+        "site_web": "http://robertgaultier.com/",
+        "adresse": "ZA la Loge, 27 Rue Simone Veil, 49310 Lys-Haut-Layon",
+        "note": 4.2,
+        "avis": 14,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "vivy": {
+    "artisans": [
+      {
+        "id": "11900160626565687016",
+        "nom": "Vif Façades Saumur",
+        "slug": "vif-facades-saumur",
+        "telephone": "02 41 50 78 09",
+        "site_web": "https://www.vif-facades.fr/",
+        "adresse": "187 Les Hauts, 49680 Allonnes",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Façadier"
+      },
+      {
+        "id": "7397776774546657544",
+        "nom": "Les Artisans Couvreurs D'Anjou",
+        "slug": "les-artisans-couvreurs-danjou",
+        "telephone": "02 44 27 14 88",
+        "site_web": "http://www.artisanscouvreursdanjou.com/",
+        "adresse": "1 Imp. du Coteau, 49350 Gennes-Val-de-Loire",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "1501053885091742300",
+        "nom": "Marolleau Et Fils SARL",
+        "slug": "marolleau-et-fils-sarl",
+        "telephone": "02 41 68 21 24",
+        "site_web": "https://www.marolleau-couverture.com/",
+        "adresse": "15 Bd de l'Épervière, 49000 Écouflant",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5561859076764254984",
+        "nom": "Haut'couverture",
+        "slug": "hautcouverture",
+        "telephone": "07 80 49 64 86",
+        "site_web": "http://www.hautcouverture.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8952484706357614144",
+        "nom": "Artisan Richard",
+        "slug": "artisan-richard",
+        "telephone": "02 46 23 16 90",
+        "site_web": "http://artisan-richard-49.fr/",
+        "adresse": "23 Imp. des Bas Lièvres, 49400 Saumur",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "thorigne-d-anjou": {
+    "artisans": [
+      {
+        "id": "1941513169813442367",
+        "nom": "JM Olivet",
+        "slug": "jm-olivet",
+        "telephone": "06 03 09 22 30",
+        "site_web": "http://www.installateur-olivet.fr/",
+        "adresse": "8 Imp. des Robinières, 49170 Saint-Léger-de-Linières",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "toutlemonde": {
+    "artisans": [
+      {
+        "id": "1314283842048523749",
+        "nom": "Ets Menuiserie Duchon",
+        "slug": "ets-menuiserie-duchon",
+        "telephone": "02 41 55 59 92",
+        "site_web": "https://www.artipole.fr/salles-exposition/bois-et-amenagement/chemille",
+        "adresse": "Zone d'activité de la Lande, 49360 Toutlemonde",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rives-du-loir-en-anjou": {
+    "artisans": [
+      {
+        "id": "4097585755205681000",
+        "nom": "VERRE SOLUTIONS ANGERS",
+        "slug": "verre-solutions-angers",
+        "telephone": "02 41 33 65 67",
+        "site_web": "https://agence.verre-solutions.com/1-verre-solutions-angers?utm_source=gmb",
+        "adresse": "178 Bd André Bahonneau, 49800 Trélazé",
+        "note": 4.5,
+        "avis": 55,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "7127306577180211335",
+        "nom": "Nouvel'R Toiture",
+        "slug": "nouvelr-toiture",
+        "telephone": "07 60 97 01 12",
+        "site_web": "https://www.nouvelr-toiture.fr/",
+        "adresse": "6 Rue des Frères Lumière, 49240 Avrillé",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10084346034117010537",
+        "nom": "Pelé Couverture",
+        "slug": "pele-couverture",
+        "telephone": "02 41 32 26 32",
+        "site_web": "http://www.couverture-ramonage-angers.fr/",
+        "adresse": "La Sigonnière, 49140 Rives-du-Loir-en-Anjou",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "la-tessoualle": {
+    "artisans": [
+      {
+        "id": "17987784491353572438",
+        "nom": "sarl grolleau cyrille",
+        "slug": "sarl-grolleau-cyrille",
+        "telephone": "06 76 62 50 61",
+        "site_web": null,
+        "adresse": "6 Rue Saint-Eloi, 49280 La Tessoualle",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12808366096985638798",
+        "nom": "CATHELINEAU HABITAT",
+        "slug": "cathelineau-habitat",
+        "telephone": "09 72 62 40 93",
+        "site_web": "https://cathelineau-habitat.fr/",
+        "adresse": "260 Rue de Touraine, 49740 La Romagne",
+        "note": 4.9,
+        "avis": 56,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "9752684789044046091",
+        "nom": "Maine et Loire ravalement",
+        "slug": "maine-et-loire-ravalement",
+        "telephone": "06 22 68 41 69",
+        "site_web": null,
+        "adresse": "3 Rue Saint-Eloi, 49280 La Tessoualle",
+        "note": 0,
+        "avis": 0,
+        "type": "Façadier"
+      },
+      {
+        "id": "15599926879743076176",
+        "nom": "ID & A",
+        "slug": "id-a",
+        "telephone": "06 34 48 07 42",
+        "site_web": "http://idetarchitecture.fr/",
+        "adresse": "23 Av. Georges Clemenceau, 49280 La Tessoualle",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3954816867896630570",
+        "nom": "Vianney Beaufreton Menuiserie Agencement",
+        "slug": "vianney-beaufreton-menuiserie-agencement",
+        "telephone": "06 09 85 27 81",
+        "site_web": null,
+        "adresse": "2 za de montevi, 49280 La Tessoualle",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2802004305604486058",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-cholet",
+        "adresse": "32 Rue du Carteron, 49300 Cholet",
+        "note": 5,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bellevigne-en-layon": {
+    "artisans": [
+      {
+        "id": "7989640109625090616",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-pays-de-la-loire/maine-et-loire/installateur-expert-en-pose-velux-a-angers",
+        "adresse": "19 Pl. du Président Kennedy, 49100 Angers",
+        "note": 5,
+        "avis": 230,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tierce": {
+    "artisans": [
+      {
+        "id": "15971609830959371625",
+        "nom": "TRYBA TIERCE",
+        "slug": "tryba-tierce",
+        "telephone": "02 21 83 12 99",
+        "site_web": "https://www.tryba.com/espace-conseil/49/tryba-tierce/?utm_campaign=Tryba_tierce&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "11 Rue de Touraine, 49125 Tiercé",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11837704306518825704",
+        "nom": "ACB Portes et Fenêtres INTERNORM TSCHOEPPE",
+        "slug": "acb-portes-et-fenetres-internorm-tschoeppe",
+        "telephone": "02 41 20 60 20",
+        "site_web": "https://acb-portes-et-fenetres.fr/?utm_source=gmb",
+        "adresse": "3 Bd des Bretonnières Bâtiment F, 49124 Angers",
+        "note": 4.9,
+        "avis": 121,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1147973901697798573",
+        "nom": "Jean Michel Million Père Et Fils SARL",
+        "slug": "jean-michel-million-pere-et-fils-sarl",
+        "telephone": "02 41 42 87 50",
+        "site_web": "http://www.millionpereetfils.fr/",
+        "adresse": "Quatre Vents, 49125 Tiercé",
+        "note": 4.4,
+        "avis": 41,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "6497075331466413689",
+        "nom": "JN COUVERTURE",
+        "slug": "jn-couverture",
+        "telephone": "06 21 49 48 85",
+        "site_web": "https://www.leray.info/page/jn-couverture-jerome-nain-tierce-maine-et-loire",
+        "adresse": "25 Rue Hector Berlioz, 49125 Tiercé",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

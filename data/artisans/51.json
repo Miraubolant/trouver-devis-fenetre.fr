@@ -1,0 +1,2704 @@
+{
+  "jonchery-sur-vesle": {
+    "artisans": [
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4981863100176530662",
+        "nom": "Very Wood Concept",
+        "slug": "very-wood-concept",
+        "telephone": "06 79 76 75 25",
+        "site_web": "https://www.facebook.com/very.wood.concept",
+        "adresse": "25 Rue de la Gare, 51140 Jonchery-sur-Vesle",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2923713275372396362",
+        "nom": "Roofnow",
+        "slug": "roofnow",
+        "telephone": "01 85 09 72 64",
+        "site_web": "https://roofnow.fr/",
+        "adresse": "26 Rue Bosquet, 75007 Paris",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18054351408787482187",
+        "nom": "POINT.P - Jonchery-sur-Vesle",
+        "slug": "pointp-jonchery-sur-vesle",
+        "telephone": "03 26 48 51 67",
+        "site_web": "https://www.pointp.fr/infos-agence/jonchery-point-p-4223",
+        "adresse": "Route nationale Les Gravieres, 51140 Jonchery-sur-Vesle",
+        "note": 4.3,
+        "avis": 20,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "2583842600491742822",
+        "nom": "Ouverture S - Reims - OuvertureS by Reims",
+        "slug": "ouverture-s-reims-ouvertures-by-reims",
+        "telephone": "03 26 03 38 80",
+        "site_web": "https://reims.ouvertures.com/?utm_campaign=GMB_reims&utm_medium=organic&utm_source=GMB",
+        "adresse": "26 Rue des Compagnons, 51350 Cormontreuil",
+        "note": 4.8,
+        "avis": 65,
+        "type": "Menuisier"
+      },
+      {
+        "id": "393094641864557431",
+        "nom": "Reparation Fenetre Paris toute marque: cremone,poignee",
+        "slug": "reparation-fenetre-paris-toute-marque-cremonepoignee",
+        "telephone": "06 51 85 75 38",
+        "site_web": "https://www.paris-fenetre.fr/",
+        "adresse": "102 Av. des Champs-Élysées, 75008 Paris",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "dizy": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "chouilly": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "14555292365492619796",
+        "nom": "HBHS - Dépannage Rideaux Métalliques Paris - Île de France",
+        "slug": "hbhs-depannage-rideaux-metalliques-paris-ile-de-france",
+        "telephone": "01 85 42 08 07",
+        "site_web": "https://www.rideaux-metalliques.paris/",
+        "adresse": "10 Rue Alexandre Dumas, 75011 Paris",
+        "note": 4.8,
+        "avis": 305,
+        "type": "Serrurier"
+      },
+      {
+        "id": "10381019733363622853",
+        "nom": "Assistance Vitrerie",
+        "slug": "assistance-vitrerie",
+        "telephone": "01 77 51 33 71",
+        "site_web": "http://www.assistance-vitrerie.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 64,
+        "type": "Vitrier"
+      },
+      {
+        "id": "17416925657164175657",
+        "nom": "Fenêtre Roubaix",
+        "slug": "fenetre-roubaix",
+        "telephone": "01 83 63 93 95",
+        "site_web": "http://etsroubaix.fr/",
+        "adresse": "94500 Champigny-sur-Marne",
+        "note": 5,
+        "avis": 15,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "10540737105087535433",
+        "nom": "Forge de France Paris",
+        "slug": "forge-de-france-paris",
+        "telephone": "07 45 91 74 03",
+        "site_web": null,
+        "adresse": "86 Av. de la République, 75011 Paris",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Vitrier"
+      }
+    ]
+  },
+  "loivre": {
+    "artisans": [
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "loisy-sur-marne": {
+    "artisans": [
+      {
+        "id": "9058397637885221367",
+        "nom": "Ent Lardin",
+        "slug": "ent-lardin",
+        "telephone": "07 57 46 07 46",
+        "site_web": null,
+        "adresse": "1 Rue de Choiset, 51300 Loisy-sur-Marne",
+        "note": 0,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "6293062718229473930",
+        "nom": "KparK Chalons en Champagne",
+        "slug": "kpark-chalons-en-champagne",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/44-kpark-chalons-en-champagne?utm_source=gmb",
+        "adresse": "ZAC du Mont Hery, 8 Rue Gracchus Babeuf, 51000 Châlons-en-Champagne",
+        "note": 4.3,
+        "avis": 61,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9547817492634892229",
+        "nom": "CT CONCEPT",
+        "slug": "ct-concept",
+        "telephone": "06 42 47 64 77",
+        "site_web": null,
+        "adresse": "4 Rue du Pont, 51300 Loisy-sur-Marne",
+        "note": 5,
+        "avis": 1,
+        "type": "Carreleur"
+      },
+      {
+        "id": "10065996315922514839",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 25 04 99 10",
+        "site_web": "https://magasins.lapeyre.fr/grand-est/haute-marne/lapeyre-saint-dizier-83",
+        "adresse": "parc Commercial Du, Av. du Chêne Saint-Amand, 52100 Saint-Dizier",
+        "note": 4,
+        "avis": 142,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17261439829207293791",
+        "nom": "A&O Marne Toiture",
+        "slug": "ao-marne-toiture",
+        "telephone": "06 33 29 55 29",
+        "site_web": null,
+        "adresse": "26 Lot. Saint-Nicolas, 51300 Bassuet",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11902855628379924594",
+        "nom": "Kessler Couverture",
+        "slug": "kessler-couverture",
+        "telephone": "07 81 49 19 52",
+        "site_web": "https://www.kessler-couverture-51.fr/",
+        "adresse": "2 Rue du Stade, 51300 Haussignémont",
+        "note": 4.8,
+        "avis": 89,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6557652690320204667",
+        "nom": "Bredemestre Rénovation",
+        "slug": "bredemestre-renovation",
+        "telephone": "06 62 09 76 70",
+        "site_web": "https://bredemestre-renov.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "mourmelon-le-grand": {
+    "artisans": [
+      {
+        "id": "3247900545352342128",
+        "nom": "AGC Menuiseries",
+        "slug": "agc-menuiseries",
+        "telephone": "03 26 67 68 00",
+        "site_web": "http://www.agc-menuiseries.com/",
+        "adresse": "9 Rue du Tumoy, 51400 Mourmelon-le-Grand",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7612438319901433137",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 26 36 61 61",
+        "site_web": "https://magasins.lapeyre.fr/grand-est/marne/lapeyre-reims-17",
+        "adresse": "Rue Jacques Maritain, 51100 Reims",
+        "note": 4.3,
+        "avis": 615,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "319729068266113543",
+        "nom": "ACS Menuiserie",
+        "slug": "acs-menuiserie",
+        "telephone": "06 27 23 45 43",
+        "site_web": "https://www.acs-menuiserie-avis.fr/",
+        "adresse": "9 Boucle du Tumoy, 51400 Mourmelon-le-Grand",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10399161332205773317",
+        "nom": "NOV'HABITAT - Agence locataires Mourmelon-le-Grand",
+        "slug": "novhabitat-agence-locataires-mourmelon-le-grand",
+        "telephone": "03 26 66 13 13",
+        "site_web": "https://www.novhabitat.fr/",
+        "adresse": "7 Rue de l'Église, 51400 Mourmelon-le-Grand",
+        "note": 3.6,
+        "avis": 21,
+        "type": "Logement social"
+      }
+    ]
+  },
+  "livry-louvercy": {
+    "artisans": [
+      {
+        "id": "291150376679984384",
+        "nom": "Livry-Louvercy",
+        "slug": "livry-louvercy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "51400 Livry-Louvercy",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "compertrix": {
+    "artisans": [
+      {
+        "id": "16955477770678575354",
+        "nom": "OLIMPIA COUVERTURE",
+        "slug": "olimpia-couverture",
+        "telephone": "06 35 34 19 90",
+        "site_web": null,
+        "adresse": "10 Rue de la Bourse, 75002 Paris",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "16413549759196177086",
+        "nom": "Scierie de Compertrix",
+        "slug": "scierie-de-compertrix",
+        "telephone": "03 26 68 31 49",
+        "site_web": "http://www.scierie-de-compertrix.fr/",
+        "adresse": "Rue Basse de Compertrix, 51000 Châlons-en-Champagne",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Scierie"
+      },
+      {
+        "id": "2623172354834608939",
+        "nom": "Artisan Couvreur 92 - Spécialiste Toiture Toits Couverture - Couvreur 92",
+        "slug": "artisan-couvreur-92-specialiste-toiture-toits-couverture-couvreur-92",
+        "telephone": "06 09 03 87 73",
+        "site_web": "https://www.couvreur-95.com/nous-contacter",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4513875156904007383",
+        "nom": "LESPETITSTRAVAUX.COM",
+        "slug": "lespetitstravauxcom",
+        "telephone": "06 50 91 48 58",
+        "site_web": "http://www.lespetitstravaux.com/?utm_source=gmb",
+        "adresse": "18 Rue Cadet, 75009 Paris",
+        "note": 5,
+        "avis": 43,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "15640665834610435331",
+        "nom": "ACC Couverture",
+        "slug": "acc-couverture",
+        "telephone": "06 84 23 83 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8576537821465502121",
+        "nom": "ABL Vitrier",
+        "slug": "abl-vitrier",
+        "telephone": "01 84 73 18 78",
+        "site_web": "http://abl-vitrier.fr/",
+        "adresse": "9 Rue du Moulin des Prés, 75013 Paris",
+        "note": 4.8,
+        "avis": 417,
+        "type": "Vitrier"
+      },
+      {
+        "id": "1394791472939222038",
+        "nom": "METAL 2000 - Fabrication, dépannage rideaux métalliques Paris, Réparation portes garage et volets roulants",
+        "slug": "metal-2000-fabrication-depannage-rideaux-metalliques-paris-reparation-portes-garage-et-volets-roulants",
+        "telephone": "09 72 10 19 19",
+        "site_web": "https://www.metal2000.fr/",
+        "adresse": "54 Bd Saint-Marcel, 75005 Paris",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "9470670266416886704",
+        "nom": "ASV Services - volet roulant/vitrerie",
+        "slug": "asv-services-volet-roulantvitrerie",
+        "telephone": "01 78 76 83 95",
+        "site_web": "http://asv-services.fr/",
+        "adresse": "41 Rue des Bois, 75019 Paris",
+        "note": 3.9,
+        "avis": 123,
+        "type": "Serrurier"
+      },
+      {
+        "id": "932410962878929242",
+        "nom": "Charles Costa Aluminier Technal",
+        "slug": "charles-costa-aluminier-technal",
+        "telephone": "01 43 73 10 00",
+        "site_web": "https://charles-costa.fr/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=profile_charles-costa_75020",
+        "adresse": "77 Rue de la Plaine, 75020 Paris",
+        "note": 4.4,
+        "avis": 414,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1811555937989684978",
+        "nom": "Etablissement Lefevre Paris 11 : Plomberie dégorgement Chauffage Serrurerie",
+        "slug": "etablissement-lefevre-paris-11-plomberie-degorgement-chauffage-serrurerie",
+        "telephone": "01 48 05 15 15",
+        "site_web": "https://www.ets-lefevre.fr/",
+        "adresse": "124 Bd Voltaire, 75011 Paris",
+        "note": 4.5,
+        "avis": 147,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mareuil-le-port": {
+    "artisans": [
+      {
+        "id": "17849558063231626999",
+        "nom": "Menuiserie Janin",
+        "slug": "menuiserie-janin",
+        "telephone": "03 26 52 60 27",
+        "site_web": "http://www.menuiserie-janin-51.com/",
+        "adresse": "ZA, Le Cheminet, 51160",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6384014272325048529",
+        "nom": "Legrand Menuiserie",
+        "slug": "legrand-menuiserie",
+        "telephone": "06 31 91 39 85",
+        "site_web": "http://www.legrand-menuiserie.fr/",
+        "adresse": "11 Chem. du Lohan, 51270 Mareuil-en-Brie",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "courtisols": {
+    "artisans": [
+      {
+        "id": "16741982419088644329",
+        "nom": "Invicta Shop Champagne",
+        "slug": "invicta-shop-champagne",
+        "telephone": "03 26 66 59 59",
+        "site_web": "https://www.invicta-shop-champagne.fr/",
+        "adresse": "1 Rue Joseph Monier, 51460 Courtisols",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "3078273317492002436",
+        "nom": "Euralu 51",
+        "slug": "euralu-51",
+        "telephone": "03 26 67 35 31",
+        "site_web": "http://www.euralu51-menuiseries.fr/?utm_source=gmb",
+        "adresse": "10 Rue des Grands Champs, 51520 Saint-Martin-sur-le-Pré",
+        "note": 5,
+        "avis": 45,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "15343614924924779309",
+        "nom": "Cossenet Nicolas",
+        "slug": "cossenet-nicolas",
+        "telephone": "03 26 67 03 47",
+        "site_web": null,
+        "adresse": "49 Rue Saint-Julien, 51460 Courtisols",
+        "note": 3,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "connantre": {
+    "artisans": [
+      {
+        "id": "10985442743395880986",
+        "nom": "TRYBA Sezanne",
+        "slug": "tryba-sezanne",
+        "telephone": "01 59 30 12 72",
+        "site_web": "https://www.tryba.com/espace-conseil/51/tryba-sezanne/?utm_campaign=Tryba_Sezanne&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "68 Pl. de la République, 51120 Sézanne",
+        "note": 5,
+        "avis": 17,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "pargny-sur-saulx": {
+    "artisans": [
+      {
+        "id": "1649537520129367658",
+        "nom": "D.s. Fenetres",
+        "slug": "ds-fenetres",
+        "telephone": "03 26 72 16 23",
+        "site_web": null,
+        "adresse": "Pl. du Village, 51340 Scrupt",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "18331659838326058194",
+        "nom": "EDILIANS",
+        "slug": "edilians",
+        "telephone": "03 26 73 68 00",
+        "site_web": "https://edilians.com/",
+        "adresse": "Rte de Maurupt, 51340 Pargny-sur-Saulx",
+        "note": 3.1,
+        "avis": 17,
+        "type": "Fabricant"
+      },
+      {
+        "id": "11740648811524045552",
+        "nom": "Imerys Toiture",
+        "slug": "imerys-toiture",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chem. du Cul de Fer, 51340 Pargny-sur-Saulx",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "muizon": {
+    "artisans": [
+      {
+        "id": "17551216822535418225",
+        "nom": "Sarl Art Et Bois",
+        "slug": "sarl-art-et-bois",
+        "telephone": "06 75 23 36 36",
+        "site_web": null,
+        "adresse": "33 Rue de la Gare, 51140 Muizon",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1824284290776008728",
+        "nom": "JKL Menuiserie",
+        "slug": "jkl-menuiserie",
+        "telephone": "03 26 03 03 70",
+        "site_web": "https://www.jkl.fr/",
+        "adresse": "2 Imp. des Coteaux, 51140 Muizon",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4801910298753128469",
+        "nom": "Michel Couverture",
+        "slug": "michel-couverture",
+        "telephone": "06 19 61 52 52",
+        "site_web": "http://www.michelcouverture.fr/",
+        "adresse": "5 Imp. des Coteaux, 51140 Muizon",
+        "note": 4,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14935499850755500286",
+        "nom": "Toiture 51 Muizon",
+        "slug": "toiture-51-muizon",
+        "telephone": "03 52 74 51 19",
+        "site_web": null,
+        "adresse": "Rue Alexandre Dumas, 51140 Muizon",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11762428796823330163",
+        "nom": "SARL Acorbois Agencement et Menuiserie",
+        "slug": "sarl-acorbois-agencement-et-menuiserie",
+        "telephone": "03 26 02 91 25",
+        "site_web": "http://www.acorbois.fr/",
+        "adresse": "Rue de la Gare, 51140 Muizon",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "mardeuil": {
+    "artisans": [
+      {
+        "id": "4494143247726011918",
+        "nom": "KparK Epernay",
+        "slug": "kpark-epernay",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/46-kpark-epernay?utm_source=gmb",
+        "adresse": "2 Pl. des Martyrs de la Résistance, 51200 Épernay",
+        "note": 4,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "4083514634407948333",
+        "nom": "Brunel Couverture",
+        "slug": "brunel-couverture",
+        "telephone": "06 18 39 03 13",
+        "site_web": "http://www.brunel-couverture.fr/",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "damery": {
+    "artisans": [
+      {
+        "id": "16834118614465504981",
+        "nom": "BAT CONSEIL | Couverture Isolation",
+        "slug": "bat-conseil-couverture-isolation",
+        "telephone": "03 26 84 88 69",
+        "site_web": "http://www.bat-conseil.com/",
+        "adresse": "4 Rue des Verriats, 51500 Champfleury",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10005966968898396608",
+        "nom": "Joberty-Epernay Véranda / Menuiserie",
+        "slug": "joberty-epernay-veranda-menuiserie",
+        "telephone": "03 26 52 60 09",
+        "site_web": "https://www.joberty.fr/",
+        "adresse": "8 All. de Maxenu, 51530 Pierry",
+        "note": 4.8,
+        "avis": 51,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6034299038373294023",
+        "nom": "Joberty Reims-Cormontreuil véranda-menuiserie",
+        "slug": "joberty-reims-cormontreuil-veranda-menuiserie",
+        "telephone": "03 26 49 04 21",
+        "site_web": "https://www.joberty.fr/",
+        "adresse": "15 Rue des Rémouleurs, 51350 Cormontreuil",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "10173531360144189862",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "03 26 59 95 05",
+        "site_web": "https://www.gustaverideau.com/agences/epernay-lagache/?utm_campaign=epernay&utm_medium=GMB&utm_source=google",
+        "adresse": "6 Rue des Joncs, 51200 Épernay",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13128603327362036675",
+        "nom": "Sodama (Sarl)",
+        "slug": "sodama-sarl",
+        "telephone": "03 26 54 35 25",
+        "site_web": "http://www.platrerie-sodama.fr/",
+        "adresse": "68 Rue de l'Hôpital Auban - Moët, 51200 Épernay",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17069626750863681792",
+        "nom": "Bricol'Home Epernay",
+        "slug": "bricolhome-epernay",
+        "telephone": "03 26 89 42 00",
+        "site_web": "http://www.bricolhome.fr/marne-51-epernay/",
+        "adresse": "21 Av. Alfred Anatole Thévenet, 51530 Magenta",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "11438716882645706479",
+        "nom": "Maison lobry | Couvreur Bezannes | Couvreur Reims",
+        "slug": "maison-lobry-couvreur-bezannes-couvreur-reims",
+        "telephone": "07 75 77 70 23",
+        "site_web": "https://www.maisonlobry.fr/",
+        "adresse": "7 Rue Pierre Salmon, 51430 Bezannes",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6872799726912957737",
+        "nom": "KparK Reims",
+        "slug": "kpark-reims",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/45-kpark-reims?utm_source=gmb",
+        "adresse": "14 Rue Paul Maino, 51100 Reims",
+        "note": 4,
+        "avis": 131,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "prunay": {
+    "artisans": [
+      {
+        "id": "9908026913170192536",
+        "nom": "Fpv",
+        "slug": "fpv",
+        "telephone": "01 64 98 93 23",
+        "site_web": "https://www.sitefpv.com/",
+        "adresse": "45 Rue de l'Essonne, 91720 Prunay-sur-Essonne",
+        "note": 4.7,
+        "avis": 89,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "pontfaverger-moronvilliers": {
+    "artisans": [
+      {
+        "id": "2723579694774218643",
+        "nom": "ULTIMRENOV- Façade, isolation & couverture",
+        "slug": "ultimrenov-facade-isolation-couverture",
+        "telephone": "06 19 22 59 96",
+        "site_web": "http://www.ultimrenov.fr/",
+        "adresse": "33 Rue Saint-Médard, 51490 Pontfaverger-Moronvilliers",
+        "note": 5,
+        "avis": 16,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "pierry": {
+    "artisans": [
+      {
+        "id": "8014835410346615009",
+        "nom": "Komilfo Sparna' Baie à Épernay - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-sparna-baie-a-epernay-pergolas-stores-fenetres-menuiseries",
+        "telephone": "03 26 54 38 73",
+        "site_web": "https://www.komilfo.fr/magasins/sparna-baie-epernay-chalons-champagne-51?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "Pac les Forges, 51200 Épernay",
+        "note": 4.8,
+        "avis": 249,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16236244161564264240",
+        "nom": "Lagache",
+        "slug": "lagache",
+        "telephone": "03 26 59 95 05",
+        "site_web": "https://www.lagache.com/?utm_source=gmb",
+        "adresse": "Za Les Forges, 6 Rue des Joncs, 51200 Épernay",
+        "note": 4.1,
+        "avis": 54,
+        "type": "Fournisseur de portes"
+      },
+      {
+        "id": "8978512512893152049",
+        "nom": "TRYBA - Epernay",
+        "slug": "tryba-epernay",
+        "telephone": "03 53 64 14 46",
+        "site_web": "https://www.tryba.com/espace-conseil/51/tryba-pierry/?utm_campaign=Tryba_Pierry&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "5 Rue du Faubourg d'Igny, 51200 Épernay",
+        "note": 4.8,
+        "avis": 46,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "recy": {
+    "artisans": [
+      {
+        "id": "11830195828451522544",
+        "nom": "ETS NOËL",
+        "slug": "ets-noel",
+        "telephone": "07 66 43 58 86",
+        "site_web": "https://noel-couverture-facade.com/",
+        "adresse": "7 Rue des Mésanges, 51000 Châlons-en-Champagne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14249865820449693234",
+        "nom": "B R C SARL",
+        "slug": "b-r-c-sarl",
+        "telephone": "03 26 21 64 00",
+        "site_web": "http://www.brc-chalons-en-champagne.fr/?utm_source=gmb",
+        "adresse": "Rue Augustin Fresnel, 51000 Châlons-en-Champagne",
+        "note": 4.2,
+        "avis": 56,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "reims": {
+    "artisans": [
+      {
+        "id": "537067227564733146",
+        "nom": "Art et Fenêtres Reims",
+        "slug": "art-et-fenetres-reims",
+        "telephone": "03 26 78 00 00",
+        "site_web": "https://reims.artetfenetres.com/?utm_campaign=GMB_reims&utm_medium=organic&utm_source=GMB",
+        "adresse": "9 Rue des Compagnons, 51350 Cormontreuil",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15250895788589144385",
+        "nom": "Batidel",
+        "slug": "batidel",
+        "telephone": "03 26 47 12 00",
+        "site_web": "http://www.batidel.fr/",
+        "adresse": "Zac Du Champs, 50 avenue Sarah Bernhardt, Paveau, 51430 Tinqueux",
+        "note": 4.6,
+        "avis": 105,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4762586519306446277",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-champagne-ardenne/marne/installateur-expert-en-pose-velux-a-reims",
+        "adresse": "8 Bis Rue Gabriel Voisin, 51100 Reims",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "4116363448112984792",
+        "nom": "SMC bois",
+        "slug": "smc-bois",
+        "telephone": "03 26 50 03 22",
+        "site_web": "http://www.smcbois.com/",
+        "adresse": "3 Rue du Chaperon, 51420 Cernay-lès-Reims",
+        "note": 4.8,
+        "avis": 145,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2364520965029403589",
+        "nom": "Eurostores - Réseau Décostory",
+        "slug": "eurostores-reseau-decostory",
+        "telephone": "03 26 85 57 77",
+        "site_web": "http://www.decostory.fr/eurostores/",
+        "adresse": "6 Rue Maurice Prevoteau, 51100 Reims",
+        "note": 4.7,
+        "avis": 177,
+        "type": "Magasin"
+      },
+      {
+        "id": "5062143994785019216",
+        "nom": "AVENIR PVC",
+        "slug": "avenir-pvc",
+        "telephone": "03 26 83 11 11",
+        "site_web": "https://www.avenirpvc.fr/",
+        "adresse": "9 All. Alberto Santos Dumont, 51100 Reims",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6085183489821104374",
+        "nom": "Etablissements Quenot",
+        "slug": "etablissements-quenot",
+        "telephone": "03 26 85 02 49",
+        "site_web": "https://www.quenot.fr/",
+        "adresse": "Chem. de Saint-Léonard, 51100 Reims",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10757917714636932516",
+        "nom": "TRYBA Ormes - Tinqueux",
+        "slug": "tryba-ormes-tinqueux",
+        "telephone": "03 53 64 10 15",
+        "site_web": "https://www.tryba.com/espace-conseil/51/tryba-ormes-tinqueux/?utm_campaign=Tryba_ormes_tinqueux&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "2 Rue du Champ Jupin, 51370 Ormes",
+        "note": 4.5,
+        "avis": 249,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10910969089817515576",
+        "nom": "Alu PVC",
+        "slug": "alu-pvc",
+        "telephone": "06 28 05 88 84",
+        "site_web": null,
+        "adresse": "2 Rue des Robogniers, 51390 Vrigny",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18057973233923252136",
+        "nom": "Komilfo Agence Rogier SARL à Reims - Pergolas, Stores, Fenêtres, Menuiseries, Extensions, Vérandas",
+        "slug": "komilfo-agence-rogier-sarl-a-reims-pergolas-stores-fenetres-menuiseries-extensions-verandas",
+        "telephone": "03 26 82 85 95",
+        "site_web": "https://www.komilfo.fr/magasins/agence-rogier-reims-51",
+        "adresse": "31 rue des compagnons, Rue des Nuisements za les, 51350 Cormontreuil",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "cormontreuil": {
+    "artisans": [
+      {
+        "id": "207305718329421825",
+        "nom": "Menuiserie Collin",
+        "slug": "menuiserie-collin",
+        "telephone": "03 26 06 62 46",
+        "site_web": "http://menuiserie-collin.com/",
+        "adresse": "1 Rue des Forgerons, 51350 Cormontreuil",
+        "note": 4.7,
+        "avis": 20,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5682454453003488479",
+        "nom": "Home Aménagement - Votre expert en menuiseries et fermetures sur mesure",
+        "slug": "home-amenagement-votre-expert-en-menuiseries-et-fermetures-sur-mesure",
+        "telephone": "03 26 85 61 99",
+        "site_web": "https://www.home-amenagement.fr/",
+        "adresse": "12 Rue du Capitaine Georges Madon, 51100 Reims",
+        "note": 4.8,
+        "avis": 31,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "1416798359620614261",
+        "nom": "Les Couvreurs de la Marne",
+        "slug": "les-couvreurs-de-la-marne",
+        "telephone": "06 19 32 74 24",
+        "site_web": "https://www.lescouvreursdelamarne.fr/",
+        "adresse": "1 Rue du Commerce, 51350 Cormontreuil",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6175766095437284801",
+        "nom": "Varoquier Votre Fenetre",
+        "slug": "varoquier-votre-fenetre",
+        "telephone": "03 26 82 07 31",
+        "site_web": "https://www.varoquier.fr/",
+        "adresse": "6 Rte de Louvois, 51350 Cormontreuil",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "2679053742542457488",
+        "nom": "SMC Menuiseries",
+        "slug": "smc-menuiseries",
+        "telephone": "03 26 55 98 04",
+        "site_web": "http://www.smcmenuiseries.com/",
+        "adresse": "26 Rue des Compagnons, 51350 Cormontreuil",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "16379505416483802218",
+        "nom": "Ngel Fenetre - GUGLER REIMS",
+        "slug": "ngel-fenetre-gugler-reims",
+        "telephone": "03 26 35 47 74",
+        "site_web": "http://www.ngelfenetre.com/",
+        "adresse": "23 Rue des Blancs Monts, 51350 Cormontreuil",
+        "note": 4.2,
+        "avis": 94,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "montmirail": {
+    "artisans": [
+      {
+        "id": "12592223876066943736",
+        "nom": "Montmirail Matériaux - Tout Faire",
+        "slug": "montmirail-materiaux-tout-faire",
+        "telephone": "03 26 81 25 83",
+        "site_web": "https://toutfaire.fr/montmirail-materiaux-montmirail.html",
+        "adresse": "2 La Championnerie, 51210 Montmirail",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5786503813008150229",
+        "nom": "Thierry Niclet Menuisier Montmirail 51 | Travailleur du bois Mécringes",
+        "slug": "thierry-niclet-menuisier-montmirail-51-travailleur-du-bois-mecringes",
+        "telephone": "06 24 42 70 47",
+        "site_web": "http://www.thierry-niclet-menuiserie.com/",
+        "adresse": "16 bis D 41 - La Chaussée de Mécringes, 51210 Mécringes",
+        "note": 5,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8822345406509663044",
+        "nom": "Entreprise Gilbert Morel",
+        "slug": "entreprise-gilbert-morel",
+        "telephone": "03 26 81 22 53",
+        "site_web": null,
+        "adresse": "31 Rue du Faubourg de Condé, 51210 Montmirail",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "fagnieres": {
+    "artisans": [
+      {
+        "id": "13921411783967108555",
+        "nom": "Couvreur à Châlons-En-Champagne - LR Rénovation - Couverture & Dépannage",
+        "slug": "couvreur-a-chalons-en-champagne-lr-renovation-couverture-depannage",
+        "telephone": "07 69 30 43 16",
+        "site_web": "https://www.lrrenovation-couverture51.fr/",
+        "adresse": "3 Rue de l'Égalité, 51510 Fagnières",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13757572826962500566",
+        "nom": "Gustave Rideau",
+        "slug": "gustave-rideau",
+        "telephone": "03 26 59 95 05",
+        "site_web": "https://www.gustaverideau.com/agences/fagnieres-lagache/?utm_campaign=fagnieres&utm_medium=GMB&utm_source=google",
+        "adresse": "12 Av. Charles de Gaulle, 51510 Fagnières",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "dormans": {
+    "artisans": [
+      {
+        "id": "3984052726245905462",
+        "nom": "GRAILLOT / Terres de Fenêtre (Fenêtres - Pergola - Volets - Portes d'entrées - Portes de garage - Portails - Vérandas )",
+        "slug": "graillot-terres-de-fenetre-fenetres-pergola-volets-portes-dentrees-portes-de-garage-portails-verandas",
+        "telephone": "03 26 58 85 15",
+        "site_web": "http://www.graillot51.fr/",
+        "adresse": "14 Rue du Dr Moret, 51700 Dormans",
+        "note": 4.3,
+        "avis": 26,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "fismes": {
+    "artisans": [
+      {
+        "id": "2487712564959701219",
+        "nom": "Fim Alu Plast",
+        "slug": "fim-alu-plast",
+        "telephone": "03 26 48 82 07",
+        "site_web": "http://www.fimalu.fr/",
+        "adresse": "Pl. de la Gare, 51170 Fismes",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "6926375799327045197",
+        "nom": "Fimalu",
+        "slug": "fimalu",
+        "telephone": "03 26 48 82 07",
+        "site_web": "https://www.fimalu-avis.com/?utm_source=Google_My_Business&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "12 All. des Missions, 51170 Fismes",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6707818034313060863",
+        "nom": "3TMA Menuiserie Agencement Bois",
+        "slug": "3tma-menuiserie-agencement-bois",
+        "telephone": "06 50 43 24 48",
+        "site_web": "http://www.menuiserie-3tma.fr/?utm_source=gmb",
+        "adresse": "17 Rue des Chailleaux, 51170 Fismes",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16638345965312109515",
+        "nom": "Menuiserie EMG marnaise",
+        "slug": "menuiserie-emg-marnaise",
+        "telephone": "03 26 46 17 41",
+        "site_web": "https://www.menuiseriemgm.com/",
+        "adresse": "17 All. des Missions 15, 51170 Fismes",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "cormicy": {
+    "artisans": [
+      {
+        "id": "2031882657847271052",
+        "nom": "LA COUVERTURE CHAMPENOISE",
+        "slug": "la-couverture-champenoise",
+        "telephone": "06 25 37 30 59",
+        "site_web": null,
+        "adresse": "35 Rue de Prouilly, 51220 Hermonville",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "esternay": {
+    "artisans": [
+      {
+        "id": "5575045344710105447",
+        "nom": "Rousseau - Tout Faire",
+        "slug": "rousseau-tout-faire",
+        "telephone": "03 26 81 51 80",
+        "site_web": "https://www.toutfaire.fr/rousseau-esternay.html",
+        "adresse": "9 bis Rue de l'Arbre Haut, 51310 Esternay",
+        "note": 4.6,
+        "avis": 106,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "fere-champenoise": {
+    "artisans": [
+      {
+        "id": "8452540444490350682",
+        "nom": "Rassenet Frederic",
+        "slug": "rassenet-frederic",
+        "telephone": "03 26 42 60 19",
+        "site_web": null,
+        "adresse": "264 Rue du Maréchal Foch, 51230 Fère-Champenoise",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14234278512991995737",
+        "nom": "MENUISERIE LANDRIEUX FRANCOIS",
+        "slug": "menuiserie-landrieux-francois",
+        "telephone": "03 26 42 03 38",
+        "site_web": "http://www.menuiserielandrieux.fr/",
+        "adresse": "120 Rue du Fbg Saint-Timothée, 51230 Fère-Champenoise",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "betheniville": {
+    "artisans": [
+      {
+        "id": "3076224187687574531",
+        "nom": "3L Rénovation - Travaux et rénovation de l'habitat",
+        "slug": "3l-renovation-travaux-et-renovation-de-lhabitat",
+        "telephone": "06 22 89 32 50",
+        "site_web": "https://www.3lrenovation.fr/",
+        "adresse": null,
+        "note": 4.4,
+        "avis": 34,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "11408614283238310964",
+        "nom": "3 L Rénovation",
+        "slug": "3-l-renovation",
+        "telephone": "06 22 89 32 50",
+        "site_web": "https://www.3lrenovation.fr/contact",
+        "adresse": "13 Rue de la Cochette, 51490 Bétheniville",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "18441781532331636583",
+        "nom": "SARL ND CHAUFFAGE",
+        "slug": "sarl-nd-chauffage",
+        "telephone": "06 29 54 67 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8567169068535021233",
+        "nom": "BJ Couverture",
+        "slug": "bj-couverture",
+        "telephone": "06 29 43 57 19",
+        "site_web": "https://m.facebook.com/profile.php/?id=61553836221402",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 19,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "betheny": {
+    "artisans": [
+      {
+        "id": "13796848182720164019",
+        "nom": "PILLAUD MATERIAUX Agence de Reims - Nord",
+        "slug": "pillaud-materiaux-agence-de-reims-nord",
+        "telephone": "07 55 54 68 35",
+        "site_web": "https://www.pillaud-materiaux.com/agence-pillaud-materiaux-betheny?utm_source=gmb",
+        "adresse": "ZAC des Naux, Rue Henri Rol Tanguy, 51450 Bétheny",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "1870918391215739445",
+        "nom": "Allsun - Stores et volets roulants - Reims",
+        "slug": "allsun-stores-et-volets-roulants-reims",
+        "telephone": "03 26 77 55 55",
+        "site_web": "https://www.allsun-reims-avis.fr/",
+        "adresse": "30 Rue Alain Colas, 51450 Bétheny",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "16389775648774765015",
+        "nom": "MURPROTEC REIMS",
+        "slug": "murprotec-reims",
+        "telephone": "03 26 24 08 35",
+        "site_web": "https://www.murprotec.fr/agence/murprotec-metz?utm_source=gmb&utm_medium=annuaire&utm_campaign=moselle",
+        "adresse": "1 Rue du Colonel Moll, 51100 Reims",
+        "note": 2.7,
+        "avis": 20,
+        "type": "Centre de diagnostic"
+      },
+      {
+        "id": "11235431792219809507",
+        "nom": "ABH Déco",
+        "slug": "abh-deco",
+        "telephone": "03 26 85 09 38",
+        "site_web": "https://www.abhdeco.fr/",
+        "adresse": "14 All. René Fonck, 51450 Bétheny",
+        "note": 0,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "6593205050836400812",
+        "nom": "Aluminium Serrurerie Menuiserie",
+        "slug": "aluminium-serrurerie-menuiserie",
+        "telephone": "03 26 87 89 51",
+        "site_web": "https://www.menuiseries-alu-serrurerie-miroiterie.fr/?utm_source=Google_My_Buisness&utm_medium=Organic&utm_campaign=GMB",
+        "adresse": "Rue Honoré Ganteaume, 51450 Bétheny",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7338347136469416922",
+        "nom": "Soyeux Couverture",
+        "slug": "soyeux-couverture",
+        "telephone": "03 26 09 70 18",
+        "site_web": null,
+        "adresse": "8 Rte de la Neuvillette, 51450 Bétheny",
+        "note": 3.8,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8135292570306189170",
+        "nom": "Jeanson SAS",
+        "slug": "jeanson-sas",
+        "telephone": "03 26 02 65 66",
+        "site_web": "http://jeansoncouverture.fr/",
+        "adresse": null,
+        "note": 4.4,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "332209506486561411",
+        "nom": "AGNESINA Menuiserie Agencement",
+        "slug": "agnesina-menuiserie-agencement",
+        "telephone": "03 26 07 33 65",
+        "site_web": "http://www.agnesina.fr/",
+        "adresse": "2 Rue de la Potière, 51450 Bétheny",
+        "note": 3.6,
+        "avis": 18,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "boult-sur-suippe": {
+    "artisans": [
+      {
+        "id": "15928173840226701701",
+        "nom": "M-c Pose",
+        "slug": "m-c-pose",
+        "telephone": "03 26 49 09 45",
+        "site_web": "http://www.mc-pose.com/",
+        "adresse": "62 Rue de Saint-Roch, 51110 Boult-sur-Suippe",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "le-mesnil-sur-oger": {
+    "artisans": [
+      {
+        "id": "4494143247726011918",
+        "nom": "KparK Epernay",
+        "slug": "kpark-epernay",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/46-kpark-epernay?utm_source=gmb",
+        "adresse": "2 Pl. des Martyrs de la Résistance, 51200 Épernay",
+        "note": 4,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bezannes": {
+    "artisans": [
+      {
+        "id": "16617926911938466159",
+        "nom": "Hestia Renov Immo",
+        "slug": "hestia-renov-immo",
+        "telephone": "06 63 74 12 12",
+        "site_web": "https://www.hestiarenovimmo.net/",
+        "adresse": "7 Rue Pierre Salmon, 51430 Bezannes",
+        "note": 3.8,
+        "avis": 13,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "15949860298751733637",
+        "nom": "Repar'Stores Reims Sud - Reparation volets roulants et stores",
+        "slug": "reparstores-reims-sud-reparation-volets-roulants-et-stores",
+        "telephone": "06 65 41 19 73",
+        "site_web": "https://www.reparstores.com/intervenants/104-anthony-malot?utm_source=google&utm_medium=gmb&utm_campaign=reims-sud&utm_term=liensiteweb",
+        "adresse": "Centre D'affaires Reims, 7 Rue Pierre Salmon, 51430 Bezannes",
+        "note": 4.8,
+        "avis": 92,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "10399782632812246059",
+        "nom": "SOTRAM",
+        "slug": "sotram",
+        "telephone": "03 26 25 51 51",
+        "site_web": null,
+        "adresse": "54 Rue Gabriel Lippmann, 51430 Bezannes",
+        "note": 4,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17469446610646713188",
+        "nom": "Lariviere",
+        "slug": "lariviere",
+        "telephone": "03 26 09 88 83",
+        "site_web": "https://www.lariviere.fr/trouver-votre-agence/lariviere-SEB/entry-445-lariviere-reims.html",
+        "adresse": "14 Rue Marcel Dassault, 51430 Tinqueux",
+        "note": 4.8,
+        "avis": 28,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "16070564147598939892",
+        "nom": "Les Compagnons Dépanneurs Reims",
+        "slug": "les-compagnons-depanneurs-reims",
+        "telephone": "03 26 49 41 42",
+        "site_web": "http://reims.depanne-vite.fr/",
+        "adresse": "49 Rue des Gobelins, 51100 Reims",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14070463890038602989",
+        "nom": "Réactif Services",
+        "slug": "reactif-services",
+        "telephone": "03 62 02 78 00",
+        "site_web": "https://depannage-serrurier-reims.fr/",
+        "adresse": "110 Rue des Capucins, 51100 Reims",
+        "note": 4.3,
+        "avis": 34,
+        "type": "Serrurier"
+      },
+      {
+        "id": "9147147259566483422",
+        "nom": "Socotec",
+        "slug": "socotec",
+        "telephone": "03 26 40 60 40",
+        "site_web": "https://www.socotec.fr/",
+        "adresse": "8 Rue Jules Méline, 51430 Bezannes",
+        "note": 5,
+        "avis": 1,
+        "type": "Constructeur de structures en béton"
+      }
+    ]
+  },
+  "aumenancourt": {
+    "artisans": [
+      {
+        "id": "17731184247830319182",
+        "nom": "Mairie d'Auménancourt",
+        "slug": "mairie-daumenancourt",
+        "telephone": "03 26 97 50 47",
+        "site_web": "https://aumenancourt.fr/",
+        "adresse": "38 Rue du 151EME Ri, 51110 Auménancourt",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Mairie de village"
+      }
+    ]
+  },
+  "gueux": {
+    "artisans": [
+      {
+        "id": "10026061417256712643",
+        "nom": "Gueux Rénovation SAS",
+        "slug": "gueux-renovation-sas",
+        "telephone": "03 26 03 62 14",
+        "site_web": "http://www.gueux-renovation.fr/",
+        "adresse": "2 rue Fosse Chenevière, ZA du Moutier, 51390 Gueux",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Service de restauration de bâtiments"
+      }
+    ]
+  },
+  "rilly-la-montagne": {
+    "artisans": [
+      {
+        "id": "10912723272614461294",
+        "nom": "Couvreur Hervé Sarl",
+        "slug": "couvreur-herve-sarl",
+        "telephone": "03 26 03 41 95",
+        "site_web": null,
+        "adresse": "27 Rue de Chigny, 51500 Rilly-la-Montagne",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3016680622630020853",
+        "nom": "Charles Toitures",
+        "slug": "charles-toitures",
+        "telephone": "06 46 03 62 01",
+        "site_web": "https://charlestoitures-couverture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "chalons-en-champagne": {
+    "artisans": [
+      {
+        "id": "8041412914668926206",
+        "nom": "Clair de Baie Châlons en Champagne",
+        "slug": "clair-de-baie-chalons-en-champagne",
+        "telephone": "03 26 26 74 40",
+        "site_web": "https://clairdebaie-chalons.fr/",
+        "adresse": "11 Rue Grande Étape, 51000 Châlons-en-Champagne",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5749315828929557957",
+        "nom": "Serviferm",
+        "slug": "serviferm",
+        "telephone": "03 26 65 22 67",
+        "site_web": "https://www.serviferm.fr/",
+        "adresse": "9 Rue Hippolyte Fontaine, 51000 Châlons-en-Champagne",
+        "note": 5,
+        "avis": 48,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "12845051201992011381",
+        "nom": "TRYBA Chalons-en-Champagne",
+        "slug": "tryba-chalons-en-champagne",
+        "telephone": "03 53 64 14 44",
+        "site_web": "https://www.tryba.com/espace-conseil/51/tryba-chalons-en-champagne/?utm_campaign=Tryba_Chalons-en-Champagne&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "1 Rue Blaise Pascal, 51000 Châlons-en-Champagne",
+        "note": 4.7,
+        "avis": 65,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8737284709351450396",
+        "nom": "ISOFRANCE Fenêtres & Energies Châlons-en-Champagne",
+        "slug": "isofrance-fenetres-energies-chalons-en-champagne",
+        "telephone": "03 26 66 71 85",
+        "site_web": "https://www.isofrance-fenetres-energies.fr/magasin/isofrance-fenetres-energies-51-chalons-en-champagne/56",
+        "adresse": "10 Av. Ampère, 51000 Châlons-en-Champagne",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "15712160095733565101",
+        "nom": "Menuiserie IDENN - Art & Fenêtres - Saint-Memmie",
+        "slug": "menuiserie-idenn-art-fenetres-saint-memmie",
+        "telephone": "03 26 65 02 05",
+        "site_web": "https://idenn.artetfenetres.com/adresses-magasins/st-memmie-51470.php?utm_campaign=GMB_saint-memmie&utm_medium=organic&utm_source=GMB",
+        "adresse": "3 Rue Eugène Freyssinet, 51470 Saint-Memmie",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "37917790636220530",
+        "nom": "AMC- Menuiserie -",
+        "slug": "amc-menuiserie",
+        "telephone": "03 26 26 55 55",
+        "site_web": "https://www.amc-chalons.com/",
+        "adresse": "4 Rue Antoine Chézy, 51470 Saint-Memmie",
+        "note": 4.5,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9109634656717138051",
+        "nom": "PVC Technic's",
+        "slug": "pvc-technics",
+        "telephone": "06 62 00 97 64",
+        "site_web": "https://www.pvc-technics.com/",
+        "adresse": "38 Gr Grande Rue, 51470 Moncetz-Longevas",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13667314609919911896",
+        "nom": "Menuiserie Roux",
+        "slug": "menuiserie-roux",
+        "telephone": "03 26 64 37 33",
+        "site_web": "https://www.rouxalain.com/",
+        "adresse": "Rue Raoul Follereau, 51520 Saint-Martin-sur-le-Pré",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-amand-sur-fion": {
+    "artisans": [
+      {
+        "id": "4530247560778035996",
+        "nom": "Lf Couverture - Couvreur Saint-Amand-sur-fion",
+        "slug": "lf-couverture-couvreur-saint-amand-sur-fion",
+        "telephone": "09 74 77 58 16",
+        "site_web": null,
+        "adresse": "27 Rue des Bas Prés, 51300 Saint-Amand-sur-Fion",
+        "note": 3,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-martin-d-ablois": {
+    "artisans": [
+      {
+        "id": "12970426049098925528",
+        "nom": "Menuiserie Du Soleil",
+        "slug": "menuiserie-du-soleil",
+        "telephone": "03 26 65 20 20",
+        "site_web": "https://menuiseriedusoleil.com/",
+        "adresse": "15 Rte d'Epernay, 51510 Saint-Gibrien",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bazancourt": {
+    "artisans": [
+      {
+        "id": "964775221197049759",
+        "nom": "SARL REILAND",
+        "slug": "sarl-reiland",
+        "telephone": "03 26 50 18 98",
+        "site_web": null,
+        "adresse": "2 Rue de Roizy, 51110 Bazancourt",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "18028016878949555133",
+        "nom": "SARL JEROME DENIS MENUISERIE Reims Agencement",
+        "slug": "sarl-jerome-denis-menuiserie-reims-agencement",
+        "telephone": "03 26 46 36 28",
+        "site_web": "https://www.jd-menuiserie-agencement-reims.fr/",
+        "adresse": "45 Rue d'Isles sur Suippe, 51110 Bazancourt",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "avize": {
+    "artisans": [
+      {
+        "id": "4494143247726011918",
+        "nom": "KparK Epernay",
+        "slug": "kpark-epernay",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/46-kpark-epernay?utm_source=gmb",
+        "adresse": "2 Pl. des Martyrs de la Résistance, 51200 Épernay",
+        "note": 4,
+        "avis": 40,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cernay-les-reims": {
+    "artisans": [
+      {
+        "id": "13790815845063014417",
+        "nom": "Mytnick",
+        "slug": "mytnick",
+        "telephone": "03 26 07 30 40",
+        "site_web": null,
+        "adresse": "ZAC LES DIDRIS, 106 Rte de Betheny, 51420 Cernay-lès-Reims",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Casse auto"
+      },
+      {
+        "id": "17974652282027956116",
+        "nom": "Ets Berteaux Franck",
+        "slug": "ets-berteaux-franck",
+        "telephone": "03 26 61 58 58",
+        "site_web": "https://www.ets-berteaux.fr/",
+        "adresse": "27 Gr Grande Rue, 51220 Villers-Franqueux",
+        "note": 2.3,
+        "avis": 6,
+        "type": "Service de pose de parquet"
+      }
+    ]
+  },
+  "bourgogne-fresne": {
+    "artisans": [
+      {
+        "id": "16363382079014640853",
+        "nom": "Vf Metal Concept",
+        "slug": "vf-metal-concept",
+        "telephone": "03 26 61 03 05",
+        "site_web": null,
+        "adresse": "Rue Alfred Boëlle, 51110 Bourgogne-Fresne",
+        "note": 4,
+        "avis": 3,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "1676372261878054629",
+        "nom": "Dapremont",
+        "slug": "dapremont",
+        "telephone": "03 26 84 76 57",
+        "site_web": null,
+        "adresse": "8 Rue Alfred Boëlle, 51110 Bourgogne-Fresne",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "frignicourt": {
+    "artisans": [
+      {
+        "id": "1628737988135226483",
+        "nom": "Royal.fermetures/ fenêtres/volets/porte/menuiserie",
+        "slug": "royalfermetures-fenetresvoletsportemenuiserie",
+        "telephone": "07 57 45 04 03",
+        "site_web": "https://www.royal-fermetures.fr/",
+        "adresse": "46 Rue des Troenes, 51300 Frignicourt",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-brice-courcelles": {
+    "artisans": [
+      {
+        "id": "15015088573503417037",
+        "nom": "Valissant Frederic",
+        "slug": "valissant-frederic",
+        "telephone": "03 26 88 02 44",
+        "site_web": "https://www.peinture-pvf.fr/",
+        "adresse": "14 Av. des Chenevières, 51370 Saint-Brice-Courcelles",
+        "note": 5,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "13062818099078027481",
+        "nom": "Art Et Technique Du Bois A.T.B",
+        "slug": "art-et-technique-du-bois-atb",
+        "telephone": "03 26 47 22 74",
+        "site_web": "http://www.art-technique-bois.com/",
+        "adresse": "14 F, 14F Av. des Chenevières, 51370 Saint-Brice-Courcelles",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2873219726352380625",
+        "nom": "Ppds Menuiserie",
+        "slug": "ppds-menuiserie",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue du Château Sénart, 51370 Saint-Brice-Courcelles",
+        "note": 5,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "5164013830851744330",
+        "nom": "Resor",
+        "slug": "resor",
+        "telephone": "03 26 84 49 23",
+        "site_web": "https://www.resor-avis.fr/",
+        "adresse": "20 Av. des Coïdes, 51370 Saint-Brice-Courcelles",
+        "note": 3.5,
+        "avis": 10,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "4179395888563939818",
+        "nom": "SMAC",
+        "slug": "smac",
+        "telephone": "03 26 87 85 10",
+        "site_web": "https://www.smac-sa.com/agence/smac-reims/?utm_source=gmb&utm_medium=CTA-WEB&utm_campaign=Reims",
+        "adresse": "3 Chem. de Saint-Thierry, 51370 Saint-Brice-Courcelles",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Entreprise d'étanchéité"
+      },
+      {
+        "id": "9335215192030068170",
+        "nom": "Kieffer Menuiserie",
+        "slug": "kieffer-menuiserie",
+        "telephone": "03 26 08 09 08",
+        "site_web": "http://www.kieffer-menuiserie.fr/",
+        "adresse": "13 Rue de Thillois, 51370 Ormes",
+        "note": 4.3,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6545686424499504310",
+        "nom": "HORIZON TOITURE ET ISOLATION (HTI)",
+        "slug": "horizon-toiture-et-isolation-hti",
+        "telephone": "07 63 33 39 62",
+        "site_web": "https://isolation-hti51.fr/",
+        "adresse": "15 Chem. du Maire, 51370 Saint-Brice-Courcelles",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "champigny": {
+    "artisans": [
+      {
+        "id": "12021216052102556565",
+        "nom": "FENETRES S.D.B.P SERVICES 105TER AV ROGER SALENGRO 94500 CHAMPIGNY SUR MARNE",
+        "slug": "fenetres-sdbp-services-105ter-av-roger-salengro-94500-champigny-sur-marne",
+        "telephone": "06 26 20 20 67",
+        "site_web": "http://www.fenetresinstallation.com/",
+        "adresse": "105 TER Av. Roger Salengro, 94500 Champigny-sur-Marne",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "14611902403383968606",
+        "nom": "MPO Fenêtres - Champigny-sur-Marne",
+        "slug": "mpo-fenetres-champigny-sur-marne",
+        "telephone": "01 47 06 09 00",
+        "site_web": "http://www.mpofenetres.com/",
+        "adresse": "143 Bd de Stalingrad, 94500 Champigny-sur-Marne",
+        "note": 3.9,
+        "avis": 70,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "2290465512759655912",
+        "nom": "ASF Ouverture'S® - 94 I Fenetre - Volets Roulants - Porte d'entrée - Portail - Pergolas -Porte de Garage - Moustiquaire",
+        "slug": "asf-ouvertures-94-i-fenetre-volets-roulants-porte-dentree-portail-pergolas-porte-de-garage-moustiquaire",
+        "telephone": "06 49 60 52 62",
+        "site_web": "https://www.asf-ouvertures.fr/",
+        "adresse": "17 Av. Roger Salengro, 94500 Champigny-sur-Marne",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "courcy": {
+    "artisans": [
+      {
+        "id": "4267717011562419466",
+        "nom": "GT Travaux",
+        "slug": "gt-travaux",
+        "telephone": "06 77 81 62 18",
+        "site_web": "http://www.gttravaux.com/",
+        "adresse": "9 Rue de la Gare, 51220 Courcy",
+        "note": 4.3,
+        "avis": 18,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4466026816186513651",
+        "nom": "Joly Ludovic",
+        "slug": "joly-ludovic",
+        "telephone": "09 79 21 22 75",
+        "site_web": null,
+        "adresse": "18 Rue de la Croix Héry, 51220 Courcy",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "hermonville": {
+    "artisans": [
+      {
+        "id": "2031882657847271052",
+        "nom": "LA COUVERTURE CHAMPENOISE",
+        "slug": "la-couverture-champenoise",
+        "telephone": "06 25 37 30 59",
+        "site_web": null,
+        "adresse": "35 Rue de Prouilly, 51220 Hermonville",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sermaize-les-bains": {
+    "artisans": [
+      {
+        "id": "8963261497743398484",
+        "nom": "HM MENUISERIE",
+        "slug": "hm-menuiserie",
+        "telephone": "06 68 21 66 14",
+        "site_web": null,
+        "adresse": "7 Rue Jean Macé, 51250 Sermaize-les-Bains",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "sezanne": {
+    "artisans": [
+      {
+        "id": "10985442743395880986",
+        "nom": "TRYBA Sezanne",
+        "slug": "tryba-sezanne",
+        "telephone": "01 59 30 12 72",
+        "site_web": "https://www.tryba.com/espace-conseil/51/tryba-sezanne/?utm_campaign=Tryba_Sezanne&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "68 Pl. de la République, 51120 Sézanne",
+        "note": 5,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10231437011675641975",
+        "nom": "Ferm'services",
+        "slug": "fermservices",
+        "telephone": "03 51 57 51 59",
+        "site_web": "http://www.fermservices10.fr/?utm_source=gmb",
+        "adresse": "4 Mail de Marseille, 51120 Sézanne",
+        "note": 4.4,
+        "avis": 25,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8284065992765777220",
+        "nom": "PILLAUD MATERIAUX Sézanne",
+        "slug": "pillaud-materiaux-sezanne",
+        "telephone": "03 26 80 67 41",
+        "site_web": "https://www.pillaud-materiaux.com/agence-s%C3%A9zanne?utm_source=gmb",
+        "adresse": "Rue de l'Ormelot, 51120 Sézanne",
+        "note": 4.3,
+        "avis": 138,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-just-sauvage": {
+    "artisans": [
+      {
+        "id": "14441631377493875359",
+        "nom": "La Boutique du menuisier - TAMS",
+        "slug": "la-boutique-du-menuisier-tams",
+        "telephone": "03 10 18 16 39",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/tams",
+        "adresse": "31 Rue Emile Zola, 51260 Saint-Just-Sauvage",
+        "note": 3.8,
+        "avis": 17,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10540737105087535433",
+        "nom": "Forge de France Paris",
+        "slug": "forge-de-france-paris",
+        "telephone": "07 45 91 74 03",
+        "site_web": null,
+        "adresse": "86 Av. de la République, 75011 Paris",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Vitrier"
+      },
+      {
+        "id": "7774737019307360425",
+        "nom": "Les Artisans Pros - Vitrier",
+        "slug": "les-artisans-pros-vitrier",
+        "telephone": "09 72 10 09 68",
+        "site_web": "https://www.lesartisanspros.fr/vitrier-paris-75/",
+        "adresse": "8 Rue Lemercier, 75017 Paris",
+        "note": 4.8,
+        "avis": 213,
+        "type": "Vitrier"
+      },
+      {
+        "id": "393094641864557431",
+        "nom": "Reparation Fenetre Paris toute marque: cremone,poignee",
+        "slug": "reparation-fenetre-paris-toute-marque-cremonepoignee",
+        "telephone": "06 51 85 75 38",
+        "site_web": "https://www.paris-fenetre.fr/",
+        "adresse": "102 Av. des Champs-Élysées, 75008 Paris",
+        "note": 4.6,
+        "avis": 51,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1045519698241892114",
+        "nom": "Agencement Menuiserie Service",
+        "slug": "agencement-menuiserie-service",
+        "telephone": "06 26 87 26 83",
+        "site_web": "http://www.ams-bois.fr/contact.htm",
+        "adresse": "31 Rue Emile Zola, 51260 Saint-Just-Sauvage",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7065169471545978048",
+        "nom": "HABITAT RENOVATION",
+        "slug": "habitat-renovation",
+        "telephone": "06 66 97 17 50",
+        "site_web": "https://www.habitat-renovation-51-maconnerie-couverture.fr/",
+        "adresse": "8 Rue Léon Gambetta, 51260 Saint-Just-Sauvage",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sainte-menehould": {
+    "artisans": [
+      {
+        "id": "3479164679980976384",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "02 30 03 45 20",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-en-pose-velux-ile-de-france/hauts-de-seine/installateur-expert-en-pose-velux-a-paris",
+        "adresse": "10 Rue de Penthièvre, 75008 Paris",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2845539672732122443",
+        "nom": "Menuiserie IDENN - Art & Fenêtres - Sainte-Menehould",
+        "slug": "menuiserie-idenn-art-fenetres-sainte-menehould",
+        "telephone": "03 26 60 88 49",
+        "site_web": "https://idenn.artetfenetres.com/adresses-magasins/ste-menehould-51800.php?utm_campaign=GMB_sainte-menehould&utm_medium=organic&utm_source=GMB",
+        "adresse": "18 Av. Bournizet, 51800 Sainte-Menehould",
+        "note": 4.8,
+        "avis": 68,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10723615388945487269",
+        "nom": "Menuiserie de L'Etrille",
+        "slug": "menuiserie-de-letrille",
+        "telephone": "03 26 60 70 34",
+        "site_web": "https://menuiserie-etrille.com/?msclkid=28764824b64411ecb24363519f5ff819",
+        "adresse": "Zone Artisanale, Les Accrues, 51800 Sainte-Menehould",
+        "note": 4.9,
+        "avis": 84,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12394272592566819402",
+        "nom": "Menuiserie Thomas",
+        "slug": "menuiserie-thomas",
+        "telephone": "06 87 56 79 39",
+        "site_web": null,
+        "adresse": "28 Rte de la Grangette, 51800 Sainte-Menehould",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13249592849155420294",
+        "nom": "Menuiserie JOYEUX",
+        "slug": "menuiserie-joyeux",
+        "telephone": "06 31 15 60 08",
+        "site_web": null,
+        "adresse": "48 RN 3, 51800 Sainte-Menehould",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15712160095733565101",
+        "nom": "Menuiserie IDENN - Art & Fenêtres - Saint-Memmie",
+        "slug": "menuiserie-idenn-art-fenetres-saint-memmie",
+        "telephone": "03 26 65 02 05",
+        "site_web": "https://idenn.artetfenetres.com/adresses-magasins/st-memmie-51470.php?utm_campaign=GMB_saint-memmie&utm_medium=organic&utm_source=GMB",
+        "adresse": "3 Rue Eugène Freyssinet, 51470 Saint-Memmie",
+        "note": 5,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16677081077645411680",
+        "nom": "Argonne Toiture",
+        "slug": "argonne-toiture",
+        "telephone": "03 26 60 85 52",
+        "site_web": null,
+        "adresse": "Rue du Moulin, 51800 Sainte-Menehould",
+        "note": 4,
+        "avis": 1,
+        "type": "Charpentier"
+      },
+      {
+        "id": "10381019733363622853",
+        "nom": "Assistance Vitrerie",
+        "slug": "assistance-vitrerie",
+        "telephone": "01 77 51 33 71",
+        "site_web": "http://www.assistance-vitrerie.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 64,
+        "type": "Vitrier"
+      },
+      {
+        "id": "3203464687174535520",
+        "nom": "Lambert SARL",
+        "slug": "lambert-sarl",
+        "telephone": "06 70 09 91 60",
+        "site_web": null,
+        "adresse": "4 Rue du Moulin, 51800 Sainte-Menehould",
+        "note": 4.9,
+        "avis": 46,
+        "type": "Façadier"
+      },
+      {
+        "id": "14555292365492619796",
+        "nom": "HBHS - Dépannage Rideaux Métalliques Paris - Île de France",
+        "slug": "hbhs-depannage-rideaux-metalliques-paris-ile-de-france",
+        "telephone": "01 85 42 08 07",
+        "site_web": "https://www.rideaux-metalliques.paris/",
+        "adresse": "10 Rue Alexandre Dumas, 75011 Paris",
+        "note": 4.8,
+        "avis": 305,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "magenta": {
+    "artisans": [
+      {
+        "id": "4841739139918071333",
+        "nom": "Ghalia Point Fort Fichet",
+        "slug": "ghalia-point-fort-fichet",
+        "telephone": "01 42 62 17 17",
+        "site_web": "https://www.serrurerie-ghalia.fr/",
+        "adresse": "70 Rue de Clignancourt, 75018 Paris",
+        "note": 4.8,
+        "avis": 493,
+        "type": "Serrurier"
+      },
+      {
+        "id": "15768329657001608420",
+        "nom": "Installateur de Vélux Paris - EURL TONY",
+        "slug": "installateur-de-velux-paris-eurl-tony",
+        "telephone": "06 10 49 30 35",
+        "site_web": "https://www.eurl-tony.com/",
+        "adresse": "6 Pl. de la Madeleine, 75008 Paris",
+        "note": 5,
+        "avis": 41,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4513875156904007383",
+        "nom": "LESPETITSTRAVAUX.COM",
+        "slug": "lespetitstravauxcom",
+        "telephone": "06 50 91 48 58",
+        "site_web": "http://www.lespetitstravaux.com/?utm_source=gmb",
+        "adresse": "18 Rue Cadet, 75009 Paris",
+        "note": 5,
+        "avis": 43,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "17416925657164175657",
+        "nom": "Fenêtre Roubaix",
+        "slug": "fenetre-roubaix",
+        "telephone": "01 83 63 93 95",
+        "site_web": "http://etsroubaix.fr/",
+        "adresse": "94500 Champigny-sur-Marne",
+        "note": 5,
+        "avis": 15,
+        "type": "Vitrerie - miroiterie"
+      }
+    ]
+  },
+  "saint-memmie": {
+    "artisans": [
+      {
+        "id": "8041412914668926206",
+        "nom": "Clair de Baie Châlons en Champagne",
+        "slug": "clair-de-baie-chalons-en-champagne",
+        "telephone": "03 26 26 74 40",
+        "site_web": "https://clairdebaie-chalons.fr/",
+        "adresse": "11 Rue Grande Étape, 51000 Châlons-en-Champagne",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "8737284709351450396",
+        "nom": "ISOFRANCE Fenêtres & Energies Châlons-en-Champagne",
+        "slug": "isofrance-fenetres-energies-chalons-en-champagne",
+        "telephone": "03 26 66 71 85",
+        "site_web": "https://www.isofrance-fenetres-energies.fr/magasin/isofrance-fenetres-energies-51-chalons-en-champagne/56",
+        "adresse": "10 Av. Ampère, 51000 Châlons-en-Champagne",
+        "note": 4.9,
+        "avis": 95,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "37917790636220530",
+        "nom": "AMC- Menuiserie -",
+        "slug": "amc-menuiserie",
+        "telephone": "03 26 26 55 55",
+        "site_web": "https://www.amc-chalons.com/",
+        "adresse": "4 Rue Antoine Chézy, 51470 Saint-Memmie",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12845051201992011381",
+        "nom": "TRYBA Chalons-en-Champagne",
+        "slug": "tryba-chalons-en-champagne",
+        "telephone": "03 53 64 14 44",
+        "site_web": "https://www.tryba.com/espace-conseil/51/tryba-chalons-en-champagne/?utm_campaign=Tryba_Chalons-en-Champagne&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "1 Rue Blaise Pascal, 51000 Châlons-en-Champagne",
+        "note": 4.7,
+        "avis": 65,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "5749315828929557957",
+        "nom": "Serviferm",
+        "slug": "serviferm",
+        "telephone": "03 26 65 22 67",
+        "site_web": "https://www.serviferm.fr/",
+        "adresse": "9 Rue Hippolyte Fontaine, 51000 Châlons-en-Champagne",
+        "note": 5,
+        "avis": 48,
+        "type": "Fournisseur de fenêtres en PVC"
+      },
+      {
+        "id": "6293062718229473930",
+        "nom": "KparK Chalons en Champagne",
+        "slug": "kpark-chalons-en-champagne",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/44-kpark-chalons-en-champagne?utm_source=gmb",
+        "adresse": "ZAC du Mont Hery, 8 Rue Gracchus Babeuf, 51000 Châlons-en-Champagne",
+        "note": 4.3,
+        "avis": 61,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "3078273317492002436",
+        "nom": "Euralu 51",
+        "slug": "euralu-51",
+        "telephone": "03 26 67 35 31",
+        "site_web": "http://www.euralu51-menuiseries.fr/?utm_source=gmb",
+        "adresse": "10 Rue des Grands Champs, 51520 Saint-Martin-sur-le-Pré",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant d'abris voiture et de pergolas"
+      },
+      {
+        "id": "10642636724662119626",
+        "nom": "SARL ATEC",
+        "slug": "sarl-atec",
+        "telephone": "03 26 21 13 42",
+        "site_web": "https://www.atec-etancheite-51.com/index.php",
+        "adresse": "12 Rue Clément Ader, 51470 Saint-Memmie",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sarry": {
+    "artisans": [
+      {
+        "id": "11830195828451522544",
+        "nom": "ETS NOËL",
+        "slug": "ets-noel",
+        "telephone": "07 66 43 58 86",
+        "site_web": "https://noel-couverture-facade.com/",
+        "adresse": "7 Rue des Mésanges, 51000 Châlons-en-Champagne",
+        "note": 4.9,
+        "avis": 88,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13406319856007945365",
+        "nom": "SARL Driget",
+        "slug": "sarl-driget",
+        "telephone": "03 26 68 31 27",
+        "site_web": "https://driget.eu/",
+        "adresse": "1 BIS Rue Louis Leprince-Ringuet, 51000 Châlons-en-Champagne",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9518245478274932344",
+        "nom": "LV2S",
+        "slug": "lv2s",
+        "telephone": "06 28 73 39 60",
+        "site_web": "https://www.lv2s.fr/",
+        "adresse": "Rue Basse, 51520 Sarry",
+        "note": 5,
+        "avis": 1,
+        "type": "Poseur de moquette"
+      },
+      {
+        "id": "10636325021645384932",
+        "nom": "Façadier Châlons-en-Champagne",
+        "slug": "facadier-chalons-en-champagne",
+        "telephone": "06 71 94 79 37",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Façadier"
+      }
+    ]
+  },
+  "sillery": {
+    "artisans": [
+      {
+        "id": "6034299038373294023",
+        "nom": "Joberty Reims-Cormontreuil véranda-menuiserie",
+        "slug": "joberty-reims-cormontreuil-veranda-menuiserie",
+        "telephone": "03 26 49 04 21",
+        "site_web": "https://www.joberty.fr/",
+        "adresse": "15 Rue des Rémouleurs, 51350 Cormontreuil",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4116363448112984792",
+        "nom": "SMC bois",
+        "slug": "smc-bois",
+        "telephone": "03 26 50 03 22",
+        "site_web": "http://www.smcbois.com/",
+        "adresse": "3 Rue du Chaperon, 51420 Cernay-lès-Reims",
+        "note": 4.8,
+        "avis": 145,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2583842600491742822",
+        "nom": "Ouverture S - Reims - OuvertureS by Reims",
+        "slug": "ouverture-s-reims-ouvertures-by-reims",
+        "telephone": "03 26 03 38 80",
+        "site_web": "https://reims.ouvertures.com/?utm_campaign=GMB_reims&utm_medium=organic&utm_source=GMB",
+        "adresse": "26 Rue des Compagnons, 51350 Cormontreuil",
+        "note": 4.8,
+        "avis": 65,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10367042804571131488",
+        "nom": "JB Menuiserie Agencement",
+        "slug": "jb-menuiserie-agencement",
+        "telephone": "06 19 67 95 65",
+        "site_web": null,
+        "adresse": "8 Rue Robert Delloye, 51500 Sillery",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16834118614465504981",
+        "nom": "BAT CONSEIL | Couverture Isolation",
+        "slug": "bat-conseil-couverture-isolation",
+        "telephone": "03 26 84 88 69",
+        "site_web": "http://www.bat-conseil.com/",
+        "adresse": "4 Rue des Verriats, 51500 Champfleury",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11438716882645706479",
+        "nom": "Maison lobry | Couvreur Bezannes | Couvreur Reims",
+        "slug": "maison-lobry-couvreur-bezannes-couvreur-reims",
+        "telephone": "07 75 77 70 23",
+        "site_web": "https://www.maisonlobry.fr/",
+        "adresse": "7 Rue Pierre Salmon, 51430 Bezannes",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6872799726912957737",
+        "nom": "KparK Reims",
+        "slug": "kpark-reims",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/45-kpark-reims?utm_source=gmb",
+        "adresse": "14 Rue Paul Maino, 51100 Reims",
+        "note": 4,
+        "avis": 131,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9018146987701723273",
+        "nom": "ISOL TOITURE | Isolation Reims",
+        "slug": "isol-toiture-isolation-reims",
+        "telephone": "03 26 46 97 42",
+        "site_web": "https://www.isoltoiture.com/",
+        "adresse": "ZAC de la croix Blandin, 3 Rue du Loup, 51420 Cernay-lès-Reims",
+        "note": 4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "14046407467959111072",
+        "nom": "Les Couvreurs Rémois",
+        "slug": "les-couvreurs-remois",
+        "telephone": "06 24 29 31 54",
+        "site_web": "https://www.lescouvreursremois.fr/",
+        "adresse": "48 Rue Vernouillet, 51100 Reims",
+        "note": 4.7,
+        "avis": 17,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9485227436724260841",
+        "nom": "Bricol'Home Reims",
+        "slug": "bricolhome-reims",
+        "telephone": "03 26 05 43 77",
+        "site_web": "http://www.bricolhome.fr/marne-51-reims",
+        "adresse": "24 Rue du Capitaine Georges Madon, 51100 Reims",
+        "note": 3.8,
+        "avis": 19,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "suippes": {
+    "artisans": [
+      {
+        "id": "6293062718229473930",
+        "nom": "KparK Chalons en Champagne",
+        "slug": "kpark-chalons-en-champagne",
+        "telephone": "03 66 82 01 29",
+        "site_web": "https://magasins.kpark.fr/44-kpark-chalons-en-champagne?utm_source=gmb",
+        "adresse": "ZAC du Mont Hery, 8 Rue Gracchus Babeuf, 51000 Châlons-en-Champagne",
+        "note": 4.3,
+        "avis": 61,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "taissy": {
+    "artisans": [
+      {
+        "id": "4762586519306446277",
+        "nom": "À CIEL OUVERT",
+        "slug": "a-ciel-ouvert",
+        "telephone": "07 87 09 53 02",
+        "site_web": "https://www.acielouvert.com/nos-installateurs-velux/installateur-expert-pose-velux-champagne-ardenne/marne/installateur-expert-en-pose-velux-a-reims",
+        "adresse": "8 Bis Rue Gabriel Voisin, 51100 Reims",
+        "note": 5,
+        "avis": 27,
+        "type": "Couvreur"
+      },
+      {
+        "id": "537067227564733146",
+        "nom": "Art et Fenêtres Reims",
+        "slug": "art-et-fenetres-reims",
+        "telephone": "03 26 78 00 00",
+        "site_web": "https://reims.artetfenetres.com/?utm_campaign=GMB_reims&utm_medium=organic&utm_source=GMB",
+        "adresse": "9 Rue des Compagnons, 51350 Cormontreuil",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "tinqueux": {
+    "artisans": [
+      {
+        "id": "15250895788589144385",
+        "nom": "Batidel",
+        "slug": "batidel",
+        "telephone": "03 26 47 12 00",
+        "site_web": "http://www.batidel.fr/",
+        "adresse": "Zac Du Champs, 50 avenue Sarah Bernhardt, Paveau, 51430 Tinqueux",
+        "note": 4.6,
+        "avis": 105,
+        "type": "Menuisier"
+      },
+      {
+        "id": "509034774419990261",
+        "nom": "CASÉO Reims",
+        "slug": "caseo-reims",
+        "telephone": "03 26 47 12 00",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-reims-tinqueux-80",
+        "adresse": "Champ Paveau, 50 Av. Sarah Bernhardt ZAC, 51430 Tinqueux",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14733017992247116199",
+        "nom": "Menuiserie NORMAND Reims",
+        "slug": "menuiserie-normand-reims",
+        "telephone": "03 26 03 52 09",
+        "site_web": "https://menuiserie-normand.fr/",
+        "adresse": "12 Grande Rue, 51430 Tinqueux",
+        "note": 2.2,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10757917714636932516",
+        "nom": "TRYBA Ormes - Tinqueux",
+        "slug": "tryba-ormes-tinqueux",
+        "telephone": "03 53 64 10 15",
+        "site_web": "https://www.tryba.com/espace-conseil/51/tryba-ormes-tinqueux/?utm_campaign=Tryba_ormes_tinqueux&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "2 Rue du Champ Jupin, 51370 Ormes",
+        "note": 4.5,
+        "avis": 249,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "blancs-coteaux": {
+    "artisans": [
+      {
+        "id": "5268218340729286436",
+        "nom": "Les Couvreurs Champenois",
+        "slug": "les-couvreurs-champenois",
+        "telephone": "03 26 55 54 63",
+        "site_web": "http://www.les-couvreurs-champenois.com/",
+        "adresse": "11 Rue de la Censé Bizet, 51130 Blancs-Coteaux",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "tours-sur-marne": {
+    "artisans": [
+      {
+        "id": "7612438319901433137",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "03 26 36 61 61",
+        "site_web": "https://magasins.lapeyre.fr/grand-est/marne/lapeyre-reims-17",
+        "adresse": "Rue Jacques Maritain, 51100 Reims",
+        "note": 4.3,
+        "avis": 615,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "17838658279747252774",
+        "nom": "Plata Ludovic Couverture",
+        "slug": "plata-ludovic-couverture",
+        "telephone": "03 26 97 24 16",
+        "site_web": "https://couvreur-tours-sur-marne.fr/",
+        "adresse": "18 rue du, zac, Le Champ Chapon, 51150 Tours-sur-Marne",
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "warmeriville": {
+    "artisans": [
+      {
+        "id": "13287207919668982255",
+        "nom": "Jean-Pierre Martin Menuiserie",
+        "slug": "jean-pierre-martin-menuiserie",
+        "telephone": "03 26 88 06 07",
+        "site_web": null,
+        "adresse": "Zone d'aménagement concerté Val des Bois, 51100 Warmeriville",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "18028016878949555133",
+        "nom": "SARL JEROME DENIS MENUISERIE Reims Agencement",
+        "slug": "sarl-jerome-denis-menuiserie-reims-agencement",
+        "telephone": "03 26 46 36 28",
+        "site_web": "https://www.jd-menuiserie-agencement-reims.fr/",
+        "adresse": "45 Rue d'Isles sur Suippe, 51110 Bazancourt",
+        "note": 5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "verzenay": {
+    "artisans": [
+      {
+        "id": "8135292570306189170",
+        "nom": "Jeanson SAS",
+        "slug": "jeanson-sas",
+        "telephone": "03 26 02 65 66",
+        "site_web": "http://jeansoncouverture.fr/",
+        "adresse": null,
+        "note": 4.4,
+        "avis": 20,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3016680622630020853",
+        "nom": "Charles Toitures",
+        "slug": "charles-toitures",
+        "telephone": "06 46 03 62 01",
+        "site_web": "https://charlestoitures-couverture.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "vitry-le-francois": {
+    "artisans": [
+      {
+        "id": "515897355699712967",
+        "nom": "L'Expert Fenêtre Menuiseries du Perthois",
+        "slug": "lexpert-fenetre-menuiseries-du-perthois",
+        "telephone": "03 26 74 25 75",
+        "site_web": null,
+        "adresse": "1 Rue André Marie Ampère, 51300 Vitry-le-François",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1628737988135226483",
+        "nom": "Royal.fermetures/ fenêtres/volets/porte/menuiserie",
+        "slug": "royalfermetures-fenetresvoletsportemenuiserie",
+        "telephone": "07 57 45 04 03",
+        "site_web": "https://www.royal-fermetures.fr/",
+        "adresse": "46 Rue des Troenes, 51300 Frignicourt",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13462771795696475568",
+        "nom": "Miclo Fermetures",
+        "slug": "miclo-fermetures",
+        "telephone": "06 61 25 83 55",
+        "site_web": "https://www.miclo-fermetures.com/",
+        "adresse": "2 Rue du Marché, 51300 Vitry-le-François",
+        "note": 5,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "1087789049328105239",
+        "nom": "RGM MENUISERIE VITRERIE MIROITERIE",
+        "slug": "rgm-menuiserie-vitrerie-miroiterie",
+        "telephone": "07 82 96 70 99",
+        "site_web": null,
+        "adresse": "11 Av. Jean Juif, 51300 Vitry-le-François",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "17021786046577668012",
+        "nom": "Margueron Jean-Claude",
+        "slug": "margueron-jean-claude",
+        "telephone": "06 80 23 59 32",
+        "site_web": "http://www.menuiserie-margueron.fr/?utm_source=gmb",
+        "adresse": "8 Rue du plein air, 51300 Vitry-le-François",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15679394131903817590",
+        "nom": "D.PERRIER - Menuiseries et fermetures",
+        "slug": "dperrier-menuiseries-et-fermetures",
+        "telephone": "03 26 62 16 34",
+        "site_web": "http://www.dperrier.com/",
+        "adresse": "39 Fbg de St Dizier, 51300 Vitry-le-François",
+        "note": 3.8,
+        "avis": 12,
+        "type": "Fournisseur de portes"
+      }
+    ]
+  },
+  "witry-les-reims": {
+    "artisans": [
+      {
+        "id": "11940502098262538872",
+        "nom": "EMEBAT - L'expert de vos fermetures sur mesure - Fenêtres Portes Portails Stores Pergolas",
+        "slug": "emebat-lexpert-de-vos-fermetures-sur-mesure-fenetres-portes-portails-stores-pergolas",
+        "telephone": "03 26 50 06 00",
+        "site_web": "https://www.emb-emebat-menuiseries.com/",
+        "adresse": "9 Rue Rayet-Liénart, 51420 Witry-lès-Reims",
+        "note": 4.6,
+        "avis": 69,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  }
+}

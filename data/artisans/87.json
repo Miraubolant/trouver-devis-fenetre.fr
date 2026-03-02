@@ -1,0 +1,2427 @@
+{
+  "val-d-oire-et-gartempe": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bosmie-l-aiguille": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "boisseuil": {
+    "artisans": [
+      {
+        "id": "8573507823035456904",
+        "nom": "Bat'innov couverture - Menuiserie Solabaie",
+        "slug": "batinnov-couverture-menuiserie-solabaie",
+        "telephone": "05 55 58 01 87",
+        "site_web": "https://www.bat-innov-solabaie.fr/",
+        "adresse": "3 allée des champs Z.A, 87220 Boisseuil",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10116828294762775612",
+        "nom": "2M Menuiserie",
+        "slug": "2m-menuiserie",
+        "telephone": "06 24 12 44 04",
+        "site_web": "https://www.facebook.com/2mmenuiserieboisseuil/",
+        "adresse": "29 , Route De Limoges, Les Quatre Vents, 87220 Boisseuil",
+        "note": 4.6,
+        "avis": 32,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1658908732697637527",
+        "nom": "Vedrenne SAS Dal'alu",
+        "slug": "vedrenne-sas-dalalu",
+        "telephone": "05 55 57 54 54",
+        "site_web": "http://www.vedrenne-sa.com/",
+        "adresse": "12 Rue Louis Armand, 87220 Feytiat",
+        "note": 4.7,
+        "avis": 70,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "bessines-sur-gartempe": {
+    "artisans": [
+      {
+        "id": "4702121996973370262",
+        "nom": "BTM Menuiserie Agencement",
+        "slug": "btm-menuiserie-agencement",
+        "telephone": "05 55 76 09 85",
+        "site_web": null,
+        "adresse": "87250 Bessines-sur-Gartempe",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2900903914919991832",
+        "nom": "A P MENUISERIE",
+        "slug": "a-p-menuiserie",
+        "telephone": "06 48 43 62 47",
+        "site_web": "https://www.ap-menuiserie-87.fr/",
+        "adresse": "87250 Bessines-sur-Gartempe",
+        "note": 5,
+        "avis": 4,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7131642265182640631",
+        "nom": "ACIM",
+        "slug": "acim",
+        "telephone": "06 29 67 65 70",
+        "site_web": null,
+        "adresse": "31 Rte Du Rieu, 87250 Bessines-sur-Gartempe",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "bussiere-galant": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chaillac-sur-vienne": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "bonnac-la-cote": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "7910371089904570547",
+        "nom": "LA PASSION DES COMBLES",
+        "slug": "la-passion-des-combles",
+        "telephone": "06 33 02 02 91",
+        "site_web": "https://www.lapassiondescombles-87.fr/contact",
+        "adresse": "3370 Angelard, 87140 Compreignac",
+        "note": 5,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "1162283748367453685",
+        "nom": "Maux Matériaux + Limoges Occasions",
+        "slug": "maux-materiaux-limoges-occasions",
+        "telephone": "05 55 39 90 01",
+        "site_web": "https://www.limoges-occasions.fr/",
+        "adresse": "3 Av. de la Vergne, 87270 Bonnac-la-Côte",
+        "note": 3.8,
+        "avis": 249,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "cognac-la-foret": {
+    "artisans": [
+      {
+        "id": "14898222341242308660",
+        "nom": "Charpenterie charpentier charpente ossature bois Cognac-la-Forêt",
+        "slug": "charpenterie-charpentier-charpente-ossature-bois-cognac-la-foret",
+        "telephone": "05 55 03 81 41",
+        "site_web": null,
+        "adresse": "87310 Cognac-la-Forêt",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "chalus": {
+    "artisans": [
+      {
+        "id": "16799718011984400843",
+        "nom": "M.e.b.",
+        "slug": "meb",
+        "telephone": "05 55 78 48 14",
+        "site_web": "https://www.eurl-meb.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "57 Av. Jean Jaurès, 87230 Châlus",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1282914826047438110",
+        "nom": "Gedimat Moreau Matériaux - Châlus",
+        "slug": "gedimat-moreau-materiaux-chalus",
+        "telephone": "05 55 78 53 52",
+        "site_web": "https://www.gedimat.fr/index.php?magDest=2357",
+        "adresse": "ZI LA FONTANILLE, Chez Fontanille, 87230 Châlus",
+        "note": 4.4,
+        "avis": 77,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10551012522497238789",
+        "nom": "Maux Matériaux – Tout Faire",
+        "slug": "maux-materiaux-tout-faire",
+        "telephone": "05 55 78 41 62",
+        "site_web": "https://www.toutfaire.fr/maux-chalus.html",
+        "adresse": "15 Rue du Marché, 87230 Châlus",
+        "note": 4.4,
+        "avis": 68,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "chateauneuf-la-foret": {
+    "artisans": [
+      {
+        "id": "9832012208502193912",
+        "nom": "M.L.P. Menuisier Installateur",
+        "slug": "mlp-menuisier-installateur",
+        "telephone": "07 66 04 67 24",
+        "site_web": "https://www.mlp-menuisier-installateur-87.fr/",
+        "adresse": "28 Rue de Chantalouette, 87130 Châteauneuf-la-Forêt",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chateauponsac": {
+    "artisans": [
+      {
+        "id": "10233138228167951966",
+        "nom": "MFV Menuiserie Fermeture Varnier",
+        "slug": "mfv-menuiserie-fermeture-varnier",
+        "telephone": "05 19 39 80 73",
+        "site_web": "https://www.facebook.com/terresfenetre?utm_source=gmb",
+        "adresse": "Le Puy Joly, 87290 Châteauponsac",
+        "note": 4.8,
+        "avis": 36,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "ambazac": {
+    "artisans": [
+      {
+        "id": "9492139645363958388",
+        "nom": "Lorgue Menuiserie",
+        "slug": "lorgue-menuiserie",
+        "telephone": "05 55 39 97 74",
+        "site_web": "http://www.lorgue-menuiserie.com/",
+        "adresse": "95 Rte Martin Nadaud, 87240 Ambazac",
+        "note": 4.2,
+        "avis": 11,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16866214871125537573",
+        "nom": "JCA menuiserie",
+        "slug": "jca-menuiserie",
+        "telephone": "06 32 28 07 38",
+        "site_web": "https://www.facebook.com/profile.php?id=61569046089412",
+        "adresse": "815 Rte des Moulins, 87240 Ambazac",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "chaptelat": {
+    "artisans": [
+      {
+        "id": "12081667205751298748",
+        "nom": "Les Ateliers RAYNAUD - Limoges Haute-Vienne",
+        "slug": "les-ateliers-raynaud-limoges-haute-vienne",
+        "telephone": "05 55 37 22 90",
+        "site_web": "https://www.ateliers-raynaud.fr/",
+        "adresse": "16 Rue Pierre Michaux, 87280 Limoges",
+        "note": 4.4,
+        "avis": 122,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10944169665609470811",
+        "nom": "Avenir Rénovations - Limoges",
+        "slug": "avenir-renovations-limoges",
+        "telephone": "05 33 52 09 88",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-87-limoges/",
+        "adresse": "20 Rue Arthur Groussier, 87100 Limoges",
+        "note": 4.5,
+        "avis": 43,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3045532975856654401",
+        "nom": "ISOFRANCE Fenêtres & Energies - LIMOGES : Entreprise FORNIELES",
+        "slug": "isofrance-fenetres-energies-limoges-entreprise-fornieles",
+        "telephone": "05 55 30 47 34",
+        "site_web": "http://fornieles.fr/",
+        "adresse": "4 Rue Arsène d'Arsonval, 87220 Feytiat",
+        "note": 4.3,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1993369685438038604",
+        "nom": "Bft Limousin",
+        "slug": "bft-limousin",
+        "telephone": "05 55 39 92 38",
+        "site_web": "http://www.bft-limousin.fr/",
+        "adresse": "Le Grand Pacage, 87570 Rilhac-Rancon",
+        "note": 3.8,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11978247657176356088",
+        "nom": "TRYBA Aixe-sur-Vienne",
+        "slug": "tryba-aixe-sur-vienne",
+        "telephone": "05 18 23 12 35",
+        "site_web": "https://www.tryba.com/espace-conseil/87/tryba-aixe-sur-vienne/?utm_campaign=Tryba_Aixe-sur-Vienne&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "16 Av. Pasteur, 87700 Aixe-sur-Vienne",
+        "note": 4.8,
+        "avis": 81,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17175315340486785153",
+        "nom": "Artisan 87",
+        "slug": "artisan-87",
+        "telephone": "07 80 18 73 06",
+        "site_web": "https://artisan87.fr/",
+        "adresse": "centre d'affaires, 18 place wiston Churchill et adresse de l’entrepôt rue Tourcoing, zone sud à Feytiat, 18 Pl. Winston Churchill, 87000 Limoges",
+        "note": 5,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15423823272667140741",
+        "nom": "Toiture J Dulery et Fils",
+        "slug": "toiture-j-dulery-et-fils",
+        "telephone": "05 55 00 58 77",
+        "site_web": "http://www.toiture-dulery-87.com/",
+        "adresse": "24 Chem. des Ecoles, 87110 Le Vigen",
+        "note": 4,
+        "avis": 25,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "9280556305646400611",
+        "nom": "Espace Harnois Br Habitat SARL",
+        "slug": "espace-harnois-br-habitat-sarl",
+        "telephone": "06 80 68 17 20",
+        "site_web": "https://www.brhabitat.com/",
+        "adresse": "9 All. Louis Daubenton, 87280 Limoges",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13759788208320100766",
+        "nom": "Couvreur Limoges - DGC Couverture",
+        "slug": "couvreur-limoges-dgc-couverture",
+        "telephone": "06 11 93 22 37",
+        "site_web": "https://dgccouverture.com/",
+        "adresse": "22 Rue du Châtenet, 87410 Le Palais-sur-Vienne",
+        "note": 5,
+        "avis": 49,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "aixe-sur-vienne": {
+    "artisans": [
+      {
+        "id": "3356710432474075846",
+        "nom": "Aixe Bâtiments",
+        "slug": "aixe-batiments",
+        "telephone": "05 55 70 46 55",
+        "site_web": "http://www.aixebatiments.fr/",
+        "adresse": "8 Chem. de la Nèple, 87700 Aixe-sur-Vienne",
+        "note": 3.8,
+        "avis": 18,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9051554061500167243",
+        "nom": "S.C.A.L",
+        "slug": "scal",
+        "telephone": "05 55 70 24 80",
+        "site_web": "http://www.scal87.fr/",
+        "adresse": "Rue de Cognac, 87700 Aixe-sur-Vienne",
+        "note": 4.3,
+        "avis": 33,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9954920472130737780",
+        "nom": "Alibois SARL",
+        "slug": "alibois-sarl",
+        "telephone": "09 79 50 01 01",
+        "site_web": "https://www.alibois-menuiserie.com/",
+        "adresse": "3 Rue des Grangettes, 87700 Aixe-sur-Vienne",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "cieux": {
+    "artisans": [
+      {
+        "id": "17619057529148827498",
+        "nom": "Cieux Batiment Sarl",
+        "slug": "cieux-batiment-sarl",
+        "telephone": "06 42 58 07 93",
+        "site_web": null,
+        "adresse": "23bis Le Boucheron, 87520 Cieux",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "ladignac-le-long": {
+    "artisans": [
+      {
+        "id": "6112431676200487017",
+        "nom": "Alu Glass",
+        "slug": "alu-glass",
+        "telephone": "05 55 08 20 28",
+        "site_web": "http://www.alu-glass.fr/?utm_source=gmb",
+        "adresse": "6 Rte de Périgueux, 87500 Saint-Yrieix-la-Perche",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "16204614603949898260",
+        "nom": "ETS Pierrat & Fils",
+        "slug": "ets-pierrat-fils",
+        "telephone": "06 87 56 19 55",
+        "site_web": "https://ets-pierrat-couverture-87.fr/",
+        "adresse": "18 Rue Maurice Utrillo, 87410 Le Palais-sur-Vienne",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "2371049545023281230",
+        "nom": "SARL Techniflux87",
+        "slug": "sarl-techniflux87",
+        "telephone": "06 08 88 46 36",
+        "site_web": "https://techniflux87.fr/",
+        "adresse": "329 Rue Jacques Brel, 87800 Jourgnac",
+        "note": 5,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "17366241492896050430",
+        "nom": "Couvreur à Limoges Pro 87",
+        "slug": "couvreur-a-limoges-pro-87",
+        "telephone": "06 04 16 27 51",
+        "site_web": "https://www.entreprise-couverture-87.fr/",
+        "adresse": "38 Rue François Chénieux, 87000 Limoges",
+        "note": 4.9,
+        "avis": 45,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17254212554546366598",
+        "nom": "Nk Électricité",
+        "slug": "nk-electricite",
+        "telephone": "07 88 10 42 87",
+        "site_web": null,
+        "adresse": "3 All. du Buisson, 87500 Ladignac-le-Long",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "6042594465709928",
+        "nom": "Eric Bélingard (Producteur de viande limousine)",
+        "slug": "eric-belingard-producteur-de-viande-limousine",
+        "telephone": "06 79 70 17 89",
+        "site_web": "https://www.intramuros.org/ladignac-le-long/commerces/212208",
+        "adresse": "9 All. du Moulin de Gaillardie, 87500 Ladignac-le-Long",
+        "note": 0,
+        "avis": 0,
+        "type": "Boucherie-charcuterie"
+      },
+      {
+        "id": "12032334059512982704",
+        "nom": "Loubois",
+        "slug": "loubois",
+        "telephone": "07 85 79 86 72",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'élagage"
+      },
+      {
+        "id": "12448435506946531254",
+        "nom": "Lagriffoul L",
+        "slug": "lagriffoul-l",
+        "telephone": "05 55 58 16 48",
+        "site_web": null,
+        "adresse": "Rte du Marchadeau, 87800 Burgnac",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "compreignac": {
+    "artisans": [
+      {
+        "id": "7910371089904570547",
+        "nom": "LA PASSION DES COMBLES",
+        "slug": "la-passion-des-combles",
+        "telephone": "06 33 02 02 91",
+        "site_web": "https://www.lapassiondescombles-87.fr/contact",
+        "adresse": "3370 Angelard, 87140 Compreignac",
+        "note": 5,
+        "avis": 4,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "condat-sur-vienne": {
+    "artisans": [
+      {
+        "id": "3762244993347850788",
+        "nom": "VEYRIER COUVERTURE",
+        "slug": "veyrier-couverture",
+        "telephone": "05 55 49 01 00",
+        "site_web": "http://veyrier-couverture.fr/",
+        "adresse": "ZAC Jean Monet, 87920 Condat-sur-Vienne",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15605994203308773812",
+        "nom": "L'Expert Fenêtre Menuiserie Nicolas",
+        "slug": "lexpert-fenetre-menuiserie-nicolas",
+        "telephone": "05 55 00 63 20",
+        "site_web": "https://www.menuiserie-nicolas87.fr/",
+        "adresse": "15 Rue Ernest Mallard, 87000 Limoges",
+        "note": 4.3,
+        "avis": 42,
+        "type": "Vitrier"
+      },
+      {
+        "id": "17408564803054861628",
+        "nom": "Antony Fenêtres",
+        "slug": "antony-fenetres",
+        "telephone": "05 55 32 39 83",
+        "site_web": "https://antonyfenetres.fr/",
+        "adresse": "61 Av. Baudin, 87000 Limoges",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1735758287933433724",
+        "nom": "Il était un toit",
+        "slug": "il-etait-un-toit",
+        "telephone": "06 08 36 43 23",
+        "site_web": "http://www.iletaituntoit.fr/",
+        "adresse": "2 Rue Salvador Allende, 87170 Isle",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "coussac-bonneval": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "le-dorat": {
+    "artisans": [
+      {
+        "id": "950455143434747603",
+        "nom": "Limousin Matériaux - Tout Faire",
+        "slug": "limousin-materiaux-tout-faire",
+        "telephone": "05 55 60 74 39",
+        "site_web": "https://www.toutfaire.fr/limousin-materiaux-le-dorat.html",
+        "adresse": "Rte de Bellac, 87210 Le Dorat",
+        "note": 4.5,
+        "avis": 47,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "10134664994516072286",
+        "nom": "BKR Solution Habitat - Couvreur rénovation - nettoyage et démoussage toiture",
+        "slug": "bkr-solution-habitat-couvreur-renovation-nettoyage-et-demoussage-toiture",
+        "telephone": "06 22 29 13 53",
+        "site_web": "https://bkrsolutionhabitat.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 20,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "couzeix": {
+    "artisans": [
+      {
+        "id": "12388786142714549287",
+        "nom": "HOME RENOV' Menuiseries (87)",
+        "slug": "home-renov-menuiseries-87",
+        "telephone": "05 55 36 66 00",
+        "site_web": "https://www.homerenov87.com/",
+        "adresse": "8 Av. Antoine de Saint-Exupéry, 87270 Couzeix",
+        "note": 4.9,
+        "avis": 129,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13839460277438511232",
+        "nom": "HOMKiA",
+        "slug": "homkia",
+        "telephone": "05 19 08 01 05",
+        "site_web": "https://www.homkia.fr/nos-points-conseils/menuiserie-limoges-couzeix/",
+        "adresse": "116 Rte de Poitiers, 87270 Couzeix",
+        "note": 4.9,
+        "avis": 158,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cussac": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "eyjeaux": {
+    "artisans": [
+      {
+        "id": "13720283117423772370",
+        "nom": "AXCEA FENETRES",
+        "slug": "axcea-fenetres",
+        "telephone": "05 87 33 01 45",
+        "site_web": "https://www.axcea-fenetres.fr/",
+        "adresse": "345 Rue de Toulouse, 87000 Limoges",
+        "note": 4.9,
+        "avis": 35,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6298327671086622147",
+        "nom": "Isolation Centre Ouest Service Menuiserie (Entreprise Nelias)",
+        "slug": "isolation-centre-ouest-service-menuiserie-entreprise-nelias",
+        "telephone": "05 55 00 29 46",
+        "site_web": "http://www.icos-nelias-menuiserie.fr/",
+        "adresse": "132 La Châtaigneraie RD12, 87220 Eyjeaux",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Atelier de métallerie"
+      },
+      {
+        "id": "16808154924913155546",
+        "nom": "Isolation Centre-Ouest Service Menuiserie (Entreprise Nelias) à Feytiat - Limoges",
+        "slug": "isolation-centre-ouest-service-menuiserie-entreprise-nelias-a-feytiat-limoges",
+        "telephone": "05 55 30 37 16",
+        "site_web": "http://www.icos-nelias-menuiserie.fr/",
+        "adresse": "1 Chem. de l'Ancien Aéroport, 87220 Feytiat",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9994400625608888894",
+        "nom": "FFMA",
+        "slug": "ffma",
+        "telephone": "06 79 68 64 47",
+        "site_web": "https://www.ffma87.fr/",
+        "adresse": "25 Allée du Bessaud, 87220 Eyjeaux",
+        "note": 5,
+        "avis": 2,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12848450821958556613",
+        "nom": "INNOVALU",
+        "slug": "innovalu",
+        "telephone": "05 55 31 15 14",
+        "site_web": "https://www.innovalu.fr/",
+        "adresse": "Rond-point de la Valoine, 384 Rue de Toulouse, 87000 Limoges",
+        "note": 4.3,
+        "avis": 76,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "jourgnac": {
+    "artisans": [
+      {
+        "id": "860479074837865451",
+        "nom": "Veyrier Habitation",
+        "slug": "veyrier-habitation",
+        "telephone": "06 77 09 98 27",
+        "site_web": null,
+        "adresse": "2147 Rte de Beynac, 87800 Burgnac",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "9234497848809584874",
+        "nom": "Dulery Jean",
+        "slug": "dulery-jean",
+        "telephone": "05 55 00 58 77",
+        "site_web": "https://www.toiture-dulery-87.com/",
+        "adresse": "Les Palennes de Boissac, 87110 Le Vigen",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "flavignac": {
+    "artisans": [
+      {
+        "id": "1614181930735225921",
+        "nom": "MICKAEL BOURDOLLE MENUISERIES",
+        "slug": "mickael-bourdolle-menuiseries",
+        "telephone": "07 71 70 15 96",
+        "site_web": "http://bourdolle-menuiserie.fr/",
+        "adresse": "La Terrade, 87230 Flavignac",
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "linards": {
+    "artisans": [
+      {
+        "id": "15158600743328742840",
+        "nom": "Peyronnet Jean-Christophe",
+        "slug": "peyronnet-jean-christophe",
+        "telephone": "05 55 08 49 47",
+        "site_web": null,
+        "adresse": "Le Moulard, 87130 Linards",
+        "note": 5,
+        "avis": 2,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "eymoutiers": {
+    "artisans": [
+      {
+        "id": "7148643949285099742",
+        "nom": "Gedimat Vaxiviere",
+        "slug": "gedimat-vaxiviere",
+        "telephone": "05 18 06 19 25",
+        "site_web": "https://www.gedimat.fr/2451-magasin-gedimat-vaxiviere-eymoutiers.htm",
+        "adresse": "3 Av. de la Gare, 87120 Eymoutiers",
+        "note": 4.3,
+        "avis": 173,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "nexon": {
+    "artisans": [
+      {
+        "id": "15423823272667140741",
+        "nom": "Toiture J Dulery et Fils",
+        "slug": "toiture-j-dulery-et-fils",
+        "telephone": "05 55 00 58 77",
+        "site_web": "http://www.toiture-dulery-87.com/",
+        "adresse": "24 Chem. des Ecoles, 87110 Le Vigen",
+        "note": 4,
+        "avis": 25,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "feytiat": {
+    "artisans": [
+      {
+        "id": "3045532975856654401",
+        "nom": "ISOFRANCE Fenêtres & Energies - LIMOGES : Entreprise FORNIELES",
+        "slug": "isofrance-fenetres-energies-limoges-entreprise-fornieles",
+        "telephone": "05 55 30 47 34",
+        "site_web": "http://fornieles.fr/",
+        "adresse": "4 Rue Arsène d'Arsonval, 87220 Feytiat",
+        "note": 4.3,
+        "avis": 51,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "isle": {
+    "artisans": [
+      {
+        "id": "14106384972960701393",
+        "nom": "Leclerc Menuiseries - Sur Mesure Menuiserie",
+        "slug": "leclerc-menuiseries-sur-mesure-menuiserie",
+        "telephone": "05 55 39 49 59",
+        "site_web": "https://isle.surmesure-menuiserie.fr/",
+        "adresse": "24 Av. de Mérignac, 87170 Isle",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11620004168166233407",
+        "nom": "Miroiterie GBM",
+        "slug": "miroiterie-gbm",
+        "telephone": "05 55 43 99 99",
+        "site_web": "http://www.miroiteriegbm.com/?utm_source=gmb",
+        "adresse": "ZI les Courrières, 254 Rue Jean Perrin, 87170 Isle",
+        "note": 4.3,
+        "avis": 107,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "6780666712120662880",
+        "nom": "PAPEIX MENUISERIE",
+        "slug": "papeix-menuiserie",
+        "telephone": "05 55 01 43 60",
+        "site_web": "http://www.sas-papeix.fr/",
+        "adresse": "254 Route de Verneuil, 87170 Isle",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "limoges": {
+    "artisans": [
+      {
+        "id": "7563660312782302050",
+        "nom": "Quali Renov",
+        "slug": "quali-renov",
+        "telephone": "05 55 37 30 77",
+        "site_web": "https://www.quali-renov-limoges.fr/",
+        "adresse": "190 Rue de Toulouse, 87000 Limoges",
+        "note": 4.6,
+        "avis": 110,
+        "type": "Menuisier"
+      },
+      {
+        "id": "15605994203308773812",
+        "nom": "L'Expert Fenêtre Menuiserie Nicolas",
+        "slug": "lexpert-fenetre-menuiserie-nicolas",
+        "telephone": "05 55 00 63 20",
+        "site_web": "https://www.menuiserie-nicolas87.fr/",
+        "adresse": "15 Rue Ernest Mallard, 87000 Limoges",
+        "note": 4.3,
+        "avis": 42,
+        "type": "Vitrier"
+      },
+      {
+        "id": "14166100821810467660",
+        "nom": "Design Fenetre",
+        "slug": "design-fenetre",
+        "telephone": "05 55 32 86 94",
+        "site_web": "http://www.designfenetre-limoges.fr/",
+        "adresse": "4 Rte de Grossereix, 87280 Limoges",
+        "note": 4.7,
+        "avis": 57,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "12081667205751298748",
+        "nom": "Les Ateliers RAYNAUD - Limoges Haute-Vienne",
+        "slug": "les-ateliers-raynaud-limoges-haute-vienne",
+        "telephone": "05 55 37 22 90",
+        "site_web": "https://www.ateliers-raynaud.fr/",
+        "adresse": "16 Rue Pierre Michaux, 87280 Limoges",
+        "note": 4.4,
+        "avis": 122,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "2944323145826323279",
+        "nom": "BENET Stores, Pergolas et Fermetures",
+        "slug": "benet-stores-pergolas-et-fermetures",
+        "telephone": "05 55 38 41 90",
+        "site_web": "http://www.benet-stores-limoges.fr/",
+        "adresse": "41 Rue Nicolas Appert, 87280 Limoges",
+        "note": 4.7,
+        "avis": 78,
+        "type": "Magasin de stores et de rideaux"
+      },
+      {
+        "id": "14203950835399176078",
+        "nom": "Komilfo AGP SARL à Limoges - Pergolas, Stores, Fenêtres, Menuiseries",
+        "slug": "komilfo-agp-sarl-a-limoges-pergolas-stores-fenetres-menuiseries",
+        "telephone": "05 55 35 52 25",
+        "site_web": "https://www.komilfo.fr/magasins/agp-limoges-87?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "16 Rue de Buxerolles, 87100 Limoges",
+        "note": 4.8,
+        "avis": 199,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7110101679052202658",
+        "nom": "Sarl Cose Distribution",
+        "slug": "sarl-cose-distribution",
+        "telephone": "09 75 74 38 86",
+        "site_web": "http://www.cose-distribution.com/",
+        "adresse": "27 Av. du Maréchal de Lattre-de-Tassigny, 87000 Limoges",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16134903570932769152",
+        "nom": "Mister Toiture Limoges",
+        "slug": "mister-toiture-limoges",
+        "telephone": "05 33 52 29 52",
+        "site_web": "https://mistertoiture.com/agence/mister-toiture-limoges/?utm_source=gmb&utm_medium=gmb",
+        "adresse": "1 Rue Pierre Michaux, 87280 Limoges",
+        "note": 4.6,
+        "avis": 57,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15749039167602328836",
+        "nom": "SCM- Société des Couvreurs Menuisiers",
+        "slug": "scm-societe-des-couvreurs-menuisiers",
+        "telephone": "05 55 36 60 27",
+        "site_web": "http://scm87.fr/",
+        "adresse": "22 Rue du Stade, 87510 Saint-Jouvent",
+        "note": 5,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14221656325939197743",
+        "nom": "David Deslauriers - couvreur zingueur Limoges",
+        "slug": "david-deslauriers-couvreur-zingueur-limoges",
+        "telephone": "06 42 23 22 12",
+        "site_web": "https://deslauriers-renovation-peinture.fr/",
+        "adresse": "Rue Jean Monet, 87350 Panazol",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "magnac-bourg": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nantiat": {
+    "artisans": [
+      {
+        "id": "15749039167602328836",
+        "nom": "SCM- Société des Couvreurs Menuisiers",
+        "slug": "scm-societe-des-couvreurs-menuisiers",
+        "telephone": "05 55 36 60 27",
+        "site_web": "http://scm87.fr/",
+        "adresse": "22 Rue du Stade, 87510 Saint-Jouvent",
+        "note": 5,
+        "avis": 50,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "magnac-laval": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "oradour-sur-vayres": {
+    "artisans": [
+      {
+        "id": "915350253742092184",
+        "nom": "Tradi Menuiserie OuvertureS",
+        "slug": "tradi-menuiserie-ouvertures",
+        "telephone": "05 55 31 17 11",
+        "site_web": "http://www.ouvertures.com/",
+        "adresse": "4BIS Rue de l'Europe, 87520 Oradour-sur-Glane",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "bellac": {
+    "artisans": [
+      {
+        "id": "1658736529211034890",
+        "nom": "Sarl Brissiaud Et Fils",
+        "slug": "sarl-brissiaud-et-fils",
+        "telephone": "05 55 68 06 28",
+        "site_web": null,
+        "adresse": "13 Rue des Rochettes, 87300 Bellac",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3238334402209011272",
+        "nom": "AS Couverture AS Funéraire",
+        "slug": "as-couverture-as-funeraire",
+        "telephone": "06 50 60 67 75",
+        "site_web": "http://as-couverture-bellac.fr/",
+        "adresse": "19 Av. Jean Jaurès, 87300 Bellac",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14339668010021996330",
+        "nom": "Menuiserie Industrielle des Gatines M.I.G",
+        "slug": "menuiserie-industrielle-des-gatines-mig",
+        "telephone": "05 55 68 06 44",
+        "site_web": "https://www.mig-menuiseries.com/",
+        "adresse": "87300 Blanzac",
+        "note": 3.5,
+        "avis": 13,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "16930765513049739810",
+        "nom": "Normand Thierry",
+        "slug": "normand-thierry",
+        "telephone": "05 55 68 12 67",
+        "site_web": "https://www.entreprise-normand.fr/",
+        "adresse": "Zone artisanale, 87300 Bellac",
+        "note": 3.3,
+        "avis": 6,
+        "type": "Atelier de métallerie"
+      }
+    ]
+  },
+  "nieul": {
+    "artisans": [
+      {
+        "id": "15749039167602328836",
+        "nom": "SCM- Société des Couvreurs Menuisiers",
+        "slug": "scm-societe-des-couvreurs-menuisiers",
+        "telephone": "05 55 36 60 27",
+        "site_web": "http://scm87.fr/",
+        "adresse": "22 Rue du Stade, 87510 Saint-Jouvent",
+        "note": 5,
+        "avis": 50,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "oradour-sur-glane": {
+    "artisans": [
+      {
+        "id": "12824034211066019621",
+        "nom": "LS Agencement",
+        "slug": "ls-agencement",
+        "telephone": "06 18 12 52 01",
+        "site_web": "https://lsagencement.fr/",
+        "adresse": "ZA puy Gaillard, 87520 Oradour-sur-Glane",
+        "note": 5,
+        "avis": 5,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "14475147817989894725",
+        "nom": "Lucivert",
+        "slug": "lucivert",
+        "telephone": "05 87 41 84 26",
+        "site_web": "http://www.lucivert.com/?utm_source=gmb",
+        "adresse": "za du puy gaillard, 87520 Oradour-sur-Glane",
+        "note": 4.7,
+        "avis": 46,
+        "type": "Magasin de matériel de motoculture"
+      },
+      {
+        "id": "17912879078351287453",
+        "nom": "Beau Pascal",
+        "slug": "beau-pascal",
+        "telephone": "05 55 03 23 04",
+        "site_web": null,
+        "adresse": "Bellevue, 87520 Oradour-sur-Glane",
+        "note": 5,
+        "avis": 6,
+        "type": "Peintre en bâtiment"
+      },
+      {
+        "id": "17062973526301581758",
+        "nom": "Bayart Dominique",
+        "slug": "bayart-dominique",
+        "telephone": "06 15 99 65 63",
+        "site_web": null,
+        "adresse": "33 Rue du Lavoir, 87200 Saint-Brice-sur-Vienne",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8489481809633027993",
+        "nom": "Lafleur Emmanuel Artisan Couvreur",
+        "slug": "lafleur-emmanuel-artisan-couvreur",
+        "telephone": "06 06 78 80 70",
+        "site_web": "https://www.artisan-couvreur-87.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 21,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10244999900555741021",
+        "nom": "SASU Tarnaud Toiture",
+        "slug": "sasu-tarnaud-toiture",
+        "telephone": "06 12 65 06 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "915350253742092184",
+        "nom": "Tradi Menuiserie OuvertureS",
+        "slug": "tradi-menuiserie-ouvertures",
+        "telephone": "05 55 31 17 11",
+        "site_web": "http://www.ouvertures.com/",
+        "adresse": "4BIS Rue de l'Europe, 87520 Oradour-sur-Glane",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Menuisier"
+      },
+      {
+        "id": "10233138228167951966",
+        "nom": "MFV Menuiserie Fermeture Varnier",
+        "slug": "mfv-menuiserie-fermeture-varnier",
+        "telephone": "05 19 39 80 73",
+        "site_web": "https://www.facebook.com/terresfenetre?utm_source=gmb",
+        "adresse": "Le Puy Joly, 87290 Châteauponsac",
+        "note": 4.8,
+        "avis": 36,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "peyrat-le-chateau": {
+    "artisans": [
+      {
+        "id": "8009122475823074093",
+        "nom": "Menuiseries Peyratout",
+        "slug": "menuiseries-peyratout",
+        "telephone": "05 55 69 45 21",
+        "site_web": "https://www.facebook.com/menuiseries.peyratout/",
+        "adresse": "32 Rue Carnot, 87470 Peyrat-le-Château",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "panazol": {
+    "artisans": [
+      {
+        "id": "2302789499931481491",
+        "nom": "FLOGNY VINCENT, MENUISER ÉBÉNISTE",
+        "slug": "flogny-vincent-menuiser-ebeniste",
+        "telephone": "06 75 22 06 38",
+        "site_web": "https://menuiserie-flogny-vincent.fr/",
+        "adresse": "1 Rue Martin Nadaud, 87350 Panazol",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17242634696742028395",
+        "nom": "Pro Couvreur Panazol - Toiture & Démoussage",
+        "slug": "pro-couvreur-panazol-toiture-demoussage",
+        "telephone": "05 19 97 00 86",
+        "site_web": "http://pro-couvreur-panazol.ovh/",
+        "adresse": "1 Rue Edith Piaf, 87350 Panazol",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "peyrilhac": {
+    "artisans": [
+      {
+        "id": "17408564803054861628",
+        "nom": "Antony Fenêtres",
+        "slug": "antony-fenetres",
+        "telephone": "05 55 32 39 83",
+        "site_web": "https://antonyfenetres.fr/",
+        "adresse": "61 Av. Baudin, 87000 Limoges",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "peyrat-de-bellac": {
+    "artisans": [
+      {
+        "id": "8423566827448533051",
+        "nom": "Restoueix Serge",
+        "slug": "restoueix-serge",
+        "telephone": "06 34 49 32 17",
+        "site_web": "https://www.sergerestoueix87.com/",
+        "adresse": "1 Imp. de la Vieille Route, 87300 Peyrat-de-Bellac",
+        "note": 4,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-brice-sur-vienne": {
+    "artisans": [
+      {
+        "id": "3729325459032087810",
+        "nom": "Garage Dubois",
+        "slug": "garage-dubois",
+        "telephone": "05 55 02 05 73",
+        "site_web": null,
+        "adresse": "9 Rte du Moulin de l'Hôpital, 87200 Saint-Brice-sur-Vienne",
+        "note": 4.5,
+        "avis": 39,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "1515708285958440472",
+        "nom": "Bouchet SARL",
+        "slug": "bouchet-sarl",
+        "telephone": "05 55 03 65 07",
+        "site_web": "https://www.facebook.com/profile.php?id=100064167938319",
+        "adresse": "105 Chez Vevaud, 87200 Saint-Junien",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6224995383313570638",
+        "nom": "Menuiserie USCAIN",
+        "slug": "menuiserie-uscain",
+        "telephone": "05 55 02 58 48",
+        "site_web": "http://menuiserieuscain.site-solocal.com/?utm_source=gmb",
+        "adresse": "Rte de l'Âge, 87200 Saint-Brice-sur-Vienne",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10031609058960585208",
+        "nom": "Ménage et repassage à domicile - Shiva Saint-Junien",
+        "slug": "menage-et-repassage-a-domicile-shiva-saint-junien",
+        "telephone": "05 44 21 12 96",
+        "site_web": "https://www.shiva.fr/menage-repassage-domicile/saint-junien?utm_source=prm_GMB&utm_medium=shiva_saint-junien_GMB&utm_term=web&utm_campaign=shiva-saint-junien-GMB",
+        "adresse": "2 Sq. Curie, 87200 Saint-Junien",
+        "note": 5,
+        "avis": 21,
+        "type": "Service de ménage"
+      },
+      {
+        "id": "16004354714251842355",
+        "nom": "Uscain Marion",
+        "slug": "uscain-marion",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "24 Rue Jean Moulin, 87200 Saint-Brice-sur-Vienne",
+        "note": 4.3,
+        "avis": 21,
+        "type": "Médecin généraliste"
+      },
+      {
+        "id": "13336250464222094113",
+        "nom": "Restoin Jean-Marc",
+        "slug": "restoin-jean-marc",
+        "telephone": "05 55 02 00 26",
+        "site_web": "https://www.menuiserie-restoin-87.fr/",
+        "adresse": "37 Rte de la Gaudine, 87200 Saint-Brice-sur-Vienne",
+        "note": 5,
+        "avis": 5,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9586919305078765241",
+        "nom": "Sctrb",
+        "slug": "sctrb",
+        "telephone": "05 55 02 93 44",
+        "site_web": null,
+        "adresse": "2 Rue Jean Pierre Timbaud, 87200 Saint-Junien",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5868905152147082854",
+        "nom": "Génération Coiffure",
+        "slug": "generation-coiffure",
+        "telephone": "05 55 02 13 66",
+        "site_web": null,
+        "adresse": "1 Rue du 8 Mai 1945, 87200 Saint-Brice-sur-Vienne",
+        "note": 4.7,
+        "avis": 17,
+        "type": "Salon de coiffure"
+      },
+      {
+        "id": "442610227744579683",
+        "nom": "A-I-Tech",
+        "slug": "a-i-tech",
+        "telephone": "06 03 29 74 47",
+        "site_web": "http://www.aitech-isolation.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "razes": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "pierre-buffiere": {
+    "artisans": [
+      {
+        "id": "15423823272667140741",
+        "nom": "Toiture J Dulery et Fils",
+        "slug": "toiture-j-dulery-et-fils",
+        "telephone": "05 55 00 58 77",
+        "site_web": "http://www.toiture-dulery-87.com/",
+        "adresse": "24 Chem. des Ecoles, 87110 Le Vigen",
+        "note": 4,
+        "avis": 25,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "saint-pardoux-le-lac": {
+    "artisans": [
+      {
+        "id": "10233138228167951966",
+        "nom": "MFV Menuiserie Fermeture Varnier",
+        "slug": "mfv-menuiserie-fermeture-varnier",
+        "telephone": "05 19 39 80 73",
+        "site_web": "https://www.facebook.com/terresfenetre?utm_source=gmb",
+        "adresse": "Le Puy Joly, 87290 Châteauponsac",
+        "note": 4.8,
+        "avis": 36,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "rilhac-rancon": {
+    "artisans": [
+      {
+        "id": "1993369685438038604",
+        "nom": "Bft Limousin",
+        "slug": "bft-limousin",
+        "telephone": "05 55 39 92 38",
+        "site_web": "http://www.bft-limousin.fr/",
+        "adresse": "Le Grand Pacage, 87570 Rilhac-Rancon",
+        "note": 3.8,
+        "avis": 18,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "rochechouart": {
+    "artisans": [
+      {
+        "id": "5775832490350323887",
+        "nom": "JANET Ets",
+        "slug": "janet-ets",
+        "telephone": "05 55 03 60 10",
+        "site_web": "http://www.janetets.fr/",
+        "adresse": "17 Rue Romain Rolland, 87600 Rochechouart",
+        "note": 4,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12857390964093480151",
+        "nom": "A.J Faure Couverture",
+        "slug": "aj-faure-couverture",
+        "telephone": "06 59 96 23 53",
+        "site_web": "https://www.ajfaure.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      },
+      {
+        "id": "510412308250527803",
+        "nom": "SARL Martinet",
+        "slug": "sarl-martinet",
+        "telephone": "05 55 03 65 38",
+        "site_web": "https://www.sarl-martinet.com/",
+        "adresse": "Rue du Petit Châtenet, 87600 Rochechouart",
+        "note": 4.4,
+        "avis": 17,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "16597399665721168923",
+        "nom": "Voisin Alain",
+        "slug": "voisin-alain",
+        "telephone": "05 55 03 67 56",
+        "site_web": null,
+        "adresse": "6 Rue de Champagnac, 87600 Rochechouart",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "12728291916925389790",
+        "nom": "L'atelier du menuisier",
+        "slug": "latelier-du-menuisier",
+        "telephone": "07 86 83 42 46",
+        "site_web": "https://latelierdumenuisier87.fr/",
+        "adresse": "11 Av. Jean Jaurès, 87600 Rochechouart",
+        "note": 5,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "9072679437198320350",
+        "nom": "Metiers Du Toit Lasvergnas",
+        "slug": "metiers-du-toit-lasvergnas",
+        "telephone": "05 55 03 66 24",
+        "site_web": "https://www.les-metiers-du-toit-lasvergnas.fr/charpente-rochechouart.html",
+        "adresse": "Rue des Brosses, 87600 Rochechouart",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "le-vigen": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-sulpice-les-feuilles": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-priest-sous-aixe": {
+    "artisans": [
+      {
+        "id": "16076304617821610066",
+        "nom": "Le Couvreur de Paris",
+        "slug": "le-couvreur-de-paris",
+        "telephone": "06 23 60 97 91",
+        "site_web": "https://www.le-couvreur-de-paris.fr/",
+        "adresse": "83 Rue de Reuilly, 75012 Paris",
+        "note": 4.9,
+        "avis": 59,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12470417131620006453",
+        "nom": "Entreprise Brisacier - VELUX Installateur Conseil Expert",
+        "slug": "entreprise-brisacier-velux-installateur-conseil-expert",
+        "telephone": "01 30 26 06 50",
+        "site_web": "http://www.entreprise-brisacier.fr/",
+        "adresse": "62 Rue Sainte-Honorine, 95220 Herblay-sur-Seine",
+        "note": 4.5,
+        "avis": 102,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "608508219573381385",
+        "nom": "KparK Boulogne Billancourt",
+        "slug": "kpark-boulogne-billancourt",
+        "telephone": "01 71 51 09 27",
+        "site_web": "https://magasins.kpark.fr/120-kpark-boulogne-billancourt?utm_source=gmb",
+        "adresse": "14 Av. du Général Leclerc, 92100 Boulogne-Billancourt",
+        "note": 3.8,
+        "avis": 54,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-yrieix-la-perche": {
+    "artisans": [
+      {
+        "id": "18343595209558855231",
+        "nom": "CASÉO Saint Yrieix",
+        "slug": "caseo-saint-yrieix",
+        "telephone": "05 55 09 70 87",
+        "site_web": "https://www.caseo-maison.com/magasins/caseo-saint-yrieix-la-perche-saint-yrieix-la-perche-78",
+        "adresse": "Allée du Roussillon, Arfeuille, 87500 Saint-Yrieix-la-Perche",
+        "note": 4.7,
+        "avis": 59,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6112431676200487017",
+        "nom": "Alu Glass",
+        "slug": "alu-glass",
+        "telephone": "05 55 08 20 28",
+        "site_web": "http://www.alu-glass.fr/?utm_source=gmb",
+        "adresse": "6 Rte de Périgueux, 87500 Saint-Yrieix-la-Perche",
+        "note": 4.8,
+        "avis": 52,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-victurnien": {
+    "artisans": [
+      {
+        "id": "15749039167602328836",
+        "nom": "SCM- Société des Couvreurs Menuisiers",
+        "slug": "scm-societe-des-couvreurs-menuisiers",
+        "telephone": "05 55 36 60 27",
+        "site_web": "http://scm87.fr/",
+        "adresse": "22 Rue du Stade, 87510 Saint-Jouvent",
+        "note": 5,
+        "avis": 50,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-paul": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-priest-taurion": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10890768322409392316",
+        "nom": "Bj Menuiserie",
+        "slug": "bj-menuiserie",
+        "telephone": "06 81 87 59 91",
+        "site_web": "http://bj-menuiserie-87.fr/?utm_source=gmb",
+        "adresse": "ZA, 315 Rte Martin Nadaud, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sereilhac": {
+    "artisans": [
+      {
+        "id": "3356710432474075846",
+        "nom": "Aixe Bâtiments",
+        "slug": "aixe-batiments",
+        "telephone": "05 55 70 46 55",
+        "site_web": "http://www.aixebatiments.fr/",
+        "adresse": "8 Chem. de la Nèple, 87700 Aixe-sur-Vienne",
+        "note": 3.8,
+        "avis": 18,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17310344863759067444",
+        "nom": "AMDL - menuiserie solabaie - cuisine",
+        "slug": "amdl-menuiserie-solabaie-cuisine",
+        "telephone": "06 74 92 56 88",
+        "site_web": "https://amdl-menuiseries.fr/",
+        "adresse": "77 Av. d'Occitanie Brugerie Sud, 87620 Séreilhac",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Cuisiniste"
+      },
+      {
+        "id": "15887262022899254254",
+        "nom": "Sarl Michel BARGET",
+        "slug": "sarl-michel-barget",
+        "telephone": "05 55 39 12 52",
+        "site_web": "http://www.sarlmichelbarget.com/?utm_source=gmb",
+        "adresse": "73 Av. d'Occitanie, 87620 Séreilhac",
+        "note": 3.8,
+        "avis": 36,
+        "type": "Plombier"
+      },
+      {
+        "id": "15436967285832361988",
+        "nom": "SARL PEYROT FRERES",
+        "slug": "sarl-peyrot-freres",
+        "telephone": "05 55 36 02 63",
+        "site_web": null,
+        "adresse": "12 Rue Toulouse Lautrec, 87620 Séreilhac",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Maçon"
+      },
+      {
+        "id": "14221656325939197743",
+        "nom": "David Deslauriers - couvreur zingueur Limoges",
+        "slug": "david-deslauriers-couvreur-zingueur-limoges",
+        "telephone": "06 42 23 22 12",
+        "site_web": "https://deslauriers-renovation-peinture.fr/",
+        "adresse": "Rue Jean Monet, 87350 Panazol",
+        "note": 4.9,
+        "avis": 70,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15423823272667140741",
+        "nom": "Toiture J Dulery et Fils",
+        "slug": "toiture-j-dulery-et-fils",
+        "telephone": "05 55 00 58 77",
+        "site_web": "http://www.toiture-dulery-87.com/",
+        "adresse": "24 Chem. des Ecoles, 87110 Le Vigen",
+        "note": 4,
+        "avis": 25,
+        "type": "Charpentier"
+      },
+      {
+        "id": "15666378629612369926",
+        "nom": "LE FOURNIL DE LAÏKA",
+        "slug": "le-fournil-de-laika",
+        "telephone": "05 87 75 45 34",
+        "site_web": null,
+        "adresse": "8 Av. d'Occitanie, 87620 Séreilhac",
+        "note": 4.2,
+        "avis": 39,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "17175315340486785153",
+        "nom": "Artisan 87",
+        "slug": "artisan-87",
+        "telephone": "07 80 18 73 06",
+        "site_web": "https://artisan87.fr/",
+        "adresse": "centre d'affaires, 18 place wiston Churchill et adresse de l’entrepôt rue Tourcoing, zone sud à Feytiat, 18 Pl. Winston Churchill, 87000 Limoges",
+        "note": 5,
+        "avis": 31,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9954920472130737780",
+        "nom": "Alibois SARL",
+        "slug": "alibois-sarl",
+        "telephone": "09 79 50 01 01",
+        "site_web": "https://www.alibois-menuiserie.com/",
+        "adresse": "3 Rue des Grangettes, 87700 Aixe-sur-Vienne",
+        "note": 5,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "17665953248052931678",
+        "nom": "A.D.N. BATIMENTS",
+        "slug": "adn-batiments",
+        "telephone": "06 24 49 72 75",
+        "site_web": "http://adnbatiments.com/",
+        "adresse": "26 Rue Auguste Renoir, 87620 Séreilhac",
+        "note": 5,
+        "avis": 2,
+        "type": "Carreleur"
+      }
+    ]
+  },
+  "saint-maurice-les-brousses": {
+    "artisans": [
+      {
+        "id": "5489266556651779772",
+        "nom": "Gedimat Moreau Matériaux - Saint-Maurice-les-Brousses",
+        "slug": "gedimat-moreau-materiaux-saint-maurice-les-brousses",
+        "telephone": "05 55 57 58 50",
+        "site_web": "http://www.gedimat.fr/",
+        "adresse": "4 Allée Occitane, 87800 Saint-Maurice-les-Brousses",
+        "note": 4.6,
+        "avis": 78,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "9591983324008397105",
+        "nom": "Eco'n home",
+        "slug": "econ-home",
+        "telephone": "05 55 36 29 28",
+        "site_web": null,
+        "adresse": "4 Rue des Lauriers, 87800 Saint-Maurice-les-Brousses",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17667712274616755956",
+        "nom": "Menudier Thierry",
+        "slug": "menudier-thierry",
+        "telephone": "06 87 03 23 50",
+        "site_web": null,
+        "adresse": "87800 Saint-Maurice-les-Brousses",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Service d'élagage"
+      }
+    ]
+  },
+  "solignac": {
+    "artisans": [
+      {
+        "id": "7563660312782302050",
+        "nom": "Quali Renov",
+        "slug": "quali-renov",
+        "telephone": "05 55 37 30 77",
+        "site_web": "https://www.quali-renov-limoges.fr/",
+        "adresse": "190 Rue de Toulouse, 87000 Limoges",
+        "note": 4.6,
+        "avis": 110,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13759788208320100766",
+        "nom": "Couvreur Limoges - DGC Couverture",
+        "slug": "couvreur-limoges-dgc-couverture",
+        "telephone": "06 11 93 22 37",
+        "site_web": "https://dgccouverture.com/",
+        "adresse": "22 Rue du Châtenet, 87410 Le Palais-sur-Vienne",
+        "note": 5,
+        "avis": 49,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9234497848809584874",
+        "nom": "Dulery Jean",
+        "slug": "dulery-jean",
+        "telephone": "05 55 00 58 77",
+        "site_web": "https://www.toiture-dulery-87.com/",
+        "adresse": "Les Palennes de Boissac, 87110 Le Vigen",
+        "note": 5,
+        "avis": 11,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "verneuil-sur-vienne": {
+    "artisans": [
+      {
+        "id": "3045532975856654401",
+        "nom": "ISOFRANCE Fenêtres & Energies - LIMOGES : Entreprise FORNIELES",
+        "slug": "isofrance-fenetres-energies-limoges-entreprise-fornieles",
+        "telephone": "05 55 30 47 34",
+        "site_web": "http://fornieles.fr/",
+        "adresse": "4 Rue Arsène d'Arsonval, 87220 Feytiat",
+        "note": 4.3,
+        "avis": 51,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12081667205751298748",
+        "nom": "Les Ateliers RAYNAUD - Limoges Haute-Vienne",
+        "slug": "les-ateliers-raynaud-limoges-haute-vienne",
+        "telephone": "05 55 37 22 90",
+        "site_web": "https://www.ateliers-raynaud.fr/",
+        "adresse": "16 Rue Pierre Michaux, 87280 Limoges",
+        "note": 4.4,
+        "avis": 122,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "15605994203308773812",
+        "nom": "L'Expert Fenêtre Menuiserie Nicolas",
+        "slug": "lexpert-fenetre-menuiserie-nicolas",
+        "telephone": "05 55 00 63 20",
+        "site_web": "https://www.menuiserie-nicolas87.fr/",
+        "adresse": "15 Rue Ernest Mallard, 87000 Limoges",
+        "note": 4.3,
+        "avis": 42,
+        "type": "Vitrier"
+      },
+      {
+        "id": "6780666712120662880",
+        "nom": "PAPEIX MENUISERIE",
+        "slug": "papeix-menuiserie",
+        "telephone": "05 55 01 43 60",
+        "site_web": "http://www.sas-papeix.fr/",
+        "adresse": "254 Route de Verneuil, 87170 Isle",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9947459345534718669",
+        "nom": "Roux Remy",
+        "slug": "roux-remy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 Rue de Bagoulas, 87430 Verneuil-sur-Vienne",
+        "note": 3.8,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "12848450821958556613",
+        "nom": "INNOVALU",
+        "slug": "innovalu",
+        "telephone": "05 55 31 15 14",
+        "site_web": "https://www.innovalu.fr/",
+        "adresse": "Rond-point de la Valoine, 384 Rue de Toulouse, 87000 Limoges",
+        "note": 4.3,
+        "avis": 76,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "10410152435949669967",
+        "nom": "Alex Taxis",
+        "slug": "alex-taxis",
+        "telephone": "06 76 91 10 45",
+        "site_web": null,
+        "adresse": "51 Rue de Limoges, 87430 Verneuil-sur-Vienne",
+        "note": 4,
+        "avis": 24,
+        "type": "Service de taxi"
+      },
+      {
+        "id": "14166100821810467660",
+        "nom": "Design Fenetre",
+        "slug": "design-fenetre",
+        "telephone": "05 55 32 86 94",
+        "site_web": "http://www.designfenetre-limoges.fr/",
+        "adresse": "4 Rte de Grossereix, 87280 Limoges",
+        "note": 4.7,
+        "avis": 57,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6340863932177631026",
+        "nom": "Diataxi",
+        "slug": "diataxi",
+        "telephone": "05 55 00 13 39",
+        "site_web": "http://www.diataxi87.fr/",
+        "adresse": "1 route Tranchepie, Les Quatre Vents, 87430 Verneuil-sur-Vienne",
+        "note": 1,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "13710339029377116619",
+        "nom": "JARDIN DE MOSAÏQUE",
+        "slug": "jardin-de-mosaique",
+        "telephone": "06 19 92 46 51",
+        "site_web": "http://jardindemosaique.fr/",
+        "adresse": "42 Rte des Vignes, 87430 Verneuil-sur-Vienne",
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      }
+    ]
+  },
+  "vicq-sur-breuilh": {
+    "artisans": [
+      {
+        "id": "7160379930650035231",
+        "nom": "Sarl Hardy",
+        "slug": "sarl-hardy",
+        "telephone": "05 55 00 61 04",
+        "site_web": "http://www.couverture-verandas-hardy.com/",
+        "adresse": "Pont de Geasse, 87260 Vicq-sur-Breuilh",
+        "note": 3.7,
+        "avis": 11,
+        "type": "Magasin de meubles"
+      }
+    ]
+  },
+  "veyrac": {
+    "artisans": [
+      {
+        "id": "10698297840520036386",
+        "nom": "Boutant Sébastien",
+        "slug": "boutant-sebastien",
+        "telephone": "05 55 56 56 60",
+        "site_web": "https://www.boutant-sebastien-charpentes.fr/",
+        "adresse": "1 All. des Jonquilles, 87240 Ambazac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-jouvent": {
+    "artisans": [
+      {
+        "id": "15749039167602328836",
+        "nom": "SCM- Société des Couvreurs Menuisiers",
+        "slug": "scm-societe-des-couvreurs-menuisiers",
+        "telephone": "05 55 36 60 27",
+        "site_web": "http://scm87.fr/",
+        "adresse": "22 Rue du Stade, 87510 Saint-Jouvent",
+        "note": 5,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16645315082520066589",
+        "nom": "Limalu Système SARL",
+        "slug": "limalu-systeme-sarl",
+        "telephone": "05 55 75 60 38",
+        "site_web": "http://www.limalu.fr/",
+        "adresse": "27 Rte du Lac, 87510 Saint-Jouvent",
+        "note": 5,
+        "avis": 7,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-just-le-martel": {
+    "artisans": [
+      {
+        "id": "3563883854196553779",
+        "nom": "Acces Limousin",
+        "slug": "acces-limousin",
+        "telephone": "05 55 38 15 86",
+        "site_web": "http://www.acces-limousin.fr/",
+        "adresse": "Parc d'Activités Le Petit Bonnefond, 87590 Saint-Just-le-Martel",
+        "note": 5,
+        "avis": 22,
+        "type": "Menuisier"
+      },
+      {
+        "id": "18212670293324468297",
+        "nom": "Esprit d'Ouverture",
+        "slug": "esprit-douverture",
+        "telephone": "05 55 56 37 51",
+        "site_web": null,
+        "adresse": "4 Rte d'Aureil, 87590 Saint-Just-le-Martel",
+        "note": 4.2,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "13280103579670497461",
+        "nom": "ARG Menuiserie EURL",
+        "slug": "arg-menuiserie-eurl",
+        "telephone": "06 45 75 47 32",
+        "site_web": "http://argmenuiserieeurl.site-solocal.com/?utm_source=gmb",
+        "adresse": "3 Rte de la Chèze, 87590 Saint-Just-le-Martel",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "4004987389129033396",
+        "nom": "SARL Orvain Philippe",
+        "slug": "sarl-orvain-philippe",
+        "telephone": "06 15 94 18 87",
+        "site_web": "http://www.amenagement-interieur-limoges.fr/",
+        "adresse": "6 Rte de la Roche, 87590 Saint-Just-le-Martel",
+        "note": 5,
+        "avis": 8,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12635400471037739173",
+        "nom": "Menuiserie",
+        "slug": "menuiserie",
+        "telephone": "06 15 94 18 87",
+        "site_web": null,
+        "adresse": "6 Rte de la Roche, 87590 Saint-Just-le-Martel",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "17622183434382670720",
+        "nom": "Murprotec",
+        "slug": "murprotec",
+        "telephone": "05 55 30 32 87",
+        "site_web": null,
+        "adresse": "Le Grand Salé, 87590 Saint-Just-le-Martel",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "saint-mathieu": {
+    "artisans": [
+      {
+        "id": "10770213403434192734",
+        "nom": "Entreprise Electrique Batifoix",
+        "slug": "entreprise-electrique-batifoix",
+        "telephone": "05 55 00 31 02",
+        "site_web": "http://www.batifoix.fr/",
+        "adresse": "10 route des maîtres de forges, 87440 Saint-Mathieu",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11080625797686568940",
+        "nom": "Therma'O",
+        "slug": "thermao",
+        "telephone": "05 55 78 10 91",
+        "site_web": "http://www.therma-o.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12924002075228090397",
+        "nom": "Dutheil Philippe",
+        "slug": "dutheil-philippe",
+        "telephone": "05 55 48 82 75",
+        "site_web": "http://menuisier-stmathieu.fr/",
+        "adresse": "Les Tourettes, 87440 Saint-Mathieu",
+        "note": 5,
+        "avis": 4,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "saint-junien": {
+    "artisans": [
+      {
+        "id": "16134470373466235928",
+        "nom": "Côté pose Fenêtre Pvc Bois Aluminium, porte d'entrée et volets à Limoges 87",
+        "slug": "cote-pose-fenetre-pvc-bois-aluminium-porte-dentree-et-volets-a-limoges-87",
+        "telephone": "06 33 09 14 88",
+        "site_web": "http://cotepose.com/",
+        "adresse": "les seguines est, 87200 Saint-Junien",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "8026640451573309601",
+        "nom": "Sarl Martinho Sebastien",
+        "slug": "sarl-martinho-sebastien",
+        "telephone": "05 55 71 17 26",
+        "site_web": "https://martinho-piscine-toiture.fr/",
+        "adresse": "405, 87200 Saint-Junien",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Charpentier"
+      },
+      {
+        "id": "3299005313987249821",
+        "nom": "CASSAGRANDE Couverture 87",
+        "slug": "cassagrande-couverture-87",
+        "telephone": "05 33 06 18 85",
+        "site_web": "https://www.couvreur-87.fr/",
+        "adresse": "Lieu dit, 87200 Saint-Junien",
+        "note": 5,
+        "avis": 35,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5946455088257587553",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "05 55 30 16 17",
+        "site_web": "https://magasins.lapeyre.fr/nouvelle-aquitaine/haute-vienne/lapeyre-limoges-124",
+        "adresse": "49 Av. Louis de Broglie, 87000 Limoges",
+        "note": 4.2,
+        "avis": 630,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "6874531474702880515",
+        "nom": "Delage Menuiseries - Fabrication & pose de menuiseries PVC, Bois, Alu",
+        "slug": "delage-menuiseries-fabrication-pose-de-menuiseries-pvc-bois-alu",
+        "telephone": "05 55 02 18 92",
+        "site_web": "http://www.menuiseries-delage.fr/",
+        "adresse": "Z.I de Boisse, 87200 Saint-Junien",
+        "note": 4.1,
+        "avis": 36,
+        "type": "Fenêtre en aluminium"
+      },
+      {
+        "id": "9555946262953006602",
+        "nom": "LOGEO CONFORT",
+        "slug": "logeo-confort",
+        "telephone": "05 55 14 87 69",
+        "site_web": "https://www.logeoconfort.fr/",
+        "adresse": "36 Bd Victor Hugo, 87200 Saint-Junien",
+        "note": 3.9,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      }
+    ]
+  },
+  "saint-gence": {
+    "artisans": [
+      {
+        "id": "7700452837190927524",
+        "nom": "Le Fournil de Saint Gence",
+        "slug": "le-fournil-de-saint-gence",
+        "telephone": "05 55 31 33 45",
+        "site_web": null,
+        "adresse": "1 Rue de l'Ancienne École, 87510 Saint-Gence",
+        "note": 3,
+        "avis": 62,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "10944169665609470811",
+        "nom": "Avenir Rénovations - Limoges",
+        "slug": "avenir-renovations-limoges",
+        "telephone": "05 33 52 09 88",
+        "site_web": "https://www.avenir-renovations.fr/agence/avenir-renovations-87-limoges/",
+        "adresse": "20 Rue Arthur Groussier, 87100 Limoges",
+        "note": 4.5,
+        "avis": 43,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "9051554061500167243",
+        "nom": "S.C.A.L",
+        "slug": "scal",
+        "telephone": "05 55 70 24 80",
+        "site_web": "http://www.scal87.fr/",
+        "adresse": "Rue de Cognac, 87700 Aixe-sur-Vienne",
+        "note": 4.3,
+        "avis": 33,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7910371089904570547",
+        "nom": "LA PASSION DES COMBLES",
+        "slug": "la-passion-des-combles",
+        "telephone": "06 33 02 02 91",
+        "site_web": "https://www.lapassiondescombles-87.fr/contact",
+        "adresse": "3370 Angelard, 87140 Compreignac",
+        "note": 5,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "18183018400460604034",
+        "nom": "Pas De Toit Sans Moi",
+        "slug": "pas-de-toit-sans-moi",
+        "telephone": "07 80 33 28 62",
+        "site_web": "https://www.couvreur-charpentier-87.fr/",
+        "adresse": "148 Rte de Poitiers, 87270 Couzeix",
+        "note": 5,
+        "avis": 6,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5765251391602047165",
+        "nom": "CCZ - CHARBONNIER COUVERTURE ZINGUERIE",
+        "slug": "ccz-charbonnier-couverture-zinguerie",
+        "telephone": "06 17 48 30 23",
+        "site_web": "https://charbonnier-zingueur-87.fr/",
+        "adresse": "60 Route de Saint-Germain, 87400 La Geneytouse",
+        "note": 5,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "5807940952012221107",
+        "nom": "Le Cytal",
+        "slug": "le-cytal",
+        "telephone": "05 55 75 60 03",
+        "site_web": null,
+        "adresse": "1 Pl. Yves Lenfant, 87510 Saint-Gence",
+        "note": 5,
+        "avis": 16,
+        "type": "Bar-tabac"
+      },
+      {
+        "id": "15365400489818337331",
+        "nom": "TOP GARAGE - GARAGE FELIX",
+        "slug": "top-garage-garage-felix",
+        "telephone": "05 55 08 14 02",
+        "site_web": "https://garage.top-garage.fr/fr/france-FR/CUST-079361/garage-felix/details",
+        "adresse": "4 Rue Jean Giraudoux, 87510 Saint-Gence",
+        "note": 4.5,
+        "avis": 55,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "1851659047855849440",
+        "nom": "Coiffure sur mesure",
+        "slug": "coiffure-sur-mesure",
+        "telephone": "05 55 08 01 80",
+        "site_web": null,
+        "adresse": "3 Place Yves Lenfant, 87510 Saint-Gence",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Salon de coiffure"
+      }
+    ]
+  },
+  "saint-laurent-sur-gorre": {
+    "artisans": [
+      {
+        "id": "6619912967884603054",
+        "nom": "SARL Pierre Robert",
+        "slug": "sarl-pierre-robert",
+        "telephone": "05 55 00 09 33",
+        "site_web": "http://www.menuiserie-pierre-robert.fr/?utm_source=gmb",
+        "adresse": "28 Rue Sadi Carnot, 87310 Saint-Laurent-sur-Gorre",
+        "note": 4.1,
+        "avis": 16,
+        "type": "Menuisier"
+      },
+      {
+        "id": "2043086745426540264",
+        "nom": "Chantier",
+        "slug": "chantier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "28 Rte de la Grange, 87310 Saint-Laurent-sur-Gorre",
+        "note": 0,
+        "avis": 0,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-hilaire-bonneval": {
+    "artisans": [
+      {
+        "id": "8573507823035456904",
+        "nom": "Bat'innov couverture - Menuiserie Solabaie",
+        "slug": "batinnov-couverture-menuiserie-solabaie",
+        "telephone": "05 55 58 01 87",
+        "site_web": "https://www.bat-innov-solabaie.fr/",
+        "adresse": "3 allée des champs Z.A, 87220 Boisseuil",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-leonard-de-noblat": {
+    "artisans": [
+      {
+        "id": "5400070566257636178",
+        "nom": "Lassène & fils",
+        "slug": "lassene-fils",
+        "telephone": "06 82 38 26 96",
+        "site_web": null,
+        "adresse": "87400 Saint-Léonard-de-Noblat",
+        "note": 3.3,
+        "avis": 4,
+        "type": "Charpentier"
+      },
+      {
+        "id": "14012560374880799871",
+        "nom": "AVS",
+        "slug": "avs",
+        "telephone": "05 55 56 75 84",
+        "site_web": "http://www.avs-sa.com/",
+        "adresse": "7 Zone Artisanale De Soumagne, 87400 Saint-Léonard-de-Noblat",
+        "note": 4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6248937545902523270",
+        "nom": "Laclautre Patrice",
+        "slug": "laclautre-patrice",
+        "telephone": "05 55 56 59 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4522508777191422804",
+        "nom": "RLVL 87",
+        "slug": "rlvl-87",
+        "telephone": "06 99 03 87 86",
+        "site_web": "https://rlvl-87.webnode.fr/",
+        "adresse": "87400 Saint-Léonard-de-Noblat",
+        "note": 1,
+        "avis": 1,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "saint-germain-les-belles": {
+    "artisans": [
+      {
+        "id": "2031070864727486579",
+        "nom": "Maux Matériaux Saint-Germain-les-Belles",
+        "slug": "maux-materiaux-saint-germain-les-belles",
+        "telephone": "05 55 71 93 23",
+        "site_web": "https://www.toutfaire.fr/nouvelle-aquitaine/haute-vienne/maux-materiaux-saint-germain-les-belles.html",
+        "adresse": "Rue de la Borias, 87380 Saint-Germain-les-Belles",
+        "note": 4.2,
+        "avis": 34,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "12269000747608231578",
+        "nom": "SAS Cruveilher - Revendeur et marchand de matériaux de carriére",
+        "slug": "sas-cruveilher-revendeur-et-marchand-de-materiaux-de-carriere",
+        "telephone": "06 22 78 46 53",
+        "site_web": null,
+        "adresse": "Pierre Brune, 87380 Saint-Germain-les-Belles",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  }
+}

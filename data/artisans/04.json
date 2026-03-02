@@ -1,0 +1,930 @@
+{
+  "manosque": {
+    "artisans": [
+      {
+        "id": "8801339870370620040",
+        "nom": "La Boutique Du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "04 92 72 10 10",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/rodrigues",
+        "adresse": "493 Av. Georges Pompidou, 04100 Manosque",
+        "note": 4.9,
+        "avis": 33,
+        "type": "Menuisier"
+      },
+      {
+        "id": "286678115730531030",
+        "nom": "TRYBA Manosque",
+        "slug": "tryba-manosque",
+        "telephone": "04 92 87 56 95",
+        "site_web": "https://www.tryba.com/menuiserie/tryba-manosque/?utm_campaign=Tryba_Manosque&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "116 Av. de la Libération, 04100 Manosque",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5079057108193821333",
+        "nom": "MBC Menuiseries - Art et fenêtres 04",
+        "slug": "mbc-menuiseries-art-et-fenetres-04",
+        "telephone": "04 92 78 31 74",
+        "site_web": "https://bassanelli-gerard.artetfenetres.com/adresses-magasins.php?utm_campaign=GMB_sainte-tulle&utm_medium=organic&utm_source=GMB",
+        "adresse": "Zone d'Activités des Bastides Blanches, 49 Rue du Roussillon, 04220 Sainte-Tulle",
+        "note": 4.9,
+        "avis": 101,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "10441379810575513944",
+        "nom": "Komilfo Stores et Fermetures Provençales à Manosque - Pergolas, Stores, Menuiseries",
+        "slug": "komilfo-stores-et-fermetures-provencales-a-manosque-pergolas-stores-menuiseries",
+        "telephone": "04 92 72 54 94",
+        "site_web": "https://www.komilfo.fr/magasins/stores-fermetures-provencales-manosque-04?utm_source=GMB&utm_medium=bouton&utm_campaign=site",
+        "adresse": "Zi, avenue blaise pascal, Bd Saint-Joseph, 04100 Manosque",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6296638004195539045",
+        "nom": "HPM - Haute Provence Menuiserie - Maître artisan depuis 2004",
+        "slug": "hpm-haute-provence-menuiserie-maitre-artisan-depuis-2004",
+        "telephone": "06 17 58 19 72",
+        "site_web": "https://www.facebook.com/hauteprovencemenuiserie/?locale=fr_FR",
+        "adresse": "545 Av. Saint-Maurice, 04100 Manosque",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "5551712803318185200",
+        "nom": "PC MENUISERIES ALU-PVC",
+        "slug": "pc-menuiseries-alu-pvc",
+        "telephone": "06 85 18 47 64",
+        "site_web": "http://www.cp-menuiseries.fr/",
+        "adresse": "5 Rue Jean Guillaume Fouque, 04100 Manosque",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "3857299858244670962",
+        "nom": "KparK Manosque",
+        "slug": "kpark-manosque",
+        "telephone": "04 84 60 00 36",
+        "site_web": "https://magasins.kpark.fr/5-kpark-manosque?utm_source=gmb",
+        "adresse": "Le Forum, 341 Av. du Moulin Neuf, 04100 Manosque",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "1540064279058553023",
+        "nom": "Fenêtre & Véranda des Alpes - MANOSQUE",
+        "slug": "fenetre-veranda-des-alpes-manosque",
+        "telephone": "04 92 56 00 94",
+        "site_web": "https://www.vda-gap.fr/",
+        "adresse": "45 Av. Frédéric Mistral, 04100 Manosque",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "peipin": {
+    "artisans": [
+      {
+        "id": "8613535143590231743",
+        "nom": "Alunno Evolution",
+        "slug": "alunno-evolution",
+        "telephone": "04 92 31 05 94",
+        "site_web": "https://www.alunno-evolution.fr/",
+        "adresse": "1 Impasse du Petit Champarlau, 04200 Peipin",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "volx": {
+    "artisans": [
+      {
+        "id": "6026387137673029326",
+        "nom": "V.M.S - Maison du Menuisier",
+        "slug": "vms-maison-du-menuisier",
+        "telephone": "04 92 72 62 44",
+        "site_web": "https://volx.maisondumenuisier.fr/",
+        "adresse": "zone artisanale la carretière rue des entreprises, 04130 Volx",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Menuisier"
+      },
+      {
+        "id": "16528552167463483615",
+        "nom": "Isol Confort",
+        "slug": "isol-confort",
+        "telephone": "04 92 79 33 55",
+        "site_web": "https://www.isol-confort.com/",
+        "adresse": "18 ZA, Chem. de la Carretière, 04130 Volx",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6296046156328367868",
+        "nom": "Coloré Max - Menuiserie Bois, PVC, ALU",
+        "slug": "colore-max-menuiserie-bois-pvc-alu",
+        "telephone": "04 92 78 55 33",
+        "site_web": null,
+        "adresse": "170 Chemin des Eyrauds Zone Artisanale Les Près, 04130 Volx",
+        "note": 5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "mison": {
+    "artisans": [
+      {
+        "id": "4391153468476758674",
+        "nom": "Mison",
+        "slug": "mison",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "04200 Mison",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "les-mees": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "mane": {
+    "artisans": [
+      {
+        "id": "11656073609385161122",
+        "nom": "Haute Provence Clôture",
+        "slug": "haute-provence-cloture",
+        "telephone": "06 99 04 95 02",
+        "site_web": "https://www.hauteprovencecloture.com/",
+        "adresse": "583 Pitaugier, 04300 Mane",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de matériel pour clôtures"
+      }
+    ]
+  },
+  "oraison": {
+    "artisans": [
+      {
+        "id": "10876490517906833087",
+        "nom": "LES TOITS DE PROVENCE - Couvreur 04",
+        "slug": "les-toits-de-provence-couvreur-04",
+        "telephone": "07 49 06 08 34",
+        "site_web": "https://www.lestoits-deprovence.fr/",
+        "adresse": "Lieu-dit Saint-Martin, 04700 La Brillanne",
+        "note": 5,
+        "avis": 33,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6609030270059819284",
+        "nom": "HABITAT PROVENCE - LA BRILLANNE",
+        "slug": "habitat-provence-la-brillanne",
+        "telephone": "09 81 11 25 71",
+        "site_web": "https://www.solabaie.fr/entreprise-menuiserie/alpes-de-haute-provence/la-brillanne/habitat-provence-295/",
+        "adresse": "ROUTE NATIONALE 96 QUARTIER, 04700 La Brillanne",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Magasin de fenêtres en PVC"
+      },
+      {
+        "id": "1071741105466655849",
+        "nom": "Oraison Menuiserie",
+        "slug": "oraison-menuiserie",
+        "telephone": "04 92 79 94 51",
+        "site_web": "https://www.oraisonmenuiserie.fr/",
+        "adresse": "Zone Artisanale, 850 Av. de Traversetolo, 04700 Oraison",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "peyruis": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 1706,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "riez": {
+    "artisans": [
+      {
+        "id": "5093105830590697294",
+        "nom": "AD Fermetures RIEZ",
+        "slug": "ad-fermetures-riez",
+        "telephone": "04 92 72 83 40",
+        "site_web": "http://www.ad-fermetures-var.com/",
+        "adresse": "33 All. Louis Gardiol, 04500 Riez",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "saint-michel-l-observatoire": {
+    "artisans": [
+      {
+        "id": "12102781537107025638",
+        "nom": "Centre d'Astronomie de Saint-Michel L'Observatoire",
+        "slug": "centre-dastronomie-de-saint-michel-lobservatoire",
+        "telephone": "04 92 76 69 69",
+        "site_web": "https://www.centre-astro.com/",
+        "adresse": "Plateau du, Moulin à Vent, 748 Rte du Centre Astro, 04870 Saint-Michel-l'Observatoire",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Observatoire"
+      },
+      {
+        "id": "11242214000486844629",
+        "nom": "Observatoire de Haute Provence (CNRS)",
+        "slug": "observatoire-de-haute-provence-cnrs",
+        "telephone": "04 92 70 64 81",
+        "site_web": "http://www.obs-hp.fr/",
+        "adresse": "04870 Saint-Michel-l'Observatoire",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Institut de recherche"
+      }
+    ]
+  },
+  "reillanne": {
+    "artisans": [
+      {
+        "id": "10876490517906833087",
+        "nom": "LES TOITS DE PROVENCE - Couvreur 04",
+        "slug": "les-toits-de-provence-couvreur-04",
+        "telephone": "07 49 06 08 34",
+        "site_web": "https://www.lestoits-deprovence.fr/",
+        "adresse": "Lieu-dit Saint-Martin, 04700 La Brillanne",
+        "note": 5,
+        "avis": 33,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sainte-tulle": {
+    "artisans": [
+      {
+        "id": "5079057108193821333",
+        "nom": "MBC Menuiseries - Art et fenêtres 04",
+        "slug": "mbc-menuiseries-art-et-fenetres-04",
+        "telephone": "04 92 78 31 74",
+        "site_web": "https://bassanelli-gerard.artetfenetres.com/adresses-magasins.php?utm_campaign=GMB_sainte-tulle&utm_medium=organic&utm_source=GMB",
+        "adresse": "Zone d'Activités des Bastides Blanches, 49 Rue du Roussillon, 04220 Sainte-Tulle",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "saint-etienne-les-orgues": {
+    "artisans": [
+      {
+        "id": "5079057108193821333",
+        "nom": "MBC Menuiseries - Art et fenêtres 04",
+        "slug": "mbc-menuiseries-art-et-fenetres-04",
+        "telephone": "04 92 78 31 74",
+        "site_web": "https://bassanelli-gerard.artetfenetres.com/adresses-magasins.php?utm_campaign=GMB_sainte-tulle&utm_medium=organic&utm_source=GMB",
+        "adresse": "Zone d'Activités des Bastides Blanches, 49 Rue du Roussillon, 04220 Sainte-Tulle",
+        "note": 4.9,
+        "avis": 101,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "sisteron": {
+    "artisans": [
+      {
+        "id": "2218903755690335459",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "04 92 31 46 21",
+        "site_web": "http://www.boutiquedumenuisier-sisteron.fr/",
+        "adresse": "16 Av. de la Libération, 04200 Sisteron",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "17830450797921920858",
+        "nom": "Bensa Florent",
+        "slug": "bensa-florent",
+        "telephone": "04 92 61 00 01",
+        "site_web": "https://www.menuiseriebensa.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "12 Chem. de la Maubuissonne, 04200 Sisteron",
+        "note": 5,
+        "avis": 0,
+        "type": "Fabricant de meubles"
+      },
+      {
+        "id": "2218903755690335459",
+        "nom": "La Boutique du Menuisier",
+        "slug": "la-boutique-du-menuisier",
+        "telephone": "04 92 31 46 21",
+        "site_web": "http://www.boutiquedumenuisier-sisteron.fr/",
+        "adresse": "16 Av. de la Libération, 04200 Sisteron",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "seyne": {
+    "artisans": [
+      {
+        "id": "15579336128090450173",
+        "nom": "Art et fenêtres - Les Menuisiers Du Sud",
+        "slug": "art-et-fenetres-les-menuisiers-du-sud",
+        "telephone": "04 42 84 20 09",
+        "site_web": "https://lesmenuisiersdusud.artetfenetres.com/adresses-magasins/la-seyne-sur-mer-83500.php?utm_campaign=GMB_seyne-sur-mer&utm_medium=organic&utm_source=GMB",
+        "adresse": "Zone Industrielle, 1859 avenue Robert Brun, Camp Laurent, 83500 La Seyne-sur-Mer",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "pierrevert": {
+    "artisans": [
+      {
+        "id": "8348488065216401851",
+        "nom": "BR Couverture : couvreur à Manosque - Intervention 13, 84, 83 et 04",
+        "slug": "br-couverture-couvreur-a-manosque-intervention-13-84-83-et-04",
+        "telephone": "06 20 55 67 38",
+        "site_web": "https://br-couverture.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 13,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "saint-andre-les-alpes": {
+    "artisans": [
+      {
+        "id": "1173179893631235315",
+        "nom": "La boutique du menuisier Digne les Bains",
+        "slug": "la-boutique-du-menuisier-digne-les-bains",
+        "telephone": "04 92 30 90 30",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/de-martino-sas",
+        "adresse": "3 Av. de Verdun, 04000 Digne-les-Bains",
+        "note": 4.8,
+        "avis": 50,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11628807277584907822",
+        "nom": "Menuiserie Gautier",
+        "slug": "menuiserie-gautier",
+        "telephone": "04 92 83 16 42",
+        "site_web": null,
+        "adresse": "Grand Rue, 04170 Saint-André-les-Alpes",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "1173179893631235315",
+        "nom": "La boutique du menuisier Digne les Bains",
+        "slug": "la-boutique-du-menuisier-digne-les-bains",
+        "telephone": "04 92 30 90 30",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/de-martino-sas",
+        "adresse": "3 Av. de Verdun, 04000 Digne-les-Bains",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "villeneuve": {
+    "artisans": [
+      {
+        "id": "4730051829450974227",
+        "nom": "04 HRP Menuiserie ALU / PVC / Bois - volets roulants, fenêtres, portes",
+        "slug": "04-hrp-menuiserie-alu-pvc-bois-volets-roulants-fenetres-portes",
+        "telephone": "06 82 88 20 64",
+        "site_web": null,
+        "adresse": "Chem. de Fontereyne, 04180 Villeneuve",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "castellane": {
+    "artisans": [
+      {
+        "id": "12438387775369157918",
+        "nom": "VELUX France - Fenêtres de Toit, Stores",
+        "slug": "velux-france-fenetres-de-toit-stores",
+        "telephone": "0 806 80 15 15",
+        "site_web": "https://www.velux.fr/",
+        "adresse": "1 Rue Paul Cézanne, 91420 Morangis",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "chateau-arnoux-saint-auban": {
+    "artisans": [
+      {
+        "id": "6602905796483053262",
+        "nom": "LM MENUISERIE ALP CONCEPT MENUISERIES BY LM",
+        "slug": "lm-menuiserie-alp-concept-menuiseries-by-lm",
+        "telephone": "04 92 31 48 21",
+        "site_web": "https://www.acmenuiseries.fr/",
+        "adresse": "Blaches Gombert, 04160 Château-Arnoux-Saint-Auban",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6170867309474966143",
+        "nom": "Alp concept menuiseries",
+        "slug": "alp-concept-menuiseries",
+        "telephone": "04 92 31 48 21",
+        "site_web": null,
+        "adresse": "ZA les blaches de gombert, 04160 Château-Arnoux-Saint-Auban",
+        "note": 2.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "6523399879146854149",
+        "nom": "TRYBA Château-Arnoux",
+        "slug": "tryba-chateau-arnoux",
+        "telephone": "04 20 98 13 53",
+        "site_web": "https://www.tryba.com/espace-conseil/04/tryba-chateau-arnoux/?utm_campaign=Tryba_Chateau-Arnoux&utm_medium=CTA-WEB&utm_source=GMB",
+        "adresse": "Centre Commercial le Belvédère, 04160 Château-Arnoux-Saint-Auban",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5517148253487133612",
+        "nom": "ALTEMA CHATEAU ARNOUX ST AUBAN",
+        "slug": "altema-chateau-arnoux-st-auban",
+        "telephone": "04 92 64 25 11",
+        "site_web": "https://agences.altema.pro/chateau-arnoux-saint-auban",
+        "adresse": "Av. de Blaches Gombert, 04160 Château-Arnoux-Saint-Auban",
+        "note": 4.1,
+        "avis": 11,
+        "type": "Entrepreneur spécialisé en tôlerie"
+      }
+    ]
+  },
+  "malijai": {
+    "artisans": [
+      {
+        "id": "3234687977824747450",
+        "nom": "Eiffage Route - Agence Durance - Bléone - Malijai",
+        "slug": "eiffage-route-agence-durance-bleone-malijai",
+        "telephone": "04 92 30 00 00",
+        "site_web": "https://www.eiffageroute.com/",
+        "adresse": "ZA, Le Prieuré, 04350 Malijai",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      }
+    ]
+  },
+  "valensole": {
+    "artisans": [
+      {
+        "id": "1540064279058553023",
+        "nom": "Fenêtre & Véranda des Alpes - MANOSQUE",
+        "slug": "fenetre-veranda-des-alpes-manosque",
+        "telephone": "04 92 56 00 94",
+        "site_web": "https://www.vda-gap.fr/",
+        "adresse": "45 Av. Frédéric Mistral, 04100 Manosque",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "corbieres-en-provence": {
+    "artisans": [
+      {
+        "id": "5079057108193821333",
+        "nom": "MBC Menuiseries - Art et fenêtres 04",
+        "slug": "mbc-menuiseries-art-et-fenetres-04",
+        "telephone": "04 92 78 31 74",
+        "site_web": "https://bassanelli-gerard.artetfenetres.com/adresses-magasins.php?utm_campaign=GMB_sainte-tulle&utm_medium=organic&utm_source=GMB",
+        "adresse": "Zone d'Activités des Bastides Blanches, 49 Rue du Roussillon, 04220 Sainte-Tulle",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      }
+    ]
+  },
+  "cereste-en-luberon": {
+    "artisans": [
+      {
+        "id": "1111000842821894547",
+        "nom": "Les Portes du Luberon Art et Fenêtres",
+        "slug": "les-portes-du-luberon-art-et-fenetres",
+        "telephone": "04 90 78 37 37",
+        "site_web": "http://www.menuiserie-lesportesduluberon.fr/",
+        "adresse": "944 Av. Pierre Grand, 84300 Cavaillon",
+        "note": 4.7,
+        "avis": 46,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "digne-les-bains": {
+    "artisans": [
+      {
+        "id": "16000594376632217841",
+        "nom": "Menuiserie Dignoise",
+        "slug": "menuiserie-dignoise",
+        "telephone": "06 48 79 87 52",
+        "site_web": "http://www.menuiseriedignoise.fr/?utm_source=gmb",
+        "adresse": "268 rue de l'artisanat, 04660 Champtercier",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "6085417731864521767",
+        "nom": "PROVENCE ALPES FERMETURES",
+        "slug": "provence-alpes-fermetures",
+        "telephone": "04 92 81 49 41",
+        "site_web": null,
+        "adresse": "1 Av. des Charrois, 04000 Digne-les-Bains",
+        "note": 3,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14331341080228445965",
+        "nom": "MC MENUISERIE SARL",
+        "slug": "mc-menuiserie-sarl",
+        "telephone": "04 92 32 37 57",
+        "site_web": "http://mcmenuiserie04.wixsite.com/digne",
+        "adresse": "QUARTIER DE LA TOUR, 04000 Digne-les-Bains",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "14365435140115359971",
+        "nom": "Miroiterie Dignoise",
+        "slug": "miroiterie-dignoise",
+        "telephone": "04 92 31 20 34",
+        "site_web": "https://miroiterie-dignoise.fr/",
+        "adresse": "Zae, 18 Av. Paul Delaye, 04510 Aiglun",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Vitrerie - miroiterie"
+      },
+      {
+        "id": "11322437807674152289",
+        "nom": "Boutique du Menuisier",
+        "slug": "boutique-du-menuisier",
+        "telephone": "04 92 30 90 30",
+        "site_web": "http://www.laboutiquedumenuisier-digne.com/",
+        "adresse": "Rue Ferdinand de Lesseps, 04000 Digne-les-Bains",
+        "note": 0,
+        "avis": 0,
+        "type": "Charpentier"
+      },
+      {
+        "id": "12929021319649796175",
+        "nom": "Coullet Métallier",
+        "slug": "coullet-metallier",
+        "telephone": "04 92 31 33 84",
+        "site_web": "http://www.coullet-metallier.com/?utm_source=gmb",
+        "adresse": "Zac, 16 Rte de Nice, 04000 Digne-les-Bains",
+        "note": 5,
+        "avis": 2,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "forcalquier": {
+    "artisans": [
+      {
+        "id": "4318530288560892223",
+        "nom": "La Boutique du Menuisier - Forcalquier",
+        "slug": "la-boutique-du-menuisier-forcalquier",
+        "telephone": "04 92 77 84 49",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/rodrigues-2",
+        "adresse": "30 Bd Latourette, 04300 Forcalquier",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "4318530288560892223",
+        "nom": "La Boutique du Menuisier - Forcalquier",
+        "slug": "la-boutique-du-menuisier-forcalquier",
+        "telephone": "04 92 77 84 49",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/rodrigues-2",
+        "adresse": "30 Bd Latourette, 04300 Forcalquier",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12447395304013904850",
+        "nom": "IMP Toiture",
+        "slug": "imp-toiture",
+        "telephone": "04 92 77 14 78",
+        "site_web": "https://www.isolation04.com/toiture-charpente-couvreur-04?utm_source=gmb",
+        "adresse": "zone industrielle Chalus, 04300 Forcalquier",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "3906061923680572954",
+        "nom": "IMP Menuiserie",
+        "slug": "imp-menuiserie",
+        "telephone": "04 92 77 14 78",
+        "site_web": "http://www.imp04.fr/?utm_source=gmb",
+        "adresse": "zone industrielle Chalus, 04300 Forcalquier",
+        "note": 4.9,
+        "avis": 53,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "6891488051691761216",
+        "nom": "Clement Menuiserie",
+        "slug": "clement-menuiserie",
+        "telephone": "04 92 77 99 18",
+        "site_web": null,
+        "adresse": "23 Av. Fontauris, 04300 Forcalquier",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "l-escale": {
+    "artisans": [
+      {
+        "id": "15533215151999819538",
+        "nom": "L'Escale",
+        "slug": "lescale",
+        "telephone": null,
+        "site_web": "http://www.lescale.fr/",
+        "adresse": "04160 L'Escale",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "aiglun": {
+    "artisans": [
+      {
+        "id": "9099467489462572618",
+        "nom": "COSEPI FRANCE",
+        "slug": "cosepi-france",
+        "telephone": "04 92 30 86 50",
+        "site_web": "https://cosepi-france-btp.fr/",
+        "adresse": "38 Av. Beau de Rochas, 04510 Aiglun",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "8043049521918617493",
+        "nom": "APM - Alpes Provence Menuiseries",
+        "slug": "apm-alpes-provence-menuiseries",
+        "telephone": "04 92 35 58 05",
+        "site_web": "https://www.apm04.fr/",
+        "adresse": "5 ZAE, Av. Beau de Rochas, 04510 Aiglun",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "14666819380301583937",
+        "nom": "ALUSTORE",
+        "slug": "alustore",
+        "telephone": "04 92 32 49 39",
+        "site_web": "http://www.alustore.fr/",
+        "adresse": "38 Av. Beau de Rochas, 04510 Aiglun",
+        "note": 3.9,
+        "avis": 21,
+        "type": "Menuisier"
+      },
+      {
+        "id": "8362704949224919969",
+        "nom": "HORIZON VERTICAL",
+        "slug": "horizon-vertical",
+        "telephone": "06 10 46 49 92",
+        "site_web": "https://horizonvertical04.fr/",
+        "adresse": "45 Chem. des Hubacs, 04510 Aiglun",
+        "note": 5,
+        "avis": 0,
+        "type": "Service d'élagage"
+      },
+      {
+        "id": "3321854364574158419",
+        "nom": "Alp Concept Menuiseries",
+        "slug": "alp-concept-menuiseries",
+        "telephone": "04 92 31 48 21",
+        "site_web": null,
+        "adresse": "Quartier, La Lauze, 04510 Aiglun",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "jausiers": {
+    "artisans": [
+      {
+        "id": "2860789291147747077",
+        "nom": "Chalet Les Moineaux - SUZUME RESTAURANT",
+        "slug": "chalet-les-moineaux-suzume-restaurant",
+        "telephone": "06 60 33 28 47",
+        "site_web": "http://www.chaletlesmoineaux.com/",
+        "adresse": "264 rue de l'Auche, 04850 Jausiers",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "greoux-les-bains": {
+    "artisans": [
+      {
+        "id": "3589674169620060808",
+        "nom": "Pro toiture 04 - Couvreur Réparation Nettoyage Recherche Fuites Couverture Alpes-de-Haute-Provence Manosque Oraison",
+        "slug": "pro-toiture-04-couvreur-reparation-nettoyage-recherche-fuites-couverture-alpes-de-haute-provence-manosque-oraison",
+        "telephone": "04 65 10 04 71",
+        "site_web": "https://www.couvreur-manosque.fr/",
+        "adresse": "573 Chem. des Vannades, 04100 Manosque",
+        "note": 4.9,
+        "avis": 56,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11659304720102493851",
+        "nom": "Richier Verdon TP",
+        "slug": "richier-verdon-tp",
+        "telephone": "06 66 47 77 77",
+        "site_web": "http://www.terrassement-richier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      }
+    ]
+  },
+  "banon": {
+    "artisans": [
+      {
+        "id": "13059215112429780314",
+        "nom": "SARL PASCAL ET ARANE",
+        "slug": "sarl-pascal-et-arane",
+        "telephone": "04 92 73 24 08",
+        "site_web": "https://www.menuiserie-pascal-arane.fr/",
+        "adresse": "Les Gravières, 04150 Banon",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "7324490649496199903",
+        "nom": "Lapeyre",
+        "slug": "lapeyre",
+        "telephone": "04 92 71 70 80",
+        "site_web": "https://magasins.lapeyre.fr/provence-alpes-cote-dazur/alpes-de-haute-provence/lapeyre-manosque-102",
+        "adresse": "Rte de Marseille, 04100 Manosque",
+        "note": 4,
+        "avis": 306,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "14735207493824631623",
+        "nom": "Les Biscuits de Banon",
+        "slug": "les-biscuits-de-banon",
+        "telephone": "04 92 73 33 97",
+        "site_web": null,
+        "adresse": "670 Route d’Apt, 04150 Banon",
+        "note": 4.7,
+        "avis": 89,
+        "type": "Magasin"
+      },
+      {
+        "id": "14382073798857957119",
+        "nom": "Danaüs Arnault Automatismes",
+        "slug": "danaus-arnault-automatismes",
+        "telephone": "04 92 34 51 46",
+        "site_web": "http://www.danaus-automatismes.com/",
+        "adresse": "Zone Artisanale Mardaric, 04310 Peyruis",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres en PVC"
+      }
+    ]
+  },
+  "annot": {
+    "artisans": [
+      {
+        "id": "1173179893631235315",
+        "nom": "La boutique du menuisier Digne les Bains",
+        "slug": "la-boutique-du-menuisier-digne-les-bains",
+        "telephone": "04 92 30 90 30",
+        "site_web": "https://laboutiquedumenuisier.fr/boutiques/de-martino-sas",
+        "adresse": "3 Av. de Verdun, 04000 Digne-les-Bains",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Menuisier"
+      }
+    ]
+  },
+  "barcelonnette": {
+    "artisans": [
+      {
+        "id": "12571430653472010827",
+        "nom": "Sas Estrayer Denis",
+        "slug": "sas-estrayer-denis",
+        "telephone": "04 92 81 49 07",
+        "site_web": "http://menuiserie-estrayer-barcelonette.fr/",
+        "adresse": "zone artisanale Chabrands, Le Plan, 04400 Barcelonnette",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "9620394182743818075",
+        "nom": "Alubaye",
+        "slug": "alubaye",
+        "telephone": "04 92 84 67 24",
+        "site_web": "https://alubaye.com/",
+        "adresse": "238 IMPASSE DE L'AERODROME, 04400 Saint-Pons",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fenêtre en aluminium"
+      }
+    ]
+  },
+  "la-brillanne": {
+    "artisans": [
+      {
+        "id": "6609030270059819284",
+        "nom": "HABITAT PROVENCE - LA BRILLANNE",
+        "slug": "habitat-provence-la-brillanne",
+        "telephone": "09 81 11 25 71",
+        "site_web": "https://www.solabaie.fr/entreprise-menuiserie/alpes-de-haute-provence/la-brillanne/habitat-provence-295/",
+        "adresse": "ROUTE NATIONALE 96 QUARTIER, 04700 La Brillanne",
+        "note": 3.5,
+        "avis": 6,
+        "type": "Magasin de fenêtres en PVC"
+      }
+    ]
+  }
+}
